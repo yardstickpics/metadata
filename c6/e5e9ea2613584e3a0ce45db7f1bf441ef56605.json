@@ -1,0 +1,25 @@
+{
+ "sha1": "c6e5e9ea2613584e3a0ce45db7f1bf441ef56605",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c9/Maddie_rucksack.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Maddie rucksack",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42481365",
+  "html": "<p>Maddie looking tired\n</p>"
+ },
+ "tags": [
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2014-04-13 15:54:25",
+  "Credit": "<p>camera\n</p>",
+  "DateTimeOriginal": "<p>2013-12-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:BradyFelio75077\" title=\"User:BradyFelio75077\">BradyFelio75077</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

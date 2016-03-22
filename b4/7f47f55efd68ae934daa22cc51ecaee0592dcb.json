@@ -1,0 +1,22 @@
+{
+ "sha1": "b47f47f55efd68ae934daa22cc51ecaee0592dcb",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Chaosbrot.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Chaosbrot",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25709410",
+  "html": "<p>12 <a href=\"//en.wikipedia.org/w/index.php?title=Chaosbrot&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Chaosbrot (page does not exist)\">chaosbrot</a> fractals with p-values of {1, 0.5, 0, ..., -4, -4.5}, from left to right and top to bottom organized row-wise.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-01-07 01:38:37",
+  "Credit": "<p>Created with <a href=\"//en.wikipedia.org/wiki/User:Doomed_Rasher\" title=\"User:Doomed Rasher\">Doomed Rasher</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Doomed_Rasher\" title=\"User talk:Doomed Rasher\">talk</a>)'s home-made applet.\n</p>",
+  "DateTimeOriginal": "<p>01:38, 7 January 2010 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Doomed_Rasher\" title=\"User:Doomed Rasher\">Doomed Rasher</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Doomed_Rasher\" title=\"User talk:Doomed Rasher\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

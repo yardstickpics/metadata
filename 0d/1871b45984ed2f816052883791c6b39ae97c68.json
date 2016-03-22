@@ -1,0 +1,23 @@
+{
+ "sha1": "0d1871b45984ed2f816052883791c6b39ae97c68",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/96/SpringinJerusalem.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "SpringinJerusalem",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=27039993",
+  "html": "<p>Spring in Jerusalem\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-04-20 21:46:12",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.jerusalemshots.com/cat_he6.html\">http://www.jerusalemshots.com/cat_he6.html</a>\n</p>",
+  "DateTimeOriginal": "<p>21:46, 20 April 2010 (UTC)\n</p>",
+  "Artist": "<p>\"Roman Kriman\"\n</p>",
+  "Permission": "<p>All credit goes to \"Roman Kriman\".\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

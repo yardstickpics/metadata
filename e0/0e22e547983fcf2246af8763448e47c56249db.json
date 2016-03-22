@@ -1,0 +1,15 @@
+{
+ "sha1": "e00e22e547983fcf2246af8763448e47c56249db",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/World-map-2007-cia-factbook-large.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "World-map-2007-cia-factbook-large",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=11875949"
+ },
+ "tags": [
+  "cia world factbook images"
+ ]
+}

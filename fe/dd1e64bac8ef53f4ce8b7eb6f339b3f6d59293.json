@@ -1,0 +1,13 @@
+{
+ "sha1": "fedd1e64bac8ef53f4ce8b7eb6f339b3f6d59293",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Israel_South_Africa_Locator.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Israel South Africa Locator",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=19618845",
+  "html": "<p><b>English:</b>  A map of the location of Israel and South africa\n</p>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #e3801c; color:black; font-size:100%; text-align:center;\"> </span> South africa</div>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #3c9d3c; color:black; font-size:100%; text-align:center;\"> </span> Israel</div>"
+ }
+}

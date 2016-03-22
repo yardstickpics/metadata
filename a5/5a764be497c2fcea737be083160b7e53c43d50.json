@@ -1,0 +1,22 @@
+{
+ "sha1": "a55a764be497c2fcea737be083160b7e53c43d50",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/70/Harvard_architects.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Harvard architects",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=16309356",
+  "html": "<p>Map showing the architects and dates of construction for most of the buildings at Harvard.  Also includes notable non-Harvard buildings in the area.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-03-15 16:12:44",
+  "Credit": "<p>self-made; base-map data from the City of Cambridge, the Boston Water and Sewer Commission, and the State of Massachusetts.\n</p>",
+  "DateTimeOriginal": "<p>August 2005 (uploaded March 2008)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Citynoise\" title=\"User:Citynoise\">Citynoise</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Citynoise\" title=\"User talk:Citynoise\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

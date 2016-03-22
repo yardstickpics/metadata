@@ -1,0 +1,24 @@
+{
+    "sources": {
+        "findaphoto": {
+            "title": "FindA.Photo",
+            "desc": "Snapshot of the site on 2016-03-01. Sources for FindA.Photo:\nJay Mantri / @JayMantri\nLife Of Pix\nMMT / @mmtstock\nPicography / @picography\nSkitterphoto / @Skitterphoto\nand Unsplash / @unsplash."
+        },
+        "wiki": {
+            "title": "Wikimedia",
+            "desc": "Snapshot on 2016-03-21. Images larger than 500KB. JPEGs included only if compressed at more than 10bits per pixel."
+        },
+        "elephantsdream": {
+            "title": "Elephant's Dream",
+            "desc": "Random sample of 1080p frames from Elephant's Dream by Orange Open Movie Project studio."
+        },
+        "bigbuckbunny": {
+            "title": "bigbuckbunny",
+            "desc": "Random sample of 1080p frames from Big Buck Bunny by Blender Foundation."
+        },
+        "eso": {
+            "title": "European Southern Observatory",
+            "desc": "Selected images from http://www.eso.org/public/images/"
+        }
+    }
+}

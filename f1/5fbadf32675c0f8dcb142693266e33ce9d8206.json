@@ -1,0 +1,13 @@
+{
+ "sha1": "f15fbadf32675c0f8dcb142693266e33ce9d8206",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e3/Hemis2.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Hemis2",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=19523921",
+  "html": "<p>Created map myself. Relief map created by software myself from free SRTM data.\n</p>"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "sha1": "f855ee2a57715327dc050db646ae10699d636819",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8a/US_speed_limits_blank.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "US speed limits blank",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=18482798",
+  "html": "<p>Blank map to use as guide for creating speed limit maps on <a href=\"//en.wikipedia.org/wiki/Speed_limits_in_the_United_States\" title=\"Speed limits in the United States\">Speed limits in the United States</a>\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ]
+}

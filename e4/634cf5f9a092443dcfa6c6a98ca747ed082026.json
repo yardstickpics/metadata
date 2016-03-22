@@ -1,0 +1,22 @@
+{
+ "sha1": "e4634cf5f9a092443dcfa6c6a98ca747ed082026",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/Mandelbulb_10_iterations.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Mandelbulb 10 iterations",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25461293",
+  "html": "<p>The Mandelbulb at 10 iterations\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-12-16 23:29:26",
+  "Credit": "<p>I (Jerome St-Louis) rendered this in a small raytracer I wrote in eC.\n</p>",
+  "DateTimeOriginal": "<p>23:29, 16 December 2009 (UTC)\n</p>",
+  "Artist": "<p>Jerome St-Louis\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

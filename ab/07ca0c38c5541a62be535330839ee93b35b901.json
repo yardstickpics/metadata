@@ -1,0 +1,22 @@
+{
+ "sha1": "ab07ca0c38c5541a62be535330839ee93b35b901",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Adidas_Samba_shoes.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Adidas Samba shoes",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40974674",
+  "html": "<p>A pair of Adidas Samba shoes featuring the <a href=\"//en.wikipedia.org/wiki/Three_stripes\" title=\"Three stripes\">three stripes</a>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-11-04 23:43:54",
+  "Credit": "<p>I took this photo at home\n</p>",
+  "DateTimeOriginal": "<p>2013-11-05\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Sroc\" title=\"User:Sroc\">Sroc</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

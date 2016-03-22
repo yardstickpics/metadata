@@ -1,0 +1,22 @@
+{
+ "sha1": "8311710418da811471fb5035df437029c0f96b27",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/96/MRT_map_2017.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "MRT map 2017",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41463804",
+  "html": "<p>A MRT map with completed Downtown line by 2017.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-12-30 05:03:06",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2013-12-26\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Josephsolomon92\" title=\"User:Josephsolomon92\">Josephsolomon92</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

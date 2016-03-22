@@ -1,0 +1,17 @@
+{
+ "sha1": "3c7f7b587a74bfdc71b7b8e395966919f53f3ae4",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/10/DTV_Transition_map.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "DTV Transition map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=39698517",
+  "html": "<p><b>English:</b>  World map of <a href=\"//en.wikipedia.org/wiki/Digital_television_transition\" title=\"Digital television transition\">digital terrestrial television transition</a> progress.\n</p>\n<p>Legend:\n</p>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #f00000; color:black; font-size:100%; text-align:center;\"> </span> Transition completed, all analog signals terminated</div>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #ff9619; color:black; font-size:100%; text-align:center;\"> </span> Transition completed for full power stations, not yet completed for low power stations</div>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #fc0; color:black; font-size:100%; text-align:center;\"> </span> Transition in progress, broadcasting both analog and digital signals</div>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #0c0; color:black; font-size:100%; text-align:center;\"> </span> Transition not yet started, broadcasting analog signals only</div>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #00f; color:black; font-size:100%; text-align:center;\"> </span> Does not intend to transition, broadcasting analog signals only</div>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #b9b9b9; color:black; font-size:100%; text-align:center;\"> </span> No information available</div>"
+ },
+ "tags": [
+  "svg maps of the world",
+  "television-related maps of the world"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "a61e0e98ff258f8ce655cb8e9e83a376b61c0df5",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Sven_Co-op_4.8.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Sven Co-op 4.8",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41373048",
+  "html": "<p>Menu background image for version 4.8 of Sven Co-op.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-12-15 16:45:31",
+  "Credit": "<p>Flattened PNG export of the layered PSD source image in our development subversion repository.<br><b>Previously published:</b> 2013-06-30\n</p>",
+  "DateTimeOriginal": "<p>2013-02-12\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:AdamReece&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:AdamReece (page does not exist)\">AdamReece</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

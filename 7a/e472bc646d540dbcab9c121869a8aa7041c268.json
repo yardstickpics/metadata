@@ -1,0 +1,23 @@
+{
+ "sha1": "7ae472bc646d540dbcab9c121869a8aa7041c268",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/SMART_Domains_Dicer.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "SMART Domains Dicer",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42305945",
+  "html": "<p>Protein domains from SMART for HS dicer (Q9UPY3)\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-03-25 15:48:10",
+  "Credit": "<p>SMART Database (<a rel=\"nofollow\" class=\"external free\" href=\"http://smart.embl-heidelberg.de/smart/show_motifs.pl?ID=ENSG00000100697\">http://smart.embl-heidelberg.de/smart/show_motifs.pl?ID=ENSG00000100697</a>)\n</p>",
+  "DateTimeOriginal": "<p>3.25.2014\n</p>",
+  "Artist": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://smart.embl-heidelberg.de/help/smart_about.shtml\">http://smart.embl-heidelberg.de/help/smart_about.shtml</a>\n</p>",
+  "Permission": "<p>as noted on <a rel=\"nofollow\" class=\"external free\" href=\"http://smart.embl-heidelberg.de/help/smart_about.shtml\">http://smart.embl-heidelberg.de/help/smart_about.shtml</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

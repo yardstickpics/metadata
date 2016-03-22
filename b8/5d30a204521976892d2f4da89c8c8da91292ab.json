@@ -1,0 +1,22 @@
+{
+ "sha1": "b85d30a204521976892d2f4da89c8c8da91292ab",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/42/Water_Wheel_of_Hama.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Water Wheel of Hama",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48318134",
+  "html": "<p>A photo of the water wheel of Hama taken in 1999.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-10-22 00:15:57",
+  "Credit": "<p>I took this photograph on my Canon Rebel G camera.\n</p>",
+  "DateTimeOriginal": "<p>1999-12-05\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:The-time-line&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:The-time-line (page does not exist)\">The-time-line</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

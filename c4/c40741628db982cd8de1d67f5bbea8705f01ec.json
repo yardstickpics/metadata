@@ -1,0 +1,22 @@
+{
+ "sha1": "c4c40741628db982cd8de1d67f5bbea8705f01ec",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/02/Mm1_rc1_parts_on_pcb.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Mm1 rc1 parts on pcb",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=28351821",
+  "html": "<p>Prototype board of the Milkymist One interactive VJ station, including a FPGA to implement a custom open source hardware system-on-chip design.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-08-13 12:03:39",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.milkymist.org/mmone.html\">http://www.milkymist.org/mmone.html</a>\n</p>",
+  "DateTimeOriginal": "<p>12:03, 13 August 2010 (UTC)\n</p>",
+  "Artist": "<p>Adam Wang\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

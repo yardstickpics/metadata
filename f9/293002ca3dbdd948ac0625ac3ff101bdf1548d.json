@@ -1,0 +1,17 @@
+{
+ "sha1": "f9293002ca3dbdd948ac0625ac3ff101bdf1548d",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/ef/Stardust_-_Music_Sounds_Better_with_You.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Stardust - Music Sounds Better with You",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=19185210",
+  "html": "<p><a href=\"//en.wikipedia.org/wiki/Music_Sounds_Better_with_You\" title=\"Music Sounds Better with You\">Music Sounds Better with You</a>\n</p>"
+ },
+ "tags": [
+  "logo images that should be in svg format",
+  "music images that should be in svg format"
+ ]
+}

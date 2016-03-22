@@ -1,0 +1,22 @@
+{
+ "sha1": "85b1ecdb70e9ef6cae656a0557f029659ec74973",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/90/Hamakor_Logo.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Hamakor Logo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42889904",
+  "html": "<p>Logo of <a href=\"//en.wikipedia.org/wiki/Hamakor\" title=\"Hamakor\">Hamakor</a>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-05-28 21:13:11",
+  "Credit": "<p>I created this using the ray-trace povray.<br><b>Previously published:</b> <a rel=\"nofollow\" class=\"external free\" href=\"http://nadav.harel.org.il/homepage/hamakor-logo/\">http://nadav.harel.org.il/homepage/hamakor-logo/</a>\n</p>",
+  "DateTimeOriginal": "<p>2003-04-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Nyh\" title=\"User:Nyh\">Nyh</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

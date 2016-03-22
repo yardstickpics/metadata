@@ -1,0 +1,26 @@
+{
+ "sha1": "4b6e227feafd128fb076fa1730c6b9140eb8a4fb",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Aunt_Lillie.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Aunt Lillie",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=49667690",
+  "html": "<p>Aunt Lillie\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2016-03-07 07:32:05",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.greensboro.com/news/local_news/colleagues-the-rev-lillie-madison-jones-was-an-educator-at/article_0a9f0563-87b2-55ad-9be9-0e182592916d.html\">http://www.greensboro.com/news/local_news/colleagues-the-rev-lillie-madison-jones-was-an-educator-at/article_0a9f0563-87b2-55ad-9be9-0e182592916d.html</a>\n</p>",
+  "DateTimeOriginal": "<p>October 29, 2015\n</p>",
+  "Artist": "<p>Greensboro News and Record\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.greensboro.com/site/terms.html\">http://www.greensboro.com/site/terms.html</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

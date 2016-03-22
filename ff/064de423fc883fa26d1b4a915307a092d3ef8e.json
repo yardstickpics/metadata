@@ -1,0 +1,18 @@
+{
+ "sha1": "ff064de423fc883fa26d1b4a915307a092d3ef8e",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b1/Joppa-Map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Joppa-Map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31134991"
+ },
+ "wiki": {
+  "DateTime": "2011-03-09 20:18:53",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

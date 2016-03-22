@@ -1,0 +1,22 @@
+{
+ "sha1": "8f745a711ff7e82630c2b7476c28be7c94babac3",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8f/User_RahulGhose.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "User RahulGhose",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=38809917",
+  "html": "<p>A fun image of me.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-03-14 07:46:37",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2010-01-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Rahulghose\" title=\"User:Rahulghose\">Rahulghose</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

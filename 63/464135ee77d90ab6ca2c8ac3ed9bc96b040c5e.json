@@ -1,0 +1,22 @@
+{
+ "sha1": "63464135ee77d90ab6ca2c8ac3ed9bc96b040c5e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c9/Crumbling_Barracks.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Crumbling Barracks",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=27165463",
+  "html": "<p>The most westerly barracks building at Ft. Andrews.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-04-30 18:31:05",
+  "Credit": "<p>Created by Paul Grigorieff\n</p>",
+  "DateTimeOriginal": "<p>April 2, 2010\n</p>",
+  "Artist": "<p>Paul Grigorieff\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

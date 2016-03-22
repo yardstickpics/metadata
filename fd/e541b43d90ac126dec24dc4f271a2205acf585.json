@@ -1,0 +1,21 @@
+{
+ "sha1": "fde541b43d90ac126dec24dc4f271a2205acf585",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/45/Floatin%27_Tom.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Floatin' Tom",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=17723300",
+  "html": "<p>I can float (:\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-06-01 21:50:03",
+  "Credit": "<p>I created this image entirely by myself.\n</p>",
+  "Artist": "<p>ShadowShift 7\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

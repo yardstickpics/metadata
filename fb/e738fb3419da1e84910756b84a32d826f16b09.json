@@ -1,0 +1,18 @@
+{
+ "sha1": "fbe738fb3419da1e84910756b84a32d826f16b09",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/cb/Chessbox1.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Chessbox1",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48167200"
+ },
+ "wiki": {
+  "DateTime": "2015-10-11 11:33:21",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "sha1": "58dafa9e6b2d186fac00d24f15aa4adabfc87ec2",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/94/Urdu_Wikipedia.PNG",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Urdu Wikipedia",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=3239165",
+  "html": "<p><a href=\"//en.wikipedia.org/wiki/Urdu_Wikipedia\" title=\"Urdu Wikipedia\">Urdu Wikipedia</a> home page, as viewed with <a href=\"//en.wikipedia.org/wiki/Google_Chrome\" title=\"Google Chrome\">Google Chrome</a>.\n</p>"
+ },
+ "tags": [
+  "screenshots of wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2015-04-02 16:21:46",
+  "Credit": "<p>Screencap\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "Attribution": "<a href=\"//wikimediafoundation.org/wiki/Contact_us\" class=\"extiw\" title=\"wmf:Contact us\">Wikimedia Foundation</a>",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

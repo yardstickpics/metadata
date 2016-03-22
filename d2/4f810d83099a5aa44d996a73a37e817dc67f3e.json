@@ -1,0 +1,22 @@
+{
+ "sha1": "d24f810d83099a5aa44d996a73a37e817dc67f3e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8f/Morse_Crib_Sheet.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Morse Crib Sheet",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47936486",
+  "html": "<p>Morse code mnemonic sheet, based on a technique published in 1918.  It's a rendering of <a href=\"//upload.wikimedia.org/wikipedia/en/9/92/Morse_Code_Crib_Sheet.svg\" class=\"internal\" title=\"Morse Code Crib Sheet.svg\">Media:Morse Code Crib Sheet.svg</a>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-09-26 14:47:38",
+  "Credit": "<p>Inkscape\n</p>",
+  "DateTimeOriginal": "<p>2015-09-26\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Chumpih&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Chumpih (page does not exist)\">Chumpih</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

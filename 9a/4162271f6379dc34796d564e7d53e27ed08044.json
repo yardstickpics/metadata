@@ -1,0 +1,18 @@
+{
+ "sha1": "9a4162271f6379dc34796d564e7d53e27ed08044",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/ea/St.LawrenceCathedral.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "St.LawrenceCathedral",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=6965872"
+ },
+ "wiki": {
+  "DateTime": "2006-09-12 20:58:01",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "sha1": "040558181f8eccdeacf7ddd30326989bda70115a",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/79/Falkirkskyline.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Falkirkskyline",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46572935",
+  "html": "<p>Falkirk skyline\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-04-30 20:00:19",
+  "Credit": "<p>Own work\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:JohnJohnJohnJohn\" title=\"User:JohnJohnJohnJohn\">JohnJohnJohnJohn</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:JohnJohnJohnJohn\" title=\"User talk:JohnJohnJohnJohn\">talk</a>) (<a href=\"//en.wikipedia.org/wiki/Special:ListFiles/JohnJohnJohnJohn\" title=\"Special:ListFiles/JohnJohnJohnJohn\">Uploads</a>)\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

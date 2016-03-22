@@ -1,0 +1,21 @@
+{
+ "sha1": "199b7cc160bc31f3e1c26dc41a22db370227306c",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c4/Lutherelysmithsquaremap.bmp",
+ "ext": "bmp",
+ "from": "wiki",
+ "created": 1458518347,
+ "name": "Lutherelysmithsquaremap",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25474876"
+ },
+ "tags": [
+  "map images that should be in svg format"
+ ],
+ "wiki": {
+  "DateTime": "2009-12-18 03:36:25",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "sha1": "f9818307de2094eb1869cc65e126abf357e5b981",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Nottingham_Forest%2C_Houston.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Nottingham Forest, Houston",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=27301149",
+  "html": "<p>A map highlighting the neighborhoods that are together known as \"<a href=\"//en.wikipedia.org/wiki/Nottingham_Forest,_Houston\" title=\"Nottingham Forest, Houston\" class=\"mw-redirect\">Nottingham Forest, Houston</a>.\n</p>"
+ },
+ "tags": [
+  "openstreetmap maps"
+ ],
+ "wiki": {
+  "DateTime": "2010-05-12 03:04:12",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://www.openstreetmap.org/\">OpenStreetMap</a>\n</p>",
+  "DateTimeOriginal": "<p>03:20, 10 May 2010 (UTC)\n</p>",
+  "Artist": "<p>OpenStreetMap contributors\n</p>",
+  "Permission": "<p>CC-BY-SA (© OpenStreetMap  contributors,In tiles=CC-BY-SA)\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

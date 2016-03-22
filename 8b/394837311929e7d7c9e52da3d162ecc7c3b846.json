@@ -1,0 +1,25 @@
+{
+ "sha1": "8b394837311929e7d7c9e52da3d162ecc7c3b846",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Vital_articles_tag_cloud.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Vital articles tag cloud",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43333651",
+  "html": "<p>Tag cloud for <a href=\"//en.wikipedia.org/wiki/Wikipedia:Vital_articles\" title=\"Wikipedia:Vital articles\">Wikipedia:Vital articles</a>. Updated for July 2014. Better typeface. SVG version below.\n</p>"
+ },
+ "tags": [
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2014-07-18 20:10:36",
+  "Credit": "<p>Created with <a href=\"//en.wikipedia.org/wiki/Mathematica\" title=\"Mathematica\">Mathematica</a>.\n</p>",
+  "DateTimeOriginal": "<p>2014-07-18\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Malerisch\" title=\"User:Malerisch\">Malerisch</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

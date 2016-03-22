@@ -1,0 +1,23 @@
+{
+ "sha1": "950c412ac577cee135e7e68c6bb5f8fb1d8c710e",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/44/CRT_phosphor_dots.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CRT phosphor dots",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=8738520",
+  "html": "<p><a href=\"//en.wikipedia.org/wiki/Phosphor\" title=\"Phosphor\">w:Phosphor</a> dot arrays in a TV and a PC CRT display shown at same magnification.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2007-01-03 16:56:18",
+  "Credit": "<p>modified Image:CRT_pixel_array.jpg of <a href=\"//en.wikipedia.org/wiki/User:Planemad\" title=\"User:Planemad\">w:User:Planemad</a> to improve detail visibility in thumb size\n</p>",
+  "DateTimeOriginal": "<p>3 Jan 2007\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Planemad\" title=\"User:Planemad\">w:User:Planemad</a>\n</p>",
+  "Permission": "<p>CC\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

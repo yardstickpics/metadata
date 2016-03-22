@@ -1,0 +1,25 @@
+{
+ "sha1": "978f8450ef5f5208eb017e1a811a925b96dc5311",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/PAL_WorldMap.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "PAL WorldMap",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46779006",
+  "html": "<p>The World Map showcasing the destinations for Philippine Airlines.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2015-05-23 09:39:41",
+  "Credit": "<p><a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:World_map_between_2003_and_2005.png\">https://commons.wikimedia.org/wiki/File:World_map_between_2003_and_2005.png</a>\n</p>",
+  "Artist": "<p>Artista~commonswiki / Patrick\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">https://creativecommons.org/licenses/by-sa/3.0/deed.en</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

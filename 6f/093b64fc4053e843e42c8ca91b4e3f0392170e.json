@@ -1,0 +1,25 @@
+{
+ "sha1": "6f093b64fc4053e843e42c8ca91b4e3f0392170e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Miller_Place_Beach.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Miller Place Beach",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42865382",
+  "html": "<p>Miller Place Beach in Miller Place, New York\n</p>"
+ },
+ "tags": [
+  "images of long island, new york"
+ ],
+ "wiki": {
+  "DateTime": "2014-05-26 05:25:39",
+  "Credit": "<p>iPhone photo\n</p>",
+  "DateTimeOriginal": "<p>2014-05-26\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Iracaz\" title=\"User:Iracaz\">Iracaz</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

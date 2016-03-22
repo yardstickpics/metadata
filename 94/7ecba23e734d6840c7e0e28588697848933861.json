@@ -1,0 +1,22 @@
+{
+ "sha1": "947ecba23e734d6840c7e0e28588697848933861",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/53/Mexico_City_Metro_System_Map_%282013-03-01-02%29.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Mexico City Metro System Map (2013-03-01-02)",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=38673453",
+  "html": "<p>Mexico City Metro (Sistema de Transporte Colectivo) System Map. Based on actual system routes according to STC. Locations are accurate. All twelve lines of the system have been included, and station names are accurate as of 1 March 2013. English captions version. Station names and any logos are property of Sistema de Transporte Colectivo. No copyright infringement intended.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-03-01 05:39:06",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2013-02-28\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Fluence\" title=\"User:Fluence\">Fluence</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

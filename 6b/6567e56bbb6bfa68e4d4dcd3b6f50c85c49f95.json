@@ -1,0 +1,22 @@
+{
+ "sha1": "6b6567e56bbb6bfa68e4d4dcd3b6f50c85c49f95",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/dc/Chapel_House%2C_Templederry.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Chapel House, Templederry",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35869363",
+  "html": "<p>photograph of Chapel House\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-05-19 09:12:21",
+  "Credit": "<p>Photograph<br><b>Previously published:</b> none\n</p>",
+  "DateTimeOriginal": "<p>12/01/ 1983\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Timothy_Boland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Timothy Boland (page does not exist)\">Timothy Boland</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

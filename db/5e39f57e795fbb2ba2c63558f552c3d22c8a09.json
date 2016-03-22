@@ -1,0 +1,22 @@
+{
+ "sha1": "db5e39f57e795fbb2ba2c63558f552c3d22c8a09",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d9/Edgar_Haber.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Edgar Haber",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25373848",
+  "html": "<p>Sculpture of Edgar Haber\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-12-09 17:16:43",
+  "Credit": "<p>Steven Whyte\n</p>",
+  "DateTimeOriginal": "<p>17:16, 9 December 2009 (UTC)\n</p>",
+  "Artist": "<p>Steven Whyte\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

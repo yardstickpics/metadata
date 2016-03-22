@@ -1,0 +1,22 @@
+{
+ "sha1": "23c43ef248a7ec0b0bc5d6530476504b627a1def",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/The_Gunsmith.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "The Gunsmith",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48866475",
+  "html": "<p>The Gunsmith\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-12-20 10:34:30",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2015-06-28\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Django48&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Django48 (page does not exist)\">Django48</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "sha1": "ea60d16a6d1abd3b1cbb5d67df4ae0e4a56a1dc0",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Montage_of_Brookline_MA.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Montage of Brookline MA",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42013975"
+ },
+ "wiki": {
+  "DateTime": "2014-02-22 04:12:43",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

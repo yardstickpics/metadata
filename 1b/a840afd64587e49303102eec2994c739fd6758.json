@@ -1,0 +1,22 @@
+{
+ "sha1": "1ba840afd64587e49303102eec2994c739fd6758",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/98/Over_Corrected_Data_with_NMO_Velocity_200_Meter_Per_Second.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Over Corrected Data with NMO Velocity 200 Meter Per Second",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37756419",
+  "html": "<p>The data is over corrected. The lines are not horizontal, which means the NMO velocity is too small.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-11-27 05:07:53",
+  "Credit": "<p>Own work <br><b>Previously published:</b> None\n</p>",
+  "DateTimeOriginal": "<p>2012-11-26\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Jieshen1987&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jieshen1987 (page does not exist)\">Jieshen1987</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

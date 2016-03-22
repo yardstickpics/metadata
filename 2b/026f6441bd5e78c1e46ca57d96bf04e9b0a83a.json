@@ -1,0 +1,22 @@
+{
+ "sha1": "2b026f6441bd5e78c1e46ca57d96bf04e9b0a83a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Test_for_E8_Petrie_fix.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Test for E8 Petrie fix",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37523811",
+  "html": "<p>Test for E8 Petrie fix.svg\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-11-02 16:03:38",
+  "Credit": "<p>Mathematica notebook I wrote<br><b>Previously published:</b> website, facebook\n</p>",
+  "DateTimeOriginal": "<p>2012-11-02\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Jgmoxness\" title=\"User:Jgmoxness\">Jgmoxness</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

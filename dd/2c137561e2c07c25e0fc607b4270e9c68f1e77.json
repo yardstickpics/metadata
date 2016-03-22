@@ -1,0 +1,22 @@
+{
+ "sha1": "dd2c137561e2c07c25e0fc607b4270e9c68f1e77",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/71/Trees_in_Spain.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Trees in Spain",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35072990",
+  "html": "<p>A photo of trees taken in Spain\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-03-14 21:31:01",
+  "Credit": "<p>I took this photo while backpacking Spain\n</p>",
+  "DateTimeOriginal": "<p>Summer 2010\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:RaeD09\" title=\"User:RaeD09\">RaeD09</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "75f6273388b3e2e94f5125f43b913c3de1a88897",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8f/ADNERF_design_3D%26efield.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507656,
+ "name": "ADNERF design 3D&efield",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=13331866",
+  "html": "<p>Details of the receiver front-end design. a, Three-dimensional drawing of the DRA. b, Numerical simulation of the distribution of the electric field of the TM011+ mode inside the DRA in meridian plane.\n</p>"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "8db7c33184858e5d27a4043c4128106f439dd23b",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/63/SpaceElevatorCableTaperPlot3D.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "SpaceElevatorCableTaperPlot3D",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=17608361",
+  "html": "<p>3D Plot of required relative cable area as a function of material Strength/Density and height above the earth\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-05-25 17:57:02",
+  "Credit": "<p>I created this image entirely by myself. The math was done in Maple 11, the plot generated in Matlab saved in AI format, which was then converted to SVG format in Adobe Illustrator.\n</p>",
+  "DateTimeOriginal": "<p>May-25-2008\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Hologram0110\" title=\"User:Hologram0110\">Hologram0110</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Hologram0110\" title=\"User talk:Hologram0110\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "776c37a1ddd4a759a318d166b53babe825b13ff1",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Arturo2.bmp",
+ "ext": "bmp",
+ "from": "wiki",
+ "created": 1458518345,
+ "name": "Arturo2",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=26283922",
+  "html": "<p>Arturo Rodas' picture\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-02-21 17:28:30",
+  "Credit": "<p>Rupert Davies-Cooke\n</p>",
+  "DateTimeOriginal": "<p>17:28, 21 February 2010 (UTC)\n</p>",
+  "Artist": "<p>Rupert Davies-Cooke\n</p>",
+  "Permission": "<p>Rupert Davies-Cooke\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "81b22e4fbdf4c9ff83904e6f0fae627652c821a6",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/The_head_of_a_samoyed_dog.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "The head of a samoyed dog",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41839187",
+  "html": "<p>A svg/bitmap representation of a Samoyed dog from a photo I\ntook myself.\n</p>\n<p>I would like to use this in a creation of the future.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-02-04 15:05:19",
+  "Credit": "<p>Inkscape from a picture i took myself at home.<br><b>Previously published:</b> This image has never been in a publication\n</p>",
+  "DateTimeOriginal": "<p>It is a picture of my own dog.\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Johnraybarker\" title=\"User:Johnraybarker\">Johnraybarker</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

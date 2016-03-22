@@ -1,0 +1,22 @@
+{
+ "sha1": "02e117a029f8003c0142b6df415e2e99d5c0e035",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c5/Something%27s_Coming_-_Daniel_Parker.PNG",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Something's Coming - Daniel Parker",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48453932",
+  "html": "<p>A monumental grizzly bear sculpture by Montana artist Daniel Parker. The sculpture was produced in clay (as pictured) but has not yet been cast in bronze.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-11-03 22:02:44",
+  "Credit": "<p>Author\n</p>",
+  "DateTimeOriginal": "<p>2008\n</p>",
+  "Artist": "<p>Work shown: Daniel Parker\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

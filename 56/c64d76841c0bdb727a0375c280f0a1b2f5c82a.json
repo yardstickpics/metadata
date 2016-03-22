@@ -1,0 +1,22 @@
+{
+ "sha1": "56c64d76841c0bdb727a0375c280f0a1b2f5c82a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/25/India-kerala.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "India-kerala",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=24178033",
+  "html": "<p>plain SVG map with districts of Kerala, India\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-08-31 16:47:55",
+  "Credit": "<p>Derived from the <a href=\"//en.wikipedia.org/wiki/File:India_disputed_areas_map.svg\" title=\"File:India disputed areas map.svg\">File:India_disputed_areas_map.svg</a> by [[\t\n</p>\n<p>w:user:Planemad]]\n</p>",
+  "DateTimeOriginal": "<p>16:47, 31 August 2009 (UTC)\n</p>",
+  "Artist": "<p>Emma Pease\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

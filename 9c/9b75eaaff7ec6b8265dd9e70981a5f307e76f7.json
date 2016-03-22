@@ -1,0 +1,21 @@
+{
+ "sha1": "9c9b75eaaff7ec6b8265dd9e70981a5f307e76f7",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Dan_Price_photo.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Dan Price photo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47760077",
+  "html": "<p>American entrepreneur and business executive <a href=\"//en.wikipedia.org/wiki/Dan_Price\" title=\"Dan Price\">Dan Price</a>.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-08-23 15:31:11",
+  "Credit": "<p>Sent via OTRS (see below)\n</p>",
+  "Artist": "<p>Gravity Payments\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

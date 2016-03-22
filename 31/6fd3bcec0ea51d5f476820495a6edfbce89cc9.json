@@ -1,0 +1,18 @@
+{
+ "sha1": "316fd3bcec0ea51d5f476820495a6edfbce89cc9",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/55/EEurope_relief.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "EEurope relief",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33656798"
+ },
+ "wiki": {
+  "DateTime": "2011-12-08 17:24:43",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

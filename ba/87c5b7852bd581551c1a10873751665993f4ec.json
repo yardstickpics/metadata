@@ -1,0 +1,21 @@
+{
+ "sha1": "ba87c5b7852bd581551c1a10873751665993f4ec",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5c/Maternal_sources_of_microbial_transmission.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Maternal sources of microbial transmission",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46276976",
+  "html": "<p>An illustration highlighting selected internal and external sources of maternal microbial transmission.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-03-31 10:10:53",
+  "Credit": "<p>Originally from Funkhouser LJ, Bordenstein SR (2013) Mom Knows Best: The Universality of Maternal Microbial Transmission. PLoS Biol 11(8): e1001631. doi:10.1371/journal.pbio.1001631\n</p>",
+  "Artist": "<p>Illustration by Robert M. Brucker.\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

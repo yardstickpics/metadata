@@ -1,0 +1,25 @@
+{
+ "sha1": "35c7c3d39b5b1183f53c3e376d692abaad165f2e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Positions_of_the_VERITAS_Telescopes.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Positions of the VERITAS Telescopes",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46530021",
+  "html": "<p>This photo shows the locations of the VERITAS telescopes before and after the relocation in 2009.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2015-04-26 19:31:52",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://arxiv.org/abs/0912.3841\">http://arxiv.org/abs/0912.3841</a>\n</p>",
+  "Artist": "<p>Jeremy S. Perkins\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://arxiv.org/help/license\">http://arxiv.org/help/license</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

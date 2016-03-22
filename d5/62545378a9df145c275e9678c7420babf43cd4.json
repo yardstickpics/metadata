@@ -1,0 +1,18 @@
+{
+ "sha1": "d562545378a9df145c275e9678c7420babf43cd4",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/UPMCLemieux.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "UPMCLemieux",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46555108"
+ },
+ "wiki": {
+  "DateTime": "2015-04-29 00:26:42",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

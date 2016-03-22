@@ -1,0 +1,19 @@
+{
+ "sha1": "89a48688daa3bba1b8445be0add3feb4c49d1571",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/WineStore.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "WineStore",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=8326441"
+ },
+ "wiki": {
+  "DateTime": "2006-12-08 04:04:34",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "Attribution": "DecaturSpirits.com",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

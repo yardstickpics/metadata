@@ -1,0 +1,26 @@
+{
+ "sha1": "916948161b2c622ac2925e84c586fdd87aef3d08",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Contourite_sparker_seismic_elongate_drift.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Contourite sparker seismic elongate drift",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48710666",
+  "html": "<p>Sparker seismic line from the Gulf of Cadiz published by the Integrated Ocean Drilling Program. It shows a great example of giant countorite drift deposits.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2015-12-02 18:14:19",
+  "Credit": "<p>Expedition 339 Scientists, 2012. Mediterranean outflow: environmental significance of the Mediterranean Outflow Water and its global implications. IODP Prel. Rept., 339. doi:10.2204/ iodp.pr.339.2012\n</p>",
+  "DateTimeOriginal": "<p>2012\n</p>",
+  "Artist": "<p>Integrated Ocean Drilling Program\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://publications.iodp.org/preliminary_report/339/339PR.PDF\">http://publications.iodp.org/preliminary_report/339/339PR.PDF</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

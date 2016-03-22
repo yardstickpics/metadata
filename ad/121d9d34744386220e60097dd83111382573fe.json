@@ -1,0 +1,22 @@
+{
+ "sha1": "ad121d9d34744386220e60097dd83111382573fe",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/68/Urbanism_in_the_Indus_valley.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Urbanism in the Indus valley",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41409822",
+  "html": "<p>Spatial extent of the Indus Valley Culture in the\nMature and Late phases with major urban centers\nand locations:(1) Mehrgarh,(2) Amri, (3) Kotdiji, (4) Harappa, (5) Mohenjodaro,(6) Lothal, (7) Dholavira (8) Kalibangan,(9) Ganweriwala, and (10) Pirak (based on Mcintosh 2007 and Possehl 2002.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-12-19 17:58:52",
+  "Credit": "<p>Created this graphic using LR DEM matlab script and Inkscape.<br><b>Previously published:</b> another version available at Academia.edu\n</p>",
+  "DateTimeOriginal": "<p>2013-11-26\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Aurangzebwardag\" title=\"User:Aurangzebwardag\">Aurangzebwardag</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

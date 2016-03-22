@@ -1,0 +1,19 @@
+{
+ "sha1": "3db1597cd68257704fc18b65a947eaeb7afd993a",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Mordenmap_1920s.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Mordenmap 1920s",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=9582894"
+ },
+ "wiki": {
+  "DateTime": "2007-02-18 23:50:08",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "Attribution": "This image is of a section of an out of copyright <a href=\"//en.wikipedia.org/wiki/Ordnance_Survey\" title=\"Ordnance Survey\">Ordnance Survey</a> map from <a href=\"//en.wikipedia.org/wiki/1934\" title=\"1934\">1934</a>. The original scan from which this extract was taken was made by Andrew Rowbottom and displayed at <a rel=\"nofollow\" class=\"external text\" href=\"http://www.ponies.me.uk/maps/osmap.html\">Old Ordnance Survey Maps</a>.",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "sha1": "95d9d466407d5951e0d8b50d85351e4591e8d3db",
+ "lic": "cc-by-sa-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Russian_Ambassador%27s_Residence%2C_London.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Russian Ambassador's Residence, London",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41308466",
+  "html": "<p>Russian Ambassador's Residence, London\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ],
+ "wiki": {
+  "DateTime": "2013-12-08 20:30:46",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.geograph.org.uk/photo/2430805\">http://www.geograph.org.uk/photo/2430805</a>\n</p>",
+  "Artist": "<p>Roger Templeman\n</p>",
+  "Permission": "<p><b>Evidence:</b> The license statement can be found online at: <a rel=\"nofollow\" class=\"external free\" href=\"http://creativecommons.org/licenses/by-sa/2.0/\">http://creativecommons.org/licenses/by-sa/2.0/</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ }
+}

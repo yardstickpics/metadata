@@ -1,0 +1,22 @@
+{
+ "sha1": "4a0ca30c4b0adf71e20050106662741524178ec1",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Atari_joystick_ports.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Atari joystick ports",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48792279",
+  "html": "<p>Picture of male and female controller ports for the Atari 2600 joysticks.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-12-11 15:44:52",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>December 6th, 2015\n</p>",
+  "Artist": "<p>Salvidrim\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "e6384c391a9733141675517fc7dca43cff6d95b2",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Tartan_diagram_%28warp_and_weft%29.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Tartan diagram (warp and weft)",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=19915148",
+  "html": "<p>Tartan diagram for explaining the warp and weft in a tartan.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-10-24 05:49:17",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>October 2008\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Celtus\" title=\"User:Celtus\">Celtus</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Celtus\" title=\"User talk:Celtus\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

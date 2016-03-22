@@ -1,0 +1,22 @@
+{
+ "sha1": "92f860da246fcd69f5026f2cd5ffc91cf2da8261",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c7/Map-Europe-Georgia.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Map-Europe-Georgia",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=29139978",
+  "html": "<p>Location of Georgia in Europe for UN.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-10-10 10:42:06",
+  "Credit": "<p>I (Thomas GIlling) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>10/08/10\n</p>",
+  "Artist": "<p>Proger\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

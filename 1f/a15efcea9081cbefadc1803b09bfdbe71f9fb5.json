@@ -1,0 +1,22 @@
+{
+ "sha1": "1fa15efcea9081cbefadc1803b09bfdbe71f9fb5",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/29/MetroNamur.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "MetroNamur",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=39659171",
+  "html": "<p>Namur Metro station in Montreal.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-06-12 21:12:48",
+  "Credit": "<p>I was taking the Metro\n</p>",
+  "DateTimeOriginal": "<p>2013-06-12\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Mtlfiredude\" title=\"User:Mtlfiredude\">Mtlfiredude</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

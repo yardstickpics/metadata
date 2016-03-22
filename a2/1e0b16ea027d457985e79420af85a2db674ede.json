@@ -1,0 +1,26 @@
+{
+ "sha1": "a21e0b16ea027d457985e79420af85a2db674ede",
+ "lic": "cc-by-sa-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/ae/Map_of_Gilgamesh_Brewery_Campus.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Map of Gilgamesh Brewery Campus",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40972693",
+  "html": "<p>Map of Gilgamesh Brewery Campus and associated address.\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ],
+ "wiki": {
+  "DateTime": "2013-11-04 19:33:40",
+  "Credit": "<p>Available online\n</p>",
+  "DateTimeOriginal": "<p>11/4/2013\n</p>",
+  "Artist": "<p>OpenStreetMap Contributors\n</p>",
+  "Permission": "<p>The license statement can be found online at: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.openstreetmap.org/copyright\">http://www.openstreetmap.org/copyright</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.0/"
+ }
+}

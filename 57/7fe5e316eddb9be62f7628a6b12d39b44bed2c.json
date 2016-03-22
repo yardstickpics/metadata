@@ -1,0 +1,26 @@
+{
+ "sha1": "577fe5e316eddb9be62f7628a6b12d39b44bed2c",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/44/SpiralGalaxyNCG6118-2004.PNG",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "SpiralGalaxyNCG6118-2004",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=20652298",
+  "html": "<p><a href=\"//en.wikipedia.org/wiki/Spiral_galaxy\" title=\"Spiral galaxy\">Spiral galaxy</a> <a href=\"//en.wikipedia.org/wiki/NGC_6118\" title=\"NGC 6118\">NGC 6118</a> (Very Large Telescope (VLT) Melipal optical telescope + VIMOS observations). <a href=\"//en.wikipedia.org/wiki/European_Southern_Observatory\" title=\"European Southern Observatory\">European Southern Observatory</a> PR Photo 33a/04 (1 December 2004). The original image was cropped.\n</p>"
+ },
+ "tags": [
+  "dyk images"
+ ],
+ "wiki": {
+  "DateTime": "2008-12-12 00:22:05",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://www.eso.org/gallery/d/27082-3/phot-33a-04-fullres.jpg\">eso.org</a>\n</p>",
+  "DateTimeOriginal": "<p>1 December 2004\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/European_Southern_Observatory\" title=\"European Southern Observatory\">European Southern Observatory</a>\n</p>",
+  "Permission": "<p>{{<a href=\"//en.wikipedia.org/wiki/Template:Cc-by-3.0\" title=\"Template:Cc-by-3.0\">cc-by-3.0</a>}} per <a rel=\"nofollow\" class=\"external text\" href=\"http://www.eso.org/public/privacy/index.html\">Copyright Notice</a> ESO, 1995-2007, reading \"Reproduction is authorised, provided the source is acknowledged, save where otherwise stated. Where prior permission must be obtained for the reproduction or use of textual and multimedia information (sound, images, software, etc.), such permission shall cancel the above-mentioned general permission and shall clearly indicate any restrictions on use.\"\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

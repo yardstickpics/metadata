@@ -1,0 +1,22 @@
+{
+ "sha1": "1c05d45e649ffb0a50869dc0b436b52c8a944863",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Northwest_Syria_%28Hananu_revolt%29.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Northwest Syria (Hananu revolt)",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48614654",
+  "html": "<p>Map of northwest Syria circa 1920 including parts of what is now Hatay Province, Turkey.  For use in the Hananu Revolt article.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-11-23 14:49:59",
+  "Credit": "<p>Making a map for the Hananu Revolt using QGIS and sources from NASA SRTM data and USGS Hydrosheds data<br><b>Previously published:</b> first publication\n</p>",
+  "DateTimeOriginal": "<p>2015-11-21\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Erp\" title=\"User:Erp\">Erp</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

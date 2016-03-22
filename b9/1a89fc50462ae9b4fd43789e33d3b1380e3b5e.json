@@ -1,0 +1,22 @@
+{
+ "sha1": "b91a89fc50462ae9b4fd43789e33d3b1380e3b5e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7f/CoreLogic_HQ.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CoreLogic HQ",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46651301",
+  "html": "<p>This is a photo I took of the CoreLogic corporate headquarters in Irvine, CA\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-05-09 00:37:06",
+  "Credit": "<p>I took this photo with my iPhone from the 405 freeway\n</p>",
+  "DateTimeOriginal": "<p>2015-05-08\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Timtempleton\" title=\"User:Timtempleton\">Timtempleton</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

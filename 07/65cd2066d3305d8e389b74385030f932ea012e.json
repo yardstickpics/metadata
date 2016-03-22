@@ -1,0 +1,22 @@
+{
+ "sha1": "0765cd2066d3305d8e389b74385030f932ea012e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Maylay_Language_Map.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Maylay Language Map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25125617",
+  "html": "<p>Map that represents countries with significant use of the Indonesian Language. Dark blue = national, light blue = spoken there\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-11-18 20:44:36",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2008-12-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Cwlq\" title=\"User:Cwlq\">User:cwlq</a>, <a href=\"//en.wikipedia.org/wiki/User:Ichwan_Palongengi\" title=\"User:Ichwan Palongengi\">Ichwan Palongengi</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

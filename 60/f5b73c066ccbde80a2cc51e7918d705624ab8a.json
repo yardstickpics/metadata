@@ -1,0 +1,15 @@
+{
+ "sha1": "60f5b73c066ccbde80a2cc51e7918d705624ab8a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Map_of_Ahvaz.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Map of Ahvaz",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=11123406"
+ },
+ "tags": [
+  "map images that should be in svg format"
+ ]
+}

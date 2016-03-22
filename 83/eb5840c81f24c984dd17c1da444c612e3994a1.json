@@ -1,0 +1,22 @@
+{
+ "sha1": "83eb5840c81f24c984dd17c1da444c612e3994a1",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/06/BennettAtmRefractVsAlt.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "BennettAtmRefractVsAlt",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31308139",
+  "html": "<p>Plot of atmospheric refraction vs. apparent altitude, using G.G. Bennett’s 1982 formula.\n</p>\n<p>Author: Jeff Conrad\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-03-27 00:53:15",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>27 March 2011\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:JeffConrad\" title=\"User:JeffConrad\">JeffConrad</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:JeffConrad\" title=\"User talk:JeffConrad\">talk</a>) (<a href=\"//en.wikipedia.org/wiki/Special:ListFiles/JeffConrad\" title=\"Special:ListFiles/JeffConrad\">Uploads</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

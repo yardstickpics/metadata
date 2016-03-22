@@ -1,0 +1,22 @@
+{
+ "sha1": "04b359493b59690f9e12f9950ca8e67f613400e7",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Strand-seq_simple_workflow.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Strand-seq simple workflow",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45526159",
+  "html": "<p>An example of a simplified Strand-seq protocol, starting with cells of interest. Once the illustrated steps have been completed the template strands can be prepared for sequencing.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-02-27 21:11:41",
+  "Credit": "<p>Inkscape\n</p>",
+  "DateTimeOriginal": "<p>2015-02-27\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Yvr_biofmticin\" title=\"User:Yvr biofmticin\">Yvr biofmticin</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

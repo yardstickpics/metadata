@@ -1,0 +1,23 @@
+{
+ "sha1": "b9be40843e71d0087fe4f07ab2d3338efc462892",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/78/Randy_Piper_Animal.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Randy Piper Animal",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=30803778",
+  "html": "<p>Made using Paint Pro XII\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-02-09 07:26:27",
+  "Credit": "<p>I created it 2011\n</p>",
+  "DateTimeOriginal": "<p>February 8, 2011\n</p>",
+  "Artist": "<p>Mickey Sanker\n</p>",
+  "Permission": "<p>released under GFDL Entirely my own work - I created it, own all the rights to it, and have not used anyone else's work in making it\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

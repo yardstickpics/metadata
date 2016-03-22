@@ -1,0 +1,22 @@
+{
+ "sha1": "5cae5c1207bed4915707903c814afabffc33a25f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b7/DiffusionMRI_glyphs.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "DiffusionMRI glyphs",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36808161",
+  "html": "<p>This file illustrates the tensor field in a diffusion MRI image.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-09-04 12:33:15",
+  "Credit": "<p>Medical imaging software\n</p>",
+  "DateTimeOriginal": "<p>2012-08-22\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Tucania&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tucania (page does not exist)\">Tucania</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

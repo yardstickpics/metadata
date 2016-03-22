@@ -1,0 +1,23 @@
+{
+ "sha1": "c9b6aaa9f37f83c2a7c97dda58e61a23cdb01a74",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/CairoM4Screenshot.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CairoM4Screenshot",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=26855619",
+  "html": "<p>Screenshot of Cairo shell M4 with CoverFlow in Explorer\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-04-06 20:19:01",
+  "Credit": "<p>Element Software\n</p>",
+  "DateTimeOriginal": "<p>06/04/2010\n</p>",
+  "Artist": "<p>Element Software\n</p>",
+  "Permission": "<p>Create Commons\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "sha1": "6d1333fdb6566ab66f919875872b3c2b34bfb5fb",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/FranklinGothic4.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "FranklinGothic4",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=7384872"
+ },
+ "wiki": {
+  "DateTime": "2006-10-10 20:14:19",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

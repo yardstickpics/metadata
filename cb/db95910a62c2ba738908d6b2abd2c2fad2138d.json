@@ -1,0 +1,25 @@
+{
+ "sha1": "cbdb95910a62c2ba738908d6b2abd2c2fad2138d",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/29/Historical_patches_of_EnCon_Police.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Historical patches of EnCon Police",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46572628",
+  "html": "<p>Display of all uniform patches used by EnCon Police\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ],
+ "wiki": {
+  "DateTime": "2014-12-24 18:11:52",
+  "Credit": "<p>Display photo given to each office\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/Connecticut\" title=\"Connecticut\">Connecticut</a> Department of Environmental Conservation\n</p>",
+  "Permission": "<table class=\"plainlinks imbox imbox-notice\" role=\"presentation\"><tr>\n<td class=\"mbox-image\"><a href=\"//en.wikipedia.org/wiki/File:Crystal_file_temporary.png\" class=\"image\"><img alt=\"Crystal file temporary.png\" src=\"//upload.wikimedia.org/wikipedia/commons/c/cd/Crystal_file_temporary.png\" width=\"64\" height=\"64\" data-file-width=\"64\" data-file-height=\"64\"></a></td>\n<td class=\"mbox-text\">An email has been received by the <a href=\"//en.wikipedia.org/wiki/Wikipedia:Volunteer_Response_Team\" title=\"Wikipedia:Volunteer Response Team\">Volunteer Response Team</a> (OTRS) concerning this file, and can be read <span class=\"plainlinksneverexpand\">as <b><a class=\"external text\" href=\"https://secure.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2015050210001145\">ticket 2015050210001145</a></b></span> by users with an OTRS account. However, the message was not sufficient to confirm permission for this page/file. \n<p>This may, among other reasons, be because there was no explicit release under a free license, the statement of permission is from the subject of the photo rather than the photographer, or the email address that the permission came from is not associated with the location where the content was originally published.\n</p>\n<p>For an update on the issue, please contact the user who added this template to the page, or contact OTRS volunteers at their <a href=\"//en.wikipedia.org/wiki/Wikipedia:OTRS_noticeboard\" title=\"Wikipedia:OTRS noticeboard\">noticeboard</a>.\n</p>\n<span id=\"field-otrs\" title=\"{{{1}}}\"></span>\n</td>\n</tr></table>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

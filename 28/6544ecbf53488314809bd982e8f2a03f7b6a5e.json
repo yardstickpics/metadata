@@ -1,0 +1,27 @@
+{
+ "sha1": "286544ecbf53488314809bd982e8f2a03f7b6a5e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5a/Serbia_location_map_2013.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Serbia location map 2013",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40352696",
+  "html": "<p><a href=\"//en.wikipedia.org/wiki/German_language\" title=\"German language\">German</a>: <span lang=\"de\"><i>Positionskarte von <a href=\"//de.wikipedia.org/wiki/Serbien\" class=\"extiw\" title=\"de:Serbien\">Serbien</a></i></span>\nQuadratische Plattkarte, N-S-Streckung 140 %. Geographische Begrenzung der Karte:\n</p>\n<ul>\n<li> N: 46.3° N</li>\n<li> S: 41.7° N</li>\n<li> W: 18.7° O</li>\n<li> O: 23.2° O</li>\n</ul>\n<p><b>English:</b>  Location map of <a href=\"//en.wikipedia.org/wiki/Serbia\" title=\"Serbia\">Serbia</a>\nEquirectangular projection, N/S stretching 140 %. Geographic limits of the map:\n</p>\n<ul>\n<li> N: 46.3° N</li>\n<li> S: 41.7° N</li>\n<li> W: 18.7° E</li>\n<li> E: 23.2° E</li>\n</ul>"
+ },
+ "tags": [
+  "files by pogled u nebo",
+  "svg maps of serbia",
+  "serbia location map 2013"
+ ],
+ "wiki": {
+  "DateTime": "2013-08-25 17:46:39",
+  "Credit": "<p>own work, using United States National Imagery and Mapping Agency data\n</p>",
+  "DateTimeOriginal": "<p>2012-08-25\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Pogled_u_nebo\" title=\"User:Pogled u nebo\">Pogled u nebo</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

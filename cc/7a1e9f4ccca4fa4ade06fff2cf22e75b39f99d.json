@@ -1,0 +1,22 @@
+{
+ "sha1": "cc7a1e9f4ccca4fa4ade06fff2cf22e75b39f99d",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/94/Kirbyplaza-night.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Kirbyplaza-night",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=32393558",
+  "html": "<p>University of Minnesota Duluth\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-07-12 21:05:27",
+  "Credit": "<p>University of Minnesota Duluth\n</p>",
+  "DateTimeOriginal": "<p>July 14, 2011\n</p>",
+  "Artist": "<p>University of Minnesota Duluth\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

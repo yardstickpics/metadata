@@ -1,0 +1,22 @@
+{
+ "sha1": "b2accd6caf7c82bb5026fff4ec99894e9dd47e0a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Bug_screenshot_for_actual_live_preview_script.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Bug screenshot for actual live preview script",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=49369693",
+  "html": "<p>Demonstrates the live preview sizing bug.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2016-02-09 02:06:32",
+  "Credit": "<p>screenshot\n</p>",
+  "DateTimeOriginal": "<p>2016-02-08\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Cyberpower678\" title=\"User:Cyberpower678\">Cyberpower678</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

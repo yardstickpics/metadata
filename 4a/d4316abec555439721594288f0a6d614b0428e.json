@@ -1,0 +1,22 @@
+{
+ "sha1": "4ad4316abec555439721594288f0a6d614b0428e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/97/Giraffe_at_Hilton.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Giraffe at Hilton",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=39430778",
+  "html": "<p>A Giraffe on the <a href=\"//en.wikipedia.org/wiki/Hilton_College_(South_Africa)\" title=\"Hilton College (South Africa)\">Hilton College</a> Estate\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-05-19 21:57:12",
+  "Credit": "<p>On the Hilton College Estate\n</p>",
+  "DateTimeOriginal": "<p>2012\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Mattpbarry\" title=\"User:Mattpbarry\">Mattpbarry</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "sha1": "6ce50a6f5b76d71fd2f0b547ea3b9fa160db5f18",
+ "lic": "cc-by-sa-4.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/Keith_A._Schooley.tiff",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Keith A. Schooley",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47767202",
+  "html": "<p>Schooley in 2002, from his book jacket. Photo by Lynn Smith. <a class=\"external free\" href=\"https://en.wikipedia.org/wiki/Draft:Keith_A._Schooley\">https://en.wikipedia.org/wiki/Draft:Keith_A._Schooley</a>\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ],
+ "wiki": {
+  "DateTime": "2015-09-09 15:51:10",
+  "Credit": "<p>Keith A.Schooley sent me file. It also appears on his website.\n</p>",
+  "DateTimeOriginal": "<p>November 28, 2001\n</p>",
+  "Artist": "<p>Lynn Smith\n</p>",
+  "Permission": "<table class=\"plainlinks imbox imbox-notice\" role=\"presentation\"><tr>\n<td class=\"mbox-image\"><a href=\"//en.wikipedia.org/wiki/File:OTRS_Wikimedia.svg\" class=\"image\" title=\"OTRS icon\"><img alt=\"OTRS icon\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/100px-OTRS_Wikimedia.svg.png\" width=\"100\" height=\"54\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/150px-OTRS_Wikimedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/200px-OTRS_Wikimedia.svg.png 2x\" data-file-width=\"120\" data-file-height=\"65\"></a></td>\n<td class=\"mbox-text\">The permission for use of this work has been archived in <a href=\"//meta.wikimedia.org/wiki/OTRS\" class=\"extiw\" title=\"m:OTRS\">the Wikimedia OTRS system</a>; it is available <span class=\"plainlinksneverexpand\">as <b><a class=\"external text\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2015090910018877\">ticket 2015090910018877</a></b></span> for users with an OTRS account. To confirm the permission, please contact OTRS volunteers at their <a href=\"//en.wikipedia.org/wiki/Wikipedia:OTRS_noticeboard\" title=\"Wikipedia:OTRS noticeboard\">noticeboard</a>. <span id=\"field-otrs\" title=\"{{{1}}}\"></span>\n</td>\n</tr></table>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 4.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/4.0/"
+ }
+}

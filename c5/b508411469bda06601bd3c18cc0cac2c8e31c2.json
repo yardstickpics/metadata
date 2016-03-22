@@ -1,0 +1,22 @@
+{
+ "sha1": "c5b508411469bda06601bd3c18cc0cac2c8e31c2",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Imam_Husayn.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Imam Husayn",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40536196",
+  "html": "<p>Created by Zabranos\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-09-15 09:10:37",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2013-09-15\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Zabranos\" title=\"User:Zabranos\">Zabranos</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

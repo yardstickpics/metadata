@@ -1,0 +1,22 @@
+{
+ "sha1": "4d5a754af7036cc6c644f4313384de3dc83c01a9",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c9/CentralNaugatuckValleyRegion.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CentralNaugatuckValleyRegion",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37552981",
+  "html": "<p>A map showing the location of the Central Naugatuck Valley region in the state of Connecticut\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-11-05 19:58:37",
+  "Credit": "<p>Used ArcGIS\n</p>",
+  "DateTimeOriginal": "<p>2012-11-05\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Pgalag87&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Pgalag87 (page does not exist)\">Pgalag87</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

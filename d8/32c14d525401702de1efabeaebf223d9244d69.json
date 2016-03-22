@@ -1,0 +1,26 @@
+{
+ "sha1": "d832c14d525401702de1efabeaebf223d9244d69",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5c/Gazebo_screenshot_v5.0.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Gazebo screenshot v5.0",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47247985",
+  "html": "<p><b>English:</b>  Screenshot of Gazebo\n</p>"
+ },
+ "tags": [
+  "screenshots"
+ ],
+ "wiki": {
+  "DateTime": "2015-07-15 19:53:23",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://gazebosim.org/media\">http://gazebosim.org/media</a>\n</p>",
+  "DateTimeOriginal": "<p>2015-07-15\n</p>",
+  "Artist": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://gazebosim.org/\">http://gazebosim.org/</a>\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://gazebosim.org/\">http://gazebosim.org/</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

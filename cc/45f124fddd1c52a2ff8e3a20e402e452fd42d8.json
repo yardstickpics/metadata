@@ -1,0 +1,22 @@
+{
+ "sha1": "cc45f124fddd1c52a2ff8e3a20e402e452fd42d8",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b0/Gem_spa_cropped.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Gem spa cropped",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=30285516",
+  "html": "<p>a cropped photo of GEM SPA\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-01-03 01:30:16",
+  "Credit": "<p><a class=\"external free\" href=\"http://commons.wikimedia.org/wiki/File:Gemspaphoto.jpg\">http://commons.wikimedia.org/wiki/File:Gemspaphoto.jpg</a>\n</p>",
+  "DateTimeOriginal": "<p>01:30, 3 January 2011 (UTC)\n</p>",
+  "Artist": "<p>Tduk Alex Lozupone\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

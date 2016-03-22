@@ -1,0 +1,22 @@
+{
+ "sha1": "c34b364a7d7ab495de2b3177f1b9e96a13043f06",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/15/Montreal-panorama-mtRoyal.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Montreal-panorama-mtRoyal",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=12285338",
+  "html": "<p>Panoramic shot of Mt. Royal in daytime\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2007-07-17 00:55:52",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>July 8, 2007\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Generic_shell\" title=\"User:Generic shell\">Generic shell</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

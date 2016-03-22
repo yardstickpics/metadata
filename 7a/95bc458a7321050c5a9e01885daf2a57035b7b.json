@@ -1,0 +1,25 @@
+{
+ "sha1": "7a95bc458a7321050c5a9e01885daf2a57035b7b",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7a/5May2014Yobot.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507656,
+ "name": "5May2014Yobot",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42797051",
+  "html": "<p>Screenshot of watchlist showing Yobot activity on May 5 2014\n</p>"
+ },
+ "tags": [
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2014-05-19 00:11:48",
+  "Credit": "<p>Screenshot of Wikipedia\n</p>",
+  "DateTimeOriginal": "<p>2014-05-19\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:JohnBlackburne\" title=\"User:JohnBlackburne\">JohnBlackburne</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

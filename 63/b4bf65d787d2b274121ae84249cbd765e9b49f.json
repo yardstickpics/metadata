@@ -1,0 +1,18 @@
+{
+ "sha1": "63b4bf65d787d2b274121ae84249cbd765e9b49f",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Eastern_Europe_relief_location_map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Eastern Europe relief location map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33657266"
+ },
+ "wiki": {
+  "DateTime": "2011-11-07 17:05:16",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

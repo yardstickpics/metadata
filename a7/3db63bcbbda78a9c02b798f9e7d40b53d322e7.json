@@ -1,0 +1,23 @@
+{
+ "sha1": "a73db63bcbbda78a9c02b798f9e7d40b53d322e7",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Mercury_emissions_by_light_source_EPA_2008.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Mercury emissions by light source EPA 2008",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25504799",
+  "html": "<p>EPA data sheet emissions of mercury\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-12-22 06:28:37",
+  "Credit": "<p>Updated Mercury emissions by light source (en).svg with July 2008 EPA data from <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.energystar.gov/ia/partners/promotions/change_light/downloads/Fact_Sheet_Mercury.pdf\">[1]</a>\n</p>",
+  "DateTimeOriginal": "<p>20:57, 20 December 2009 (UTC)\n</p>",
+  "Artist": "<p>W. T. Shymanski updating the file by Benjamin D. Esham for the Wikimedia Commons.\n</p>",
+  "Permission": "<p>Creative commons share-alike 3.0 as for original version\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

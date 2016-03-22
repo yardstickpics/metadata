@@ -1,0 +1,24 @@
+{
+ "sha1": "eb032c72c217379533168694fb0e09dedfe9c6fa",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/User-kylestag-png.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "User-kylestag-png",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48438855",
+  "html": "<p>User:Kylestag profile image\n</p>"
+ },
+ "tags": [
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2015-11-02 06:48:25",
+  "Credit": "<p>Own work\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Kylestag\" title=\"User:Kylestag\">Kylestag</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Kylestag\" title=\"User talk:Kylestag\">talk</a>) (<a href=\"//en.wikipedia.org/wiki/Special:ListFiles/Kylestag\" title=\"Special:ListFiles/Kylestag\">Uploads</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

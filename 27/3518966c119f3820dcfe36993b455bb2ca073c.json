@@ -1,0 +1,23 @@
+{
+ "sha1": "273518966c119f3820dcfe36993b455bb2ca073c",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/Colonne1852.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Colonne1852",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35946656",
+  "html": "<p>Detail from \"Plan d'Athènes\" 1852, published by Dépôt de la Guerre (Paris).\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-05-26 22:21:26",
+  "Credit": "<p>Original viewable at <a rel=\"nofollow\" class=\"external free\" href=\"http://gallica.bnf.fr/ark:/12148/btv1b8441168d\">http://gallica.bnf.fr/ark:/12148/btv1b8441168d</a>. Enhanced digital version from <a rel=\"nofollow\" class=\"external free\" href=\"http://www.flickr.com/photos/athens_greece/7275707020/\">http://www.flickr.com/photos/athens_greece/7275707020/</a>\n</p>",
+  "DateTimeOriginal": "<p>1852\n</p>",
+  "Artist": "<p>Martin Baldwin-Edwards (scan and digital enhancements)\n</p>",
+  "Permission": "<p>Original publication is in the public domain ({{<a href=\"//en.wikipedia.org/wiki/Template:PD-old\" title=\"Template:PD-old\" class=\"mw-redirect\">PD-old</a>}}). Digital enhanced version released under cc-by-sa.\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

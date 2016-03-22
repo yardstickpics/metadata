@@ -1,0 +1,23 @@
+{
+ "sha1": "61699b347445fbb32088358594c67f895037c59f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b7/Ten_hills_map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Ten hills map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=21634350",
+  "html": "<p>Map of the Ten Hills neighborhood in Somerville, MA\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-02-21 13:28:45",
+  "Credit": "<p>OpenStreetMap\n</p>",
+  "DateTimeOriginal": "<p>2009-02-21\n</p>",
+  "Artist": "<p>OpenStreetMap\n</p>",
+  "Permission": "<p>Creative Commons Attribution-ShareAlike license.\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

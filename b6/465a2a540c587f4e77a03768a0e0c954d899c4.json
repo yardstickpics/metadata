@@ -1,0 +1,23 @@
+{
+ "sha1": "b6465a2a540c587f4e77a03768a0e0c954d899c4",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Peter_Landrock.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Peter Landrock",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46795168",
+  "html": "<p>Peter Landrock\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-05-15 17:14:31",
+  "Credit": "<p>Peter Landrock\n</p>",
+  "DateTimeOriginal": "<p>2014\n</p>",
+  "Artist": "<p>Stefan Hansen\n</p>",
+  "Permission": "<table class=\"plainlinks imbox imbox-notice\" role=\"presentation\"><tr>\n<td class=\"mbox-image\"><a href=\"//en.wikipedia.org/wiki/File:OTRS_Wikimedia.svg\" class=\"image\" title=\"OTRS icon\"><img alt=\"OTRS icon\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/100px-OTRS_Wikimedia.svg.png\" width=\"100\" height=\"54\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/150px-OTRS_Wikimedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/200px-OTRS_Wikimedia.svg.png 2x\" data-file-width=\"120\" data-file-height=\"65\"></a></td>\n<td class=\"mbox-text\">The permission for use of this work has been archived in <a href=\"//meta.wikimedia.org/wiki/OTRS\" class=\"extiw\" title=\"m:OTRS\">the Wikimedia OTRS system</a>; it is available <span class=\"plainlinksneverexpand\">as <b><a class=\"external text\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2015051610007766\">ticket 2015051610007766</a></b></span> for users with an OTRS account. To confirm the permission, please contact OTRS volunteers at their <a href=\"//en.wikipedia.org/wiki/Wikipedia:OTRS_noticeboard\" title=\"Wikipedia:OTRS noticeboard\">noticeboard</a>. <span id=\"field-otrs\" title=\"2015051610007766\"></span>\n</td>\n</tr></table>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

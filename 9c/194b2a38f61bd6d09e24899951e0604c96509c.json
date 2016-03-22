@@ -1,0 +1,28 @@
+{
+ "sha1": "9c194b2a38f61bd6d09e24899951e0604c96509c",
+ "lic": "cc-by-sa-4.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/23/24th_World_Scout_Jamboree.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507656,
+ "name": "24WSJ2019",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47809162",
+  "html": "24th World Scout Jamboree 2019 which will be held in North America"
+ },
+ "tags": [
+  "deletion requests march 2016",
+  "uploaded with uploadwizard",
+  "world scout jamboree wsj"
+ ],
+ "wiki": {
+  "DateTime": "2016-02-25 15:24:15",
+  "DateTimeOriginal": "2016-02-25",
+  "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+  "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Prompri\" title=\"User:Prompri\">Prompri</a>",
+  "UsageTerms": "Creative Commons Attribution-Share Alike 4.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/4.0",
+  "DeletionReason": "[[Commons:Deletion requests/File:24WSJ2019.png]]: Complex logo, not the uploader's \"own work\"."
+ }
+}

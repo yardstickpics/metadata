@@ -1,0 +1,22 @@
+{
+ "sha1": "b692d4f0bb6a43d472f248fb9a34968407cb97bf",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Juvgartersnake.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Juvgartersnake",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=23222591",
+  "html": "<p>Close-up of a wild juvenile eastern garter snake\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-06-15 00:56:25",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>2009-5-19\n</p>",
+  "Artist": "<p>Ryan Tinsley\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "3b46fa830a6fda97862fe485b859f62372c59099",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/72/Fayve_Carousel.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Fayve Carousel",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37704089",
+  "html": "<p>This is a screenshot of the Fayve carousel.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-11-21 07:44:35",
+  "Credit": "<p>I am a member of the creators of the Fayve app.\n</p>",
+  "DateTimeOriginal": "<p>11/20/12\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:425brandon&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:425brandon (page does not exist)\">425brandon</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

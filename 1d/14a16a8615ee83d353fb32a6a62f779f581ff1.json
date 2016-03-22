@@ -1,0 +1,18 @@
+{
+ "sha1": "1d14a16a8615ee83d353fb32a6a62f779f581ff1",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/99/Joe_penna.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Joe penna",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33104958"
+ },
+ "wiki": {
+  "DateTime": "2011-09-16 13:30:29",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

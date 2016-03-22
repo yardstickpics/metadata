@@ -1,0 +1,23 @@
+{
+ "sha1": "aadb3f09f218fdbc019945803ebf7f8bfec39b36",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c6/Fuller_projection_rotated_%28land_only%29.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Fuller projection rotated (land only)",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=30428643",
+  "html": "<p><b>English:</b>  Blank map of the world in an unfolded Fuller projection, also known as <i><a href=\"//en.wikipedia.org/wiki/Dymaxion_map\" title=\"Dymaxion map\">Dymaxion Air-Ocean World map</a></i>. 1954 final version for an <a href=\"//en.wikipedia.org/wiki/Icosahedron\" title=\"Icosahedron\">icosahedron</a>, modified to only include continent outlines\n<a href=\"//en.wikipedia.org/wiki/French_language\" title=\"French language\">French</a>: <span lang=\"fr\"><i>Carte du monde suivant une <a href=\"//fr.wikipedia.org/wiki/projection_de_Fuller\" class=\"extiw\" title=\"fr:projection de Fuller\">projection de Fuller</a> dépliée, aussi appelée </i>carte Dymaxion<i>. Version finale de 1954 pour un <a href=\"//fr.wikipedia.org/wiki/icosa%C3%A8dre\" class=\"extiw\" title=\"fr:icosaèdre\">icosaèdre</a>, avec lignes de pliures.</i></span>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-01-11 23:13:07",
+  "Credit": "<p>Modified from <a href=\"//en.wikipedia.org/wiki/File:Fuller_projection_rotated.svg\" title=\"File:Fuller projection rotated.svg\">File:Fuller_projection_rotated.svg</a><br>\nData used: NGDC World Coast Line (in Public Domain)\n</p>",
+  "DateTimeOriginal": "<p>2011-01-11\n</p>",
+  "Artist": "<p>Eric Gaba (<a href=\"//en.wikipedia.org/wiki/User:Sting\" title=\"User:Sting\">Sting</a> - <a href=\"//fr.wikipedia.org/wiki/Utilisateur:Sting\" class=\"extiw\" title=\"fr:Utilisateur:Sting\">fr:Sting</a>); modified by Nader Moussa (<a href=\"//en.wikipedia.org/wiki/User:Nimur\" title=\"User:Nimur\">User:Nimur</a>)\n</p>",
+  "Permission": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Sting/Credits&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sting/Credits (page does not exist)\">User:Sting/Credits</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

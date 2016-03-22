@@ -1,0 +1,18 @@
+{
+ "sha1": "c4f2fe0f0167b0651bfa8423bce673eac60e72bf",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/be/Warsteed_1987.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Warsteed 1987",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=32162545"
+ },
+ "wiki": {
+  "DateTime": "2011-06-21 17:38:51",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

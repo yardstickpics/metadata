@@ -1,0 +1,22 @@
+{
+ "sha1": "7efd5011fccfcfd9c3274f1329fadeb689b64d0a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Waucountylocation.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Waucountylocation",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=49617412",
+  "html": "<p>This is the location of <a href=\"//en.wikipedia.org/wiki/Wau_County\" title=\"Wau County\">Wau County</a> in <a href=\"//en.wikipedia.org/wiki/South_Sudan\" title=\"South Sudan\">South Sudan</a>.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2016-03-02 04:29:10",
+  "Credit": "<p>I made it by highlighting and zooming up, focusing on the county.\n</p>",
+  "DateTimeOriginal": "<p>March 1st, 2016\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:HyettsTheGamer2&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:HyettsTheGamer2 (page does not exist)\">HyettsTheGamer2</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "sha1": "84ebfa46d8ae5a1221d6601795c5e041dc356a25",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Camerarius_Birthplace.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Camerarius Birthplace",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47912191"
+ },
+ "wiki": {
+  "DateTime": "2015-09-23 18:45:06",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "sha1": "cd417d2684afcb7c252bc06e6ba4fd807d90419f",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/72/Saginaw_City_Hall.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Saginaw City Hall",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=5734817"
+ },
+ "tags": [
+  "images of michigan"
+ ],
+ "wiki": {
+  "DateTime": "2006-06-27 19:37:47",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

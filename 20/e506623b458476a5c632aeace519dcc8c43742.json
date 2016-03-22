@@ -1,0 +1,16 @@
+{
+ "sha1": "20e506623b458476a5c632aeace519dcc8c43742",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/09/Map_of_battle_of_Kleisoura_Pass%2C_April_1941.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Map of battle of Kleisoura Pass, April 1941",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48984303",
+  "html": "<p><b>English:</b>  Map of the battle of Kleisoura Pass on 13 and 14 April. Blue color shows Greek forces and red color shows German forces.\n</p>"
+ },
+ "tags": [
+  "pd greece"
+ ]
+}

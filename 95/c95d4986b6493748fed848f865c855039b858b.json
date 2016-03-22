@@ -1,0 +1,22 @@
+{
+ "sha1": "95c95d4986b6493748fed848f865c855039b858b",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/04/Provincial_Boundaries_in_Cambodia.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Provincial Boundaries in Cambodia",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43121523",
+  "html": "<p>Up-to-date map of provincial boundaries in Cambodia, with accurate shapes.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-06-23 10:29:33",
+  "Credit": "<p>Map created by myself using QGIS\n</p>",
+  "DateTimeOriginal": "<p>2014-06-23\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:NIRVn&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:NIRVn (page does not exist)\">NIRVn</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

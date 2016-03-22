@@ -1,0 +1,25 @@
+{
+ "sha1": "4e83762bd1390996e0846f846736c061f772a6b1",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1a/Packed_gallery.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Packed gallery",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42507627",
+  "html": "<p>Screenshot from Wikipedia, to be used in tlak page discussion\n</p>"
+ },
+ "tags": [
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2014-04-16 15:26:39",
+  "Credit": "<p>Wikipedia\n</p>",
+  "DateTimeOriginal": "<p>15:26, 16 April 2014 (UTC)\n</p>",
+  "Artist": "<p>Wikipedia, screenshot by <a href=\"//en.wikipedia.org/wiki/User:Beyond_My_Ken\" title=\"User:Beyond My Ken\">BMK</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Beyond_My_Ken\" title=\"User talk:Beyond My Ken\">talk</a>) 15:26, 16 April 2014 (UTC)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

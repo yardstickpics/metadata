@@ -1,0 +1,25 @@
+{
+ "sha1": "0a099102802ac4cd018ed90fa5ed9580c3516f17",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5f/Lazy-A-Gator.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Lazy-A-Gator",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25372036",
+  "html": "<p>Yours truly, at Everglades Alligator Farm, <a href=\"//en.wikipedia.org/wiki/Florida_City,_Florida\" title=\"Florida City, Florida\">Florida City, Florida</a> <span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"//tools.wmflabs.org/geohack/geohack.php?pagename=File%3ALazy-A-Gator.png&amp;params=25.393297_N_-80.500388_E_type:landmark_region:US\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°23′36″N</span> <span class=\"longitude\">80°30′01″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.393297°N 80.500388°W</span><span style=\"display:none\">﻿ / <span class=\"geo\">25.393297; -80.500388</span></span></span></a></span>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-12-09 13:44:11",
+  "GPSLatitude": "25.393297",
+  "GPSLongitude": "-80.500388",
+  "GPSMapDatum": "WGS-84",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/wiki/User:Sswonk\" title=\"User:Sswonk\">Sswonk</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Sswonk\" title=\"User talk:Sswonk\">talk</a>)) created this work entirely by myself. Entourage member identity obscured for security reasons. Actually, she is <i>Ein unbekannter deutscher Frau-Tourist.</i>\n</p>",
+  "DateTimeOriginal": "<p>13:44, 9 December 2009 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Sswonk\" title=\"User:Sswonk\">Sswonk</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Sswonk\" title=\"User talk:Sswonk\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

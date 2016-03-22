@@ -1,0 +1,26 @@
+{
+ "sha1": "c3dc4513506109aea9c30a618b399852732cd5c1",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Peter_Neptune.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Peter Neptune",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47075082",
+  "html": "<p>This is the photo of Master Sommelier Peter Neptune, used for the purposes of identification in his article.\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ],
+ "wiki": {
+  "DateTime": "2015-06-25 08:15:27",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://www.neptunewine.com/\">NW</a>\n</p>",
+  "DateTimeOriginal": "<p>2014\n</p>",
+  "Artist": "<p>Brenda Brazier\n</p>",
+  "Permission": "<table class=\"plainlinks imbox imbox-notice\" role=\"presentation\"><tr>\n<td class=\"mbox-image\"><a href=\"//en.wikipedia.org/wiki/File:OTRS_Wikimedia.svg\" class=\"image\" title=\"OTRS icon\"><img alt=\"OTRS icon\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/100px-OTRS_Wikimedia.svg.png\" width=\"100\" height=\"54\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/150px-OTRS_Wikimedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/200px-OTRS_Wikimedia.svg.png 2x\" data-file-width=\"120\" data-file-height=\"65\"></a></td>\n<td class=\"mbox-text\">The permission for use of this work has been archived in <a href=\"//meta.wikimedia.org/wiki/OTRS\" class=\"extiw\" title=\"m:OTRS\">the Wikimedia OTRS system</a>; it is available <span class=\"plainlinksneverexpand\">as <b><a class=\"external text\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2015062510017423\">ticket 2015062510017423</a></b></span> for users with an OTRS account. To confirm the permission, please contact OTRS volunteers at their <a href=\"//en.wikipedia.org/wiki/Wikipedia:OTRS_noticeboard\" title=\"Wikipedia:OTRS noticeboard\">noticeboard</a>. <span id=\"field-otrs\" title=\"{{{1}}}\"></span>\n</td>\n</tr></table>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

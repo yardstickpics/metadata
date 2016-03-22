@@ -1,0 +1,25 @@
+{
+ "sha1": "3efa9d2e6d77cd67ef0c60880593725d41763c29",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hwy_420_and_Horseshoe_Falls.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Hwy 420 and Horseshoe Falls",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33495378",
+  "html": "<p>Aerial view of Niagara Falls, showcasing Highway 420, the Rainbow Bridge and the Horseshoe Falls.\n</p>"
+ },
+ "tags": [
+  "aerial photographs of ontario roads"
+ ],
+ "wiki": {
+  "DateTime": "2011-10-22 15:22:29",
+  "Credit": "<p>Derivative of <a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/t_abdelmoumen/2848512567/in/photostream/\">Chutes de Niagara</a>\n</p>",
+  "DateTimeOriginal": "<p>March 24, 2008\n</p>",
+  "Artist": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/t_abdelmoumen/\">Tab59</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

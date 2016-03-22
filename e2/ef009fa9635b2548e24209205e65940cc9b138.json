@@ -1,0 +1,23 @@
+{
+ "sha1": "e2ef009fa9635b2548e24209205e65940cc9b138",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/76/Boston_area_college_town_map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Boston area college town map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=27376191",
+  "html": "<p>Map of colleges and universities in the <a href=\"//en.wikipedia.org/wiki/Boston,_Massachusetts\" title=\"Boston, Massachusetts\" class=\"mw-redirect\">Boston, Massachusetts</a> area\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-07-01 00:29:58",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.radicalcartography.net/?boston_campus\">http://www.radicalcartography.net/?boston_campus</a>\n</p>",
+  "DateTimeOriginal": "<p>20:06, 16 May 2010 (UTC)\n</p>",
+  "Artist": "<p>Bill Rankin original\n</p>",
+  "Permission": "<p>released under free use to update and edit\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "39a741d64566b7056cbe871b8a35b34134de68aa",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/65/User_Magioladitis_mass-editing.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "User Magioladitis mass-editing",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48451281",
+  "html": "<p>Illustration for mass-editing by user Magioladitis in November 2015.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-11-03 16:36:03",
+  "Credit": "<p>Screenshot from Wikipedia\n</p>",
+  "DateTimeOriginal": "<p>2015-11-03\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Intgr\" title=\"User:Intgr\">Intgr</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "09c1c84b56b09f0a40e7369b533c04c81b462f6f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0c/AFM-IR_schematic.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507656,
+ "name": "AFM-IR schematic",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44891982",
+  "html": "<p>Schematic of atomic force microscope-based infrared spectroscopy (AFM-IR)\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-12-30 16:17:57",
+  "Credit": "<p>own\n</p>",
+  "DateTimeOriginal": "<p>19 December 2014\n</p>",
+  "Artist": "<p>Anasys Instruments\n</p>",
+  "Permission": "<p>Anasys Instruments grants permission per licenses listed below\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "sha1": "978fd61469a550b8f413c4ad845e8e036e78bf43",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Scooter_in_Studio.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Scooter in Studio",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=12771136"
+ },
+ "wiki": {
+  "DateTime": "2007-08-14 21:25:12",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "Attribution": "Photo by: I.Allen",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

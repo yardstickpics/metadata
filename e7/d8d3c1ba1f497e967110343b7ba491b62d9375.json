@@ -1,0 +1,25 @@
+{
+ "sha1": "e7d8d3c1ba1f497e967110343b7ba491b62d9375",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Human_metabolism_and_Earth%27s_atmospheric_reaction_system.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Human metabolism and Earth's atmospheric reaction system",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42211887",
+  "html": "<p>Examples of networks that are too large to visualize (visualizations jokingly called \"ridiculograms\" in bioinformatics).\n</p>\n<p>Figure 2 of <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0019759\">[1]</a>.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-03-15 18:46:32",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0019759\">http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0019759</a>\n</p>",
+  "Artist": "<p>Petter Holme, Mikael Huss, Sang Hoon Lee\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.plosone.org/static/license\">http://www.plosone.org/static/license</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

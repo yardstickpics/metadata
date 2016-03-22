@@ -1,0 +1,22 @@
+{
+ "sha1": "d6d6334a5ecc04ba8eb6bc479593601bc8d823cd",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e8/Humble_Bundle_Total_Purchases.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Humble Bundle Total Purchases",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40974033",
+  "html": "<p>This is the total purchases people have donated to humble bundle, games, and charity.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-11-04 22:15:37",
+  "Credit": "<p>Used excel\n</p>",
+  "DateTimeOriginal": "<p>2013-11-04\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Cky2250\" title=\"User:Cky2250\">Cky2250</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

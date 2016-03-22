@@ -1,0 +1,26 @@
+{
+ "sha1": "61c6f7c017016dff524fb94116b9789871c7b8a0",
+ "lic": "cc-by-sa-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/TullyBlanchard.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "TullyBlanchard",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42622041",
+  "html": "<p>An image of professional wrestler <a href=\"//en.wikipedia.org/wiki/Tully_Blanchard\" title=\"Tully Blanchard\">Tully Blanchard</a>.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-04-29 22:55:11",
+  "Credit": "<p><a class=\"external free\" href=\"http://commons.wikimedia.org/wiki/File:Brain_Busters_(Anderson_and_Blanchard).jpg\">http://commons.wikimedia.org/wiki/File:Brain_Busters_(Anderson_and_Blanchard).jpg</a>\n</p>",
+  "DateTimeOriginal": "<p>29 January 2006\n</p>",
+  "Artist": "<p>John McKeon\n</p>",
+  "Permission": "<p><a class=\"external free\" href=\"http://commons.wikimedia.org/wiki/File:Brain_Busters_(Anderson_and_Blanchard).jpg\">http://commons.wikimedia.org/wiki/File:Brain_Busters_(Anderson_and_Blanchard).jpg</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ }
+}

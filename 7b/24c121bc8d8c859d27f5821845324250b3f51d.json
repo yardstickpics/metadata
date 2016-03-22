@@ -1,0 +1,20 @@
+{
+ "sha1": "7b24c121bc8d8c859d27f5821845324250b3f51d",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8a/MarketStreetSTL.bmp",
+ "ext": "bmp",
+ "from": "wiki",
+ "created": 1458518347,
+ "name": "MarketStreetSTL",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25449240",
+  "html": "<p>a free map from www.openstreetmap.org\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-12-16 00:09:13",
+  "Credit": "<p>Open Street Map\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

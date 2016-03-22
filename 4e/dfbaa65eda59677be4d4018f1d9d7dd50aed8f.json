@@ -1,0 +1,22 @@
+{
+ "sha1": "4edfbaa65eda59677be4d4018f1d9d7dd50aed8f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/00/NBC_Peacock_mascot_costume.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "NBC Peacock mascot costume",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=38421402",
+  "html": "<p>An example of a mascot costume.  This is the NBC peacock.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-02-04 19:01:43",
+  "Credit": "<p>I took the photograph, and my company made the costume.\n</p>",
+  "DateTimeOriginal": "<p>2006\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Oldschool&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Oldschool (page does not exist)\">Oldschool</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

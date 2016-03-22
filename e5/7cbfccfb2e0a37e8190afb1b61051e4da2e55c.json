@@ -1,0 +1,22 @@
+{
+ "sha1": "e57cbfccfb2e0a37e8190afb1b61051e4da2e55c",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/81/Chicken_Boy_L.A.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Chicken Boy L.A",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35600534",
+  "html": "<p>This is a picture of Chicken Boy, a landmark statue located on historic U S Route 66 in Los Angeles.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-04-24 04:46:17",
+  "Credit": "<p>Took picture myself.\n</p>",
+  "DateTimeOriginal": "<p>2012-01-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Marilyn_Nix\" title=\"User:Marilyn Nix\">Marilyn Nix</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

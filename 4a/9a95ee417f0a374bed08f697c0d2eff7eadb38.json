@@ -1,0 +1,22 @@
+{
+ "sha1": "4a9a95ee417f0a374bed08f697c0d2eff7eadb38",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/CASH_upper_map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CASH upper map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37730431",
+  "html": "<p>Map of upper-class California road articles.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-01-10 07:52:18",
+  "Credit": "<p><a href=\"//en.wikipedia.org/wiki/Quantum_GIS\" title=\"Quantum GIS\" class=\"mw-redirect\">Quantum GIS</a>\n</p>",
+  "DateTimeOriginal": "<p>2012-11-24\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Rschen7754\" title=\"User:Rschen7754\">Rschen7754</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

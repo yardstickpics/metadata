@@ -1,0 +1,18 @@
+{
+ "sha1": "1a45f90ce6ba5fee95ddc341fe0a32d57293abf6",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/38/RichFranklin.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "RichFranklin",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=13101968"
+ },
+ "wiki": {
+  "DateTime": "2007-09-05 02:04:53",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

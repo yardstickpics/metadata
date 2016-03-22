@@ -1,0 +1,22 @@
+{
+ "sha1": "3bf19e6d75986b592f3991c946295435f3ff6714",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5c/Channy_Yun%27s_photograph.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Channy Yun's photograph",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41415587",
+  "html": "<p>It's Channy Yun's photograph file.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-12-20 09:49:18",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2012-01-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Secmania\" title=\"User:Secmania\">Secmania</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

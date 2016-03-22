@@ -1,0 +1,22 @@
+{
+ "sha1": "e54ecc2cf8d77f68887ab1f69ab05a34a5834043",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Diffraction_data.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Diffraction data",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=20891465",
+  "html": "<p>diffraction data used in the phase retrieval example\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-12-30 16:27:17",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>12/30/2008\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Veit_Elser&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Veit Elser (page does not exist)\">elvistree</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Veit_Elser\" title=\"User talk:Veit Elser\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

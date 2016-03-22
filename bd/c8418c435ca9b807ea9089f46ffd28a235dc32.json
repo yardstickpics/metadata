@@ -1,0 +1,22 @@
+{
+ "sha1": "bdc8418c435ca9b807ea9089f46ffd28a235dc32",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1b/Map_of_Bounouh.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Map of Bounouh",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43644799",
+  "html": "<p>This is a map of Bounouh.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-08-24 13:39:54",
+  "Credit": "<p>Photograph taken inside Bounouh Town Hall\n</p>",
+  "DateTimeOriginal": "<p>August 2014\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Mhamed.lakrimi\" title=\"User:Mhamed.lakrimi\">Mhamed.lakrimi</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

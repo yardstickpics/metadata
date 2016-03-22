@@ -1,0 +1,21 @@
+{
+ "sha1": "b92306d986dd9d948c04716e73cc110e3fc00715",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/African-Asian-Elephant-Skin1.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "African-Asian-Elephant-Skin1",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=20287054",
+  "html": "<p>Skin of an African (left) and Asian (right) elephant.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-11-19 04:32:16",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "Artist": "<p>Rajesh Kakkanatt\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

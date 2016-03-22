@@ -1,0 +1,26 @@
+{
+ "sha1": "1d0180b22dd18becddaa3ff5f39229ba1714d5d0",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Screenshot_of_strange_caption_on_%22Man_from_U.N.C.L.E.%22.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Screenshot of strange caption on \"Man from U.N.C.L.E.\"",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47546919",
+  "html": "<p>This is a screenshot of the Wikipedia Android app, showing a strange caption under the title image. This caption did not appear in any edit pages, or in the text of the page, so a talk section was opened about it. This picture is appended to that section.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2015-08-17 05:26:38",
+  "Credit": "<p><a class=\"external free\" href=\"https://en.m.wikipedia.org/wiki/The_Man_from_U.N.C.L.E\">https://en.m.wikipedia.org/wiki/The_Man_from_U.N.C.L.E</a>.\n</p>",
+  "DateTimeOriginal": "<p>16 August 2015\n</p>",
+  "Artist": "<p>Wikipedia\n</p>",
+  "Permission": "<p><a class=\"external free\" href=\"https://en.m.wikipedia.org/wiki/Wikipedia:Copyrights\">https://en.m.wikipedia.org/wiki/Wikipedia:Copyrights</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

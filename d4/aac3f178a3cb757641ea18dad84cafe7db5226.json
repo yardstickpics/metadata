@@ -1,0 +1,21 @@
+{
+ "sha1": "d4aac3f178a3cb757641ea18dad84cafe7db5226",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7e/WPHKT_pic.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "WPHKT pic",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=23487508",
+  "html": "<p>Picture for use in <a href=\"//en.wikipedia.org/wiki/Wikipedia:WikiProject_Hong_Kong_Transport\" title=\"Wikipedia:WikiProject Hong Kong Transport\" class=\"mw-redirect\">Wikipedia:WikiProject Hong Kong Transport</a>.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-07-04 10:34:05",
+  "Credit": "<p>Self-made\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:KX675\" title=\"User:KX675\"><span style=\"border: 1px solid #000000; border-right: none; background: #535FE0; padding: 0px 2px; color: white\">KX675 =]</span></a><a href=\"//en.wikipedia.org/wiki/User_talk:KX675\" title=\"User talk:KX675\"><span style=\"border: 1px solid #000000; background: white; padding: 0px 2px; color: black\">Talkbox</span></a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

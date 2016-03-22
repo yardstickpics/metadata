@@ -1,0 +1,22 @@
+{
+ "sha1": "d795c45993f1a63ef91c5868a502c4432fc54afa",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/69/Chapel_Street%2C_New_Haven.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Chapel Street, New Haven",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45579186",
+  "html": "<p>Chapel Street, a principal shopping corridor in New Haven, Connecticut\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-03-05 01:03:43",
+  "Credit": "<p>iPhone photo\n</p>",
+  "DateTimeOriginal": "<p>2015-03-03\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Iracaz\" title=\"User:Iracaz\">Iracaz</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

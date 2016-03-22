@@ -1,0 +1,22 @@
+{
+ "sha1": "7dc858848c6c246aff040843ccec9d0401ab85a7",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Sweetreet_Logo.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Sweetreet Logo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40574223",
+  "html": "<p>logo for sweetreet\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-09-19 10:31:43",
+  "Credit": "<p>in my office using Photoshop\n</p>",
+  "DateTimeOriginal": "<p>2013-03-21\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Damoritz\" title=\"User:Damoritz\">Damoritz</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

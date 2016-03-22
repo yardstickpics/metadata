@@ -1,0 +1,18 @@
+{
+ "sha1": "007ae8f8504821fbef1047ee26adbc684499a0ed",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Potomac.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Potomac",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=14281588"
+ },
+ "wiki": {
+  "DateTime": "2007-11-17 01:24:07",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

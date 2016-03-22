@@ -1,0 +1,25 @@
+{
+ "sha1": "e746ebb559c0c4a965bb5e23b1a76c5a86ed7f45",
+ "lic": "cc-by-sa-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/76/People%27s_Republic_of_China_Venezuela_Locator.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "People's Republic of China Venezuela Locator",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36084196",
+  "html": "<p>Map showing locations of China and Venezuela . Image based on File:BlankMap-World6, compact.svg\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2012-06-08 21:36:20",
+  "Credit": "<p><a class=\"external free\" href=\"http://en.wikipedia.org/wiki/File:BlankMap-World6.svg\">http://en.wikipedia.org/wiki/File:BlankMap-World6.svg</a>\n</p>",
+  "Artist": "<p>NuclearVacuum\n</p>",
+  "Permission": "<p><a class=\"external free\" href=\"http://en.wikipedia.org/wiki/File:BlankMap-World6.svg\">http://en.wikipedia.org/wiki/File:BlankMap-World6.svg</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ }
+}

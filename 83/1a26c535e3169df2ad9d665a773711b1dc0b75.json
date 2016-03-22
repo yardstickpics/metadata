@@ -1,0 +1,21 @@
+{
+ "sha1": "831a26c535e3169df2ad9d665a773711b1dc0b75",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/EuroCarGT_Banner.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "EuroCarGT Banner",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41035947"
+ },
+ "tags": [
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2013-11-10 17:54:54",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

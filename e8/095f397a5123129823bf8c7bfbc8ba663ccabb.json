@@ -1,0 +1,25 @@
+{
+ "sha1": "e8095f397a5123129823bf8c7bfbc8ba663ccabb",
+ "lic": "cc-by-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/2d/OccupyHarvardCloseup.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "OccupyHarvardCloseup",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37584143",
+  "html": "<p>Closeup of <a href=\"//en.wikipedia.org/wiki/File:Old_Yard,_Harvard_University,_Cambridge_MA.jpg\" title=\"File:Old Yard, Harvard University, Cambridge MA.jpg\">File:Old Yard, Harvard University, Cambridge MA.jpg</a>\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2012-11-09 02:58:38",
+  "Credit": "<p>Wikimedia Commons\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Faolin42\" title=\"User:Faolin42\">John Phelan</a>\n</p>",
+  "Permission": "<p>Closeup from a photo already licensed on Commons\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/1.0/"
+ }
+}

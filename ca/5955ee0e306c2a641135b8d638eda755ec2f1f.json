@@ -1,0 +1,22 @@
+{
+ "sha1": "ca5955ee0e306c2a641135b8d638eda755ec2f1f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/12/Crowhurst_Park_Manor_House.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Crowhurst Park Manor House",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42831773",
+  "html": "<p>Manor House rear view\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-05-22 11:25:15",
+  "Credit": "<p>Spring walk\n</p>",
+  "DateTimeOriginal": "<p>2014-05-19\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Crowhurst_Park\" title=\"User:Crowhurst Park\">Crowhurst Park</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

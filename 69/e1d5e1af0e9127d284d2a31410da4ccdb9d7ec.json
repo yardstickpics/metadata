@@ -1,0 +1,25 @@
+{
+ "sha1": "69e1d5e1af0e9127d284d2a31410da4ccdb9d7ec",
+ "lic": "cc-by-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Christopher_Timothy.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Christopher Timothy",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37272888",
+  "html": "<p>A image of actor Christopher Timothy, pictured at the York Mysterey Plays in 2012.\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ],
+ "wiki": {
+  "DateTime": "2012-10-09 16:08:46",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/allan_harris/6795002572/\">Flickr</a>\n</p>",
+  "DateTimeOriginal": "<p>23 February 2012\n</p>",
+  "Artist": "<p>Allan Harris\n</p>",
+  "UsageTerms": "Creative Commons Attribution 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.0/"
+ }
+}

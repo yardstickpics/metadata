@@ -1,0 +1,16 @@
+{
+ "sha1": "eaf9d6f1145c5d5075b01be6d973744dc10b822d",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/bf/Tasmanian_Government_Railways_system_map_%281890-1978%29.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Tasmanian Government Railways system map (1890-1978)",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=39807636",
+  "html": "<p>A map showing the entirety of the <a href=\"//en.wikipedia.org/wiki/Tasmanian_Government_Railways\" title=\"Tasmanian Government Railways\">Tasmanian Government Railways</a> system, including closed lines, branch lines and major stations.\n</p>\n<p>It is not fully complete (i.e dates for line closures, etc.) however it will be completed once sources have been found for this other information.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ]
+}

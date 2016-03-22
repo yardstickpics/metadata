@@ -1,0 +1,22 @@
+{
+ "sha1": "c7dcaf361423e933b563ebe6bfc30482eaf63ca2",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/52/Dominik_Tiefenthaler%2C_with_green_jacket%2C_on_wall.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Dominik Tiefenthaler, with green jacket, on wall",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37435215",
+  "html": "<p>Dominik Tiefenthaler standing in front of a graffiti wall.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-10-24 23:01:45",
+  "Credit": "<p>private<br><b>Previously published:</b> personal website\n</p>",
+  "DateTimeOriginal": "<p>2010-03-10\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Dmys_management\" title=\"User:Dmys management\">Dmys management</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "46a611eef28206f63f4d64f0f3783d5a52ce49c5",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9f/Ventura_River_Swimming-Hole.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Ventura River Swimming-Hole",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47189799",
+  "html": "<p>Swimming Hole on the Ventura River Preserve.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-07-08 21:56:12",
+  "Credit": "<p>Ojai Valley Land Conservancy\n</p>",
+  "Artist": "<p>Photo by Ojai Valley Land Conservancy.\n</p>",
+  "Permission": "<table class=\"plainlinks imbox imbox-notice\" role=\"presentation\"><tr>\n<td class=\"mbox-image\"><a href=\"//en.wikipedia.org/wiki/File:OTRS_Wikimedia.svg\" class=\"image\" title=\"OTRS icon\"><img alt=\"OTRS icon\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/100px-OTRS_Wikimedia.svg.png\" width=\"100\" height=\"54\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/150px-OTRS_Wikimedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/200px-OTRS_Wikimedia.svg.png 2x\" data-file-width=\"120\" data-file-height=\"65\"></a></td>\n<td class=\"mbox-text\">The permission for use of this work has been archived in <a href=\"//meta.wikimedia.org/wiki/OTRS\" class=\"extiw\" title=\"m:OTRS\">the Wikimedia OTRS system</a>; it is available <span class=\"plainlinksneverexpand\">as <b><a class=\"external text\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2015101210017654\">ticket 2015101210017654</a></b></span> for users with an OTRS account. To confirm the permission, please contact OTRS volunteers at their <a href=\"//en.wikipedia.org/wiki/Wikipedia:OTRS_noticeboard\" title=\"Wikipedia:OTRS noticeboard\">noticeboard</a>. <span id=\"field-otrs\" title=\"Sphilbrick\"></span>\n</td>\n</tr></table>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "sha1": "70c0b01c6917233de45c3237acb3dfb9968e674d",
+ "lic": "cc-by-sa-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Syrian_civil_war_3.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Syrian civil war 3",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42846452",
+  "html": "<p>white golan\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-05-23 23:25:31",
+  "Credit": "<p><a class=\"external free\" href=\"https://en.wikipedia.org/wiki/File:Syrian_civil_war_2.png\">https://en.wikipedia.org/wiki/File:Syrian_civil_war_2.png</a>\n</p>",
+  "DateTimeOriginal": "<p>20140524\n</p>",
+  "Artist": "<p>victor falk\n</p>",
+  "Permission": "<p><a class=\"external free\" href=\"https://en.wikipedia.org/wiki/File:Syrian_civil_war_2.png\">https://en.wikipedia.org/wiki/File:Syrian_civil_war_2.png</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ }
+}

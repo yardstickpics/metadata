@@ -1,0 +1,25 @@
+{
+ "sha1": "acfb22020e2b7625ecb287f255f023642d4536d0",
+ "lic": "cc-by-sa-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/25/TheBishops.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "TheBishops",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35716172",
+  "html": "<p>A Picture of the UK Band \"The Bishops\", dated 2011.\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ],
+ "wiki": {
+  "DateTime": "2012-05-04 11:00:03",
+  "Credit": "<p>Sent to me personally\n</p>",
+  "Artist": "<p>Peter Bishop\n</p>",
+  "Permission": "<table class=\"plainlinks imbox imbox-notice\" role=\"presentation\"><tr>\n<td class=\"mbox-image\"><a href=\"//en.wikipedia.org/wiki/File:OTRS_Wikimedia.svg\" class=\"image\" title=\"OTRS icon\"><img alt=\"OTRS icon\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/100px-OTRS_Wikimedia.svg.png\" width=\"100\" height=\"54\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/150px-OTRS_Wikimedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OTRS_Wikimedia.svg/200px-OTRS_Wikimedia.svg.png 2x\" data-file-width=\"120\" data-file-height=\"65\"></a></td>\n<td class=\"mbox-text\">The permission for use of this work has been archived in <a href=\"//meta.wikimedia.org/wiki/OTRS\" class=\"extiw\" title=\"m:OTRS\">the Wikimedia OTRS system</a>; it is available <span class=\"plainlinksneverexpand\">as <b><a class=\"external text\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2012050410004779\">ticket 2012050410004779</a></b></span> for users with an OTRS account. To confirm the permission, please contact OTRS volunteers at their <a href=\"//en.wikipedia.org/wiki/Wikipedia:OTRS_noticeboard\" title=\"Wikipedia:OTRS noticeboard\">noticeboard</a>. <span id=\"field-otrs\" title=\"{{{1}}}\"></span>\n</td>\n</tr></table>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ }
+}

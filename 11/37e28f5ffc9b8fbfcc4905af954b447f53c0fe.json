@@ -1,0 +1,22 @@
+{
+ "sha1": "1137e28f5ffc9b8fbfcc4905af954b447f53c0fe",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/79/Statue_of_Sun_Yat-sen.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Statue of Sun Yat-sen",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36388739",
+  "html": "<p>This file is from a photograph I myself took on September 25, 2011 at St. Mary's Square in San Francisco's Chinatown. It shows a famous statue of the famed Chinese leader Sun Yat-sen, by the sculptor, Benny Bufano.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-07-10 22:27:19",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2010-09-25\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Robert_Bruce_Livingston\" title=\"User:Robert Bruce Livingston\">Robert Bruce Livingston</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

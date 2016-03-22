@@ -1,0 +1,18 @@
+{
+ "sha1": "6d621cbb311a2552678da018ffc970f4f43bd691",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/db/Maryland_Map_From_US_Census_TIGER_File.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Maryland Map From US Census TIGER File",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45421843"
+ },
+ "wiki": {
+  "DateTime": "2015-02-16 23:02:35",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

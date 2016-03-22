@@ -1,0 +1,16 @@
+{
+ "sha1": "0a910302c200be3b2f9739b2c08f614daa2cf1a9",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Lorde_Pure_Heroine.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Lorde Pure Heroine",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40225813",
+  "html": "<p>This is the cover art for Pure Heroine by the artist Lorde. The cover art copyright is believed to belong to the label, Universal Music, or the graphic artist(s).\n</p>"
+ },
+ "tags": [
+  "other images that should be in svg format"
+ ]
+}

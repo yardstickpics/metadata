@@ -1,0 +1,23 @@
+{
+ "sha1": "f3280587f6547aee15844fbe692e9beab89b9fe5",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/3a/AspenHall8.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "AspenHall8",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=24468920",
+  "html": "<p>Rockhurst as owned by John Aspegren, President of the Produce Exchange\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-09-25 14:08:51",
+  "Credit": "<p>Fmr Owner's Photo\n</p>",
+  "DateTimeOriginal": "<p>14:08, 25 September 2009 (UTC)\n</p>",
+  "Artist": "<p>Aspegren\n</p>",
+  "Permission": "<p>Attribution necessary\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

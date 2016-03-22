@@ -1,0 +1,22 @@
+{
+ "sha1": "ead4a60d4333595990ad113a54a9b7b252727851",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Web_site_screenshot.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Web site screenshot",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=21854391",
+  "html": "<p>Screen shot of the school web site\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-03-07 03:44:39",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>3/3/2009\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:SoBC\" title=\"User:SoBC\">soBC</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:SoBC\" title=\"User talk:SoBC\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "sha1": "50cdd5ebae87193e1ab42c3dc73aa6b2904cbce3",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/34/Fires_Frequency_Map_of_Sumatra.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Fires Frequency Map of Sumatra",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45651194",
+  "html": "<p>A visualization of NASA MODIS fire records over time. This map is from a new website ekuatorial.com that I worked on with the Society of Indonesian Environmental Journalists, O Eco, and Axis Maps.\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "sha1": "face2025818a543ea41fd2689d53435f027d67d7",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b8/Four_hypotheses_of_phylogenetic_relationships_ray-finned_fishes2.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Four hypotheses of phylogenetic relationships ray-finned fishes2",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43526347",
+  "html": "<p>Four hypotheses of phylogenetic relationships among ray-finned fishes. (A) Formerly accepted view. (B) Currently accepted view. (C) An alternative hypothesis by Olsen. (D) Mitochondrial tree by Inoue <i>et al.</i>\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-09-27 05:41:20",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.biomedcentral.com/1741-7007/2/3\">http://www.biomedcentral.com/1741-7007/2/3</a>\n</p>",
+  "DateTimeOriginal": "<p>March 2004\n</p>",
+  "Artist": "<p>Kanae Kikugawa, Kazutaka Katoh, Shigehiro Kuraku, Hiroshi Sakurai, Osamu Ishida, Naoyuki Iwabe and Takashi Miyata\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.biomedcentral.com/about/access\">http://www.biomedcentral.com/about/access</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

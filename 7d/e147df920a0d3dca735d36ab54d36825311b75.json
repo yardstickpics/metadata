@@ -1,0 +1,22 @@
+{
+ "sha1": "7de147df920a0d3dca735d36ab54d36825311b75",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1a/Italian_Phonotactics.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Italian Phonotactics",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36071687",
+  "html": "<p>A visual demonstration of Italian phonotactics, based on the information in the article <a href=\"//en.wikipedia.org/wiki/Italian_phonology\" title=\"Italian phonology\">Italian phonology</a>.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-06-19 23:12:57",
+  "Credit": "<p>Inkscape\n</p>",
+  "DateTimeOriginal": "<p>2012/6/6\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Interchangeable\" title=\"User:Interchangeable\">Interchangeable</a>\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "sha1": "0b4ab1ffa932e9fe63b740c8c2551a373cf8f7a1",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/80/Kurdish_Political_Parties.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Kurdish Political Parties",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45170329",
+  "html": "<p>Diagram of Kurdish political parties and their relations.\n</p>\n<p>File needs to be exported as PNG before it can be used in articles. This is the original SVG source file for editing in Inkscape.\nUpload PNG here:\n<a class=\"external free\" href=\"https://en.wikipedia.org/wiki/File:Kurdish_Political_Parties.png\">https://en.wikipedia.org/wiki/File:Kurdish_Political_Parties.png</a>\n</p>"
+ },
+ "tags": [
+  "svgs for cleanup"
+ ],
+ "wiki": {
+  "DateTime": "2015-01-22 21:18:33",
+  "Credit": "<p>Own work\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Genjix\" title=\"User:Genjix\">Genjix</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Genjix\" title=\"User talk:Genjix\">talk</a>) (<a href=\"//en.wikipedia.org/wiki/Special:ListFiles/Genjix\" title=\"Special:ListFiles/Genjix\">Uploads</a>)\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

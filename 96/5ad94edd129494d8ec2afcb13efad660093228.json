@@ -1,0 +1,22 @@
+{
+ "sha1": "965ad94edd129494d8ec2afcb13efad660093228",
+ "lic": "cc-by-sa-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Citt%C3%A0_del_Vaticano.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Città del Vaticano",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31174211",
+  "html": "<p><b>English:</b>  Map of Vatican City\nGeographic limits of the map:\n</p>\n<ul>\n<li> N: 41.90862°</li>\n<li> S: 41.89805°</li>\n<li> W: 12.44195° </li>\n<li> E: 12.46448° </li>\n</ul>\n<table class=\"plainlinks imbox imbox-license licensetpl licensetpl\" role=\"presentation\"><tr>\n<td class=\"mbox-image\">\n<a href=\"//en.wikipedia.org/wiki/File:CC_some_rights_reserved.svg\" class=\"image\" title=\"Creative Commons: Some Rights Reserved\"><img alt=\"Creative Commons: Some Rights Reserved\" src=\"//upload.wikimedia.org/wikipedia/en/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png\" width=\"90\" height=\"36\" srcset=\"//upload.wikimedia.org/wikipedia/en/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x\" data-file-width=\"744\" data-file-height=\"300\"></a><br><a href=\"//en.wikipedia.org/wiki/File:Cc-by_new_white.svg\" class=\"image\" title=\"BY\"><img alt=\"BY\" src=\"//upload.wikimedia.org/wikipedia/en/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png\" width=\"24\" height=\"24\" srcset=\"//upload.wikimedia.org/wikipedia/en/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></a><a href=\"//en.wikipedia.org/wiki/File:Cc-sa_white.svg\" class=\"image\" title=\"SA\"><img alt=\"SA\" src=\"//upload.wikimedia.org/wikipedia/en/thumb/d/df/Cc-sa_white.svg/24px-Cc-sa_white.svg.png\" width=\"24\" height=\"24\" srcset=\"//upload.wikimedia.org/wikipedia/en/thumb/d/df/Cc-sa_white.svg/36px-Cc-sa_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/df/Cc-sa_white.svg/48px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></a>\n</td>\n<td class=\"mbox-text\" style=\"text-align: center;\">\n<i>This work is licensed under the <a href=\"//en.wikipedia.org/wiki/Creative_Commons\" title=\"Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"http://creativecommons.org/licenses/by-sa/2.0/\">Attribution-ShareAlike 2.0</a> License. </i><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/licenses/by-sa/2.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">CC-BY-SA-2.0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-ShareAlike 2.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span>\n</td>\n</tr></table>"
+ },
+ "wiki": {
+  "DateTime": "2011-03-13 22:49:54",
+  "Credit": "<p>OpenStreetMap\n</p>",
+  "DateTimeOriginal": "<p>2011-03-14\n</p>",
+  "Artist": "<p>OpenStreetMap\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.0/"
+ }
+}

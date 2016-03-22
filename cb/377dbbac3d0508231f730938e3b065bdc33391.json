@@ -1,0 +1,22 @@
+{
+ "sha1": "cb377dbbac3d0508231f730938e3b065bdc33391",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/67/MichaelWaldman.PNG",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "MichaelWaldman",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31665845",
+  "html": "<p>Michael Waldman\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-05-03 14:36:12",
+  "Credit": "<p>Brennan Center for Justice\n</p>",
+  "DateTimeOriginal": "<p>14:36, 3 May 2011 (UTC)\n</p>",
+  "Artist": "<p>Brennan Center for Justice\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

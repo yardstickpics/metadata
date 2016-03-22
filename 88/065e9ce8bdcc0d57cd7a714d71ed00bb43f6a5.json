@@ -1,0 +1,26 @@
+{
+ "sha1": "88065e9ce8bdcc0d57cd7a714d71ed00bb43f6a5",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/Main_page_errors.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Main page errors",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=32843645",
+  "html": "<p>Two screenshots stiched together of main page errors, for <a class=\"external text\" href=\"https://bugzilla.wikimedia.org/show_bug.cgi?id=30530\">bug 30530</a>. Deletion attempt on left, move attempt on right.\n</p>"
+ },
+ "tags": [
+  "screenshots of wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2011-08-23 17:44:33",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/wiki/User:Acather96\" title=\"User:Acather96\">Acather96</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Acather96\" title=\"User talk:Acather96\">talk</a>)) created the screenshots myself, see below for license of the wiki software and text.\n</p>",
+  "DateTimeOriginal": "<p>17:44, 23 August 2011 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Acather96\" title=\"User:Acather96\">Acather96</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Acather96\" title=\"User talk:Acather96\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "Attribution": "<a href=\"//wikimediafoundation.org/wiki/Contact_us\" class=\"extiw\" title=\"wmf:Contact us\">Wikimedia Foundation</a>",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

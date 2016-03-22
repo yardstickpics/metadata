@@ -1,0 +1,22 @@
+{
+ "sha1": "7346c70354b92a5c1ec3dfeeacb7eda977b31c43",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Spain_Photo.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Spain Photo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35072973",
+  "html": "<p>A photo taken in Spain\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-03-14 21:29:54",
+  "Credit": "<p>I took this photo two years ago\n</p>",
+  "DateTimeOriginal": "<p>Summer 2010\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:RaeD09\" title=\"User:RaeD09\">RaeD09</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

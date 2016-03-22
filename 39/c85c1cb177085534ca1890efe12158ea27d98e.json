@@ -1,0 +1,21 @@
+{
+ "sha1": "39c85c1cb177085534ca1890efe12158ea27d98e",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/57/Thunder2.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Thunder2",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=16816680",
+  "html": "<p>the bolt!\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-04-07 22:10:23",
+  "Credit": "<p>self-made\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Cream\" title=\"User:Cream\">Cream</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Cream\" title=\"User talk:Cream\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

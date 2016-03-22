@@ -1,0 +1,22 @@
+{
+ "sha1": "b33ef4de765104964597d730060bcf1c4564af65",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Ashworth_report_rail_diagram.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Ashworth report rail diagram",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=21390151",
+  "html": "<p>Proposed Melbourne Railway Expansion Diagram 1940\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-02-17 03:31:13",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>1940\n</p>",
+  "Artist": "<p>John Marmaduke Ashworth\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

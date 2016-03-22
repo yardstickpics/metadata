@@ -1,0 +1,18 @@
+{
+ "sha1": "2355901a368578491c587f17102d77ef878366c6",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/2f/Cutler_Harbor_Pano.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Cutler Harbor Pano",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33727296"
+ },
+ "wiki": {
+  "DateTime": "2011-11-12 20:39:19",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "445bda582e14def372bfd25da308077e2536cbb2",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Battle_of_Yarmouk_Day_Three.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Battle of Yarmouk Day Three",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=17743762",
+  "html": "<p>Battle map for the third day of the <a href=\"//en.wikipedia.org/wiki/Battle_of_Yarmouk\" title=\"Battle of Yarmouk\">Battle of Yarmouk</a>.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-06-03 01:58:23",
+  "Credit": "<p>I created this image entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>3 June 636\n</p>",
+  "Artist": "<p><span style=\"color:steelblue;border-bottom:1px solid green;\">Arun Reginald</span> (<a href=\"//en.wikipedia.org/wiki/User_talk:Arunreginald\" title=\"User talk:Arunreginald\">talk</a> · <a href=\"//en.wikipedia.org/wiki/Special:Contributions/Arunreginald\" title=\"Special:Contributions/Arunreginald\">contribs</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

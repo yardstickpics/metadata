@@ -1,0 +1,22 @@
+{
+ "sha1": "a308438cd45215eec78a93559e4e7fed9e2ecdf9",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/93/Rocky_Cliffs_about_Davenport_Tide_Pools.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Rocky Cliffs about Davenport Tide Pools",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=16208582",
+  "html": "Davenport, Ca.\n<p>Davenport Cliffs\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-03-10 05:41:43",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>March 8, 2008\n</p>",
+  "Artist": "<p>Kyle J. McElroy\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

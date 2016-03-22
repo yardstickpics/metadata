@@ -1,0 +1,22 @@
+{
+ "sha1": "522a294ccb3c1532aa4e5ea28d0d13b0785793ec",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/22/Clapham_Waterfall.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Clapham Waterfall",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=13320266",
+  "html": "<p>Waterfall at the top of Clapham village.\nLicensing:\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2007-09-18 05:22:59",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>18 September 2007\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:John_Farrer&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:John Farrer (page does not exist)\">John_Farrer</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:John_Farrer\" title=\"User talk:John Farrer\">talk</a>) (<a href=\"//en.wikipedia.org/wiki/Special:ListFiles/John_Farrer\" title=\"Special:ListFiles/John Farrer\">Uploads</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

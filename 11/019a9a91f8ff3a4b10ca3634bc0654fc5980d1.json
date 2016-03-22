@@ -1,0 +1,25 @@
+{
+ "sha1": "11019a9a91f8ff3a4b10ca3634bc0654fc5980d1",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Bounouh_MiddleSchool_1.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Bounouh MiddleSchool 1",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41427540",
+  "html": "<p>photo of the first middle school\n</p>"
+ },
+ "tags": [
+  "images with watermarks"
+ ],
+ "wiki": {
+  "DateTime": "2013-12-29 16:31:30",
+  "Credit": "<p>photo<br><b>Previously published:</b> no\n</p>",
+  "DateTimeOriginal": "<p>2013\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Mhamed.lakrimi\" title=\"User:Mhamed.lakrimi\">Mhamed.lakrimi</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

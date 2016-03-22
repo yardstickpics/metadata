@@ -1,0 +1,25 @@
+{
+ "sha1": "5072496930fd6c970c63800f8b8d31486d4ca118",
+ "lic": "cc-by-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Soteriamosaic.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Soteriamosaic",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42382381",
+  "html": "<p>Mosaic of Soteria, Greek spirit of security/protection.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-04-02 19:07:48",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.theoi.com/index.html\">http://www.theoi.com/index.html</a>\n</p>",
+  "Artist": "<p>Theoi.com\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.theoi.com/Galleries.html\">http://www.theoi.com/Galleries.html</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/1.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "13fb71a3db5b4848802c60b27a37f6912c222c4e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b8/Itm2a_CCDS_report.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Itm2a CCDS report",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43779472",
+  "html": "<p>The CCDS data set screenshot showing the report for Itm2a protein (CCDS 30349).\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-09-09 10:43:11",
+  "Credit": "<p>I searched the Itm2a gene on the CCDS database. And the figure is the result of Itm2a CCDS report.\n</p>",
+  "DateTimeOriginal": "<p>2014-08-30\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Xliu5&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Xliu5 (page does not exist)\">Xliu5</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "4b9fd53b96404d9ea4d4e7365880d46c0963fb54",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7e/PIFA_antennae.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "PIFA antennae",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48393433",
+  "html": "<p>A: printed inverted-F antenna (PIFA), B: meandered PIFA: C: patch antenna: D: PIFA in patch antenna form\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-10-28 23:53:09",
+  "Credit": "<p>Self created using Inkscape and GIMP, except for the board texture which is derived from <a href=\"//en.wikipedia.org/wiki/File:Fibreglasscast.JPG\" title=\"File:Fibreglasscast.JPG\">File:Fibreglasscast.JPG</a> by <a href=\"//en.wikipedia.org/wiki/User:Agnellous\" title=\"User:Agnellous\">User:Agnellous</a>\n</p>",
+  "DateTimeOriginal": "<p>28th October 2015\n</p>",
+  "Artist": "<p><b><a href=\"//en.wikipedia.org/wiki/User:Spinningspark\" title=\"User:Spinningspark\"><font style=\"background:#fafad2;color:#C08000\">Spinning</font></a><a href=\"//en.wikipedia.org/wiki/User_talk:Spinningspark\" title=\"User talk:Spinningspark\"><font style=\"color:#4840a0\">Spark<b></b></font></a></b>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "Attribution": "Courtesy <a class=\"external text\" href=\"http://en.wikipedia.org/wiki/User:Spinningspark\">Spinningspark at Wikipedia</a>",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

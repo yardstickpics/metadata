@@ -1,0 +1,22 @@
+{
+ "sha1": "42985add7379501fa82c3dd662e78abb9deae871",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Marand_resort_Philippines_1.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Marand resort Philippines 1",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46801294",
+  "html": "<p>The pool\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-05-26 05:48:16",
+  "Credit": "<p>Photo at re4sort\n</p>",
+  "DateTimeOriginal": "<p>2014-05-26\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Ablebris\" title=\"User:Ablebris\">Ablebris</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

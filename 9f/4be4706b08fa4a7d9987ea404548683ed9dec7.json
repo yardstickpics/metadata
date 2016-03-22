@@ -1,0 +1,23 @@
+{
+ "sha1": "9f4be4706b08fa4a7d9987ea404548683ed9dec7",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Smaller_picture.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Smaller picture",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31389037",
+  "html": "<p>Bertha May Crawford, 1909\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-04-04 18:10:03",
+  "Credit": "<p>Brandon Daily Sun, November 9, 1909\n</p>",
+  "DateTimeOriginal": "<p>18:10, 4 April 2011 (UTC)\n</p>",
+  "Artist": "<p>Brandon Daily Sun\n</p>",
+  "Permission": "<p>Creative Commons\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

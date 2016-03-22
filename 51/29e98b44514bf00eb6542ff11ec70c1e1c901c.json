@@ -1,0 +1,22 @@
+{
+ "sha1": "5129e98b44514bf00eb6542ff11ec70c1e1c901c",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/WPUSRDSafari.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "WPUSRDSafari",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=10252325"
+ },
+ "tags": [
+  "screenshots of wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2007-03-25 04:43:32",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "Attribution": "<a href=\"//wikimediafoundation.org/wiki/Contact_us\" class=\"extiw\" title=\"wmf:Contact us\">Wikimedia Foundation</a>",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

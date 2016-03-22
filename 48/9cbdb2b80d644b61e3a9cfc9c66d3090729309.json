@@ -1,0 +1,27 @@
+{
+ "sha1": "489cbdb2b80d644b61e3a9cfc9c66d3090729309",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Script_rendering_error_20150825_FeatherPluma.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Script rendering error 20150825 FeatherPluma",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47627747",
+  "html": "<p>script rendering error\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources",
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2015-08-26 03:58:56",
+  "Credit": "<p><a class=\"external free\" href=\"https://en.wikipedia.org/w/index.php?title=Natural_skin_care&amp;oldid=677764584\">https://en.wikipedia.org/w/index.php?title=Natural_skin_care&amp;oldid=677764584</a>\n</p>",
+  "DateTimeOriginal": "<p>20150825\n</p>",
+  "Artist": "<p>Wikipedia\n</p>",
+  "Permission": "<p>visible on the source page itself\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "10dccf18449cf401971f25bcfa7e51ee15ad9d9e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/29/The_Souvenir_Shop_at_Jaisalmer_War_Museum.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "The Souvenir Shop at Jaisalmer War Museum",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47961632",
+  "html": "<p>The souvenir shop at Jaisalmer War Museum.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-09-29 10:15:20",
+  "Credit": "<p>By Camera\n</p>",
+  "DateTimeOriginal": "<p>2015-08-24\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Jaisalmer_War_Museum\" title=\"User:Jaisalmer War Museum\" class=\"mw-redirect\">Jaisalmer War Museum</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

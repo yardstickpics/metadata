@@ -1,0 +1,26 @@
+{
+ "sha1": "9ac537ebe5a76f19537066dbca794eac45aae104",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Cyanotype_on_handmade_paper_by_photographer_Kate_Cordsen.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Cyanotype on handmade paper by photographer Kate Cordsen",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=49391258",
+  "html": "<p>Cyanotype, 83 X 38 inches\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ],
+ "wiki": {
+  "DateTime": "2016-02-11 01:29:52",
+  "Credit": "<p>Chesneys\n</p>",
+  "DateTimeOriginal": "<p>2014\n</p>",
+  "Artist": "<p>Photographer Kate Cordsen\n</p>",
+  "Permission": "<b>Evidence:</b> The license agreement has been forwarded to OTRS. Ticket: Ticket#2016021110000801<table class=\"plainlinks imbox imbox-style\" role=\"presentation\"><tr>\n<td class=\"mbox-image\"><a href=\"//en.wikipedia.org/wiki/File:Crystal_file_temporary.png\" class=\"image\"><img alt=\"Crystal file temporary.png\" src=\"//upload.wikimedia.org/wikipedia/commons/c/cd/Crystal_file_temporary.png\" width=\"64\" height=\"64\" data-file-width=\"64\" data-file-height=\"64\"></a></td>\n<td class=\"mbox-text\">\n<b>An email containing details of the permission for this file has been sent in accordance with  <a href=\"//en.wikipedia.org/wiki/Wikipedia:Volunteer_Response_Team\" title=\"Wikipedia:Volunteer Response Team\">WP:OTRS</a>.</b>\n<p><i>Note to uploaders:</i>\nPlease copy the URL of this image or article in the email to assist OTRS volunteers to find it. If an email cannot be found in the OTRS system, the content may be deleted for lack of valid licensing information.<br><i>Note to OTRS volunteers:</i> If the email contains sufficient confirmation of the validity of the license, please replace this template with <span class=\"nowrap\">{{<a href=\"//en.wikipedia.org/wiki/Template:OTRS_permission\" title=\"Template:OTRS permission\">OTRS permission</a>|id=Ticket number}}</span> and consider moving to <a href=\"//commons.wikimedia.org/wiki/Main_page\" class=\"extiw\" title=\"commons:Main page\">Commons</a>. Otherwise, nominate the file for deletion or delete it.\n</p>\n<small>Please be aware that there is currently a 130-day backlog processing messages sent to the permissions-en queue.</small>\n</td>\n</tr></table>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

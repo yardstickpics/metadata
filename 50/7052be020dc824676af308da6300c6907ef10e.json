@@ -1,0 +1,23 @@
+{
+ "sha1": "507052be020dc824676af308da6300c6907ef10e",
+ "lic": "cc-by-sa-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b7/Location_map_Buenos_Aires.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Location map Buenos Aires",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=29424615",
+  "html": "<p>A map of Buenos Aires, Argentina.\n</p>"
+ },
+ "tags": [
+  "openstreetmap maps"
+ ],
+ "wiki": {
+  "DateTime": "2010-10-31 19:52:37",
+  "Credit": "<p>Based on OpenStreetmap data, as of Sunday 31st October 2010.\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.0/"
+ }
+}

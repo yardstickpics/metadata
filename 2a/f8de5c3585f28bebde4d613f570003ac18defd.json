@@ -1,0 +1,22 @@
+{
+ "sha1": "2af8de5c3585f28bebde4d613f570003ac18defd",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Restroom_token.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Restroom token",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44200068",
+  "html": "<p>A restroom token used to gain entry to a <a href=\"//en.wikipedia.org/wiki/Pay_toilet\" title=\"Pay toilet\">Pay toilet</a>.  The coin has no nominal value other than it's intended purpose.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-10-24 11:06:38",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2014-10-21\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:David_Condrey\" title=\"User:David Condrey\">David Condrey</a>\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

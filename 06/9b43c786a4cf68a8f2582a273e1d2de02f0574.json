@@ -1,0 +1,22 @@
+{
+ "sha1": "069b43c786a4cf68a8f2582a273e1d2de02f0574",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/2b/WTND_radio_Logo.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "WTND radio Logo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43579378",
+  "html": "<p>wtnd Logo\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-08-16 16:34:39",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2010-01-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Radiodude\" title=\"User:Radiodude\">Radiodude</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "sha1": "d7babd6d11d7a2142a91a429b4b81bd83d72ae25",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Maria_at_HP.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Maria at HP",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=26659144",
+  "html": "<p>Maria Francis competing at an international slalom at Holme Pierrepont, Nottingham\n</p>"
+ },
+ "tags": [
+  "canoeists"
+ ],
+ "wiki": {
+  "DateTime": "2010-03-22 21:04:37",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>21:04, 22 March 2010 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Drchrisworrall&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Drchrisworrall (page does not exist)\">Chris Worrall</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

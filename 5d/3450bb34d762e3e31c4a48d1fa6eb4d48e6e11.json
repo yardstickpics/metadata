@@ -1,0 +1,22 @@
+{
+ "sha1": "5d3450bb34d762e3e31c4a48d1fa6eb4d48e6e11",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/15/Nikki_alone.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Nikki alone",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41127837",
+  "html": "<p>nikki at experience\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-11-19 13:56:56",
+  "Credit": "<p>Snapped\n</p>",
+  "DateTimeOriginal": "<p>2009-12-04\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Pastorflex\" title=\"User:Pastorflex\">Pastorflex</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

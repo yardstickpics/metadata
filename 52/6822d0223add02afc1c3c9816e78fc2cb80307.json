@@ -1,0 +1,16 @@
+{
+ "sha1": "526822d0223add02afc1c3c9816e78fc2cb80307",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/37/CIExy1931_ProPhoto.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CIExy1931 ProPhoto",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=3992372",
+  "html": "<p>CIE 1931 xy chromaticity diagram showing the chromaticities enclosed by the ProPhoto RGB colour space and location of the primaries. The D50 white point is shown in the centre. The areas of the triangle that are outside the coloured area are imaginary colours.\n</p>"
+ },
+ "tags": [
+  "wikipedia images available as svg"
+ ]
+}

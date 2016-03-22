@@ -1,0 +1,18 @@
+{
+ "sha1": "2fa469a82d9ece431e7fd33a945a7e27ea8aa431",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8c/I_will_try_harder.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "I will try harder",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31664408"
+ },
+ "wiki": {
+  "DateTime": "2011-05-03 11:17:29",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

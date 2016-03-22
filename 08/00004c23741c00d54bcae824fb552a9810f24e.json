@@ -1,0 +1,22 @@
+{
+ "sha1": "0800004c23741c00d54bcae824fb552a9810f24e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/68/Track_lighting_gobo.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Track lighting gobo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42428144",
+  "html": "<p>A decorative lighting device incorporating a gobo. Components from right to left are the lamp house, the gobo itself (a grid made of wires), and the focusing lens. The insert at lower right shows the pattern this device projects. The spacing of the gobo and the lens may be varied to alter the size and focus of the image.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-04-07 17:00:17",
+  "Credit": "<p>I took this picture (and the insert) in a room that had this device in it. I combined the two images using GIMP.\n</p>",
+  "DateTimeOriginal": "<p>2014-03-27\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Jeh\" title=\"User:Jeh\">Jeh</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

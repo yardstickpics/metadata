@@ -1,0 +1,18 @@
+{
+ "sha1": "5c24f20607c779bd2a9268282447b71ad81a00d1",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/10/Kelpie.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Kelpie",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=7704435"
+ },
+ "wiki": {
+  "DateTime": "2006-10-31 02:45:54",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

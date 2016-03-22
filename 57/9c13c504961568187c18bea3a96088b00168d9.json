@@ -1,0 +1,18 @@
+{
+ "sha1": "579c13c504961568187c18bea3a96088b00168d9",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/dd/GNOME_Sushi_Image_Preview.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "GNOME Sushi Image Preview",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35589281"
+ },
+ "wiki": {
+  "DateTime": "2012-04-23 02:56:46",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

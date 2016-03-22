@@ -1,0 +1,22 @@
+{
+ "sha1": "9e4a213fa3a1dc25614b451dfcf90254a80d95bc",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/2f/Mathematica_Image.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Mathematica Image",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=18555691",
+  "html": "<p>Image created using <a href=\"//en.wikipedia.org/wiki/Mathematica\" title=\"Mathematica\">Mathematica</a>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-07-23 17:16:30",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>23 July 2008\n</p>",
+  "Artist": "<p>Kipper100\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "sha1": "c26b7f3584bad2aa49fc631837f3d794b03efa93",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/72/GrahamSpanierCCSG.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "GrahamSpanierCCSG",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33711855"
+ },
+ "wiki": {
+  "DateTime": "2011-11-11 16:06:44",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

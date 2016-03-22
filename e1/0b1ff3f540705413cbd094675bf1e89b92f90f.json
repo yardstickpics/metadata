@@ -1,0 +1,24 @@
+{
+ "sha1": "e10b1ff3f540705413cbd094675bf1e89b92f90f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/StCharles.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "StCharles",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=27022444"
+ },
+ "tags": [
+  "methodist churches in illinois",
+  "parks in illinois",
+  "st. charles, illinois",
+  "wikipedia license migration not eligible"
+ ],
+ "wiki": {
+  "DateTime": "2010-04-19 20:42:19",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

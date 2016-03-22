@@ -1,0 +1,21 @@
+{
+ "sha1": "8d40519564e4b40dbcddc27168ddbd5be8a69260",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f2/H2SPTPS.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "H2SPTPS",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48017905",
+  "html": "<p><a href=\"//en.wikipedia.org/wiki/Total_position_spread\" title=\"Total position spread\">Total position spread</a> -  SP-TPS as a function of the internuclear distance R for the hydrogen dimer.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-10-02 21:42:10",
+  "Credit": "<p>Own work\n</p>",
+  "Artist": "<p>Muammar El Khatib.\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

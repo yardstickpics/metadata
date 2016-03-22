@@ -1,0 +1,22 @@
+{
+ "sha1": "6306088cf7cdb6d0c40ccd31a91b6e65f6b9aad7",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/ea/Hyderabad_metro_map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Hyderabad metro map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=27920970",
+  "html": "<p>Map of Hyderabad Metro\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-07-02 19:31:16",
+  "Credit": "<p>I <a href=\"//en.wikipedia.org/wiki/User:Johnxxx9\" title=\"User:Johnxxx9\">johnxxx9</a> created this work entirely by myself using Inkscape.\n</p>",
+  "DateTimeOriginal": "<p>02-07-2010\n</p>",
+  "Artist": "<p>Myself\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "sha1": "9c8913660a0736c2a96bf609c4ef3c7078a191f5",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/65/Graphhopper-screenshot.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Graphhopper-screenshot",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44243856",
+  "html": "<p>Screenshot showing GraphHopper Maps with OpenMapsSurfer\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-10-29 09:54:41",
+  "Credit": "<p>Screenshot\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

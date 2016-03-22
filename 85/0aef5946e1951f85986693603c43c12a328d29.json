@@ -1,0 +1,22 @@
+{
+ "sha1": "850aef5946e1951f85986693603c43c12a328d29",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/ec/Muqeem_Khan.jpg.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Muqeem Khan.jpg",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40477905",
+  "html": "<p>Just a digital photograph\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-09-08 14:56:17",
+  "Credit": "<p>with Maya and photoshop\n</p>",
+  "DateTimeOriginal": "<p>2000-01-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Muqeemkhan\" title=\"User:Muqeemkhan\">Muqeemkhan</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "sha1": "094bb456bff446333ae9e6e18837d5621d23b350",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/cf/BPP_probe_head.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "BPP probe head",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42741918",
+  "html": "<p>Ball-pen probe used on tokamak CASTOR in 2004. It consists of stainless steel collector, which is movable inside the ceramic (boron nitride) shielding tube.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-05-13 19:54:17",
+  "Credit": "<p>own\n</p>",
+  "Artist": "<p>Mgr. Jiri Adamek Ph.D., IPP ASCR\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

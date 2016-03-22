@@ -1,0 +1,24 @@
+{
+ "sha1": "2c3ed4d620a893000fd44769120c149e4756059a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/33/Stephen_Crowe_with_blue_SG.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Stephen Crowe with blue SG",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46394587",
+  "html": "<p>Stephen Crowe in Berlin\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ],
+ "wiki": {
+  "DateTime": "2014-12-18 00:52:48",
+  "Credit": "<p>Submitted by photographer\n</p>",
+  "Artist": "<p>Katharina Hornig\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "688c26f081895196a879be5091bcd5f453c240ed",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/00/Julian_Wiki_headshot_cropped.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Julian Wiki headshot cropped",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=32316039",
+  "html": "<p>Julian Ritter outside Torito Rd house\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-07-05 19:04:37",
+  "Credit": "<p>Ritter Family Trust\n</p>",
+  "DateTimeOriginal": "<p>ca 1975\n</p>",
+  "Artist": "<p>Ritter Family Trust\n</p>",
+  "Permission": "<p>Free to use with attribution to Ritter Family Trust\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

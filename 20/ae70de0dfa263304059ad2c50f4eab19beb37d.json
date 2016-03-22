@@ -1,0 +1,22 @@
+{
+ "sha1": "20ae70de0dfa263304059ad2c50f4eab19beb37d",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/71/CloverCreekMap.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CloverCreekMap",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=17029422",
+  "html": "<p>Map of Clover Creek, Washington, USA\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-04-21 01:01:25",
+  "Credit": "<p>self-made, based on maps found at OpenStreetMap (by-sa-2.0)\n</p>",
+  "DateTimeOriginal": "<p>2008-04-20\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Travisl\" title=\"User:Travisl\">Travisl</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Travisl\" title=\"User talk:Travisl\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

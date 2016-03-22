@@ -1,0 +1,21 @@
+{
+ "sha1": "bb301478731d357302c6268714a385bf4725ed39",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Petrogradsky_Island_map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Petrogradsky Island map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=23494774"
+ },
+ "tags": [
+  "openstreetmap maps"
+ ],
+ "wiki": {
+  "DateTime": "2009-07-05 02:57:45",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

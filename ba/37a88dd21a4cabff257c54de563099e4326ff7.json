@@ -1,0 +1,22 @@
+{
+ "sha1": "ba37a88dd21a4cabff257c54de563099e4326ff7",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/45/SecretMapHiddenInWikipediaPost.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "SecretMapHiddenInWikipediaPost",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=24806252",
+  "html": "<p>Example of how over-enhancing an image produces artifacts.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-10-23 23:18:32",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/wiki/User:SteveBaker\" title=\"User:SteveBaker\">SteveBaker</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:SteveBaker\" title=\"User talk:SteveBaker\">talk</a>)) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>23:18, 23 October 2009 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:SteveBaker\" title=\"User:SteveBaker\">SteveBaker</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:SteveBaker\" title=\"User talk:SteveBaker\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

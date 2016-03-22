@@ -1,0 +1,18 @@
+{
+ "sha1": "20bfa8d237fe965bd93c194fe2c9e125ba4b6d3b",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Small-Oregon-Map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Small-Oregon-Map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=26930217"
+ },
+ "wiki": {
+  "DateTime": "2010-04-12 20:05:41",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

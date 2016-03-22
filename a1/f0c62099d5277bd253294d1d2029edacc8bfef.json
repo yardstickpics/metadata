@@ -1,0 +1,21 @@
+{
+ "sha1": "a1f0c62099d5277bd253294d1d2029edacc8bfef",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9f/NeighborhoodRoomMap.bmp",
+ "ext": "bmp",
+ "from": "wiki",
+ "created": 1458518347,
+ "name": "NeighborhoodRoomMap",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25475026"
+ },
+ "tags": [
+  "other images that should be in svg format"
+ ],
+ "wiki": {
+  "DateTime": "2009-12-18 03:58:15",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

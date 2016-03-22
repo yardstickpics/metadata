@@ -1,0 +1,25 @@
+{
+ "sha1": "38e3919269368f831823334352c3157b2e2ea2c2",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Wikipedia_U.S._county_articles_by_quality.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Wikipedia U.S. county articles by quality",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43081247",
+  "html": "<p>Wikipedia U.S. county articles by quality\n</p>"
+ },
+ "tags": [
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2014-06-18 17:31:36",
+  "Credit": "<p>Modified from <a href=\"//en.wikipedia.org/wiki/File:Usa_counties_large.svg\" title=\"File:Usa counties large.svg\">File:Usa counties large.svg</a> using <a href=\"//en.wikipedia.org/wiki/Inkscape\" title=\"Inkscape\">Inkscape</a>\n</p>",
+  "DateTimeOriginal": "<p>2014-06-17\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Rcsprinter123\" title=\"User:Rcsprinter123\">Rcsprinter123</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

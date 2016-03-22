@@ -1,0 +1,23 @@
+{
+ "sha1": "e6e8b4109cc6f47483eecfafb9554d7977831833",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c0/William_Ulmer_Brewery.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "William Ulmer Brewery",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=29972246",
+  "html": "<p>William Ulmer Brewery, Brooklyn, New York\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-12-08 22:08:09",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.nyc.gov/html/lpc/downloads/pdf/reports/William_Ulmer_FINAL.pdf\">http://www.nyc.gov/html/lpc/downloads/pdf/reports/William_Ulmer_FINAL.pdf</a>\n</p>",
+  "DateTimeOriginal": "<p>22:08, 8 December 2010 (UTC)\n</p>",
+  "Artist": "<p>Eugene L. Armbruster Photograph and Scrapbook Collection\n</p>",
+  "Permission": "<p>The Brooklyn Historical Society\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

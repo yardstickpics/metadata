@@ -1,0 +1,22 @@
+{
+ "sha1": "6a7fce59750601383bcc9c5be85c03d55c1baa32",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a8/Slope_field_with_integral_curves_1.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Slope field with integral curves 1",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=15864693",
+  "html": "Slope field and integral curves of<img class=\"mwe-math-fallback-image-inline tex\" alt=\" y' = xy\" src=\"//upload.wikimedia.org/math/c/0/1/c01de5487861325b76575548ef948dce.png\">. The general solution is <img class=\"mwe-math-fallback-image-inline tex\" alt=\"y = C\\cdot e^{\\frac{x^2}{2}}\" src=\"//upload.wikimedia.org/math/a/7/b/a7b8cae52832c73c5119d299f49d6f4b.png\">"
+ },
+ "wiki": {
+  "DateTime": "2008-02-20 19:18:57",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>20/02/08\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Wingless&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wingless (page does not exist)\">Wingless</a> (<a href=\"//en.wikipedia.org/w/index.php?title=User_talk:Wingless&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:Wingless (page does not exist)\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

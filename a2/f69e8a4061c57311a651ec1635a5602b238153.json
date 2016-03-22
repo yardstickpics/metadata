@@ -1,0 +1,20 @@
+{
+ "sha1": "a2f69e8a4061c57311a651ec1635a5602b238153",
+ "lic": "cc-by-sa-4.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/42/Ribbon_view_of_the_Orange_Carotenoid_Protein_Structure_1M98.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Ribbon view of the Orange Carotenoid Protein Structure 1M98",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46829146",
+  "html": "<p>Ribbon view of the <a href=\"//en.wikipedia.org/wiki/Orange_Carotenoid_Protein\" title=\"Orange Carotenoid Protein\" class=\"mw-redirect\">Orange Carotenoid Protein</a> molecular structure (RCSB Protein Data Bank accession code 1M98). Key structural elements include the <a href=\"//en.wikipedia.org/wiki/Orange_carotenoid_N-terminal_domain\" title=\"Orange carotenoid N-terminal domain\">N-terminal domain</a> (red), C-terminal domain (cyan), interdomain linker (purple), and the carotenoid chromophore (orange ball and sticks).  The OCP crystallizes as a homodimer.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-05-28 22:59:59",
+  "Credit": "<p>The structure was solved in the laboratory of Cheryl Kerfeld, and the rendering was obtained from <a rel=\"nofollow\" class=\"external free\" href=\"http://www.kerfeldlab.org/images.html\">http://www.kerfeldlab.org/images.html</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 4.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/4.0/"
+ }
+}

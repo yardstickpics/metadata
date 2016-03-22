@@ -1,0 +1,18 @@
+{
+ "sha1": "d0c453e3011db016525435fe0792bcd59a4387ab",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/US_Retail_Sales.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "US Retail Sales",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=29328803"
+ },
+ "wiki": {
+  "DateTime": "2010-10-24 04:28:34",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

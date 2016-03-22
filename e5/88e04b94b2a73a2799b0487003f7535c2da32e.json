@@ -1,0 +1,25 @@
+{
+ "sha1": "e588e04b94b2a73a2799b0487003f7535c2da32e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Self_potrait.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Self potrait",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42102420",
+  "html": "<p>artwork\n</p>"
+ },
+ "tags": [
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2014-03-03 20:26:09",
+  "Credit": "<p>Adobe illustrator<br><b>Previously published:</b> none\n</p>",
+  "DateTimeOriginal": "<p>2012-12-3\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Kika124r5\" title=\"User:Kika124r5\">Kika124r5</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

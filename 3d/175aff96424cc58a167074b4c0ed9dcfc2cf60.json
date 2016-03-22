@@ -1,0 +1,13 @@
+{
+ "sha1": "3d175aff96424cc58a167074b4c0ed9dcfc2cf60",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/51/Final_wiki_2.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Final wiki 2",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=17341620",
+  "html": "<p>Position of active site amino acid residues of vanadium containing chloroperoxidase are shown in relation to enzyme surface.  The residues Lys353, Arg360, Arg490, His404, and His496 correspond to Lys76, Arg83, Arg170, His119, and His176 in Glc 6-Pase.\n</p>"
+ }
+}

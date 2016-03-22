@@ -1,0 +1,23 @@
+{
+ "sha1": "72dc940f2d022c9229fd6ec9634ca6e1a76d019c",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Wolf_chand1.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Wolf chand1",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=29547003",
+  "html": "<p>Screenshot of triangle mesh of the chandelier model in Wolfenstein: Ray Traced\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-11-10 06:46:04",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.wolfrt.de\">http://www.wolfrt.de</a>\n</p>",
+  "DateTimeOriginal": "<p>06:34, 10 November 2010 (UTC)\n</p>",
+  "Artist": "<p>Daniel Pohl\n</p>",
+  "Permission": "<p>Creative Commons Attribution 3.0 United States License\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

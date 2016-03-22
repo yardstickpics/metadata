@@ -1,0 +1,22 @@
+{
+ "sha1": "8545fa339c05a714c8b3c5d37836fd733cbbccbe",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/69/Jingshan_park_bug.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Jingshan park bug",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=30712360",
+  "html": "<p>Bug with rendering of <a href=\"//en.wikipedia.org/wiki/Jingshan_Park\" title=\"Jingshan Park\">Jingshan Park</a>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-02-01 12:12:26",
+  "Credit": "<p>Wikipedia article <a href=\"//en.wikipedia.org/wiki/Jingshan_Park\" title=\"Jingshan Park\">Jingshan Park</a>\n</p>",
+  "DateTimeOriginal": "<p>12:12, 1 February 2011 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Salix_alba\" title=\"User:Salix alba\">Salix</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Salix_alba\" title=\"User talk:Salix alba\">talk</a>):\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

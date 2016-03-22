@@ -1,0 +1,23 @@
+{
+ "sha1": "c8edded75b0ae58470ca75ceac69988bcd30727a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/14/Map_of_FastBus_route%2C_London.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Map of FastBus route, London",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=24241035",
+  "html": "<p>Map of FastBus route, London\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-09-06 14:51:18",
+  "Credit": "<p>OpenStreetMap\n</p>",
+  "DateTimeOriginal": "<p>14:51, 6 September 2009 (UTC)\n</p>",
+  "Artist": "<p>OpenStreetMap\n</p>",
+  "Permission": "<p>Data: ODbL\n</p>\n<pre>Render=Creative Commons Attribution-ShareAlike 2.0 license (presumably that is now 3.0)\n</pre>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

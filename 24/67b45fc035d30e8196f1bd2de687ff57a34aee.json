@@ -1,0 +1,22 @@
+{
+ "sha1": "2467b45fc035d30e8196f1bd2de687ff57a34aee",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/74/Cambodian_Military_Regions.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Cambodian Military Regions",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43123807",
+  "html": "<p>Map of Cambodia's six military regions (1, 2, 3, 4, 5, special)\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-09-25 07:05:00",
+  "Credit": "<p>Homemade within QGIS\n</p>",
+  "DateTimeOriginal": "<p>2014-06-23\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:NIRVn&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:NIRVn (page does not exist)\">NIRVn</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

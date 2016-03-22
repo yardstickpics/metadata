@@ -1,0 +1,26 @@
+{
+ "sha1": "1b1d9a26ca912d1f3afe2409da65e79355a7eb90",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/49/Vodafone_Arena_Stadium_Map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Vodafone Arena Stadium Map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46614186",
+  "html": "<p>This map was created from OpenStreetMap project data, collected by the community. This map may be incomplete, and may contain errors. Don't rely solely on it for navigation.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2015-05-05 09:46:13",
+  "Credit": "<p>openstreetmap.org\n</p>",
+  "DateTimeOriginal": "<p>05.05.2015\n</p>",
+  "Artist": "<p>OpenStreetMap contributors\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.openstreetmap.org/copyright\">https://www.openstreetmap.org/copyright</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

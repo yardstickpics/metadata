@@ -1,0 +1,18 @@
+{
+ "sha1": "cd7bc4773ec6ab13ea93a25037dca21337fa3cc5",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Fakecase.com-screenshot.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Fakecase.com-screenshot",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36557094"
+ },
+ "wiki": {
+  "DateTime": "2012-07-27 08:00:11",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "sha1": "8d4d4f7bc53743058f52e4b2e607b54cce313e35",
+ "lic": "cc-by-sa-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/45/BrayWyattJune2013.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "BrayWyattJune2013",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41818931",
+  "html": "<p>An image of professional wrestler <a href=\"//en.wikipedia.org/wiki/Bray_Wyatt\" title=\"Bray Wyatt\">Bray Wyatt</a>.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-02-02 15:21:12",
+  "Credit": "<p><a class=\"external free\" href=\"https://en.wikipedia.org/wiki/File:Bray_Wyatt.jpg\">https://en.wikipedia.org/wiki/File:Bray_Wyatt.jpg</a>\n</p>",
+  "DateTimeOriginal": "<p>7 June 2013\n</p>",
+  "Artist": "<p>Linestra\n</p>",
+  "Permission": "<p><a class=\"external free\" href=\"https://en.wikipedia.org/wiki/File:Bray_Wyatt.jpg\">https://en.wikipedia.org/wiki/File:Bray_Wyatt.jpg</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ }
+}

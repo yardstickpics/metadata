@@ -1,0 +1,16 @@
+{
+ "sha1": "4f3ade80000fa53814e00b8d22788ca25e16f926",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/67/Line_and_point_trap_golden.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Line and point trap golden",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=26265104",
+  "html": "<p>Mandelbrot set rendered using orbit trap technique. A combination a cross (dual line) and point shapes. Made using Java program.\n</p>"
+ },
+ "tags": [
+  "free software programmed in java (programming language)"
+ ]
+}

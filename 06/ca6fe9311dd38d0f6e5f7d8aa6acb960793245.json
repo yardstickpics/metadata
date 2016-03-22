@@ -1,0 +1,22 @@
+{
+ "sha1": "06ca6fe9311dd38d0f6e5f7d8aa6acb960793245",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/fd/City_of_Sydney_1909-1949.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "City of Sydney 1909-1949",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=22559316",
+  "html": "<p>Map showing boundaries of the City Of Sydney, 1909-1949\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-04-25 12:02:28",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>25 April 2009\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:MrHarper\" title=\"User:MrHarper\">MrHarper</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:MrHarper\" title=\"User talk:MrHarper\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

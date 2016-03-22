@@ -1,0 +1,17 @@
+{
+ "sha1": "28cf000c1ba15dafee6d0ee422ff49d63ae573fd",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/16/Scotland_at_night%2C_as_seen_from_space%2C_Oct_2012.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Scotland at night, as seen from space, Oct 2012",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37850330",
+  "html": "<p>Satellite image of Scotland at night, highlighting lit urban areas, shipping vessels, and oil rigs. Cropped from <a class=\"external text\" href=\"http://commons.wikimedia.org/wiki/File:The_earth_at_night.jpg\">File:The earth at night.jpg</a>.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources",
+  "nasa images"
+ ]
+}

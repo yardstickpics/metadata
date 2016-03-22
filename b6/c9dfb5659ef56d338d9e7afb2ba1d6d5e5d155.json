@@ -1,0 +1,26 @@
+{
+ "sha1": "b6c9dfb5659ef56d338d9e7afb2ba1d6d5e5d155",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Cape_Town_Stadium_Aerial_View.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Cape Town Stadium Aerial View",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41301340",
+  "html": "<p>Aerial view of Cape Town Stadium taken from Signal Hill.\n</p>"
+ },
+ "tags": [
+  "files deleted on wikimedia commons",
+  "wikipedia images using freedom of panorama"
+ ],
+ "wiki": {
+  "DateTime": "2013-12-07 23:29:54",
+  "Credit": "<p>This photo was taken on my trip to South Africa, when I visited Signal Hill in Cape Town.\n</p>",
+  "DateTimeOriginal": "<p>2013-07-17\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Maryland_Pride\" title=\"User:Maryland Pride\">Maryland Pride</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "9bf6726591907ec1086f0c2f3bc6633b91611890",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/15/Crisismap.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Crisismap",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42286709",
+  "html": "<p>An example of a crisis map.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-03-23 17:23:52",
+  "Credit": "<p>Self-made screenshot (by cyphersnap) from: <a rel=\"nofollow\" class=\"external free\" href=\"http://linkem.crowdmap.com\">http://linkem.crowdmap.com</a> Here: <a rel=\"nofollow\" class=\"external free\" href=\"https://crowdmap.com/mhi/legal\">https://crowdmap.com/mhi/legal</a> the terms that allow to use the screenshot.\n</p>",
+  "DateTimeOriginal": "<p>2014-03-24\n</p>",
+  "Artist": "<p>cyphersnap\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

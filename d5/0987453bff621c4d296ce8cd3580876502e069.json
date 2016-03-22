@@ -1,0 +1,18 @@
+{
+ "sha1": "d50987453bff621c4d296ce8cd3580876502e069",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e5/ShereFASTticket-Example.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "ShereFASTticket-Example",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=9184461"
+ },
+ "wiki": {
+  "DateTime": "2007-01-29 09:42:50",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

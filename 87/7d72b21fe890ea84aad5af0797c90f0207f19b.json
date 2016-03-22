@@ -1,0 +1,27 @@
+{
+ "sha1": "877d72b21fe890ea84aad5af0797c90f0207f19b",
+ "lic": "cc-by-sa-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Yarra_Glen%2C_Canberra_-_route.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Yarra Glen, Canberra - route",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=39261147",
+  "html": "<p>Route of Yarra Glen through suburbs of Canberra\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources",
+  "openstreetmap maps"
+ ],
+ "wiki": {
+  "DateTime": "2013-04-30 12:45:37",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.openstreetmap.org/\">http://www.openstreetmap.org/</a>\n</p>",
+  "DateTimeOriginal": "<p>30 April 2013\n</p>",
+  "Artist": "<p><b>Base Imagery:</b> © OpenStreetMap contributors<br><b>Colour change and suburb names:</b> <a href=\"//en.wikipedia.org/wiki/User:Nbound\" title=\"User:Nbound\">Nbound</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Nbound\" title=\"User talk:Nbound\">talk</a>)\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.openstreetmap.org/copyright\">http://www.openstreetmap.org/copyright</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.0/"
+ }
+}

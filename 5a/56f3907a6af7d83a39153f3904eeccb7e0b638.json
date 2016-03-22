@@ -1,0 +1,22 @@
+{
+ "sha1": "5a56f3907a6af7d83a39153f3904eeccb7e0b638",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/TestbildFussweg4.bmp",
+ "ext": "bmp",
+ "from": "wiki",
+ "created": 1458518348,
+ "name": "TestbildFussweg4",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=26674055",
+  "html": "<p>TEST PICTURE\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-03-23 20:48:19",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/wiki/User:JeLuF\" title=\"User:JeLuF\">JeLuF</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:JeLuF\" title=\"User talk:JeLuF\">talk</a>)) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>20:48, 23 March 2010 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:JeLuF\" title=\"User:JeLuF\">JeLuF</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:JeLuF\" title=\"User talk:JeLuF\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

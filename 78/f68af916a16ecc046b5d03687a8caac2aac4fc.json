@@ -1,0 +1,22 @@
+{
+ "sha1": "78f68af916a16ecc046b5d03687a8caac2aac4fc",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5a/QMUL-Blizard-building.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "QMUL-Blizard-building",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33064303",
+  "html": "<p><a href=\"//en.wikipedia.org/wiki/Blizard_Building\" title=\"Blizard Building\">Blizard building</a> of <a href=\"//en.wikipedia.org/wiki/Queen_Mary,_University_of_London\" title=\"Queen Mary, University of London\" class=\"mw-redirect\">Queen Mary, University of London</a>, <a href=\"//en.wikipedia.org/wiki/Whitechapel\" title=\"Whitechapel\">Whitechapel</a> campus, housing the Institute of Cell and Molecular Sciences\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-09-12 17:34:59",
+  "Credit": "<p>QMUL\n</p>",
+  "DateTimeOriginal": "<p>17:34, 12 September 2011 (UTC)\n</p>",
+  "Artist": "<p>QMUL\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

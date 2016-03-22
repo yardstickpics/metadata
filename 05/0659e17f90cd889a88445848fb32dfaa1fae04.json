@@ -1,0 +1,16 @@
+{
+ "sha1": "050659e17f90cd889a88445848fb32dfaa1fae04",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/USGS_image_of_the_North_Sea.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "USGS image of the North Sea",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45495752",
+  "html": "<p>Aerial image of the North Sea provided by USGS\n</p>"
+ },
+ "tags": [
+  "united states government images"
+ ]
+}

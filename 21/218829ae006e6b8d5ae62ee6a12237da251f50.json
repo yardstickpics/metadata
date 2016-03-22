@@ -1,0 +1,22 @@
+{
+ "sha1": "21218829ae006e6b8d5ae62ee6a12237da251f50",
+ "lic": "cc-by-sa-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/57/Sandy_Row_mural_2012.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Sandy Row mural 2012",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48889739",
+  "html": "<p>A mural at the corner of Sandy Row and Linfield Road depicting King William III.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-12-23 04:36:22",
+  "Credit": "<p><a href=\"//en.wikipedia.org/wiki/Geograph_Ireland\" title=\"Geograph Ireland\">Geograph Ireland</a>\n</p>",
+  "DateTimeOriginal": "<p>Wednesday, 1 August, 2012\n</p>",
+  "Artist": "<p>Albert Bridge\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.0/"
+ }
+}

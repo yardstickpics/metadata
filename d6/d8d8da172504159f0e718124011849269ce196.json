@@ -1,0 +1,22 @@
+{
+ "sha1": "d6d8d8da172504159f0e718124011849269ce196",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Jo%C3%A3o_Madureira%27s_Photo.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "João Madureira's Photo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=39216055",
+  "html": "<p>João Madureira\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-04-25 14:13:13",
+  "Credit": "<p>I take the photo<br><b>Previously published:</b> no\n</p>",
+  "DateTimeOriginal": "<p>2013-04-25\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Cristiana_V_Rodrigues&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cristiana V Rodrigues (page does not exist)\">Cristiana V Rodrigues</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

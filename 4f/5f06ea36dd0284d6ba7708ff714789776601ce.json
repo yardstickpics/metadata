@@ -1,0 +1,22 @@
+{
+ "sha1": "4f5f06ea36dd0284d6ba7708ff714789776601ce",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5f/Snowbowl.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Snowbowl",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=5506559",
+  "html": "<p>Ottawa Winterlude Snowbowl\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2006-06-10 15:36:51",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>February 19, 2006\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:James_R._Skinner\" title=\"User:James R. Skinner\">James R. Skinner</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

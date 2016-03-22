@@ -1,0 +1,18 @@
+{
+ "sha1": "b16477ff4a91da70b5a8fa062a13294ff8d61c30",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7a/MillerSchoolPhotograph.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "MillerSchoolPhotograph",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=9198672"
+ },
+ "wiki": {
+  "DateTime": "2007-01-30 02:03:46",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

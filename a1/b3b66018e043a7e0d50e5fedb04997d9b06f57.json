@@ -1,0 +1,16 @@
+{
+ "sha1": "a1b3b66018e043a7e0d50e5fedb04997d9b06f57",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d4/Black_Sea_circulation.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Black Sea circulation",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25430760",
+  "html": "<p>Map showing generalised Black Sea surface currents\n</p>"
+ },
+ "tags": [
+  "worldwind images"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "sha1": "fb13b4d7d1e0453ad0efb763aa671bb2f1db6c34",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/69/R700_interconnect.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "R700 interconnect",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=18905302",
+  "html": "<p>Radeon HD 4870 X2 (R700) inter-GPU communication architecture based on slides leaked on the web\n</p>"
+ },
+ "tags": [
+  "wikipedia images available as svg"
+ ],
+ "wiki": {
+  "DateTime": "2008-08-17 18:43:21",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>August 17, 2008\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Idle.man5216\" title=\"User:Idle.man5216\">Idle.man5216</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Idle.man5216\" title=\"User talk:Idle.man5216\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "0a23a6ee5b6fe66f7d5aa4ee556c228b9ea5f06a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/Hillside_Elementary_School_West_Elevation.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Hillside Elementary School West Elevation",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37923579",
+  "html": "<p>State of paint, downspouts and windows as of December 2012.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-12-14 00:02:46",
+  "Credit": "<p>Photograph\n</p>",
+  "DateTimeOriginal": "<p>2012-12-13\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Brycen\" title=\"User:Brycen\">Brycen</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

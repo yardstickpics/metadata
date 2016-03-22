@@ -1,0 +1,25 @@
+{
+ "sha1": "79a9ed8c8986502f8a6aba2560183ea49706c559",
+ "lic": "cc-by-sa-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/56/Georges_Hall_suburb_boundary.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Georges Hall suburb boundary",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45678463",
+  "html": "<p>Suburb boundary of <a href=\"//en.wikipedia.org/wiki/Georges_Hall,_New_South_Wales\" title=\"Georges Hall, New South Wales\" class=\"mw-redirect\">Georges Hall</a>.\n</p>"
+ },
+ "tags": [
+  "openstreetmap maps"
+ ],
+ "wiki": {
+  "DateTime": "2015-03-15 14:16:25",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.openstreetmap.org/way/332869142#map=15/-33.9078/150.9893&amp;layers=N\">https://www.openstreetmap.org/way/332869142#map=15/-33.9078/150.9893&amp;layers=N</a>\n</p>",
+  "Artist": "<p>OpenStreetMap\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.openstreetmap.org/copyright\">https://www.openstreetmap.org/copyright</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.0/"
+ }
+}

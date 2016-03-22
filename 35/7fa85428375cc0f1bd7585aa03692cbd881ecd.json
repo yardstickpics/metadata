@@ -1,0 +1,22 @@
+{
+ "sha1": "357fa85428375cc0f1bd7585aa03692cbd881ecd",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/06/Tony_mercer.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Tony mercer",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=38167303",
+  "html": "<p>tony with a sextant\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-01-08 15:39:58",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2012.10.10\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:AntonArcane\" title=\"User:AntonArcane\">AntonArcane</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

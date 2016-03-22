@@ -1,0 +1,22 @@
+{
+ "sha1": "fa7ce2b31003f3826c4a6ce07cc50bd92718981b",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/da/Stock_horses_in_corral.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Stock horses in corral",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46579169",
+  "html": "<p>Original photograph of rough stock being sorted for turn-out\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-05-01 13:35:40",
+  "Credit": "<p>Photograph in Henrietta, TX\n</p>",
+  "DateTimeOriginal": "<p>2011-07-11\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Atsme\" title=\"User:Atsme\">Atsme</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

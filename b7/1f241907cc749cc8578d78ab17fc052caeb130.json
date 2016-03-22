@@ -1,0 +1,22 @@
+{
+ "sha1": "b71f241907cc749cc8578d78ab17fc052caeb130",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Michael_visits_redondo_beach.PNG",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Michael visits redondo beach",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=15914838",
+  "html": "Redondo Beach\n<p>Michael Barryte at Redondo Beach, California.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-02-23 18:36:36",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>September 2007\n</p>",
+  "Artist": "<p>tchotchke vendor\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

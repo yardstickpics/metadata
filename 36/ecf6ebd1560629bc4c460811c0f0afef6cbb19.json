@@ -1,0 +1,22 @@
+{
+ "sha1": "36ecf6ebd1560629bc4c460811c0f0afef6cbb19",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/74/Cockapoo_Dog.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Cockapoo Dog",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47986430",
+  "html": "<p>This is an excellent healthy example of a Cockapoo canine.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-09-30 21:54:11",
+  "Credit": "<p>Took a photo of Thaddeus\n</p>",
+  "DateTimeOriginal": "<p>2015-09-11\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Flintmichigan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Flintmichigan (page does not exist)\">Flintmichigan</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

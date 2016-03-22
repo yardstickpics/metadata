@@ -1,0 +1,21 @@
+{
+ "sha1": "f12705243b9bf414e333086ce27bd3609c9d9521",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/17/BassetlawResults2010.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "BassetlawResults2010",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=27373382",
+  "html": "Bassetlaw election results 2010, by ward.<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #DC241f; color:black; font-size:100%; text-align:center;\"> </span> Labour</div>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #0087DC; color:black; font-size:100%; text-align:center;\"> </span> Conservative</div>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #DDDDDD; color:black; font-size:100%; text-align:center;\"> </span> Independent</div>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #FFFFFF; color:black; font-size:100%; text-align:center;\"> </span> No election</div>"
+ },
+ "wiki": {
+  "DateTime": "2012-11-25 16:15:05",
+  "Credit": "<ul><li><a href=\"//en.wikipedia.org/wiki/File:Bassetlaw_UK_ward_map_2010_(blank).svg\" title=\"File:Bassetlaw UK ward map 2010 (blank).svg\">Bassetlaw UK ward map 2010 (blank).svg</a></li></ul>",
+  "Artist": "<ul>\n<li>\n<a href=\"//en.wikipedia.org/wiki/File:Bassetlaw_UK_ward_map_2010_(blank).svg\" title=\"File:Bassetlaw UK ward map 2010 (blank).svg\">Bassetlaw UK ward map 2010 (blank).svg</a>: <a href=\"//en.wikipedia.org/wiki/User:Nilfanion\" title=\"User:Nilfanion\">Nilfanion</a>, created using Ordnance Survey data</li>\n<li>Derivative work: <a href=\"//en.wikipedia.org/w/index.php?title=Mirrorme22&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mirrorme22 (page does not exist)\">Mirrorme22</a>\n</li>\n</ul>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

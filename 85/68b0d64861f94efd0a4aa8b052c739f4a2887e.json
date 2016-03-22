@@ -1,0 +1,22 @@
+{
+ "sha1": "8568b0d64861f94efd0a4aa8b052c739f4a2887e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/38/Shereth_Maricopa_Test_Generated.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Shereth Maricopa Test Generated",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37051489",
+  "html": "<p>Test map\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-09-18 18:45:01",
+  "Credit": "<p>Script generated file using public domain GIS data supplied by the US Census Bureau\n</p>",
+  "DateTimeOriginal": "<p>2012-09-18\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Shereth\" title=\"User:Shereth\">Shereth</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

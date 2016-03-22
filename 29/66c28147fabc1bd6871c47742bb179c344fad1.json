@@ -1,0 +1,22 @@
+{
+ "sha1": "2966c28147fabc1bd6871c47742bb179c344fad1",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/Idle_gui.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Idle gui",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=17831564",
+  "html": "<p>Python IDLE gui under Windows\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-06-07 23:36:15",
+  "Credit": "<p>Screenshot by user Katanzag, modified by inXtremis\n</p>",
+  "DateTimeOriginal": "<p>08.06.2008\n</p>",
+  "Artist": "<p>inXtremis\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

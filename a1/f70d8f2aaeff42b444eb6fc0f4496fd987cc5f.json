@@ -1,0 +1,18 @@
+{
+ "sha1": "a1f70d8f2aaeff42b444eb6fc0f4496fd987cc5f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/ed/METS_logo.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "METS logo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=34000252"
+ },
+ "wiki": {
+  "DateTime": "2011-12-09 02:45:07",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

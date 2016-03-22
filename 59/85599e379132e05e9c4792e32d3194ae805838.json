@@ -1,0 +1,22 @@
+{
+ "sha1": "5985599e379132e05e9c4792e32d3194ae805838",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Sydney%2C_Nova_Scotia.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Sydney, Nova Scotia",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47118794",
+  "html": "<p>Sydney skyline from across water.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-06-30 13:14:06",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2015-6-30\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Plumzee&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Plumzee (page does not exist)\">Plumzee</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

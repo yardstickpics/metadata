@@ -1,0 +1,18 @@
+{
+ "sha1": "df16a8a570a5bdd54b7cec51946c30be1e4c276f",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/17/AndreaBohmertPic.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "AndreaBohmertPic",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48767209"
+ },
+ "wiki": {
+  "DateTime": "2015-12-08 22:12:13",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

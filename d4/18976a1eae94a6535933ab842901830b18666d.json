@@ -1,0 +1,25 @@
+{
+ "sha1": "d418976a1eae94a6535933ab842901830b18666d",
+ "lic": "cc-by-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/23/2%E2%80%B2-fucosyllactose_Reaction_Diagram.tiff",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507656,
+ "name": "2′-fucosyllactose Reaction Diagram",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37631954",
+  "html": "<p>2′-fucosyllactose Reaction Diagram\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2012-11-13 19:58:02",
+  "Credit": "<p>Whole cell biosynthesis of a functional oligosaccharide, 2′-fucosyllactose, using engineered Escherichia coli\n</p>",
+  "Artist": "<p>Lee et. al\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.microbialcellfactories.com/content/11/1/48\">http://www.microbialcellfactories.com/content/11/1/48</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.0/"
+ }
+}

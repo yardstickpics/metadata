@@ -1,0 +1,22 @@
+{
+ "sha1": "fe902ee9978375318d889c06d2b63ef61462e185",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/54/Location_Gibraltar_Europe_.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Location Gibraltar Europe ",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=17690052",
+  "html": "<p>Location map: Gibraltar (dark green) / European Union (light green) / Europe (dark grey); inspired by and consistent with general country locator maps by User:Vardion, et al\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-05-30 19:47:19",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>30 May 2008\n</p>",
+  "Artist": "<p>User:3meandEr\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

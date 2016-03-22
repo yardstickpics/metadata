@@ -1,0 +1,26 @@
+{
+ "sha1": "b0e5cca2aaca1feffabbe8637918bf5fd1036dd5",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5f/VanHammer1993.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "VanHammer1993",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44077612",
+  "html": "<p>An image of professional wrestler <a href=\"//en.wikipedia.org/wiki/Van_Hammer\" title=\"Van Hammer\">Van Hammer</a> from 1993.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-10-10 21:22:51",
+  "Credit": "<p><a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:Van_Hammer.jpg\">https://commons.wikimedia.org/wiki/File:Van_Hammer.jpg</a>\n</p>",
+  "DateTimeOriginal": "<p>17 March 2009\n</p>",
+  "Artist": "<p>Joachim from Warsaw, Poland\n</p>",
+  "Permission": "<p><a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:Van_Hammer.jpg\">https://commons.wikimedia.org/wiki/File:Van_Hammer.jpg</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

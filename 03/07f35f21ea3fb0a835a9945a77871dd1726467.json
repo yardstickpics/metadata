@@ -1,0 +1,22 @@
+{
+ "sha1": "0307f35f21ea3fb0a835a9945a77871dd1726467",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Old_Dutch_Wall.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Old Dutch Wall",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25297996",
+  "html": "<p>The Great Wall of Chinatown\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-12-03 22:07:50",
+  "Credit": "<p>I (Bryan Scott) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>2008\n</p>",
+  "Artist": "<p>Bryan Scott\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

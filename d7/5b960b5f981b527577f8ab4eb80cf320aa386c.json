@@ -1,0 +1,22 @@
+{
+ "sha1": "d75b960b5f981b527577f8ab4eb80cf320aa386c",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/74/Ahmedrashidwikipedia.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Ahmedrashidwikipedia",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=17877417",
+  "html": "<p>Photograph of Ahmed Rashid from a WACDC event.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-06-10 19:04:08",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>6/5/08\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Shoroko&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Shoroko (page does not exist)\">Shoroko</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Shoroko\" title=\"User talk:Shoroko\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

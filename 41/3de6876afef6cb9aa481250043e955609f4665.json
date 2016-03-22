@@ -1,0 +1,22 @@
+{
+ "sha1": "413de6876afef6cb9aa481250043e955609f4665",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/UpStreet_Buckhead_Church.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "UpStreet Buckhead Church",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46256828",
+  "html": "<p>UpStreet at Buckhead Church\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-03-29 04:29:29",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2015-03-03\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Atl152\" title=\"User:Atl152\">Atl152</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

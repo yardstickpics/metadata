@@ -1,0 +1,15 @@
+{
+ "sha1": "314d74c754581ae6a9fde2ae3534ae12a4d60ade",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/Dfwrailmap2.1.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Dfwrailmap2.1",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=4036238"
+ },
+ "tags": [
+  "diagram images that should be in svg format"
+ ]
+}

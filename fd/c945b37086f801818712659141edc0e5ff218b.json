@@ -1,0 +1,22 @@
+{
+ "sha1": "fdc945b37086f801818712659141edc0e5ff218b",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/MetroCollege.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "MetroCollege",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=39659053",
+  "html": "<p>Du Collège Metro station in Montreal.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-06-12 21:00:30",
+  "Credit": "<p>I was taking the Metro\n</p>",
+  "DateTimeOriginal": "<p>2013-06-12\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Mtlfiredude\" title=\"User:Mtlfiredude\">Mtlfiredude</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

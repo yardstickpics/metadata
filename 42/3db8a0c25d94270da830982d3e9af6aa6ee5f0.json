@@ -1,0 +1,23 @@
+{
+ "sha1": "423db8a0c25d94270da830982d3e9af6aa6ee5f0",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/be/CairoBeta1Promo_2_Full.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CairoBeta1Promo 2 Full",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=27931362",
+  "html": "<p>Screenshot of CairoShell M5 with CoverFlow in Explorer and System Preferences\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-07-03 21:31:25",
+  "Credit": "<p>Element Software\n</p>",
+  "DateTimeOriginal": "<p>21:31, 3 July 2010 (UTC)\n</p>",
+  "Artist": "<p>Element Software\n</p>",
+  "Permission": "<p>Creative Commons\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

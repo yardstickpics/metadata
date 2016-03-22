@@ -1,0 +1,25 @@
+{
+ "sha1": "0133a1a6cc041e229bc793953e70b8675ea5e5e4",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/13/WWE_Bossman.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "WWE Bossman",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=49672482",
+  "html": "<p><a href=\"//en.wikipedia.org/wiki/Big_Bossman\" title=\"Big Bossman\" class=\"mw-redirect mw-disambig\">Big Bossman</a>\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2016-03-07 20:18:10",
+  "Credit": "<p>Wikipedia\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Vjmlhds\" title=\"User:Vjmlhds\">Vjmlhds</a>\n</p>",
+  "Permission": "<p>Adapted from existing Wiki file<br><a href=\"//en.wikipedia.org/wiki/File:Big_Bossman_and_Slick.jpg\" class=\"image\"><img alt=\"Big Bossman and Slick.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Big_Bossman_and_Slick.jpg/75px-Big_Bossman_and_Slick.jpg\" width=\"75\" height=\"97\" data-file-width=\"1312\" data-file-height=\"1691\"></a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

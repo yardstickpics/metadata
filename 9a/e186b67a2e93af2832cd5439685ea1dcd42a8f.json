@@ -1,0 +1,20 @@
+{
+ "sha1": "9ae186b67a2e93af2832cd5439685ea1dcd42a8f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/70/FoldingHarpsichordDetail.PNG",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "FoldingHarpsichordDetail",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=23703951",
+  "html": "<p>Detail extracted from the image ClavecinsBrisésMarius.JPG created by user \nGérard Janot.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-07-22 17:50:23",
+  "Credit": "<p>Created by Opus33 with Microsoft and assigned the same license as the original file.\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

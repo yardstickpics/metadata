@@ -1,0 +1,21 @@
+{
+ "sha1": "b5e9d342f9e687dadcfcd7720ff2f4679b6c62dc",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/Tusks.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Tusks",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=20306667",
+  "html": "<p>Tusks of African and Asian elephants.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-11-20 10:41:42",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "Artist": "<p>Rajesh Kakkanatt\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

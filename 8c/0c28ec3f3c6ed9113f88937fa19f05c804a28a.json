@@ -1,0 +1,25 @@
+{
+ "sha1": "8c0c28ec3f3c6ed9113f88937fa19f05c804a28a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/99/Profilepic.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Profilepic",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42406205",
+  "html": "<p>Profile Pic\n</p>"
+ },
+ "tags": [
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2014-04-05 06:07:46",
+  "Credit": "<p>Christmas\n</p>",
+  "DateTimeOriginal": "<p>2013-12-24\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Alex_Benedict_Fernandes&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Alex Benedict Fernandes (page does not exist)\">Alex Benedict Fernandes</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

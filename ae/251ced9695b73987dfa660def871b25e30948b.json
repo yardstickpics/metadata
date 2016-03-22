@@ -1,0 +1,22 @@
+{
+ "sha1": "ae251ced9695b73987dfa660def871b25e30948b",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/fc/Map_of_NY_with_USRD_GA_icons.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Map of NY with USRD GA icons",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25294991",
+  "html": "<p>A map depicting the locations of all <a href=\"//en.wikipedia.org/wiki/Wikipedia:GA\" title=\"Wikipedia:GA\" class=\"mw-redirect\">WP:GAs</a> related to <a href=\"//en.wikipedia.org/wiki/Wikipedia:NYSR\" title=\"Wikipedia:NYSR\" class=\"mw-redirect\">WP:NYSR</a>. Orange and Rockland Counties are deliberately omitted.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-12-03 19:08:01",
+  "Credit": "<p>I (–<b><a href=\"//en.wikipedia.org/wiki/User:Juliancolton\" title=\"User:Juliancolton\"><span style=\"font-family:Script MT;color:#36648B\">Juliancolton</span></a></b> | <a href=\"//en.wikipedia.org/wiki/User_talk:Juliancolton\" title=\"User talk:Juliancolton\"><sup><span style=\"font-family:Verdana;color:gray\"><i>Talk</i></span></sup></a>) created this work entirely by myself as a derivative of <a href=\"//en.wikipedia.org/wiki/File:Map_of_New_York_highlighting_Bronx_County.svg\" title=\"File:Map of New York highlighting Bronx County.svg\">File:Map of New York highlighting Bronx County.svg</a>.\n</p>",
+  "DateTimeOriginal": "<p>19:08, 3 December 2009 (UTC)\n</p>",
+  "Artist": "<p>–<b><a href=\"//en.wikipedia.org/wiki/User:Juliancolton\" title=\"User:Juliancolton\"><span style=\"font-family:Script MT;color:#36648B\">Juliancolton</span></a></b> | <a href=\"//en.wikipedia.org/wiki/User_talk:Juliancolton\" title=\"User talk:Juliancolton\"><sup><span style=\"font-family:Verdana;color:gray\"><i>Talk</i></span></sup></a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

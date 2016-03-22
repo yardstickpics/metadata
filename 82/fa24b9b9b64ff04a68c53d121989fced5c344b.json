@@ -1,0 +1,22 @@
+{
+ "sha1": "82fa24b9b9b64ff04a68c53d121989fced5c344b",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Office_pic.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Office pic",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42905859",
+  "html": "<p>Office location pic\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-05-30 07:32:15",
+  "Credit": "<p>Office building\n</p>",
+  "DateTimeOriginal": "<p>2014-01-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:ParkerStilton&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ParkerStilton (page does not exist)\">ParkerStilton</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

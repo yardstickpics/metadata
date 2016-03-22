@@ -1,0 +1,17 @@
+{
+ "sha1": "deeb6b8e3aca5607f0d2f366d999aa13904d4267",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/bf/ChinaRailwaysNetwork.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "ChinaRailwaysNetwork",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=17628622",
+  "html": "<p>The railway network operated by China Railways\n</p>"
+ },
+ "tags": [
+  "map images that should be in svg format",
+  "rail transport maps of china"
+ ]
+}

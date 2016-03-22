@@ -1,0 +1,22 @@
+{
+ "sha1": "158a36076ae258cf55ea97f89158cd9358e434a8",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/11/Generic-8-element-prefix-sum.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Generic-8-element-prefix-sum",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=24927073",
+  "html": "Illustration of a prefix-sum on values <i>x</i><sub>0</sub>…<i>x</i><sub>7</sub>"
+ },
+ "wiki": {
+  "DateTime": "2009-11-02 00:29:12",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/w/index.php?title=User:Spakin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Spakin (page does not exist)\">Scott Pakin</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Spakin\" title=\"User talk:Spakin\">talk</a>)) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>23:46, 1 November 2009 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Spakin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Spakin (page does not exist)\">Scott Pakin</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Spakin\" title=\"User talk:Spakin\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

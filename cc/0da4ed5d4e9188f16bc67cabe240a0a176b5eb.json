@@ -1,0 +1,18 @@
+{
+ "sha1": "cc0da4ed5d4e9188f16bc67cabe240a0a176b5eb",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/RICCARDODEPRAATWORK.TIF",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "RICCARDODEPRAATWORK",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=30757952"
+ },
+ "wiki": {
+  "DateTime": "2011-02-05 15:02:01",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

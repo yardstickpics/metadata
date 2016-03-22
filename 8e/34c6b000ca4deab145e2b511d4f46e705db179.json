@@ -1,0 +1,22 @@
+{
+ "sha1": "8e34c6b000ca4deab145e2b511d4f46e705db179",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Tunnel_Diode_characteristic_curve.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Tunnel Diode characteristic curve",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36829920",
+  "html": "<p>A tunnel diode characteristic curve originally scanned from the RCA Tunnel Diodes technical manual (1963) and converted to SVG format.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-08-26 06:40:16",
+  "Credit": "<p>traced using TurboCAD from a scanned image\n</p>",
+  "DateTimeOriginal": "<p>2012-08-25\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Zen-in\" title=\"User:Zen-in\">Zen-in</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

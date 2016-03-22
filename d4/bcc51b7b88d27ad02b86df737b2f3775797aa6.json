@@ -1,0 +1,23 @@
+{
+ "sha1": "d4bcc51b7b88d27ad02b86df737b2f3775797aa6",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/55/Linking-Open-Data-diagram_2008-03-31.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Linking-Open-Data-diagram 2008-03-31",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=18662842",
+  "html": "<p>Diagram for the <a href=\"//en.wikipedia.org/wiki/Linked_Data\" title=\"Linked Data\" class=\"mw-redirect\">LOD</a> datasets\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-07-31 16:39:11",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://richard.cyganiak.de/2007/10/lod/\">http://richard.cyganiak.de/2007/10/lod/</a>\n</p>",
+  "DateTimeOriginal": "<p>2008-07-31\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Cygri\" title=\"User:Cygri\">Richard Cyganiak</a>\n</p>",
+  "Permission": "<p>From the page: \"The diagram (not the datasets) is CC-BY-SA licensed.\"\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

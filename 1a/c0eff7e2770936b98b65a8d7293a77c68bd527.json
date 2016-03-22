@@ -1,0 +1,22 @@
+{
+ "sha1": "1ac0eff7e2770936b98b65a8d7293a77c68bd527",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Sigiriya_Rock.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Sigiriya Rock",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=13080026"
+ },
+ "tags": [
+  "volcanic plugs",
+  "volcanoes of sri lanka"
+ ],
+ "wiki": {
+  "DateTime": "2007-09-03 18:23:30",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

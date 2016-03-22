@@ -1,0 +1,22 @@
+{
+ "sha1": "fc9c468ba82d96da140188ee91ad27fdbad8584a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/91/Lenin_street_Sevastopol.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Lenin street Sevastopol",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=27427928",
+  "html": "<p>Lenin street Sevastopol\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-05-21 13:56:02",
+  "Credit": "<p>I (**RS**2009) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>9 may 2010\n</p>",
+  "Artist": "<ul><li><ul><li>RS**2009</li></ul></li></ul>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

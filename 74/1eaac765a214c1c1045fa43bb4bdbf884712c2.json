@@ -1,0 +1,25 @@
+{
+ "sha1": "741eaac765a214c1c1045fa43bb4bdbf884712c2",
+ "lic": "cc-by-sa-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Sofia_Full_City_Map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Sofia Full City Map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40842576",
+  "html": "<p>A map of the <a href=\"//en.wikipedia.org/wiki/Bulgaria\" title=\"Bulgaria\">Bulgarian</a> capital <a href=\"//en.wikipedia.org/wiki/Sofia\" title=\"Sofia\">Sofia</a>, including all but its very furthest detached suburbs.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2013-10-22 18:35:16",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.openstreetmap.org/\">http://www.openstreetmap.org/</a>\n</p>",
+  "Artist": "<p>Open Street Map contributors\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.openstreetmap.org/copyright\">http://www.openstreetmap.org/copyright</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.0/"
+ }
+}

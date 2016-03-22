@@ -1,0 +1,21 @@
+{
+ "sha1": "3947788ff5ebbdf68bb0cf20d7ad78fcd698c34d",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/Alaska_Capitol_Back.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Alaska Capitol Back",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=12244399"
+ },
+ "tags": [
+  "images of alaska"
+ ],
+ "wiki": {
+  "DateTime": "2007-07-14 02:41:04",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

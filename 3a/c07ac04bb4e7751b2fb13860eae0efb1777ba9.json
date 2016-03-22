@@ -1,0 +1,26 @@
+{
+ "sha1": "3ac07ac04bb4e7751b2fb13860eae0efb1777ba9",
+ "lic": "cc-by-sa-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/63/DannyBurch2010.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "DannyBurch2010",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41687800",
+  "html": "<p>An image of professional wrestler <a href=\"//en.wikipedia.org/wiki/Danny_Burch\" title=\"Danny Burch\" class=\"mw-redirect\">Danny Burch</a> from 2010.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-01-19 22:00:07",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.flickr.com/photos/simononly/4653582514/\">http://www.flickr.com/photos/simononly/4653582514/</a>\n</p>",
+  "DateTimeOriginal": "<p>30 May 2010\n</p>",
+  "Artist": "<p>\"Simon Q\"\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.flickr.com/photos/simononly/4653582514/\">http://www.flickr.com/photos/simononly/4653582514/</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "sha1": "65bd8d72e20c40898ff1d22464b5659a87a277e2",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c1/60_Hudson_compare_galleries.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507656,
+ "name": "60 Hudson compare galleries",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45366239",
+  "html": "<p>Screen captures of a portion of <a href=\"//en.wikipedia.org/wiki/60_Hudson_Street\" title=\"60 Hudson Street\">60 Hudson Street</a> on 1366x768 screen, for use in discussion on <a href=\"//en.wikipedia.org/wiki/Talk:60_Hudson_Street\" title=\"Talk:60 Hudson Street\">Talk:60 Hudson Street</a>\n</p>"
+ },
+ "tags": [
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2015-02-11 05:57:40",
+  "Credit": "<p>Screenshot\n</p>",
+  "DateTimeOriginal": "<p>2015-02-11\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Beyond_My_Ken\" title=\"User:Beyond My Ken\">BMK</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Beyond_My_Ken\" title=\"User talk:Beyond My Ken\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

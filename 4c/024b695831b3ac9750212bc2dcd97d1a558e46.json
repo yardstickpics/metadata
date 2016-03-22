@@ -1,0 +1,18 @@
+{
+ "sha1": "4c024b695831b3ac9750212bc2dcd97d1a558e46",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/38/NURBS-circle-3D.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "NURBS-circle-3D",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43806911"
+ },
+ "wiki": {
+  "DateTime": "2016-02-16 00:12:52",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

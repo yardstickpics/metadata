@@ -1,0 +1,17 @@
+{
+ "sha1": "88acb4813e8452ce343bdb57eb976520f50246ca",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/29/WLTN_radio_station_logo.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "WLTN radio station logo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=38402108",
+  "html": "<p>The logo of <a href=\"//en.wikipedia.org/wiki/WLTN_(AM)\" title=\"WLTN (AM)\">WLTN (AM)</a> radio station.\n</p>"
+ },
+ "tags": [
+  "images that should have transparent backgrounds",
+  "images with inappropriate jpeg compression"
+ ]
+}

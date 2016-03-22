@@ -1,0 +1,25 @@
+{
+ "sha1": "eccaa07456542faef5d6e8336ed1fbb3dbcfb10d",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/cd/403_near_Jerseyville.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507656,
+ "name": "403 near Jerseyville",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33495522",
+  "html": "<p>Aerial view of Highway 403 (further) and former Highway 2 / 53 (closer). The community in the background is <a href=\"//en.wikipedia.org/wiki/Jerseyville,_Ontario\" title=\"Jerseyville, Ontario\">Jerseyville, Ontario</a>. The lake is Dunmark Lake.\n</p>"
+ },
+ "tags": [
+  "aerial photographs of ontario roads"
+ ],
+ "wiki": {
+  "DateTime": "2011-10-22 15:43:48",
+  "Credit": "<p>Derivative of <a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/paulhami/2813736269/in/photostream/\">Southern Ontario from the Air</a>\n</p>",
+  "DateTimeOriginal": "<p>August 28, 2008\n</p>",
+  "Artist": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/photos/paulhami/\">Paul Hamilton</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

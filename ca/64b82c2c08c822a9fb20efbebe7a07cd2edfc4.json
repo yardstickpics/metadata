@@ -1,0 +1,23 @@
+{
+ "sha1": "ca64b82c2c08c822a9fb20efbebe7a07cd2edfc4",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/93/George_Chapman_Portrait_1a.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "George Chapman Portrait 1a",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25231609",
+  "html": "<p>George Chapman\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-11-28 15:41:57",
+  "Credit": "<p>Georgina Patricia Ross\n</p>",
+  "DateTimeOriginal": "<p>Early 20th Century\n</p>",
+  "Artist": "<p>Unknown\n</p>",
+  "Permission": "<p>Granted by Patricia J Chapman &amp; Georgina Patricia Ross\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

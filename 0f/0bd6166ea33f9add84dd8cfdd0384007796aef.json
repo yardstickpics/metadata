@@ -1,0 +1,23 @@
+{
+ "sha1": "0f0bd6166ea33f9add84dd8cfdd0384007796aef",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/22/Journal.pbio.1000276.g005.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Journal.pbio.1000276.g005",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=28105585",
+  "html": "<p>Representation of experimental data on the possible 2-D structure 3 of the Xist A region.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-07-21 13:23:19",
+  "Credit": "<p>PLoS Biology. PLoS Biol 8(1): e1000276. doi:10.1371/journal.pbio.1000276\n</p>",
+  "DateTimeOriginal": "<p>13:23, 21 July 2010 (UTC)\n</p>",
+  "Artist": "<p>Sylvain Maenner, Magali Blaud, Laetitia Fouillen, Anne Savoye, Virginie Marchand1, Agnès Dubois, Sarah Sanglier-Cianférani, Alain Van Dorsselaer, Philippe Clerc, Philip Avner, Athanase Visvikis, Christiane Branlant\n</p>",
+  "Permission": "<p>Creative Commons Attribution License version 2.5\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "49514c17108be76c33f748d2aa6b1656579d486e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Mcb9forweb.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Mcb9forweb",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=16715202",
+  "html": "Detroit, Michigan\n<p>2007 Motor City Bowl\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-04-01 19:47:22",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>December 26, 2007\n</p>",
+  "Artist": "<p>Steven L. Swart, www.SpinningLens.com\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

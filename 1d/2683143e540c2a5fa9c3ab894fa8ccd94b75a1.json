@@ -1,0 +1,22 @@
+{
+ "sha1": "1d2683143e540c2a5fa9c3ab894fa8ccd94b75a1",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Depth_cues_1.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Depth cues 1",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40950331",
+  "html": "<p>Photo illustrating various depth cues: perspective, relative size, occlusion, texture gradients.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-11-01 19:34:50",
+  "Credit": "<p>Photo taken in Swarthmore PA<br><b>Previously published:</b> not previously published\n</p>",
+  "DateTimeOriginal": "<p>2005-05-13\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Brazzit\" title=\"User:Brazzit\">Brazzit</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

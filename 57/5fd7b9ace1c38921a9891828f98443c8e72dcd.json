@@ -1,0 +1,22 @@
+{
+ "sha1": "575fd7b9ace1c38921a9891828f98443c8e72dcd",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c6/4U9525_flight_path5.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507656,
+ "name": "4U9525 flight path5",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46248629",
+  "html": "<p>4U9525 flight path with Orange-Caritat Air Base\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-03-28 07:24:42",
+  "Credit": "<p>Own work  - Better contrast. edited from a map by <a href=\"//commons.wikimedia.org/wiki/User:AHeneen\" class=\"extiw\" title=\"commons:User:AHeneen\">AHeneen</a>. Relief map by <a href=\"//commons.wikimedia.org/wiki/User:Sting\" class=\"extiw\" title=\"commons:User:Sting\">Eric Gaba</a>. Created from <a class=\"external text\" href=\"http://commons.wikimedia.org/wiki/File:France_relief_location_map.jpg\">Relief map</a>, <a href=\"//en.wikipedia.org/wiki/File:Germanwings_Flight_9525_flight_path_topographic.png\" title=\"File:Germanwings Flight 9525 flight path topographic.png\">flight path</a> and <a href=\"//en.wikipedia.org/wiki/File:Airplane_silhouette.svg\" title=\"File:Airplane silhouette.svg\">airplane sinhouette</a><br>Data source: Media release (<a rel=\"nofollow\" class=\"external text\" href=\"https://twitter.com/flightradar24/status/580332876081811456\">CSV</a> and <a rel=\"nofollow\" class=\"external text\" href=\"http://forum.flightradar24.com/threads/8650-We-have-analysed-the-raw-data-from-the-transponder-of-4U9525-and-found-some-more-dat?p=64702&amp;viewfull=1#post64702\">KML</a> files) publicised for the media. <br>Since the location of the aircraft is a fact, not a creative work, and the map traced purports to show the path that Flight 4U9525 travelled based on primary &amp; secondary radar, the flight path is not subject to copyright\n</p>",
+  "DateTimeOriginal": "<p>27 Mar 2015\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Callinus\" title=\"User:Callinus\">Callinus</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

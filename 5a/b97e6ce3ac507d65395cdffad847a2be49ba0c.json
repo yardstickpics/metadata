@@ -1,0 +1,18 @@
+{
+ "sha1": "5ab97e6ce3ac507d65395cdffad847a2be49ba0c",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/98/Lanugo.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Lanugo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31397755"
+ },
+ "wiki": {
+  "DateTime": "2011-04-05 05:40:54",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "b5ee4c125275dbf0599764c0df7e865374ccf504",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Perry_Wallace.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Perry Wallace",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=30793727",
+  "html": "<p>Made using Paint Pro XII\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-02-08 14:50:52",
+  "Credit": "<p>I created it 2011\n</p>",
+  "DateTimeOriginal": "<p>February 8, 2011\n</p>",
+  "Artist": "<p>Mickey Sanker\n</p>",
+  "Permission": "<p>released under GFDL Entirely my own work - I created it, own all the rights to it, and have not used anyone else's work in making it\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

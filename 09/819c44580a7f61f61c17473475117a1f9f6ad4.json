@@ -1,0 +1,22 @@
+{
+ "sha1": "09819c44580a7f61f61c17473475117a1f9f6ad4",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/38/WIKIPEDIA_25mar_07-full.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "WIKIPEDIA 25mar 07-full",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=10263171"
+ },
+ "tags": [
+  "screenshots of wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2007-03-25 19:08:43",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "Attribution": "<a href=\"//wikimediafoundation.org/wiki/Contact_us\" class=\"extiw\" title=\"wmf:Contact us\">Wikimedia Foundation</a>",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

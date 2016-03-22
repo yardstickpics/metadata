@@ -1,0 +1,22 @@
+{
+ "sha1": "b1f3830559cf7e1f467074a9221e262a8e75a7e4",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/ab/Julian_ritter_painting_mural.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Julian ritter painting mural",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=32416238",
+  "html": "<p>Julian Ritter painting mural for the Mines, Minerals and Machinery Building of the 1939 <a href=\"//en.wikipedia.org/wiki/Golden_Gate_International_Exposition\" title=\"Golden Gate International Exposition\">Golden Gate International Exposition</a> on San Francisco's Treasure Island\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-07-14 21:51:04",
+  "Credit": "<p>Ritter Family Trust, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.julianrittercentral.com/galleries/misc/photos.htm\">JulianRitterCentral</a>\n</p>",
+  "DateTimeOriginal": "<p>1938\n</p>",
+  "Artist": "<p>Ritter Family Trust\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

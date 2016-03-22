@@ -1,0 +1,25 @@
+{
+ "sha1": "7968e27e822127e46d35d5cfc465f2149002ba11",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Basket_of_Fruit_%28after_Carravagio%29_Sand_Painting_by_Brian_Pike.JPG",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Basket of Fruit (after Carravagio) Sand Painting by Brian Pike",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25296303",
+  "html": "<p>Basket of Fruit (after Carravagio) Sand Painting by Brian Pike\n</p>"
+ },
+ "tags": [
+  "sand paintings"
+ ],
+ "wiki": {
+  "DateTime": "2009-12-03 20:40:24",
+  "Credit": "<p>I (Brian Pike The Sandpainter)) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>1974\n</p>",
+  "Artist": "<p>Brian Pike (The Sandpainter)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "sha1": "7e12621242d3c29f53c94848f1be2d3270227e24",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e6/Optical_pumping.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Optical pumping",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41339451",
+  "html": "<p>Numerical result of optical pumping compared to analytic result from adiabatic elimination.\n</p>"
+ },
+ "tags": [
+  "images in non-image formats"
+ ],
+ "wiki": {
+  "DateTime": "2013-12-11 18:44:55",
+  "Credit": "<p>matlab\n</p>",
+  "DateTimeOriginal": "<p>2013-12-09\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Chbald&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Chbald (page does not exist)\">Chbald</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "sha1": "d7b2c4c468f479948b0dc2300a093285281c2877",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8c/PompidouMetz-night.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "PompidouMetz-night",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33973423"
+ },
+ "wiki": {
+  "DateTime": "2011-12-06 12:57:20",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

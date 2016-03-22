@@ -1,0 +1,22 @@
+{
+ "sha1": "c1685bc5bca25818f6dd7824e0f219fae707fb7a",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/89/World_Map_ITF_Regions.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "World Map ITF Regions",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=49863230",
+  "html": "<p>Map of the member associations within the <a href=\"//en.wikipedia.org/wiki/International_Tennis_Federation\" title=\"International Tennis Federation\">International Tennis Federation</a> as of March 2016, color coded according to their regional association.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2016-03-20 04:23:44",
+  "Credit": "<p>Based on <a href=\"//en.wikipedia.org/wiki/File:BlankMap-World6,_compact.svg\" title=\"File:BlankMap-World6, compact.svg\">Image:BlankMap-World6,_compact.svg</a>\n</p>",
+  "DateTimeOriginal": "<p>March 19, 2016\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Saskoiler\" title=\"User:Saskoiler\">User:Saskoiler</a>\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "sha1": "dc2686439e17cc82cbc333313c516a80e381ff0e",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/MadHatters_Spring_2011.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "MadHatters Spring 2011",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31372477"
+ },
+ "wiki": {
+  "DateTime": "2011-10-26 07:12:26",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "sha1": "64609393746513b8affa62d70212aae5355f7ea0",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/3b/FitzGerald_building.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "FitzGerald building",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41083866"
+ },
+ "wiki": {
+  "DateTime": "2013-11-14 23:14:51",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

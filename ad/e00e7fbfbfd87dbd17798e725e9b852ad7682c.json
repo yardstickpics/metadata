@@ -1,0 +1,16 @@
+{
+ "sha1": "ade00e7fbfbfd87dbd17798e725e9b852ad7682c",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Heathrow_Terminals_After.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Heathrow Terminals After",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=17636105",
+  "html": "<p>diagram made using an artist's impression of the future of Heathrow airport as the source.\n</p>"
+ },
+ "tags": [
+  "diagram images that should be in svg format"
+ ]
+}

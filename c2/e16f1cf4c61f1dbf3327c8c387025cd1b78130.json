@@ -1,0 +1,18 @@
+{
+ "sha1": "c2e16f1cf4c61f1dbf3327c8c387025cd1b78130",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/CemiMountain.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CemiMountain",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=5841554"
+ },
+ "wiki": {
+  "DateTime": "2006-07-05 17:16:38",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

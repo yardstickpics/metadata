@@ -1,0 +1,21 @@
+{
+ "sha1": "b36147234558aff1771fd1e82c2971bd9e8d38e5",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/aa/Franco_Pencilled.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Franco Pencilled",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44117964",
+  "html": "<p>Francisco Sierra, as sketched by Stephen Crowe using pencil on paper.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-10-15 12:05:49",
+  "Credit": "<p>Author\n</p>",
+  "Artist": "<p>Stephen Crowe\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "5b5c874aa6ea3f422eb8de6a816f064a4e3971e1",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0f/Karlhard_ferrari.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Karlhard ferrari",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44166161",
+  "html": "<p>Karlhard (user) in his ferrari california\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-10-20 20:20:49",
+  "Credit": "<p>My photo\n</p>",
+  "DateTimeOriginal": "<p>2014-04-14\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Karlhard\" title=\"User:Karlhard\">Karlhard</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

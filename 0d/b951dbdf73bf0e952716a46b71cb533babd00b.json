@@ -1,0 +1,13 @@
+{
+ "sha1": "0db951dbdf73bf0e952716a46b71cb533babd00b",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Tetramer_with_NAD_surface.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Tetramer with NAD surface",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=19093628",
+  "html": "<p>Chimera Image of a Tetramer of Aldehyde Dehydrogenase 2 (4 subunits) with a space filling model of NAD+ in each active site. (ALDH2, pdb code: 1o02)\n</p>"
+ }
+}

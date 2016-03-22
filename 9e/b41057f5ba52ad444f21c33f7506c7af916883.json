@@ -1,0 +1,26 @@
+{
+ "sha1": "9eb41057f5ba52ad444f21c33f7506c7af916883",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/38/Route_133_with_new_NJTP_Exit_8.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Route 133 with new NJTP Exit 8",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44675258",
+  "html": "<p>An OSM depiction of the \"Hightstown Bypass\" (Route 133) connecting with the new Exit 8 of the New Jersey Turnpike (I-95) in East Windsor Township, NJ.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-12-11 14:36:25",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.openstreetmap.org\">https://www.openstreetmap.org</a>\n</p>",
+  "DateTimeOriginal": "<p>Thursday, December 11, 2014\n</p>",
+  "Artist": "<p>© OpenStreetMap contributors\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.openstreetmap.org/copyright\">https://www.openstreetmap.org/copyright</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "sha1": "78f78b9053ce0a786dafa52150bc7845cf7f1ff4",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/88/Gwen_Wiki_Photo.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Gwen Wiki Photo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40344071",
+  "html": "<p>Photograph of Gwendolyn Audrey Foster.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-08-24 18:34:11",
+  "Credit": "<p>Wheeler Winston Dixon.\n</p>",
+  "Artist": "<p>Author: Wheeler Winston Dixon.\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

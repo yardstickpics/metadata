@@ -1,0 +1,22 @@
+{
+ "sha1": "abc3410bc52b66ead56f7f1f2c6119ba2ca33ad1",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/59/Vv_portrait.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Vv portrait",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=27429839",
+  "html": "<p>vendela vida portrait\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-05-21 18:06:51",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/wiki/User:Bigcharles\" title=\"User:Bigcharles\">Bigcharles</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Bigcharles\" title=\"User talk:Bigcharles\">talk</a>)) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>18:06, 21 May 2010 (UTC) 2010-05-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Bigcharles\" title=\"User:Bigcharles\">Bigcharles</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Bigcharles\" title=\"User talk:Bigcharles\">talk</a>) Chloe\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

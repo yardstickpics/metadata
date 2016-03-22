@@ -1,0 +1,22 @@
+{
+ "sha1": "cf67fffbf5eecc150b6b047d93e924a489c1313e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/2a/Wild_grizzly_bear_in_Alaska.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Wild grizzly bear in Alaska",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47137680",
+  "html": "<p>Young grizzly bear hunting for ground squirrels\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-07-02 18:31:37",
+  "Credit": "<p>Photography excursion in Alaska\n</p>",
+  "DateTimeOriginal": "<p>July 2013\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Atsme\" title=\"User:Atsme\">Atsme</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

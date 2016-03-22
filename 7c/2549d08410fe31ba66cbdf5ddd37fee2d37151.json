@@ -1,0 +1,13 @@
+{
+ "sha1": "7c2549d08410fe31ba66cbdf5ddd37fee2d37151",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/83/BlankMap-World-Subdivisions.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "BlankMap-World-Subdivisions",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=20779815",
+  "html": "<p>Blank map of world with subdivisions, made with Inkscape from <a href=\"//en.wikipedia.org/wiki/File:BlankMap-World-Subdivisions.png\" title=\"File:BlankMap-World-Subdivisions.png\">File:BlankMap-World-Subdivisions.png</a>.  Please note this is the first time I've made a vector, and so it may not be optimal.\n</p>"
+ }
+}

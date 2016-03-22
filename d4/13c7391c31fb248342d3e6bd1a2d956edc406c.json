@@ -1,0 +1,18 @@
+{
+ "sha1": "d413c7391c31fb248342d3e6bd1a2d956edc406c",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/20/Stop%26Go.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Stop&Go",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=12785084"
+ },
+ "wiki": {
+  "DateTime": "2007-08-15 20:18:19",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "sha1": "f3ff1dbf45bc7e33e388fba409c58d6a1e90bafb",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/51/WileMill.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "WileMill",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=18501990",
+  "html": "<p>Photograph of mill and stream\n</p>"
+ },
+ "tags": [
+  "museums in nova scotia",
+  "red buildings"
+ ],
+ "wiki": {
+  "DateTime": "2008-07-19 15:46:04",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>March 2008\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Verne_Equinox\" title=\"User:Verne Equinox\">Verne Equinox</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Verne_Equinox\" title=\"User talk:Verne Equinox\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

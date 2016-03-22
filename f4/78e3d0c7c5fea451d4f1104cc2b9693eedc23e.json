@@ -1,0 +1,22 @@
+{
+ "sha1": "f478e3d0c7c5fea451d4f1104cc2b9693eedc23e",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/This_is_a_collage_of_images_in_Thunder_Bay_taken_by_Ella_Sabourin.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "This is a collage of images in Thunder Bay taken by Ella Sabourin",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42924273",
+  "html": "<p>This is a collage of images photographed by Ella in Thunder Bay. The use of these photos is not permitted outside of Wikipedia. These photos belong to Ella.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-05-31 19:34:56",
+  "Credit": "<p>I took these on a vacation\n</p>",
+  "DateTimeOriginal": "<p>2013-06-29\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Splrful\" title=\"User:Splrful\">Splrful</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

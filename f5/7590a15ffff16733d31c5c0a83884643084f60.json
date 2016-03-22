@@ -1,0 +1,26 @@
+{
+ "sha1": "f57590a15ffff16733d31c5c0a83884643084f60",
+ "lic": "cc-by-sa-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Lansdowne_suburb_boundaries.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Lansdowne suburb boundaries",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45683509",
+  "html": "<p><a href=\"//en.wikipedia.org/wiki/Lansdowne,_New_South_Wales\" title=\"Lansdowne, New South Wales\">Lansdowne</a> suburb boundaries.\n</p>"
+ },
+ "tags": [
+  "openstreetmap maps"
+ ],
+ "wiki": {
+  "DateTime": "2015-03-16 01:17:21",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.openstreetmap.org/way/332991754#map=16/-33.8972/150.9830&amp;layers=N\">https://www.openstreetmap.org/way/332991754#map=16/-33.8972/150.9830&amp;layers=N</a>\n</p>",
+  "DateTimeOriginal": "<p>16-03-2015\n</p>",
+  "Artist": "<p>OpenStreetMap\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.openstreetmap.org/copyright\">https://www.openstreetmap.org/copyright</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.0/"
+ }
+}

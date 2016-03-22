@@ -1,0 +1,25 @@
+{
+ "sha1": "c64a47c1f6b36bee273e95949394d0309ec88265",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d1/Algebraicszoom.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Algebraicszoom",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=26727062",
+  "html": "<p>Visualisation of the (countable) field of algebraic numbers in the complex plane.  Colours indicate degree of the polynomial the number is a root of (red = linear, i.e. the rationals, green = quadratic, blue = cubic, yellow = quartic...).  Points becomes smaller as the integer polynomial coefficients become larger.  View shows integers 0,1 and 2 at bottom right, +<i>i</i> near top.\n</p>"
+ },
+ "tags": [
+  "algebraic numbers"
+ ],
+ "wiki": {
+  "DateTime": "2010-03-27 21:48:49",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/wiki/User:Stephen_J._Brooks\" title=\"User:Stephen J. Brooks\">Stephen J. Brooks</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Stephen_J._Brooks\" title=\"User talk:Stephen J. Brooks\">talk</a>)) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>2010-Mar-23\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Stephen_J._Brooks\" title=\"User:Stephen J. Brooks\">Stephen J. Brooks</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Stephen_J._Brooks\" title=\"User talk:Stephen J. Brooks\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

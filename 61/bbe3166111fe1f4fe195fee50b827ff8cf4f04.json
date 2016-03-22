@@ -1,0 +1,26 @@
+{
+ "sha1": "61bbe3166111fe1f4fe195fee50b827ff8cf4f04",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/CTB_trolley_bus_route_map.PNG",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CTB trolley bus route map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36819831",
+  "html": "<p>Route map of the trolley bus network operated by the <a href=\"//en.wikipedia.org/wiki/Christchurch_Tramway_Board\" title=\"Christchurch Tramway Board\" class=\"mw-redirect\">Christchurch Tramway Board</a> from 1931 to 1956 in Christchurch, New Zealand.\n</p>\n<p>N.B. The base road map used here is for reference only and no attempt has been made to make it commensurate with the era in which the trolley buses operated.\n</p>"
+ },
+ "tags": [
+  "maps of oceania",
+  "openstreetmap maps"
+ ],
+ "wiki": {
+  "DateTime": "2012-08-24 23:07:40",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/wiki/User:Matthew25187\" title=\"User:Matthew25187\">Matthew25187</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Matthew25187\" title=\"User talk:Matthew25187\">talk</a>)) created this work based on a map image from OpenStreetMap. Route information courtesy of:\n</p>\n<ul><li> <cite class=\"citation book\">Dew, Les (1996). \"The bus fleet of the Christchurch Tramway (and later Transport) Board\". <i>Buses – Beetle to Bristols: the buses of Canterbury 1904–1989</i>. On the move: Christchurch transport through the years <b>8</b>. Additional research by Alan Williamson. Christchurch: A &amp; M Publishers. p. 117. <a href=\"//en.wikipedia.org/wiki/International_Standard_Serial_Number\" title=\"International Standard Serial Number\">ISSN</a> <a rel=\"nofollow\" class=\"external text\" href=\"//www.worldcat.org/issn/1171-4298\">1171-4298</a>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile%3ACTB+trolley+bus+route+map.PNG&amp;rft.atitle=The+bus+fleet+of+the+Christchurch+Tramway+%28and+later+Transport%29+Board&amp;rft.aufirst=Les&amp;rft.aulast=Dew&amp;rft.btitle=Buses+%93+Beetle+to+Bristols%3A+the+buses+of+Canterbury+1904%931989&amp;rft.date=1996&amp;rft.genre=bookitem&amp;rft.issn=1171-4298&amp;rft.pages=117&amp;rft.place=Christchurch&amp;rft.pub=A+%26+M+Publishers&amp;rft.series=On+the+move%3A+Christchurch+transport+through+the+years&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook\" class=\"Z3988\"><span style=\"display:none;\"> </span></span>\n</li></ul>",
+  "DateTimeOriginal": "<p>23:07, 24 August 2012 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Matthew25187\" title=\"User:Matthew25187\">Matthew25187</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Matthew25187\" title=\"User talk:Matthew25187\">talk</a>)\n</p>\n<p>Base map image © <a rel=\"nofollow\" class=\"external text\" href=\"http://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a rel=\"nofollow\" class=\"external text\" href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC BY-SA</a>.\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

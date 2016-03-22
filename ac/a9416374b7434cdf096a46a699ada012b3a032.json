@@ -1,0 +1,24 @@
+{
+ "sha1": "aca9416374b7434cdf096a46a699ada012b3a032",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/78/To_Commons.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "To Commons",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33285789"
+ },
+ "tags": [
+  "all possibly unfree wikipedia files",
+  "possibly unfree files from 2016 march 8",
+  "wikipedia files that shadow a file on wikimedia commons"
+ ],
+ "wiki": {
+  "DateTime": "2011-10-03 04:33:37",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "Attribution": "<a href=\"//wikimediafoundation.org/wiki/Contact_us\" class=\"extiw\" title=\"wmf:Contact us\">Wikimedia Foundation</a>",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

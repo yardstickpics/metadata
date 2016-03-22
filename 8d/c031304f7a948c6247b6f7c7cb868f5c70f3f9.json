@@ -1,0 +1,26 @@
+{
+ "sha1": "8dc031304f7a948c6247b6f7c7cb868f5c70f3f9",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Eltam_map_physical.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Eltam map physical",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44091936",
+  "html": "<p>Eltham from Open Street Map. Water courses and spot heights (converted to meters) from 1870 survey. contours from later survey.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-10-12 15:49:09",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.openstreetmap.org/\">http://www.openstreetmap.org/</a>\n</p>",
+  "DateTimeOriginal": "<p>2014\n</p>",
+  "Artist": "<p>Open Street Map\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.openstreetmap.org/\">http://www.openstreetmap.org/</a> and Wikipedia aerticle <a href=\"//en.wikipedia.org/wiki/Open_Street_Map\" title=\"Open Street Map\" class=\"mw-redirect\">Open Street Map</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "sha1": "2ad4271ef1874650dc91bdb18030fcf2717ad3d0",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Lake_Assal.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Lake Assal",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31902185",
+  "html": "<p>Map of Lake Assal, Djibouti\n</p>"
+ },
+ "tags": [
+  "free screenshots",
+  "gpl files",
+  "map images that should be in svg format"
+ ],
+ "wiki": {
+  "DateTime": "2011-05-27 13:16:53",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.maps-for-free.com/\">http://www.maps-for-free.com/</a>\n</p>",
+  "DateTimeOriginal": "<p>2011-05-27\n</p>",
+  "Artist": "<p>Modified by Dr. Blofeld\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.maps-for-free.com/html/about.html\">http://www.maps-for-free.com/html/about.html</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

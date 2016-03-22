@@ -1,0 +1,26 @@
+{
+ "sha1": "28477dedf6baefd5d2ec4579c08245ea921ada7d",
+ "lic": "cc-by-sa-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/59/CASL_Location%2C_from_OSM%2C_April_2012.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CASL Location, from OSM, April 2012",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35616486",
+  "html": "<p>Map of CASL and surrounding area taken from OSM\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources",
+  "openstreetmap maps"
+ ],
+ "wiki": {
+  "DateTime": "2012-04-25 16:11:56",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://openstreetmap.org\">http://openstreetmap.org</a>\n</p>",
+  "Artist": "<p>OSM Contributors\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://openstreetmap.org/copyright\">http://openstreetmap.org/copyright</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.0/"
+ }
+}

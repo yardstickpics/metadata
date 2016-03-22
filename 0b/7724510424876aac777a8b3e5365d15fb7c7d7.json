@@ -1,0 +1,16 @@
+{
+ "sha1": "0b7724510424876aac777a8b3e5365d15fb7c7d7",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Great-Powers-Map.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Great-Powers-Map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=18375519",
+  "html": "<p>World map showing great powers: China, France, Russia, the United Kingdom, and the United States as great powers. And Germany and Japan as economic great powers.\n</p>"
+ },
+ "tags": [
+  "cia world factbook images"
+ ]
+}

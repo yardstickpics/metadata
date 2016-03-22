@@ -1,0 +1,21 @@
+{
+ "sha1": "6d31cf1d719d8e56926e85cb7ddd0d40c9250966",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/2b/Pony_Garden.PNG",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Pony Garden",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42387485"
+ },
+ "tags": [
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2014-04-03 07:56:17",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

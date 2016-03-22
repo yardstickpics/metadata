@@ -1,0 +1,23 @@
+{
+ "sha1": "d79d8a10d56cde5cd0bd3a99b8a4914f7e215081",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/19/Stories.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Stories",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33379718",
+  "html": "<p>Book cover\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-10-11 20:46:28",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>created 11. Oct. 2011\n</p>",
+  "Artist": "<p>City Lights Publishers\n</p>",
+  "Permission": "<p>\"permission granted by owner\"\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

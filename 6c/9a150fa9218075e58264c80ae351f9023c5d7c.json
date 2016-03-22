@@ -1,0 +1,22 @@
+{
+ "sha1": "6c9a150fa9218075e58264c80ae351f9023c5d7c",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Washington_DC_ANC_Areas.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Washington DC ANC Areas",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=38302240",
+  "html": "<p>Advisory Neighborhood Commission Areas.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-01-22 23:15:35",
+  "Credit": "<p>Created with TileMill from Open Data from the DC Government\n</p>",
+  "DateTimeOriginal": "<p>2013-01-10\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Tmcw\" title=\"User:Tmcw\">Tmcw</a>\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

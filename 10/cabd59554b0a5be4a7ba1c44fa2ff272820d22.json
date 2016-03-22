@@ -1,0 +1,23 @@
+{
+ "sha1": "10cabd59554b0a5be4a7ba1c44fa2ff272820d22",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/51/Water_retention_model.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Water retention model",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47671578",
+  "html": "<p><b>English:</b>   Percolation theory explains the counter intuitive finding that a a random two level system will retain more water than a random three level system when the size of the square &gt; 51 x 51.\n</p>\n<p><a href=\"//en.wikipedia.org/wiki/Water_retention_on_mathematical_surfaces\" title=\"Water retention on mathematical surfaces\">Water retention on mathematical surfaces</a>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-08-30 16:04:36",
+  "Credit": "<p>Own work  (<a href=\"//en.wikipedia.org/w/index.php?title=Template:Original_text&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Template:Original text (page does not exist)\">Template:Original text</a>)\n</p>",
+  "DateTimeOriginal": "<p>02:09, 30 Aug 2015 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Knecht03\" title=\"User:Knecht03\">Knecht03</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Knecht03\" title=\"User talk:Knecht03\">talk</a>)\n</p>",
+  "Permission": "<p>granted\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

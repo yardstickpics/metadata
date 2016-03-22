@@ -1,0 +1,22 @@
+{
+ "sha1": "58c04fbb051c81018c62029da79a308fcbe7ec92",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7b/AngelFalls_and_NiagraFalls.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "AngelFalls and NiagraFalls",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25014657",
+  "html": "<p>Angel Falls (left) and Niagara Falls (bottom-right) to the same scale.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-11-09 00:06:51",
+  "Credit": "<p>This is photoshop hack of [File:Salto Angel from Raton.JPG] and [File:Cataratas del Niagara.JPG]\n</p>",
+  "DateTimeOriginal": "<p>00:06, 9 November 2009 (UTC)\n</p>",
+  "Artist": "<p>Photoshopping by <a href=\"//en.wikipedia.org/wiki/Steve_Baker\" title=\"Steve Baker\" class=\"mw-redirect mw-disambig\">Steve Baker</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

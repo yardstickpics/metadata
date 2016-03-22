@@ -1,0 +1,25 @@
+{
+ "sha1": "6d0452f00a61b74d093b0a79cca5b830eaa990b6",
+ "lic": "cc-by-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/46/CollarCountyMontage01.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CollarCountyMontage01",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40048084",
+  "html": "<p>This is a series of six photos found on Wikipedia of cities in the collar counties for use in an article about the collar counties.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2013-07-23 09:12:56",
+  "Credit": "<p>en.wikipedia.org/wiki/Main_Page\n</p>",
+  "Artist": "<p>Wikipedia\n</p>",
+  "Permission": "<p>See Further Information\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/1.0/"
+ }
+}

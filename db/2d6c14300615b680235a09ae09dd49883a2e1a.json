@@ -1,0 +1,22 @@
+{
+ "sha1": "db2d6c14300615b680235a09ae09dd49883a2e1a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Map_of_Houston_Texas_and_Harris_County.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Map of Houston Texas and Harris County",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47722892",
+  "html": "<p>Map showing Houston, Texas surrounded by Harris County, with major freeways.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-09-04 21:04:12",
+  "Credit": "<p>Map built using open data using ArcGIS and Adobe Illustrator\n</p>",
+  "DateTimeOriginal": "<p>2015-09-04\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Avatarr8&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Avatarr8 (page does not exist)\">Avatarr8</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

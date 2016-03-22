@@ -1,0 +1,22 @@
+{
+ "sha1": "572660022f2f249c2fef8b0a5af3438caf2553ea",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/69/Creaform_REVscan.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Creaform REVscan",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=18527208",
+  "html": "<p>Example of the use of 3D handheld laser scanner for reverse engineering applications.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-07-21 15:26:44",
+  "Credit": "<p>Creaform\n</p>",
+  "Artist": "<p>Creaform\n</p>",
+  "Permission": "<p>CC-Attribution\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

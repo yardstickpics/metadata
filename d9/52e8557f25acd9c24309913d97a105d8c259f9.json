@@ -1,0 +1,22 @@
+{
+ "sha1": "d952e8557f25acd9c24309913d97a105d8c259f9",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/87/SidneyGilchristThomasPlaque.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "SidneyGilchristThomasPlaque",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=22629169",
+  "html": "<p>Dedication Plaque to Sidney Gilchrist Thomas from the American Society for Metals.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-04-30 15:11:25",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>29 April 2009\n</p>",
+  "Artist": "<p>John Morrice\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

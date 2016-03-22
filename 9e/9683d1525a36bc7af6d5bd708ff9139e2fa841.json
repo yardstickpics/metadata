@@ -1,0 +1,21 @@
+{
+ "sha1": "9e9683d1525a36bc7af6d5bd708ff9139e2fa841",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/dc/Protocol.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Protocol",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46577680",
+  "html": "<p>Fig.2 MetaboLights Study Protocol\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-05-01 08:51:42",
+  "Credit": "<p><a href=\"//en.wikipedia.org/wiki/European_Bioinformatics_Institute\" title=\"European Bioinformatics Institute\">EMBL-EBI</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "Attribution": "<a href=\"//en.wikipedia.org/wiki/European_Bioinformatics_Institute\" title=\"European Bioinformatics Institute\">EMBL-EBI</a>",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

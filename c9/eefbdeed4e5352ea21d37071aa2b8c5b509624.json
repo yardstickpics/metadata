@@ -1,0 +1,18 @@
+{
+ "sha1": "c9eefbdeed4e5352ea21d37071aa2b8c5b509624",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/11/HarlemChess.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "HarlemChess",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=6989356"
+ },
+ "wiki": {
+  "DateTime": "2006-09-14 12:58:13",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "5638c023060fee9bd5107ca4f106d9451f28a103",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/Boliviacurrencyold.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Boliviacurrencyold",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35864499",
+  "html": "<p>coin\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-05-18 20:37:42",
+  "Credit": "<p>camera<br><b>Previously published:</b> no\n</p>",
+  "DateTimeOriginal": "<p>2012-05-18\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Carloshistory\" title=\"User:Carloshistory\">Carloshistory</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

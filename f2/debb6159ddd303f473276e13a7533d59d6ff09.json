@@ -1,0 +1,18 @@
+{
+ "sha1": "f2debb6159ddd303f473276e13a7533d59d6ff09",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Estimated_number_of_people_living_with_HIV%2C_Uganda%2C_1990-2007.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Estimated number of people living with HIV, Uganda, 1990-2007",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=26216844",
+  "html": "<p>Estimated adult (15-49) HIV prevalence, Uganda, 1990-2007\n</p>"
+ },
+ "tags": [
+  "graph images that should be in svg format",
+  "hiv/aids",
+  "public domain works of the united nations"
+ ]
+}

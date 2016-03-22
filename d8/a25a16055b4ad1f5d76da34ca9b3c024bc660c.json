@@ -1,0 +1,22 @@
+{
+ "sha1": "d8a25a16055b4ad1f5d76da34ca9b3c024bc660c",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/IL-TEM_micrographs_of_a_fuel_cell_catalyst_before_and_after_electrochemical_aging.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "IL-TEM micrographs of a fuel cell catalyst before and after electrochemical aging",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=38190216",
+  "html": "<p>IL-TEM micrograph of an identical catalyst location of a fuel cell catalyst with platinum nanoparticles (dark spots) supported on carbon (grey area). The top images show the pristine catalyst, while the images on the bottom show the catalyst after simulated start-stop conditions. The region within the green rectangulars is magnified on the right for the pristine and the degraded catalyst. A significant amount of platinum particles has vanished after the electrochemical aging test. The decrease in average particle size points towards dissolution (see e.g. yellow circle), while a few particles in porximity to each other appear to agglomerate (e.g. red circle).\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-01-10 20:47:01",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2013-01-10\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Shechtmaniac&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Shechtmaniac (page does not exist)\">Shechtmaniac</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "7e25a5b3a4c1709d3621bc5faae44365cffd9e06",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/3f/MRT_Map_as_of_2021.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "MRT Map as of 2021",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41470149",
+  "html": "<p>A brief map of the completed Thomson line with the other 5 MRT lines by 2021.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-12-28 15:06:21",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2013-12-27\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Josephsolomon92\" title=\"User:Josephsolomon92\">Josephsolomon92</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

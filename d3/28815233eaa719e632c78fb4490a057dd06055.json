@@ -1,0 +1,18 @@
+{
+ "sha1": "d328815233eaa719e632c78fb4490a057dd06055",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/34/WPXIstudios.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "WPXIstudios",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46555155"
+ },
+ "wiki": {
+  "DateTime": "2015-04-29 00:29:35",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

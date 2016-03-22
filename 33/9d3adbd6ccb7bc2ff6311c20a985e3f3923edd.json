@@ -1,0 +1,18 @@
+{
+ "sha1": "339d3adbd6ccb7bc2ff6311c20a985e3f3923edd",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Harnack.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Harnack",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35792476"
+ },
+ "wiki": {
+  "DateTime": "2012-05-11 22:35:36",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

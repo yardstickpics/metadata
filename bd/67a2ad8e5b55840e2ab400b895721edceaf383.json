@@ -1,0 +1,22 @@
+{
+ "sha1": "bd67a2ad8e5b55840e2ab400b895721edceaf383",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/07/View_of_FIS_main_campus.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "View of FIS main campus",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36673623",
+  "html": "<p>Field view of the main FIS campus\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-10-19 14:30:21",
+  "Credit": "<p>Taken with own camera\n</p>",
+  "DateTimeOriginal": "<p>2006-08-24\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Shuffle2&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Shuffle2 (page does not exist)\">Shuffle2</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

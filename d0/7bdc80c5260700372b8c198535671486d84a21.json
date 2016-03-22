@@ -1,0 +1,22 @@
+{
+ "sha1": "d07bdc80c5260700372b8c198535671486d84a21",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/66/CEEurope.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "CEEurope",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=24209388",
+  "html": "<p>Based on WP template.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-09-03 12:19:49",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/wiki/User:Gregorik\" title=\"User:Gregorik\">Gregorik</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Gregorik\" title=\"User talk:Gregorik\">talk</a>)) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>12:19, 3 September 2009 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Gregorik\" title=\"User:Gregorik\">Gregorik</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Gregorik\" title=\"User talk:Gregorik\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

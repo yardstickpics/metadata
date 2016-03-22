@@ -1,0 +1,18 @@
+{
+ "sha1": "ae215504d5feb23efe6b89a41878bcbf38be5aa6",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c9/SpanierBrady.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "SpanierBrady",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33713432"
+ },
+ "wiki": {
+  "DateTime": "2011-11-11 18:27:42",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

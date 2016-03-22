@@ -1,0 +1,22 @@
+{
+ "sha1": "a410e90aa8cfc7581611fd0baff79baf4bfe36b1",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a5/FloodedMagicSquares.tiff",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "FloodedMagicSquares",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=34066705",
+  "html": "<p>Magic squares with maximum water retention after being flooded and draining to the boundaries\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-12-15 13:58:55",
+  "Credit": "<p>Harvey Heinz\n</p>",
+  "DateTimeOriginal": "<p>13:58, 15 December 2011 (UTC)\n</p>",
+  "Artist": "<p>Harvey Heinz\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

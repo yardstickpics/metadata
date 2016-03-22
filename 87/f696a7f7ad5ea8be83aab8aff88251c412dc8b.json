@@ -1,0 +1,26 @@
+{
+ "sha1": "87f696a7f7ad5ea8be83aab8aff88251c412dc8b",
+ "lic": "cc-by-sa-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Bacon_editors.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Bacon editors",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42309379",
+  "html": "<p>A conglomeration of two images was used to create this image of a smiley face over a slice of cooked bacon.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-03-25 22:11:19",
+  "Credit": "<p><a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:CookedBacon.jpg\">https://commons.wikimedia.org/wiki/File:CookedBacon.jpg</a> and <a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:718smiley.svg\">https://commons.wikimedia.org/wiki/File:718smiley.svg</a>\n</p>",
+  "DateTimeOriginal": "<p>25 March 2014 (UTC)\n</p>",
+  "Artist": "<p>Source images: Renee Comet (photographer) (bacon image), <a href=\"//en.wikipedia.org/wiki/User:East718\" title=\"User:East718\">User:East718</a>, (smiley image)<br>This image: This conglomeration image was created by <a href=\"//en.wikipedia.org/wiki/User:Northamerica1000\" title=\"User:Northamerica1000\">User:Northamerica1000</a>, from the images listed in the Source section above.\n</p>",
+  "Permission": "<p>Bacon image is in the public domain (<a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:CookedBacon.jpg\">https://commons.wikimedia.org/wiki/File:CookedBacon.jpg</a>), and smiley image is released under CC-BY-SA (<a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:718smiley.svg\">https://commons.wikimedia.org/wiki/File:718smiley.svg</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ }
+}

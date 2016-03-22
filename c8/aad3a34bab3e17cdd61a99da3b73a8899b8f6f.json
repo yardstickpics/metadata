@@ -1,0 +1,22 @@
+{
+ "sha1": "c8aad3a34bab3e17cdd61a99da3b73a8899b8f6f",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Lower_Egypt_map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Lower Egypt map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46200740",
+  "html": "<p>Lower Egypt map\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-03-23 03:24:20",
+  "Credit": "<p>I took a screenshot of Egypt on Google Earth and then edited the image with MS Paint.<br><b>Previously published:</b> I have not previously published this item elsewhere.\n</p>",
+  "DateTimeOriginal": "<p>2015-03-22\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:SomeGuyWhoRandomlyEdits\" title=\"User:SomeGuyWhoRandomlyEdits\">SomeGuyWhoRandomlyEdits</a>\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

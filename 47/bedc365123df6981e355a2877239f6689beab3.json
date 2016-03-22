@@ -1,0 +1,16 @@
+{
+ "sha1": "47bedc365123df6981e355a2877239f6689beab3",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/85/Ocean_Traffic_and_Piracy_around_Singapore.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Ocean Traffic and Piracy around Singapore",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45651132",
+  "html": "<p>Interactive available at Ekuatorial.com\nOcean traffic is from MarineTraffic.com\nPiracy data is sourced from the International Maritime Organization’s Global Integrated Shipping Information System and contains incidents of piracy and armed robbery defined as occurring within the coastal state of Indonesia. It includes both attempted and completed acts.\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ]
+}

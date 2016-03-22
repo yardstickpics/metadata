@@ -1,0 +1,18 @@
+{
+ "sha1": "15f5a152ab67ee83fe47e6061ed29cf34a16e408",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/35/FreeOrion-splash.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "FreeOrion-splash",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=3483239"
+ },
+ "wiki": {
+  "DateTime": "2005-12-20 20:54:15",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

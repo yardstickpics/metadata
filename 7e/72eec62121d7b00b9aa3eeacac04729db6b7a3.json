@@ -1,0 +1,22 @@
+{
+ "sha1": "7e72eec62121d7b00b9aa3eeacac04729db6b7a3",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/2b/The_Camera_Obscura_at_the_Cliff_House_in_San_Francisco.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "The Camera Obscura at the Cliff House in San Francisco",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40598868",
+  "html": "<p>This is a photograph of San Francisco's beloved Camera Obscura, September 20th, 2013.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-09-22 04:31:48",
+  "Credit": "<p>digita camera<br><b>Previously published:</b> previously unpublished\n</p>",
+  "DateTimeOriginal": "<p>2013-09-20\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Robert_Bruce_Livingston\" title=\"User:Robert Bruce Livingston\">Robert Bruce Livingston</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "323674e9dd661e6f44c63e9f539bdef2a54505b7",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Worldmetro.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Worldmetro",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=24377051",
+  "html": "<p>A map of the world's metro systems in the style of the London Tube map.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-09-17 17:26:25",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.flickr.com/photos/anniemole/313981428/\">http://www.flickr.com/photos/anniemole/313981428/</a>\n</p>",
+  "DateTimeOriginal": "<p>2007-12-07\n</p>",
+  "Artist": "<p>Annie Mole\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

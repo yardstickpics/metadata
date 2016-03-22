@@ -1,0 +1,21 @@
+{
+ "sha1": "ba3a2df2d6389f1800a411e8ea75fba6850c898e",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/27/Beaune_screenshot.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Beaune screenshot",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43750464"
+ },
+ "tags": [
+  "screenshots of wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2014-09-05 19:02:31",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

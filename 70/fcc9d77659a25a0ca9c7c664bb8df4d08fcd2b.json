@@ -1,0 +1,22 @@
+{
+ "sha1": "70fcc9d77659a25a0ca9c7c664bb8df4d08fcd2b",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Scenedesmus_quadricauda_image.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Scenedesmus quadricauda image",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40635704",
+  "html": "<p>Image of Scenedesmus quadricauda with the pyrenoid clearly visible.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-09-26 08:53:11",
+  "Credit": "<p>DIC microscopy in the lab I'm working in.\n</p>",
+  "DateTimeOriginal": "<p>2013/09/25\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Cwhittaker1000&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cwhittaker1000 (page does not exist)\">Cwhittaker1000</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

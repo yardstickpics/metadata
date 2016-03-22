@@ -1,0 +1,18 @@
+{
+ "sha1": "081228d66d9862dd228c5f8c0c7124c634549dee",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/HubbardTPS.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "HubbardTPS",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=49542722"
+ },
+ "wiki": {
+  "DateTime": "2016-02-25 12:12:26",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

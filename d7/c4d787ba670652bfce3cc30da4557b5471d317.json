@@ -1,0 +1,22 @@
+{
+ "sha1": "d7c4d787ba670652bfce3cc30da4557b5471d317",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Leadingcoeff.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Leadingcoeff",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=26727107",
+  "html": "<p>Visualisation of the (countable) field of algebraic numbers in the complex plane.  Colours indicate the leading integer coefficient of the polynomial the number is a root of (red = 1 i.e. the algebraic integers, green = 2, blue = 3, yellow = 4...). Points becomes smaller as the other coefficients and number of terms in the polynomial become larger. View shows integers 0,1 and 2 at bottom right, +i near top.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-03-27 21:52:53",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/wiki/User:Stephen_J._Brooks\" title=\"User:Stephen J. Brooks\">Stephen J. Brooks</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Stephen_J._Brooks\" title=\"User talk:Stephen J. Brooks\">talk</a>)) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>21:52, 27 March 2010 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Stephen_J._Brooks\" title=\"User:Stephen J. Brooks\">Stephen J. Brooks</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Stephen_J._Brooks\" title=\"User talk:Stephen J. Brooks\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

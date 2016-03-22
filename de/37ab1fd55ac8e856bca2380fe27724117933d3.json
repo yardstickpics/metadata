@@ -1,0 +1,22 @@
+{
+ "sha1": "de37ab1fd55ac8e856bca2380fe27724117933d3",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Berlin_travel_orders.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Berlin travel orders",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=32162323",
+  "html": "<p>Travel orders to occupied Berlin as used by U.S. forces in the 1980's.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-06-21 17:10:15",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>21 June 2011\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:W._B._Wilson\" title=\"User:W. B. Wilson\">W._B._Wilson</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:W._B._Wilson\" title=\"User talk:W. B. Wilson\">talk</a>) (<a href=\"//en.wikipedia.org/wiki/Special:ListFiles/W._B._Wilson\" title=\"Special:ListFiles/W. B. Wilson\">Uploads</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

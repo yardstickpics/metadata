@@ -1,0 +1,18 @@
+{
+ "sha1": "a7f6c1a8147a734573b43ab210debb6529264a13",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/da/Florida_Political_Map_Kwh.SVG",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Florida Political Map Kwh",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=4622041"
+ },
+ "wiki": {
+  "DateTime": "2006-04-11 05:03:28",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

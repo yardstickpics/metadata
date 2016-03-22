@@ -1,0 +1,22 @@
+{
+ "sha1": "5e1de9afda31dd8a91fd7c9f714d20b997cb1e41",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f5/WC_Paper_picture.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "WC Paper picture",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=18062335",
+  "html": "<p>1978 World championship martial arts tournament winning certificate.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-06-21 19:43:29",
+  "Credit": "<p>Peter Ralston\n</p>",
+  "DateTimeOriginal": "<p>Jun 21 2008\n</p>",
+  "Artist": "<p>Peter Ralston\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

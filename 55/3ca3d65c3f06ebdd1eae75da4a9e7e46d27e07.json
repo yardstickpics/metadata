@@ -1,0 +1,26 @@
+{
+ "sha1": "553ca3d65c3f06ebdd1eae75da4a9e7e46d27e07",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7e/Chubby_spiral%2C_8theta%2C_theta_pi%2C1.4pi.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Chubby spiral, 8theta, theta pi,1.4pi",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48449758",
+  "html": "<p>chubby spiral, 8theta, theta pi, 1.4pi,\n</p>"
+ },
+ "tags": [
+  "images that should have transparent backgrounds",
+  "images with borders"
+ ],
+ "wiki": {
+  "DateTime": "2015-11-03 13:01:35",
+  "Credit": "<p>fooplot.com\n</p>",
+  "DateTimeOriginal": "<p>2015-11-02\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Cuberoottheo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cuberoottheo (page does not exist)\">Cuberoottheo</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

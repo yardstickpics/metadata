@@ -1,0 +1,22 @@
+{
+ "sha1": "2e68c30a0e316ffa1fabef1cb898721a4a13ed83",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Mickey_Factz_painting.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Mickey Factz painting",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48820979",
+  "html": "<p>Mickey Factz painting NYC window\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-12-14 23:02:57",
+  "Credit": "<p>oil painting\n</p>",
+  "DateTimeOriginal": "<p>2015-12-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:MusicHistory101\" title=\"User:MusicHistory101\">MusicHistory101</a>\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

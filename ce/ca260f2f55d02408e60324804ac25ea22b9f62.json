@@ -1,0 +1,18 @@
+{
+ "sha1": "ceca260f2f55d02408e60324804ac25ea22b9f62",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/79/Pierre_Banana_Bikes.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Pierre Banana Bikes",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42219323"
+ },
+ "wiki": {
+  "DateTime": "2014-03-16 17:54:18",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

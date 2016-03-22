@@ -1,0 +1,22 @@
+{
+ "sha1": "12f00dd1182a6c990d5809cb15efe7c6d2836169",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/79/Akurajulogo.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Akurajulogo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42679241",
+  "html": "<p>This is my own designed logo\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-05-06 12:21:17",
+  "Credit": "<p>Designed by one our vendor for me on cost basis\n</p>",
+  "DateTimeOriginal": "<p>2013-10-10\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Akuraju&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Akuraju (page does not exist)\">Akuraju</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

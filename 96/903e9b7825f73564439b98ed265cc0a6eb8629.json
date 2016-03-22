@@ -1,0 +1,22 @@
+{
+ "sha1": "96903e9b7825f73564439b98ed265cc0a6eb8629",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c9/TaikyokuShogiGote.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "TaikyokuShogiGote",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36023784",
+  "html": "<p>The initial setup for Taikyoku Shogi from Gote's perspective.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-06-03 06:36:07",
+  "Credit": "<p>I made this file in aprox. 2010 using Inkscape and publicly available information regarding the game, as one would if making a picture of a chess board.<br><b>Previously published:</b> Also posted in my DeviantArt gallery\n</p>",
+  "DateTimeOriginal": "<p>2010\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:TKR101010\" title=\"User:TKR101010\">TKR101010</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "dd190692616649f0d6af592d1fd1efbddbb4a07a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Original_Kaufman_Center_Exterior_2-27-2004.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Original Kaufman Center Exterior 2-27-2004",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33024380",
+  "html": "<p>The original exterior of Kaufman Center before the renovation.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-09-08 17:59:50",
+  "Credit": "<p>contributed by Kaufman Center\n</p>",
+  "DateTimeOriginal": "<p>created Feb 27 2004\n</p>",
+  "Artist": "<p>Photo: Kaufman Center\n</p>",
+  "Permission": "<p>see below\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

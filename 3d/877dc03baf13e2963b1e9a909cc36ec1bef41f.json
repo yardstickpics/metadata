@@ -1,0 +1,22 @@
+{
+ "sha1": "3d877dc03baf13e2963b1e9a909cc36ec1bef41f",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Pew_religion_in_america.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Pew religion in america",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=20702400",
+  "html": "<p>Graphs showing percentage of Americans by religion.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-12-15 02:49:17",
+  "Credit": "<p>I created this work myself using information from Pew Research Center.\n</p>",
+  "DateTimeOriginal": "<p>12/14/2008\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:PyroGamer\" title=\"User:PyroGamer\">PyroGamer</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:PyroGamer\" title=\"User talk:PyroGamer\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

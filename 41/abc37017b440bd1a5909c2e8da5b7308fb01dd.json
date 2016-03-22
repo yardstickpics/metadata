@@ -1,0 +1,22 @@
+{
+ "sha1": "41abc37017b440bd1a5909c2e8da5b7308fb01dd",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/Northwest_Syria_%28Hananu_revolt%29.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Northwest Syria (Hananu revolt)",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48627401",
+  "html": "<p>The svg version of <a href=\"//en.wikipedia.org/wiki/File:Northwest_Syria_(Hananu_revolt).png\" title=\"File:Northwest Syria (Hananu revolt).png\">File:Northwest Syria (Hananu revolt).png</a>  for use on the <a href=\"//en.wikipedia.org/wiki/Hananu_Revolt\" title=\"Hananu Revolt\">Hananu Revolt</a> page\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-11-24 02:20:18",
+  "Credit": "<p>QGIS file using NASA SRTM data with postwork with Inkscape\n</p>",
+  "DateTimeOriginal": "<p>2015-11-22\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Erp\" title=\"User:Erp\">Erp</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

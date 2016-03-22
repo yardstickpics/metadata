@@ -1,0 +1,22 @@
+{
+ "sha1": "38ca24fd0633d7a3f6b9d86c4e0a987029e7e1e2",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e4/Folkertvanheusden2013.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Folkertvanheusden2013",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40009729",
+  "html": "<p>A picture of Folkert van Heusden, writer of Multitail and HTTPing.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-07-19 12:40:14",
+  "Credit": "<p>took a screenshot of httping (which I wrote myself) and a picture with my camera and then using the gimp merged them<br><b>Previously published:</b> websites\n</p>",
+  "DateTimeOriginal": "<p>2013-06-21\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Flok\" title=\"User:Flok\">Flok</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

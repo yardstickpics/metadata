@@ -1,0 +1,18 @@
+{
+ "sha1": "eb13a21c043700afa599a8a37778ea645de6c664",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/OttoJaffe.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "OttoJaffe",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=26214934"
+ },
+ "wiki": {
+  "DateTime": "2010-02-16 01:49:38",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

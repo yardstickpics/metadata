@@ -1,0 +1,25 @@
+{
+ "sha1": "59faaccba82006beec057dc7ad8c7892ef419ad4",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/66/Diagram_of_Alternative_Splicing.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Diagram of Alternative Splicing",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=39121133",
+  "html": "<p>Diagram of Alternative Splicing\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2013-04-17 19:56:51",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0040021\">http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0040021</a>\n</p>",
+  "Artist": "<p>Holste D, Ohler U\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.ploscompbiol.org/static/terms\">http://www.ploscompbiol.org/static/terms</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

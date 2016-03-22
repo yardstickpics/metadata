@@ -1,0 +1,22 @@
+{
+ "sha1": "a094e324845296b7ae5b2705e954920085bb28d3",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f3/Sihanoukville_Province_Districts_Map_2014.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Sihanoukville Province Districts Map 2014",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44438296",
+  "html": "<p>map graphic highlighting the districts of Sihanoukville Province, 2014\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-11-18 17:24:29",
+  "Credit": "<p>created graphic based on outdated locator map<br><b>Previously published:</b> no\n</p>",
+  "DateTimeOriginal": "<p>2014-11-18\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Wikirictor\" title=\"User:Wikirictor\">Wikirictor</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "2d879d280c68e07012b4a199191695a5ad2fa60f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/ab/Route_of_A12_large.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Route of A12 large",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=20103670",
+  "html": "<p>Route of A12\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-11-07 02:12:26",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://wiki.openstreetmap.org/index.php/OSM_Mapper\">OSM</a> using <a href=\"//en.wikipedia.org/wiki/OpenStreetMap\" title=\"OpenStreetMap\">OpenStreetMap</a> data collected by volunteers\n</p>",
+  "DateTimeOriginal": "<p>2008-11-07\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:PeterIto\" title=\"User:PeterIto\">User:PeterIto</a>\n</p>",
+  "Permission": "<p>CC-BY-SA 3.0\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

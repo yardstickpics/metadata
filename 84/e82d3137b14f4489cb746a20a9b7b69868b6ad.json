@@ -1,0 +1,22 @@
+{
+ "sha1": "84e82d3137b14f4489cb746a20a9b7b69868b6ad",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Giacomo_Mantovani.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Giacomo Mantovani",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33172133",
+  "html": "<p>Mantovani on location project X\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-09-22 10:37:23",
+  "Credit": "<p>from www.giacomomantovani.com\n</p>",
+  "DateTimeOriginal": "<p>10:37, 22 September 2011 (UTC)\n</p>",
+  "Artist": "<p>Cristina Isoli\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

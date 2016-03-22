@@ -1,0 +1,22 @@
+{
+ "sha1": "84dd17efa5cba041f9ce6e637203afc95975a784",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Displacement_of_Albert_Head_GPS_Station%2C_Victoria%2C_British_Columbia%2C_2005-2012.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Displacement of Albert Head GPS Station, Victoria, British Columbia, 2005-2012",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=34921460",
+  "html": "<p>This plot shows the east and north displacement of the Albert Head GPS station on Vancouver Island.\n</p>\n<p>To be used for <a href=\"//en.wikipedia.org/wiki/Episodic_tremor_and_slip\" title=\"Episodic tremor and slip\">Episodic tremor and slip</a>. Data from <a rel=\"nofollow\" class=\"external text\" href=\"http://www.unavco.org/edu_outreach/data/ALBH.html\">Unavco</a>. Plotted using <a href=\"//en.wikipedia.org/wiki/Gnuplot\" title=\"Gnuplot\">gnuplot</a>.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-02-29 06:13:13",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2012-02-28\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Ben_Webber\" title=\"User:Ben Webber\">Ben Webber</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

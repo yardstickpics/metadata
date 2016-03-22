@@ -1,0 +1,26 @@
+{
+ "sha1": "e99fc540302d12c066d87af08215a0f4d8d0b015",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/ab/DamienKanecropped.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "DamienKanecropped",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45558592",
+  "html": "<p>Professional wrestler <a href=\"//en.wikipedia.org/wiki/Damien_Kane\" title=\"Damien Kane\">Damien Kane</a>.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2015-03-02 21:34:20",
+  "Credit": "<p>Originally posted to the <a href=\"//en.wikipedia.org/wiki/Wikimedia_Commons\" title=\"Wikimedia Commons\">Wikimedia Commons</a> as \"<a href=\"//en.wikipedia.org/wiki/File:Damien_intense.jpg\" title=\"File:Damien intense.jpg\">Damien intense.jpg</a>\"\n</p>",
+  "DateTimeOriginal": "<p>20 November 2006\n</p>",
+  "Artist": "<p>Wikimedia user \"<a href=\"//en.wikipedia.org/wiki/User:Damien_Kane\" title=\"User:Damien Kane\">Damien Kane</a>\"\n</p>",
+  "Permission": "<p><a class=\"external free\" href=\"http://en.wikipedia.org/wiki/File:Damien_intense.jpg\">http://en.wikipedia.org/wiki/File:Damien_intense.jpg</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

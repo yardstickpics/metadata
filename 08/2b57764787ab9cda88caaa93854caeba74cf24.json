@@ -1,0 +1,18 @@
+{
+ "sha1": "082b57764787ab9cda88caaa93854caeba74cf24",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/09/Monalisa_big.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Monalisa big",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=8046798"
+ },
+ "wiki": {
+  "DateTime": "2006-11-21 08:14:49",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

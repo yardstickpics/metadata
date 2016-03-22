@@ -1,0 +1,22 @@
+{
+ "sha1": "8574e976ef14cf19283b32ffb63bd3685fa620b7",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d9/Polomolok_Divisions.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Polomolok Divisions",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35958621",
+  "html": "<p>This is the updated political map of Polomolok.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-05-28 06:00:46",
+  "Credit": "<p>By the use of Photoshop\n</p>",
+  "DateTimeOriginal": "<p>2012-05-28\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Rayetan\" title=\"User:Rayetan\">Rayetan</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

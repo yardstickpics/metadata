@@ -1,0 +1,26 @@
+{
+ "sha1": "5e27fef41e1c42ff42fbae42c03a134a2a0a9117",
+ "lic": "cc-by-sa-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/12/JamesMaritato2010.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "JamesMaritato2010",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40350990",
+  "html": "<p>An image of professional wrestler <a href=\"//en.wikipedia.org/wiki/James_Maritato\" title=\"James Maritato\">James Maritato</a>.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2013-08-25 13:21:30",
+  "Credit": "<p><a class=\"external free\" href=\"http://commons.wikimedia.org/wiki/File:Nunzio2010.jpg\">http://commons.wikimedia.org/wiki/File:Nunzio2010.jpg</a>\n</p>",
+  "DateTimeOriginal": "<p>30 December 2009\n</p>",
+  "Artist": "<p>\"Ringsidetv\"\n</p>",
+  "Permission": "<p><a class=\"external free\" href=\"http://commons.wikimedia.org/wiki/File:Nunzio2010.jpg\">http://commons.wikimedia.org/wiki/File:Nunzio2010.jpg</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.0/"
+ }
+}

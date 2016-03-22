@@ -1,0 +1,22 @@
+{
+ "sha1": "e47c3106bcf340913a7e4e711fba3a5aa72c84f8",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Europe_location_N-IRL-UK.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Europe location N-IRL-UK",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=28069977",
+  "html": "<p>modification of NI map to show UK only\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-07-18 01:11:08",
+  "Credit": "<p>Europe location N-IRL2.png\n</p>",
+  "DateTimeOriginal": "<p>01:11, 18 July 2010 (UTC)\n</p>",
+  "Artist": "<p>Wikipedia\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

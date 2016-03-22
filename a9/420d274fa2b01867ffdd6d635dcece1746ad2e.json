@@ -1,0 +1,22 @@
+{
+ "sha1": "a9420d274fa2b01867ffdd6d635dcece1746ad2e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/ae/William_Tanner.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "William Tanner",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41409030",
+  "html": "<p>Portrait of William Tanner, founder of Tanners Wines Ltd.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-12-19 15:30:17",
+  "Credit": "<p>Archives owned by Tanners Wines<br><b>Previously published:</b> no\n</p>",
+  "DateTimeOriginal": "<p>19/12/2013\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:DTLangers&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:DTLangers (page does not exist)\">DTLangers</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

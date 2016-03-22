@@ -1,0 +1,25 @@
+{
+ "sha1": "4d38aeb08a61452346c3004566d02d1342715de8",
+ "lic": "cc-by-sa-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/28/Photo_montage_of_Arras.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Photo montage of Arras",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41654337",
+  "html": "<p>Photo montage of Arras. / The Rathaus picture is from lawei. Other pictures are my own.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-01-16 00:15:20",
+  "Credit": "<p>Own photos and File:Arras_Rathaus.JPG\n</p>",
+  "Artist": "<p>mjh134 and lawei\n</p>",
+  "Permission": "<p>File:Arras_Rathaus.JPG\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ }
+}

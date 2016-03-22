@@ -1,0 +1,23 @@
+{
+ "sha1": "86d0e4beddb72b99a4f1d746ad1321e2c275d7df",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d4/John_and_razi.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "John and razi",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=30729325",
+  "html": "<p>John Oleary and Raziel Panic\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-02-02 21:57:32",
+  "Credit": "<p>Eartha Harris, scanned from contact sheet\n</p>",
+  "DateTimeOriginal": "<p>21:57, 2 February 2011 (UTC)\n</p>",
+  "Artist": "<p>Raziel Panic\n</p>",
+  "Permission": "<p>CC share alike\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

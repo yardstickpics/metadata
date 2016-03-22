@@ -1,0 +1,18 @@
+{
+ "sha1": "791a4dc8ae89070e7ab995132b73d04fd18672f9",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7d/HIMMAP.jpeg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "HIMMAP",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44101383"
+ },
+ "wiki": {
+  "DateTime": "2014-10-13 17:03:47",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

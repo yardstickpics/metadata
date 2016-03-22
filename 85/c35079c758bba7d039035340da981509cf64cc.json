@@ -1,0 +1,25 @@
+{
+ "sha1": "85c35079c758bba7d039035340da981509cf64cc",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Cordoba_City_Montage.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Cordoba City Montage",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=30876017",
+  "html": "<p><b>English:</b>  Images montage of Córdoba, Argentina.\n<a href=\"//en.wikipedia.org/wiki/Spanish_language\" title=\"Spanish language\">Spanish</a>: <span lang=\"es\"><i>Montaje de imágenes de Córdoba(Argentina).</i></span>\n</p>"
+ },
+ "tags": [
+  "córdoba city (argentina)"
+ ],
+ "wiki": {
+  "DateTime": "2011-02-15 01:28:27",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2011\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Bleff\" title=\"User:Bleff\">Bleff</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "sha1": "397c23bde2af99ec0caa7e9c960f3d2d204972be",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Exponential-function.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Exponential-function",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40394739",
+  "html": "<p>Hand-drawn visualizations of the real, imaginary and complex exponential function in various perspectives and projections.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-08-30 04:52:30",
+  "Credit": "<p><a href=\"//en.wikipedia.org/wiki/User:Waldir\" title=\"User:Waldir\">Waldir</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Waldir\" title=\"User talk:Waldir\">talk</a>) (<a href=\"//en.wikipedia.org/wiki/Special:ListFiles/Waldir\" title=\"Special:ListFiles/Waldir\">Uploads</a>)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Waldir\" title=\"User:Waldir\">Waldir</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Waldir\" title=\"User talk:Waldir\">talk</a>) (<a href=\"//en.wikipedia.org/wiki/Special:ListFiles/Waldir\" title=\"Special:ListFiles/Waldir\">Uploads</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

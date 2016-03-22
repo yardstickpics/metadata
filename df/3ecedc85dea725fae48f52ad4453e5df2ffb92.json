@@ -1,0 +1,21 @@
+{
+ "sha1": "df3ecedc85dea725fae48f52ad4453e5df2ffb92",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/GMTerminusMap.bmp",
+ "ext": "bmp",
+ "from": "wiki",
+ "created": 1458518346,
+ "name": "GMTerminusMap",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25475038"
+ },
+ "tags": [
+  "map images that should be in svg format"
+ ],
+ "wiki": {
+  "DateTime": "2009-12-18 04:00:02",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "sha1": "364b9aebb3e1a4ea861f5172868d1cfbc0313af1",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7b/OpenBSD49-GNOME.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "OpenBSD49-GNOME",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31758758"
+ },
+ "wiki": {
+  "DateTime": "2011-05-12 22:24:21",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

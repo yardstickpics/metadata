@@ -1,0 +1,22 @@
+{
+ "sha1": "db1c0f0acdb53dd37bf695a2862665c35ddf28ba",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/THORMANG.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "THORMANG",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46761242",
+  "html": "<p>THORMANG, the platform used by TEAM THOR\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-05-21 02:17:31",
+  "Credit": "<p>ROBOTIS\n</p>",
+  "DateTimeOriginal": "<p>2014\n</p>",
+  "Artist": "<p>ROBOTIS\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

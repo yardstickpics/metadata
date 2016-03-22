@@ -1,0 +1,22 @@
+{
+ "sha1": "8256c6603266a7455dba17503b506bd6081cbdd9",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e7/Wikipedia_-_comparison_of_template_standardisation.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Wikipedia - comparison of template standardisation",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=13283328"
+ },
+ "tags": [
+  "screenshots of wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2007-09-15 22:40:53",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "Attribution": "<a href=\"//wikimediafoundation.org/wiki/Contact_us\" class=\"extiw\" title=\"wmf:Contact us\">Wikimedia Foundation</a>",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

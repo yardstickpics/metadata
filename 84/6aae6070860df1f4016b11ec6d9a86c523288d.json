@@ -1,0 +1,16 @@
+{
+ "sha1": "846aae6070860df1f4016b11ec6d9a86c523288d",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0f/Bowling_map_physical.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Bowling map physical",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44162473",
+  "html": "<p>Map of Bowling with contours, spot heights and water courses and some road names added in Visio. The base map, ordered by Parliament after creation of new parliamentary boroughs in 1832,was publishes by HMSO in 1834.\n</p>"
+ },
+ "tags": [
+  "uk government images"
+ ]
+}

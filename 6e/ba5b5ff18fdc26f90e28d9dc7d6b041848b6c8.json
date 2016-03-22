@@ -1,0 +1,18 @@
+{
+ "sha1": "6eba5b5ff18fdc26f90e28d9dc7d6b041848b6c8",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/73/Estimated_adult_%2815-49%29_HIV_prevalence%2C_Uganda%2C_1990-2007.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Estimated adult (15-49) HIV prevalence, Uganda, 1990-2007",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=26216790",
+  "html": "<p>Estimated adult (15-49) HIV prevalence, Uganda, 1990-2007\n</p>"
+ },
+ "tags": [
+  "graph images that should be in svg format",
+  "hiv/aids",
+  "public domain works of the united nations"
+ ]
+}

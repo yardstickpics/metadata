@@ -1,0 +1,26 @@
+{
+ "sha1": "1a3c559b872d0cd4ed551bc4aa1f1d09ae1e3a09",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0d/Microsoft_Edge_Mobile_Desktop_View.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Microsoft Edge Mobile Desktop View",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48394796",
+  "html": "<p>This image depicts the <a href=\"//en.wikipedia.org/wiki/English_Wikipedia\" title=\"English Wikipedia\">English Wikipedia</a> as displayed using Microsoft Mobile's Edge browser.\n</p>"
+ },
+ "tags": [
+  "screenshots of wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2015-10-28 11:35:33",
+  "Credit": "<p>I created this by taking a screenshot of the <a href=\"//en.wikipedia.org/wiki/English_Wikipedia\" title=\"English Wikipedia\">English Wikipedia</a> on my Nokia Lumia 1520.\n</p>",
+  "DateTimeOriginal": "<p>2015-10-28\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Red_marquis\" title=\"User:Red marquis\">Red marquis</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "Attribution": "<a href=\"//wikimediafoundation.org/wiki/Contact_us\" class=\"extiw\" title=\"wmf:Contact us\">Wikimedia Foundation</a>",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

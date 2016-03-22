@@ -1,0 +1,25 @@
+{
+ "sha1": "8de05d24b80a8324c93d1df04c7eea5e4716d225",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Print_preview_of_the_Canadian_Arctic_Archipelago_article_using_Google_Chrome%27s_PDF_converter.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Print preview of the Canadian Arctic Archipelago article using Google Chrome's PDF converter",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43944699",
+  "html": "<p>This is a 2014-09-24 screenshot of the print preview for the Canadian Arctic Archipelago article using Google Chrome's built-in PDF converter; it includes notation.\n</p>"
+ },
+ "tags": [
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2014-09-25 03:54:53",
+  "Credit": "<p>Created from a print preview screenshot and added custom notations<br><b>Previously published:</b> Not published, used for article discussion only\n</p>",
+  "DateTimeOriginal": "<p>2014-09-24\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Printchecker&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Printchecker (page does not exist)\">Printchecker</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

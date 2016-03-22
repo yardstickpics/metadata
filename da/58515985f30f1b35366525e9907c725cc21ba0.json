@@ -1,0 +1,25 @@
+{
+ "sha1": "da58515985f30f1b35366525e9907c725cc21ba0",
+ "lic": "cc-by-sa-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d1/South_Yorkshire_montage.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "South Yorkshire montage",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41021955",
+  "html": "<p>A montage of <a href=\"//en.wikipedia.org/wiki/South_Yorkshire\" title=\"South Yorkshire\">South Yorkshire</a>.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2013-11-08 10:22:31",
+  "Credit": "<p>See below\n</p>",
+  "Artist": "<p>Several - see below\n</p>",
+  "Permission": "<p>On pages\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ }
+}

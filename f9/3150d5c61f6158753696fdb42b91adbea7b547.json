@@ -1,0 +1,24 @@
+{
+ "sha1": "f93150d5c61f6158753696fdb42b91adbea7b547",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/10/Lindsay_Phillips_Headshot_September_2012.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Lindsay Phillips Headshot September 2012",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=38159564",
+  "html": "<p>This is the profile photo for Lindsay Phillips in the infobox.\n</p>"
+ },
+ "tags": [
+  "files licensed by third parties"
+ ],
+ "wiki": {
+  "DateTime": "2013-01-07 20:07:44",
+  "Credit": "<p>I requested a photo directly from Lindsay Phillips Switchflops\n</p>",
+  "Artist": "<p>Lindsay Phillips\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

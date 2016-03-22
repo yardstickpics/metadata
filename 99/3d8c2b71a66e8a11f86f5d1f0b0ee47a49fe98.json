@@ -1,0 +1,22 @@
+{
+ "sha1": "993d8c2b71a66e8a11f86f5d1f0b0ee47a49fe98",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/87/Mars_Cross_Section.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Mars Cross Section",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=32286519",
+  "html": "<p>Hypothetical Cross-section through Mars surface units\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-07-02 16:58:25",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/wiki/User:Schaffman\" title=\"User:Schaffman\">Schaffman</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Schaffman\" title=\"User talk:Schaffman\">talk</a>)) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>16:58, 2 July 2011 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Schaffman\" title=\"User:Schaffman\">Schaffman</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Schaffman\" title=\"User talk:Schaffman\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

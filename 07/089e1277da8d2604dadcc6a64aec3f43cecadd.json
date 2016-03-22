@@ -1,0 +1,21 @@
+{
+ "sha1": "07089e1277da8d2604dadcc6a64aec3f43cecadd",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/07/Old_MOSI_bldg.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Old MOSI bldg",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=17528425",
+  "html": "<p>Original building for <a href=\"//en.wikipedia.org/wiki/Museum_of_Science_%26_Industry_(Tampa)\" title=\"Museum of Science &amp; Industry (Tampa)\">Museum of Science &amp; Industry</a> in <a href=\"//en.wikipedia.org/wiki/Tampa,_Florida\" title=\"Tampa, Florida\">Tampa, Florida</a>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-05-20 19:45:46",
+  "Credit": "<p>self-made\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Tampa_MOSI&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tampa MOSI (page does not exist)\">Tampa MOSI</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Tampa_MOSI\" title=\"User talk:Tampa MOSI\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

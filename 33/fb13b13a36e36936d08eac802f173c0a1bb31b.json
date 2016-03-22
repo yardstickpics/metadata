@@ -1,0 +1,26 @@
+{
+ "sha1": "33fb13b13a36e36936d08eac802f173c0a1bb31b",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b5/Contourite_sheets_seismic_gulf_of_cadiz.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Contourite sheets seismic gulf of cadiz",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48710907",
+  "html": "<p>Contourite sheet deposits from seismic reflection data in the gulf of cadiz\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2015-12-02 18:47:35",
+  "Credit": "<p>Expedition 339 Scientists, 2012. Mediterranean outflow: environmental significance of the Mediterranean Outflow Water and its global implications. IODP Prel. Rept., 339. doi:10.2204/ iodp.pr.339.2012\n</p>",
+  "DateTimeOriginal": "<p>2012\n</p>",
+  "Artist": "<p>Integrated Ocean Drilling Program\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://publications.iodp.org/preliminary_report/339/339PR.PDF\">http://publications.iodp.org/preliminary_report/339/339PR.PDF</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "sha1": "3db87373d8dc100baaf571ed0197579bd18cbce1",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Konstantin_and_Mouse_Wiki.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Konstantin and Mouse Wiki",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31283607"
+ },
+ "wiki": {
+  "DateTime": "2011-03-24 14:17:32",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

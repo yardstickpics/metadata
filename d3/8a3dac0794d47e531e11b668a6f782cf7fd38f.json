@@ -1,0 +1,13 @@
+{
+ "sha1": "d38a3dac0794d47e531e11b668a6f782cf7fd38f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/fc/American_Income.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "American Income",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=8342332",
+  "html": "<p>I created the illustration myself with data from the US Census Bureau taken from <a rel=\"nofollow\" class=\"external text\" href=\"http://www.census.gov/hhes/www/income/dinctabs.html\">here</a>. The data\n</p>"
+ }
+}

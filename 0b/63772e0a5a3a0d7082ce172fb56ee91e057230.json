@@ -1,0 +1,18 @@
+{
+ "sha1": "0b63772e0a5a3a0d7082ce172fb56ee91e057230",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/63/Smileyface.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Smileyface",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33293909"
+ },
+ "wiki": {
+  "DateTime": "2011-10-03 21:24:41",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

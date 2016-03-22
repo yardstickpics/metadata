@@ -1,0 +1,26 @@
+{
+ "sha1": "2df525c187a476bd2d1fba03cd92229d15c89ec8",
+ "lic": "cc-by-sa-2.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/bf/Belfast%2C_OpenStreetmap%2C_April_2012.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Belfast, OpenStreetmap, April 2012",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35616233",
+  "html": "<p>OSM render of Belfast and suburbs.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources",
+  "openstreetmap maps"
+ ],
+ "wiki": {
+  "DateTime": "2012-04-25 15:48:21",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.openstreetmap.org/\">http://www.openstreetmap.org/</a>\n</p>",
+  "Artist": "<p>OSM Contributors\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.openstreetmap.org/copyright\">http://www.openstreetmap.org/copyright</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.0/"
+ }
+}

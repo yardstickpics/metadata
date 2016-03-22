@@ -1,0 +1,22 @@
+{
+ "sha1": "3bd1ee19f03dd4a57a187714e220fcbe9c3c5c8d",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d5/JohnL.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "JohnL",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25357371",
+  "html": "<p>john Lawrence Reyes photo\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-12-08 06:58:43",
+  "Credit": "<p>I John created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>December 3, 2009\n</p>",
+  "Artist": "<p>Jake Jonas Manalang\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

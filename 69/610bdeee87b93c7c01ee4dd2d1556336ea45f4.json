@@ -1,0 +1,22 @@
+{
+ "sha1": "69610bdeee87b93c7c01ee4dd2d1556336ea45f4",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/76/New_York_City_Subway_Map.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "New York City Subway Map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=24404348",
+  "html": "<p>New York City Subway Map.  Updated version of\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-09-20 01:22:17",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/wiki/User:CountZ\" title=\"User:CountZ\">CountZ</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:CountZ\" title=\"User talk:CountZ\">talk</a>)) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>01:22, 20 September 2009 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:CountZ\" title=\"User:CountZ\">CountZ</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:CountZ\" title=\"User talk:CountZ\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

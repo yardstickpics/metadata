@@ -1,0 +1,22 @@
+{
+ "sha1": "4b0a1dd7e768ebd6bfc11c7f0d1553abce633ae3",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/43/Grossmith-family-tree.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Grossmith-family-tree",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35624963",
+  "html": "<p>Family tree (simplified) of <a href=\"//en.wikipedia.org/wiki/George_Grossmith\" title=\"George Grossmith\">George Grossmith</a> and his brother, son and nephew and others\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-04-26 12:57:21",
+  "Credit": "<p>Using Microsoft PowerPoint\n</p>",
+  "DateTimeOriginal": "<p>2012-04-26\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Tim_riley\" title=\"User:Tim riley\">Tim riley</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

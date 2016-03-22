@@ -1,0 +1,22 @@
+{
+ "sha1": "a4f6fb9e05654795b9f87224fc00a251d9f0abde",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/32/DowsLakeSkating.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "DowsLakeSkating",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=5506604",
+  "html": "<p>Winterlude Skating at Dows Lage\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2006-06-10 15:42:03",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>February 1, 2004\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:James_R._Skinner\" title=\"User:James R. Skinner\">James R. Skinner</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

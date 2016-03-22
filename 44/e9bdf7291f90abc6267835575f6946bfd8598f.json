@@ -1,0 +1,22 @@
+{
+ "sha1": "44e9bdf7291f90abc6267835575f6946bfd8598f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/City_Aerial.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "City Aerial",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41930995",
+  "html": "<p>Petronia city Aerial View\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-02-13 14:35:19",
+  "Credit": "<p>I created file\n</p>",
+  "DateTimeOriginal": "<p>2013-12-02\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Gmaison25\" title=\"User:Gmaison25\">Gmaison25</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

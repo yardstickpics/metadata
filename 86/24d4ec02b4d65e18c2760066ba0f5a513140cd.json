@@ -1,0 +1,22 @@
+{
+ "sha1": "8624d4ec02b4d65e18c2760066ba0f5a513140cd",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7e/Maloskystadium.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Maloskystadium",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=32393561",
+  "html": "<p>University of Minnesota Duluth\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-07-12 21:06:30",
+  "Credit": "<p>University of Minnesota Duluth\n</p>",
+  "DateTimeOriginal": "<p>July 14, 2011\n</p>",
+  "Artist": "<p>University of Minnesota Duluth\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

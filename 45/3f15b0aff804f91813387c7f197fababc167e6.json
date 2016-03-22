@@ -1,0 +1,22 @@
+{
+ "sha1": "453f15b0aff804f91813387c7f197fababc167e6",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Fens_waterways.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Fens waterways",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=16426943",
+  "html": "<p>Route diagram of <a href=\"//en.wikipedia.org/wiki/Fens_Waterways_Link\" title=\"Fens Waterways Link\">Fens Waterways Link</a> drawn using <a href=\"//en.wikipedia.org/wiki/Inkscape\" title=\"Inkscape\">Inkscape</a>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-05-21 09:58:21",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>2008-03-20\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Old_Moonraker\" title=\"User:Old Moonraker\" class=\"mw-redirect\">Old Moonraker</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Old_Moonraker\" title=\"User talk:Old Moonraker\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

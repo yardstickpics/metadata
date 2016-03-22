@@ -1,0 +1,23 @@
+{
+ "sha1": "b0e8b2712f56608650ee5ef5e6b7b4e9f5f6beef",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Political_map_of_Metro_Manila.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Political map of Metro Manila",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31715182",
+  "html": "<p>Political map of <a href=\"//en.wikipedia.org/wiki/Metro_Manila\" title=\"Metro Manila\">Metro Manila</a>, <a href=\"//en.wikipedia.org/wiki/Philippines\" title=\"Philippines\">Philippines</a>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-05-08 15:59:47",
+  "Credit": "<p>Map, colors and stroke widths derived from <a href=\"//en.wikipedia.org/wiki/File:Metro_manila_map_(1).png\" title=\"File:Metro manila map (1).png\">File:Metro manila map (1).png</a>\n</p>",
+  "DateTimeOriginal": "<p>08 May 2011\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Philtro\" title=\"User:Philtro\" class=\"mw-redirect\">Philtro</a>\n</p>",
+  "Permission": "<p>See below.\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

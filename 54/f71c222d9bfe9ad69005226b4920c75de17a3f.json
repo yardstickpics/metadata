@@ -1,0 +1,22 @@
+{
+ "sha1": "54f71c222d9bfe9ad69005226b4920c75de17a3f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Bounouh_Cathedral.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Bounouh Cathedral",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41427459",
+  "html": "<p>photo of cathedral in Bounouh\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-12-02 22:20:28",
+  "Credit": "<p>photo <br><b>Previously published:</b> No\n</p>",
+  "DateTimeOriginal": "<p>2013\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Mhamed.lakrimi\" title=\"User:Mhamed.lakrimi\">Mhamed.lakrimi</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

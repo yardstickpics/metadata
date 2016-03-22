@@ -1,0 +1,22 @@
+{
+ "sha1": "55c136709bbea9f6eea9843b26842fb989640bb0",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e8/Newman_Trinity_College.PNG",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Newman Trinity College",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25699725",
+  "html": "<p>Photograph of Trinity College, Oxford's commemorative bust of Cardinal Newman.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-01-06 09:45:07",
+  "Credit": "<p>I (User:NewmanSociety) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>21-05-2004.\n</p>",
+  "Artist": "<p>User:NewmanSociety.\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

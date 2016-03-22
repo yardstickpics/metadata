@@ -1,0 +1,23 @@
+{
+ "sha1": "7ec9d172118674c13fbf3157a7aa8cca38146f44",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/51/TRAAK.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "TRAAK",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36611420",
+  "html": "<p>Structure of K<sub>2P</sub> channel TRAAK.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-08-02 01:53:21",
+  "Credit": "<p>self-made based on <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rcsb.org/pdb/explore/explore.do?structureId=3um7\">PDB entry</a>.\n</p>",
+  "DateTimeOriginal": "<p>2012-08-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:%D0%93%D0%BE%D0%BD%D1%81%D0%BE&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Гонсо (page does not exist)\">Гонсо</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:%D0%93%D0%BE%D0%BD%D1%81%D0%BE\" title=\"User talk:Гонсо\">talk</a>)\n</p>",
+  "Permission": "<table style=\"margin:0.5em auto; width:90%; background-color:#f0f0f0; border:2px solid #aaaaaa; padding:2px;\"><tr><td>\n<div class=\"center\" style=\"width:auto; margin-left:auto; margin-right:auto;\"><i><b>I, the copyright holder of this work,</b> hereby publish it under the following license:</i></div>\n<div class=\"center\" style=\"width:auto; margin-left:auto; margin-right:auto;\"><i><table class=\"plainlinks imbox imbox-license licensetpl licensetpl\" role=\"presentation\"><tr>\n<td class=\"mbox-image\">\n<a href=\"//en.wikipedia.org/wiki/File:CC_some_rights_reserved.svg\" class=\"image\"><img alt=\"CC some rights reserved.svg\" src=\"//upload.wikimedia.org/wikipedia/en/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png\" width=\"90\" height=\"36\" srcset=\"//upload.wikimedia.org/wikipedia/en/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x\" data-file-width=\"744\" data-file-height=\"300\"></a> <br><a href=\"//en.wikipedia.org/wiki/File:Cc-by_new_white.svg\" class=\"image\"><img alt=\"Cc-by new white.svg\" src=\"//upload.wikimedia.org/wikipedia/en/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png\" width=\"24\" height=\"24\" srcset=\"//upload.wikimedia.org/wikipedia/en/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></a>\n</td>\n<td class=\"mbox-text\">This work is licensed under the <a href=\"//en.wikipedia.org/wiki/Creative_Commons\" title=\"Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"http://creativecommons.org/licenses/by/3.0/\">Attribution 3.0</a> License. <i><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/licenses/by/3.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">CC-BY-3.0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></i>\n</td>\n</tr></table></i></div>\n</td></tr></table>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

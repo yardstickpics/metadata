@@ -1,0 +1,26 @@
+{
+ "sha1": "8c4059c0a58284231c765d0d28c461e0cdad971a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/89/LodiWrestler2011.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "LodiWrestler2011",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44023438",
+  "html": "<p>Professional wrestler <a href=\"//en.wikipedia.org/wiki/Lodi_(wrestler)\" title=\"Lodi (wrestler)\">Lodi</a> in 2011.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-10-04 17:07:40",
+  "Credit": "<p><a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:Brad_Cain.jpg\">https://commons.wikimedia.org/wiki/File:Brad_Cain.jpg</a>\n</p>",
+  "DateTimeOriginal": "<p>28 January 2011\n</p>",
+  "Artist": "<p>Mike Kalasnik\n</p>",
+  "Permission": "<p><a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:Brad_Cain.jpg\">https://commons.wikimedia.org/wiki/File:Brad_Cain.jpg</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

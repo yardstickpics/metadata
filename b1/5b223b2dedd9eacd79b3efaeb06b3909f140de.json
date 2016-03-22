@@ -1,0 +1,22 @@
+{
+ "sha1": "b15b223b2dedd9eacd79b3efaeb06b3909f140de",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/KitKat_Differences.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "KitKat Differences",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41170695",
+  "html": "<p>Screenshots of two KitKat installations, one on Nexus 5 and one on Nexus 4\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-11-23 20:00:00",
+  "Credit": "<p>Screenshots of the open source Android operating system, collaged together by me.\n</p>",
+  "DateTimeOriginal": "<p>2013-11-22\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:L33th4x0r\" title=\"User:L33th4x0r\">L33th4x0r</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

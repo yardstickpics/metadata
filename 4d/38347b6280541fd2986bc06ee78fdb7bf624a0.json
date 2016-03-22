@@ -1,0 +1,22 @@
+{
+ "sha1": "4d38347b6280541fd2986bc06ee78fdb7bf624a0",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/6f/ElectricPicture.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "ElectricPicture",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41428284",
+  "html": "<p>This is a photo that shows a person in a colorful format.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-12-21 20:50:08",
+  "Credit": "<p>From a photo I took, modified with a <i>paint</i> program and Lightroom.\n</p>",
+  "DateTimeOriginal": "<p>2003-05-22\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Timlevin\" title=\"User:Timlevin\">Timlevin</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

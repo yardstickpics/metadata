@@ -1,0 +1,22 @@
+{
+ "sha1": "202a09a4a7e317a991d585b652303f3006e3075b",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Bounouh_Villages.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Bounouh Villages",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41427647",
+  "html": "<p>photo showing several villages\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-03-22 20:16:53",
+  "Credit": "<p>photo<br><b>Previously published:</b> no\n</p>",
+  "DateTimeOriginal": "<p>2013\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Mhamed.lakrimi\" title=\"User:Mhamed.lakrimi\">Mhamed.lakrimi</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

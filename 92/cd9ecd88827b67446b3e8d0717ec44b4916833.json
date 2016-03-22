@@ -1,0 +1,22 @@
+{
+ "sha1": "92cd9ecd88827b67446b3e8d0717ec44b4916833",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/44/SMU_Dallas_Hall.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "SMU Dallas Hall",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43567694",
+  "html": "<p>Dallas Hall at Southern Methodist University (Dallas, TX)\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-08-15 02:05:46",
+  "Credit": "<p>i took this photo\n</p>",
+  "DateTimeOriginal": "<p>08/14/2014\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Elred\" title=\"User:Elred\">Elred</a>\n</p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

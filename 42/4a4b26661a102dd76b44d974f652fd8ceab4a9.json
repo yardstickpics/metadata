@@ -1,0 +1,25 @@
+{
+ "sha1": "424a4b26661a102dd76b44d974f652fd8ceab4a9",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Eltham_map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Eltham map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44072844",
+  "html": "<p>Eltham from open street map 2014\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-10-10 10:24:50",
+  "Credit": "<p>Open street Map\n</p>",
+  "Artist": "<p>Open Street map\n</p>",
+  "Permission": "<p>Open street map site and wikipedia article <a href=\"//en.wikipedia.org/w/index.php?title=Open_atreet_map&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Open atreet map (page does not exist)\">Open atreet map</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

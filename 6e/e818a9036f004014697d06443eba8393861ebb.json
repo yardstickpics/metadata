@@ -1,0 +1,22 @@
+{
+ "sha1": "6ee818a9036f004014697d06443eba8393861ebb",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/91/TaikyokuShogiSente.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "TaikyokuShogiSente",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36023760",
+  "html": "<p>The initial position of Taikyoku Shogi from Sente's perspective.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-06-03 06:31:32",
+  "Credit": "<p>I made this file in aprox. 2010 using Inkscape and publicly available information regarding the game, as one would if making a picture of a chess board.<br><b>Previously published:</b> Also posted in my DeviantArt gallery\n</p>",
+  "DateTimeOriginal": "<p>2010\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:TKR101010\" title=\"User:TKR101010\">TKR101010</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

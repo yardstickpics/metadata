@@ -1,0 +1,23 @@
+{
+ "sha1": "c8446d5a077066cba7fd17af380d95e8a57120fa",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/Wye_railway_station_platform.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Wye railway station platform",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=13417578",
+  "html": "Wye\n<p>Platform at <a href=\"//en.wikipedia.org/wiki/Wye_railway_station\" title=\"Wye railway station\">Wye railway station</a>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2007-09-24 14:47:39",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2003?\n</p>",
+  "Artist": "<p>Redvers\n</p>",
+  "Permission": "<p>CC-BY\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

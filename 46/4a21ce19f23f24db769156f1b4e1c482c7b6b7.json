@@ -1,0 +1,21 @@
+{
+ "sha1": "464a21ce19f23f24db769156f1b4e1c482c7b6b7",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/df/Cat-roadkill-net.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Cat-roadkill-net",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=21224598",
+  "html": "<p>Photo by Nathaniel Paluga\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-01-23 18:02:26",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Drpaluga&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Drpaluga (page does not exist)\">Drpaluga</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Drpaluga\" title=\"User talk:Drpaluga\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

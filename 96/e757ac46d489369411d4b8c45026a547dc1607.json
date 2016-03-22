@@ -1,0 +1,22 @@
+{
+ "sha1": "96e757ac46d489369411d4b8c45026a547dc1607",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0c/KoShogiSente.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "KoShogiSente",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36023909",
+  "html": "<p>The initial setup for Ko Shogi from Sente's perspective.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-06-03 07:10:33",
+  "Credit": "<p>I made this file in aprox. 2010 using Inkscape and publicly available information regarding the game, as one would if making a picture of a chess board.<br><b>Previously published:</b> Also posted in my DeviantArt gallery.\n</p>",
+  "DateTimeOriginal": "<p>2010\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:TKR101010\" title=\"User:TKR101010\">TKR101010</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

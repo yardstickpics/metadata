@@ -1,0 +1,18 @@
+{
+ "sha1": "543e6ac82b10a8394ee1d937b522b3a12aaeaff2",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/44/DHC_Beaver.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "DHC Beaver",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43978872"
+ },
+ "wiki": {
+  "DateTime": "2014-09-29 13:58:56",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

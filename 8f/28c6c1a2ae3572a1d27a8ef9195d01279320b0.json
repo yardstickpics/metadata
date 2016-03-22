@@ -1,0 +1,25 @@
+{
+ "sha1": "8f28c6c1a2ae3572a1d27a8ef9195d01279320b0",
+ "lic": "cc-by-sa-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/14/Flanwarrior.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Flanwarrior",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40883450",
+  "html": "<p>Humorous modification of <a href=\"//en.wikipedia.org/wiki/File:Italian_Creme_Caramel.JPG\" class=\"image\"><img alt=\"Italian Creme Caramel.JPG\" src=\"//upload.wikimedia.org/wikipedia/commons/8/89/Italian_Creme_Caramel.JPG\" width=\"2048\" height=\"1536\" data-file-width=\"2048\" data-file-height=\"1536\"></a>, with helmet added.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2013-10-24 21:41:32",
+  "Credit": "<p>Wikimedia Commons\n</p>",
+  "Artist": "<p>BokuAlec\n</p>",
+  "Permission": "<p><a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:Italian_Creme_Caramel.JPG\">https://commons.wikimedia.org/wiki/File:Italian_Creme_Caramel.JPG</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ }
+}

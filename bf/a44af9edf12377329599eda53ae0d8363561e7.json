@@ -1,0 +1,13 @@
+{
+ "sha1": "bfa44af9edf12377329599eda53ae0d8363561e7",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/55/MIRIAM_Resources_Enzyme_Nomenclature_entry.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "MIRIAM Resources Enzyme Nomenclature entry",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=15115901",
+  "html": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.ebi.ac.uk/miriam/\">http://www.ebi.ac.uk/miriam/</a>\n<p>Example of an entity stored in MIRIAM Resources: enzyme nomenclature.\n</p>"
+ }
+}

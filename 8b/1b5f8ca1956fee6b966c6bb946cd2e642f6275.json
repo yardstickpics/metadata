@@ -1,0 +1,13 @@
+{
+ "sha1": "8b1b5f8ca1956fee6b966c6bb946cd2e642f6275",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/13/HglK_dotplot.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "HglK dotplot",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=27172904",
+  "html": "<p>Dot plot of the HglK protein (UniProt:P73963) showing its <a href=\"//en.wikipedia.org/wiki/Pentapeptide_repeat\" title=\"Pentapeptide repeat\">Pentapeptide repeat</a> structure. I created this image using the dotter software by Erik Sonnhammer, manipulating the image in Adobe Illustrator.\n</p>"
+ }
+}

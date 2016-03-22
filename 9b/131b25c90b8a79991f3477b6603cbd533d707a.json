@@ -1,0 +1,17 @@
+{
+ "sha1": "9b131b25c90b8a79991f3477b6603cbd533d707a",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Map_of_the_USA_highlighting_New_Jersey.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Map of the USA highlighting New Jersey",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=12168925",
+  "html": "<p>I created it with <a href=\"//en.wikipedia.org/wiki/Paint.NET\" title=\"Paint.NET\">Paint.NET</a>. Created for <a href=\"//en.wikipedia.org/wiki/Wikipedia:NJ\" title=\"Wikipedia:NJ\" class=\"mw-redirect\">WP:NJ</a>. It was created from <a href=\"//en.wikipedia.org/wiki/File:U.S._Counties.gif\" title=\"File:U.S. Counties.gif\">Image:U.S. Counties.gif</a>.\n</p>"
+ },
+ "tags": [
+  "new jersey maps",
+  "wikipedia images available as svg"
+ ]
+}

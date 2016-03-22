@@ -1,0 +1,25 @@
+{
+ "sha1": "6a8b59efd7166e0b0bfc85c5c75432c16c0b5a09",
+ "lic": "cc-by-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Lesions_on_peach_twig.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Lesions on peach twig",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41264819",
+  "html": "<p>Lesions caused by Cladosporium carpophilum\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2013-12-04 03:01:46",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.forestryimages.org/browse/detail.cfm?imgnum=1436082\">http://www.forestryimages.org/browse/detail.cfm?imgnum=1436082</a>\n</p>",
+  "Artist": "<p>Clemson University - USDA Cooperative Extension Slide Series\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.forestryimages.org/about/imageusage.cfm\">http://www.forestryimages.org/about/imageusage.cfm</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/1.0/"
+ }
+}

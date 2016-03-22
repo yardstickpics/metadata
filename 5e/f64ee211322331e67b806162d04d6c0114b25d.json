@@ -1,0 +1,26 @@
+{
+ "sha1": "5ef64ee211322331e67b806162d04d6c0114b25d",
+ "lic": "cc-by-sa-1.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/be/GoldustAugust2013.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "GoldustAugust2013",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42026908",
+  "html": "<p>An image of <a href=\"//en.wikipedia.org/wiki/Professional_wrestler\" title=\"Professional wrestler\" class=\"mw-redirect\">professional wrestler</a> <a href=\"//en.wikipedia.org/wiki/Goldust\" title=\"Goldust\">Goldust</a> from August 2013.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources"
+ ],
+ "wiki": {
+  "DateTime": "2014-02-23 19:49:18",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/miguel_discart/10923259834/\">https://www.flickr.com/photos/miguel_discart/10923259834/</a>\n</p>",
+  "DateTimeOriginal": "<p>November 8, 2013\n</p>",
+  "Artist": "<p>miguel.discart\n</p>",
+  "Permission": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/miguel_discart/10923259834/\">https://www.flickr.com/photos/miguel_discart/10923259834/</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ }
+}

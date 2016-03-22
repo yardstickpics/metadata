@@ -1,0 +1,18 @@
+{
+ "sha1": "487f04e29d061546aec06db5165f18884c19864c",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/0d/GrandIslandFlorida.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "GrandIslandFlorida",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47608175"
+ },
+ "wiki": {
+  "DateTime": "2015-08-24 04:33:13",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

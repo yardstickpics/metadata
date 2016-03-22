@@ -1,0 +1,25 @@
+{
+ "sha1": "840362b680ed8dfd5541ef0331f241788650eb23",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/MetroRapidmap.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "MetroRapidmap",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=21261737",
+  "html": "<p>Map of <a href=\"//en.wikipedia.org/wiki/Metro_Rapid\" title=\"Metro Rapid\">Metro Rapid</a> <a href=\"//en.wikipedia.org/wiki/Bus_rapid_transit\" title=\"Bus rapid transit\">bus rapid transit</a> routes in <a href=\"//en.wikipedia.org/wiki/Los_Angeles_County\" title=\"Los Angeles County\" class=\"mw-redirect\">Los Angeles County</a>, <a href=\"//en.wikipedia.org/wiki/California\" title=\"California\">California</a>, as of January 2009. Created by Robert J. McConnell (<a href=\"//en.wikipedia.org/wiki/User:The_Port_of_Authority\" title=\"User:The Port of Authority\">\"The Port of Authority\"</a>).\n</p>"
+ },
+ "tags": [
+  "obsolete images"
+ ],
+ "wiki": {
+  "DateTime": "2009-01-26 07:28:27",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>2009-01-25\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:The_Port_of_Authority\" title=\"User:The Port of Authority\">The Port of Authority</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:The_Port_of_Authority\" title=\"User talk:The Port of Authority\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

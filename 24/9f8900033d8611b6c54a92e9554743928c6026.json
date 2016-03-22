@@ -1,0 +1,17 @@
+{
+ "sha1": "249f8900033d8611b6c54a92e9554743928c6026",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c9/Map_of_Greece_1903.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Map of Greece 1903",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=21394032",
+  "html": "<p>Map of the Kingdom of Greece, the <a href=\"//en.wikipedia.org/wiki/Cretan_State\" title=\"Cretan State\">Cretan State</a> and the Principality of <a href=\"//en.wikipedia.org/wiki/Samos_Island\" title=\"Samos Island\" class=\"mw-redirect\">Samos</a> in 1903. It displays the greek railway network as it was in 1900-1901.\n</p>"
+ },
+ "tags": [
+  "maps of greece",
+  "rail transport in greece"
+ ]
+}

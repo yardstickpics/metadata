@@ -1,0 +1,23 @@
+{
+ "sha1": "a78b97172137fb32a23f74a13658d38c9fbecf76",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Earth-layers-01.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Earth-layers-01",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=8695161",
+  "html": "<p>Earth cutaway to illustrate main layers. Layers are numbered so that the descriptive text can be language-independent. Layers are to scale.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2007-01-30 03:57:50",
+  "Credit": "<p>Dave Jarvis\n</p>",
+  "DateTimeOriginal": "<p>December 31, 2006\n</p>",
+  "Artist": "<p>Dave Jarvis, James Hastings-Trew (Earth image map)\n</p>",
+  "Permission": "<p>Permission is granted to use the image for any purpose so long as credit for the image is given to myself (Dave Jarvis) and James Hastings-Trew.\n</p>",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

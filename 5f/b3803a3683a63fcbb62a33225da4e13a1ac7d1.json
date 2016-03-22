@@ -1,0 +1,22 @@
+{
+ "sha1": "5fb3803a3683a63fcbb62a33225da4e13a1ac7d1",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/6d/PEEC_Circuit.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "PEEC Circuit",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35850035",
+  "html": "<p>PEEC Circuit\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-05-17 14:09:38",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2012-05-17\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Danesh_Daroui\" title=\"User:Danesh Daroui\">Danesh Daroui</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

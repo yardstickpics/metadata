@@ -1,0 +1,16 @@
+{
+ "sha1": "fdee58a7bb152514d46c23e0a2c4e27c087bf48a",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/04/SC_County_Map_%28Greenville_and_Spartanburg%29.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "SC County Map (Greenville and Spartanburg)",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=34537601",
+  "html": "<p>The map was created by the United States Census Bureau, I altered the image by highlighting Greenville and Spartanburg Counties in red.\n</p>"
+ },
+ "tags": [
+  "united states census bureau images"
+ ]
+}

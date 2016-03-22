@@ -1,0 +1,18 @@
+{
+ "sha1": "83058941f498cbd3fcf154f4c8ca9c21b8298913",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c7/Intel-4004-schematics.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Intel-4004-schematics",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=7953789"
+ },
+ "wiki": {
+  "DateTime": "2006-11-15 17:56:05",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

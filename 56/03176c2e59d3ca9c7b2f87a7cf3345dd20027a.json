@@ -1,0 +1,25 @@
+{
+ "sha1": "5603176c2e59d3ca9c7b2f87a7cf3345dd20027a",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Bounouh_Library.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Bounouh Library",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41427507",
+  "html": "<p>Photo of library\n</p>"
+ },
+ "tags": [
+  "images with watermarks"
+ ],
+ "wiki": {
+  "DateTime": "2013-12-29 16:33:11",
+  "Credit": "<p>photo<br><b>Previously published:</b> No\n</p>",
+  "DateTimeOriginal": "<p>2013\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Mhamed.lakrimi\" title=\"User:Mhamed.lakrimi\">Mhamed.lakrimi</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

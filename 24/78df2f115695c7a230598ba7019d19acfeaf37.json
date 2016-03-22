@@ -1,0 +1,22 @@
+{
+ "sha1": "2478df2f115695c7a230598ba7019d19acfeaf37",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Swensonlobby.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Swensonlobby",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=32393683",
+  "html": "<p>University of Minnesota Duluth\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2011-07-12 21:26:07",
+  "Credit": "<p>University of Minnesota Duluth\n</p>",
+  "DateTimeOriginal": "<p>July 14, 2011\n</p>",
+  "Artist": "<p>University of Minnesota Duluth\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

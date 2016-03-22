@@ -1,0 +1,29 @@
+{
+ "sha1": "18df5cf98885daaf9aa7cef17e349dcec26c9be0",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/83/KrinskyvDoeDYKFrontpage.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "KrinskyvDoeDYKFrontpage",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35103416",
+  "html": "<p>A screenshot of the Krinsky v. Doe 6 article featured in the DYK section on the Wikipedia front page.\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources",
+  "screenshots of wikipedia",
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2012-03-17 00:59:53",
+  "Credit": "<p>Wikipedia\n</p>",
+  "DateTimeOriginal": "<p>2012-03-16\n</p>",
+  "Artist": "<p>Wikipedia\n</p>",
+  "Permission": "<p><a class=\"external free\" href=\"http://en.wikipedia.org/wiki/Main_Page\">http://en.wikipedia.org/wiki/Main_Page</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "Attribution": "<a href=\"//wikimediafoundation.org/wiki/Contact_us\" class=\"extiw\" title=\"wmf:Contact us\">Wikimedia Foundation</a>",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "feec5888e8ce554dbf944f4fb62344ba316aa9b6",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/86/Portrait_of_James_Z._Wang.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Portrait of James Z. Wang",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41864462",
+  "html": "<p>This is a portrait of Professor James Z. Wang, taken in December 2013.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-02-06 19:26:06",
+  "Credit": "<p>I took the photograph<br><b>Previously published:</b> <a rel=\"nofollow\" class=\"external free\" href=\"http://wang.ist.psu.edu\">http://wang.ist.psu.edu</a>\n</p>",
+  "DateTimeOriginal": "<p>2013-12-22\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:China_fun&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:China fun (page does not exist)\">China fun</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

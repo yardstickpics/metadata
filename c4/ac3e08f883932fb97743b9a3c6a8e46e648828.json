@@ -1,0 +1,23 @@
+{
+ "sha1": "c4ac3e08f883932fb97743b9a3c6a8e46e648828",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Distribution_Of_Income_In_Greece.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Distribution Of Income In Greece",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36114535",
+  "html": "<p>Distribution of (personal annual equivalised disposable) Income by population decile in Greece from 1995 to 2013; also median and mean (average) values; 9 bottom deciles. Note: break in timeseries in 2002.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-12-18 13:27:09",
+  "Credit": "<p>I <a href=\"//en.wikipedia.org/wiki/User:Thanatos666\" title=\"User:Thanatos666\">Thanatos</a> created this work entirely by myself using data (<a rel=\"nofollow\" class=\"external text\" href=\"http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_di01&amp;lang=en\">ilc_di01</a> and <a rel=\"nofollow\" class=\"external text\" href=\"http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_di03&amp;lang=en\">ilc_di03</a>) from <a rel=\"nofollow\" class=\"external text\" href=\"http://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home\">Eurostat</a>.\n</p>",
+  "DateTimeOriginal": "<p>2012-10-17\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Thanatos666\" title=\"User:Thanatos666\">Thanatos</a>\n</p>",
+  "Permission": "<table class=\"plainlinks imbox imbox-license licensetpl licensetpl\" role=\"presentation\"><tr>\n<td class=\"mbox-image\"><span class=\"nowrap\"><img alt=\"Creative Commons\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/28px-Cc.logo.circle.svg.png\" title=\"Creative Commons\" width=\"28\" height=\"28\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/42px-Cc.logo.circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/56px-Cc.logo.circle.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"> <img alt=\"CC-Zero\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/28px-Cc-zero.svg.png\" title=\"CC-Zero\" width=\"28\" height=\"28\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/42px-Cc-zero.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/56px-Cc-zero.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></td>\n<td class=\"mbox-text\">This file is made available under the <a href=\"//en.wikipedia.org/wiki/Creative_Commons\" title=\"Creative Commons\">Creative Commons</a> <a rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n<p>The person who associated a work with this deed has dedicated the work to the <a href=\"//en.wikipedia.org/wiki/Public_domain\" title=\"Public domain\">public domain</a> by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<span class=\"licensetpl_link\" style=\"display:none;\">creativecommons.org/publicdomain/zero/1.0/deed.en\n</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0\n</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication\n</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true\n</span></p>\n<span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</td>\n</tr></table>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "13ba98147e76e241fe3753934bb4444c66ab5d82",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/39/Interstate_26_map.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Interstate 26 map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41521046",
+  "html": "<p>This is a map that I made that has Interstate 26 in North Carolina.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-01-01 18:39:19",
+  "Credit": "<p>Quantum GIS, Inkscape\n</p>",
+  "DateTimeOriginal": "<p>2014-01-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Philroc\" title=\"User:Philroc\">Philroc</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

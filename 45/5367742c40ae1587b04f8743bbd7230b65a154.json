@@ -1,0 +1,22 @@
+{
+ "sha1": "455367742c40ae1587b04f8743bbd7230b65a154",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/NKFUST_Lake.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "NKFUST Lake",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=17018902",
+  "html": "<p>Ecological lake at the NKFUST\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-04-20 09:53:56",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://aais.nkfust.edu.tw:8080/album/\">National Kaohsiung First University of Science and Technology, NKFUST</a>\n</p>",
+  "DateTimeOriginal": "<p>July 5, 2007\n</p>",
+  "Artist": "<p>NKFUST\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

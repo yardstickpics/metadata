@@ -1,0 +1,22 @@
+{
+ "sha1": "0d2f7567b51e3f3ec11f9ad7e53609f1ca025872",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/08/Photo_of_Allison_%22Allie%22_Burns.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Photo of Allison \"Allie\" Burns",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=38924642",
+  "html": "<p>Photo of Allie Burns in 2013\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-03-26 12:58:20",
+  "Credit": "<p>My camera\n</p>",
+  "DateTimeOriginal": "<p>2013-01-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Jonathonnunn&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jonathonnunn (page does not exist)\">Jonathonnunn</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

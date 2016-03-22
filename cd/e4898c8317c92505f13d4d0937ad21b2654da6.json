@@ -1,0 +1,22 @@
+{
+ "sha1": "cde4898c8317c92505f13d4d0937ad21b2654da6",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/12/Grizzly_Peak.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Grizzly Peak",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=20713038",
+  "html": "<p>Grizzly Peak at DCA\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-12-15 19:38:27",
+  "Credit": "<p>I created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>2007\n</p>",
+  "Artist": "<p>Dlrpfan\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

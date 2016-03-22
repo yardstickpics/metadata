@@ -1,0 +1,22 @@
+{
+ "sha1": "63af9df038faba65f54295766297cebf006db289",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/cf/Percentage_population_undernourished_world_map_2009.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Percentage population undernourished world map 2009",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25532682",
+  "html": "<p>Map showing the percentage of population undernourished from the 2004-06 report.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2009-12-23 05:59:05",
+  "Credit": "<p>I (tony0106) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>22 December 2009\n</p>",
+  "Artist": "<p>tony0106\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

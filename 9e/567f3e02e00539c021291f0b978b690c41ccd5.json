@@ -1,0 +1,22 @@
+{
+ "sha1": "9e567f3e02e00539c021291f0b978b690c41ccd5",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/24/Slope_field_1.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Slope field 1",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=15864867",
+  "html": "<p>Slope field of y' = 0.1*(1-x)*y\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-02-20 19:30:21",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>20/02/08\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Wingless&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wingless (page does not exist)\">Wingless</a> (<a href=\"//en.wikipedia.org/w/index.php?title=User_talk:Wingless&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:Wingless (page does not exist)\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "sha1": "9387fd49fd99a0b2acb303dbf5f04401208edd73",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/77/Fredriksson_Vienna_Review.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Fredriksson Vienna Review",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41654192"
+ },
+ "wiki": {
+  "DateTime": "2014-01-16 00:01:46",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "sha1": "3eb40d9c3856a9c3c918b66a3503e8af3fa0e0fe",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1b/Pune_Cantonment_Map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Pune Cantonment Map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=25442264",
+  "html": "<p>Map of <a href=\"//en.wikipedia.org/wiki/Pune_Cantonment\" title=\"Pune Cantonment\" class=\"mw-redirect\">Pune Cantonment</a> and surrounding areas\n</p>"
+ },
+ "tags": [
+  "openstreetmap maps"
+ ],
+ "wiki": {
+  "DateTime": "2010-04-10 12:05:54",
+  "Credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.openstreetmap.org/\">http://www.openstreetmap.org/</a>\n</p>",
+  "DateTimeOriginal": "<p>2009-12-15\n</p>",
+  "Artist": "<p>OpenStreetMap\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

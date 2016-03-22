@@ -1,0 +1,18 @@
+{
+ "sha1": "c885e2e3672888d4a728037bba139b93d01d02cc",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/47/GWMap.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "GWMap",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=12712744"
+ },
+ "wiki": {
+  "DateTime": "2007-08-10 17:18:38",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

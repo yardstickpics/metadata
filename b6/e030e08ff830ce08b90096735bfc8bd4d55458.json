@@ -1,0 +1,22 @@
+{
+ "sha1": "b6e030e08ff830ce08b90096735bfc8bd4d55458",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/be/Jmjd2a%282UXX%29_with_domains_highlighted.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Jmjd2a(2UXX) with domains highlighted",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=39084204",
+  "html": "<p>A self-made jmjd2a image in PyMol from the 2UXX published PDB structure.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-04-11 20:25:34",
+  "Credit": "<p>PyMol\n</p>",
+  "DateTimeOriginal": "<p>2013-04-11\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Poramboa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Poramboa (page does not exist)\">Poramboa</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

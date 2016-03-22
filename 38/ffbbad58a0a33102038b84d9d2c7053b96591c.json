@@ -1,0 +1,26 @@
+{
+ "sha1": "38ffbbad58a0a33102038b84d9d2c7053b96591c",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/2b/Timetable_of_Oxford_entrance_examinations_1973.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Timetable of Oxford entrance examinations 1973",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=39949252",
+  "html": "<p>Timetable of Oxford entrance examinations 1973\n</p>"
+ },
+ "tags": [
+  "files requiring attribution"
+ ],
+ "wiki": {
+  "DateTime": "2013-07-13 00:04:25",
+  "Credit": "<p>Candidate pack for 1974 entry\n</p>",
+  "DateTimeOriginal": "<p>October 1973\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/University_of_Oxford\" title=\"University of Oxford\">University of Oxford</a>\n</p>",
+  "Permission": "<p>As far as I have been able to determine, this table was distributed to schools by the University of Oxford without limit on how it might be reproduced and/or modified before redistribution to candidates, so Creative Commons Attribution 3.0 applies.\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ }
+}

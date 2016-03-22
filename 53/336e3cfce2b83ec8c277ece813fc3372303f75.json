@@ -1,0 +1,18 @@
+{
+ "sha1": "53336e3cfce2b83ec8c277ece813fc3372303f75",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d5/Scale_of_the_Solar_System.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Scale of the Solar System",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36512293"
+ },
+ "wiki": {
+  "DateTime": "2012-08-17 23:17:19",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

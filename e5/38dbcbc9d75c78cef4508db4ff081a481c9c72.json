@@ -1,0 +1,25 @@
+{
+ "sha1": "e538dbcbc9d75c78cef4508db4ff081a481c9c72",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Green_River_at_Kanaskat-Palmer.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Green River at Kanaskat-Palmer",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35240855",
+  "html": "<p>Rapids of the <a href=\"//en.wikipedia.org/wiki/Green_River_(Duwamish_River)\" title=\"Green River (Duwamish River)\">Green River</a> at <a href=\"//en.wikipedia.org/wiki/Kanaskat-Palmer_State_Park\" title=\"Kanaskat-Palmer State Park\">Kanaskat-Palmer State Park</a>, Washington, USA as seen from <span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"//tools.wmflabs.org/geohack/geohack.php?pagename=File%3AGreen_River_at_Kanaskat-Palmer.jpg&amp;params=47.322127_N_-121.90865_E_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">47°19′20″N</span> <span class=\"longitude\">121°54′31″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">47.322127°N 121.90865°W</span><span style=\"display:none\">﻿ / <span class=\"geo\">47.322127; -121.90865</span></span></span></a></span>\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-03-27 17:04:05",
+  "GPSLatitude": "47.322127",
+  "GPSLongitude": "-121.90865",
+  "GPSMapDatum": "WGS-84",
+  "Credit": "<p>Own photo made with my very own camera\n</p>",
+  "DateTimeOriginal": "<p>2012-03-24\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Orange_Suede_Sofa\" title=\"User:Orange Suede Sofa\">Orange Suede Sofa</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "729bb417974035bc67fded004ae8f95609c101f4",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/dc/C10orf76_MSA_orthologs.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "C10orf76 MSA orthologs",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=39379638",
+  "html": "<p>Multiple sequence alignment illustrating the evolutionary conservation of c10orf76 throughout its orthologs.\n</p>"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "45e1af3b1419b099f57bddd4404094ce6974dbfd",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c7/Wainuiomata_Tunnel_map.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Wainuiomata Tunnel map",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=38867895",
+  "html": "<p>Map showing the location of Wainuiomata Tunnel.  Not marked are the approach roads to the portals.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-03-20 11:18:24",
+  "Credit": "<p>Base map image courtesy of <a rel=\"nofollow\" class=\"external text\" href=\"http://www.openstreetmap.org/\">OpenStreetMap</a>.\n</p>",
+  "DateTimeOriginal": "<p>11:18, 20 March 2013 (UTC)\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Matthew25187\" title=\"User:Matthew25187\">Matthew25187</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Matthew25187\" title=\"User talk:Matthew25187\">talk</a>)\n</p>",
+  "Permission": "<p>© OpenStreetMap contributors, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.opendatacommons.org/licenses/odbl\">Open Database Licence</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

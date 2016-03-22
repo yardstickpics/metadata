@@ -1,0 +1,22 @@
+{
+ "sha1": "5e6c4e21022737b4d747fa9371b58432e07a19ce",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Paleface_jack.tif",
+ "ext": "tiff",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Paleface jack",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=49632319",
+  "html": "<p>The shadow of Jack\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2016-03-03 16:25:58",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>1/18/2016\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Paleface_Jack\" title=\"User:Paleface Jack\">Paleface Jack</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

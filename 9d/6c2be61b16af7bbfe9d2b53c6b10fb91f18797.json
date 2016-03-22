@@ -1,0 +1,26 @@
+{
+ "sha1": "9d6c2be61b16af7bbfe9d2b53c6b10fb91f18797",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/49/Infobox_person_ii_-_Michael_Jackson_-_source_code_preview.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Infobox person ii - Michael Jackson - source code preview",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47325611",
+  "html": "<p>visualization of infobox person ii usage example\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources",
+  "wikipedia files of no use beyond wikipedia"
+ ],
+ "wiki": {
+  "DateTime": "2015-07-24 12:09:09",
+  "Credit": "<p><a class=\"external free\" href=\"https://en.wikipedia.org/w/index.php?title=Michael_Jackson&amp;action=submit\">https://en.wikipedia.org/w/index.php?title=Michael_Jackson&amp;action=submit</a>\n</p>",
+  "Artist": "<p>Wikipedia\n</p>",
+  "Permission": "<p><a class=\"external free\" href=\"https://en.wikipedia.org/wiki/Michael_Jackson\">https://en.wikipedia.org/wiki/Michael_Jackson</a>\n</p>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

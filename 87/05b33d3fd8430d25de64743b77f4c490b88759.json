@@ -1,0 +1,19 @@
+{
+ "sha1": "8705b33d3fd8430d25de64743b77f4c490b88759",
+ "lic": "cc-by-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Victoria_Inner_Harbour_HDR.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Victoria Inner Harbour HDR",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=7750954"
+ },
+ "wiki": {
+  "DateTime": "2007-02-11 13:59:13",
+  "UsageTerms": "Creative Commons Attribution 2.5",
+  "AttributionRequired": "true",
+  "Attribution": "Ryan Bushby",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/2.5/"
+ }
+}

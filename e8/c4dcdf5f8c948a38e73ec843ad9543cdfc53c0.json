@@ -1,0 +1,13 @@
+{
+ "sha1": "e8c4dcdf5f8c948a38e73ec843ad9543cdfc53c0",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Subprime_diagram.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Subprime diagram",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=19941912",
+  "html": "<p>Diagram of Subprime crisis<br>\nLegend<br>\nARM = <a href=\"//en.wikipedia.org/wiki/Adjustable_rate_mortgage\" title=\"Adjustable rate mortgage\" class=\"mw-redirect\">Adjustable rate mortgage</a><br>\nCDO = <a href=\"//en.wikipedia.org/wiki/Collateralized_debt_obligation\" title=\"Collateralized debt obligation\">Collateralized debt obligation</a><br>\nFed = <a href=\"//en.wikipedia.org/wiki/Federal_Reserve_System\" title=\"Federal Reserve System\">Federal Reserve System</a><br>\nMBS = <a href=\"//en.wikipedia.org/wiki/Mortgage-backed_security\" title=\"Mortgage-backed security\">Mortgage-backed security</a>\n</p>"
+ }
+}

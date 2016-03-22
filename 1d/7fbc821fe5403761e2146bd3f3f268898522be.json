@@ -1,0 +1,22 @@
+{
+ "sha1": "1d7fbc821fe5403761e2146bd3f3f268898522be",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/76/Sihanoukville_Province_Locator_Map_2014.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Sihanoukville Province Locator Map 2014",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44438188",
+  "html": "<p>updated map of Cambodia, highlighting Sihanoukville Province, 2014\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-11-18 17:10:39",
+  "Credit": "<p>created graphic based on outdated Locator Map<br><b>Previously published:</b> no\n</p>",
+  "DateTimeOriginal": "<p>2014-11-18\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Wikirictor\" title=\"User:Wikirictor\">Wikirictor</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

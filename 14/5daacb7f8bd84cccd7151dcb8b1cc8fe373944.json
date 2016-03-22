@@ -1,0 +1,22 @@
+{
+ "sha1": "145daacb7f8bd84cccd7151dcb8b1cc8fe373944",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Joe_Meyer.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Joe Meyer",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=28128694",
+  "html": "<p>Joe Meyer\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-07-23 14:07:15",
+  "Credit": "<p>Joe Meyer\n</p>",
+  "DateTimeOriginal": "<p>14:07, 23 July 2010 (UTC)\n</p>",
+  "Artist": "<p>Joe Meyer\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

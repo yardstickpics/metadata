@@ -1,0 +1,25 @@
+{
+ "sha1": "2aea154faaf47e32b59e16dbbe4e6f7a31d0fcb7",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/55/Bounouh_CheikhBenAbderrahmane.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Bounouh CheikhBenAbderrahmane",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41427340",
+  "html": "<p>Photo of mosque described in the text\n</p>"
+ },
+ "tags": [
+  "images with watermarks"
+ ],
+ "wiki": {
+  "DateTime": "2013-12-29 17:30:31",
+  "Credit": "<p>photo<br><b>Previously published:</b> no\n</p>",
+  "DateTimeOriginal": "<p>2012\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Mhamed.lakrimi\" title=\"User:Mhamed.lakrimi\">Mhamed.lakrimi</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

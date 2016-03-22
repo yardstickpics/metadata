@@ -1,0 +1,22 @@
+{
+ "sha1": "44ef73d235a4af5849137ac95fec63c038eed57f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d4/Sept11th.jpg",
+ "ext": "jpeg",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Sept11th",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=15654755",
+  "html": "New York, NY\n<p>View of WTC buildings on 9/11\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2008-02-08 14:22:24",
+  "Credit": "<p>self-made\n</p>",
+  "DateTimeOriginal": "<p>Sept, 11, 2001\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Jvolkblum\" title=\"User:Jvolkblum\">Jvolkblum</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Jvolkblum\" title=\"User talk:Jvolkblum\">talk</a>)Jvolkblum\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

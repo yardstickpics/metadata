@@ -1,0 +1,18 @@
+{
+ "sha1": "cdf431b26e8978a3169f4e393cb95233f7377560",
+ "lic": "cc-by-sa-2.5",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b4/FlorenceSegwayTour.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "FlorenceSegwayTour",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=7509347"
+ },
+ "wiki": {
+  "DateTime": "2006-10-19 00:50:27",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 2.5",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/2.5/"
+ }
+}

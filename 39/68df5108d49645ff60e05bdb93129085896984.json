@@ -1,0 +1,22 @@
+{
+ "sha1": "3968df5108d49645ff60e05bdb93129085896984",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/41/GeNMR_web_interface.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "GeNMR web interface",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41112015",
+  "html": "<p>GeNMR web interface\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2013-11-18 00:57:17",
+  "Credit": "<p>HTML and GIMP\n</p>",
+  "DateTimeOriginal": "<p>2010\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Mberjans&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mberjans (page does not exist)\">Mberjans</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}

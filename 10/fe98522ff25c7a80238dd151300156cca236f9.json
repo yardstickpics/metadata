@@ -1,0 +1,18 @@
+{
+ "sha1": "10fe98522ff25c7a80238dd151300156cca236f9",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/MacNeil_COA.png",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "MacNeil COA",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=49327193"
+ },
+ "wiki": {
+  "DateTime": "2016-02-04 22:21:05",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ }
+}

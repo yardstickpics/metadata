@@ -1,0 +1,22 @@
+{
+ "sha1": "62651100ab0294569fd6ff8e03f3c6d848778b4e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Chubby_spiral%2C_0.05theta%2C_0.015theta%2C_4theta.svg",
+ "ext": "svg",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Chubby spiral, 0.05theta, 0.015theta, 4theta",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=49210741",
+  "html": "<p>chubby spiral, polar plot 0.15cos(0.05theta)+0.15cos(0.015theta*sin(4theta))^(128)-(theta)^(1/pi), 0&lt;theta&lt;128pi, step 0.01\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2016-01-24 19:55:57",
+  "Credit": "<p>fooplot.com\n</p>",
+  "DateTimeOriginal": "<p>2016-01-24\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Cuberoottheo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cuberoottheo (page does not exist)\">Cuberoottheo</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ }
+}
