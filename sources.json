@@ -2,23 +2,38 @@
     "sources": {
         "findaphoto": {
             "title": "FindA.Photo",
-            "desc": "Snapshot of the site on 2016-03-01. Sources for FindA.Photo:\nJay Mantri / @JayMantri\nLife Of Pix\nMMT / @mmtstock\nPicography / @picography\nSkitterphoto / @Skitterphoto\nand Unsplash / @unsplash."
+            "desc": {
+                "text": "Snapshot of the site on 2016-03-01. Sources for FindA.Photo:\nJay Mantri / @JayMantri\nLife Of Pix\nMMT / @mmtstock\nPicography / @picography\nSkitterphoto / @Skitterphoto\nand Unsplash / @unsplash.",
+                "url": "http://finda.photo"
+            },
         },
         "wiki": {
             "title": "Wikimedia",
-            "desc": "Snapshot on 2016-03-21. Images larger than 500KB. JPEGs included only if compressed at more than 10bits per pixel."
+            "desc": {
+                "text": "Snapshot on 2016-03-21. Images larger than 500KB. JPEGs included only if compressed at more than 10bits per pixel.",
+                "url": "https://www.mediawiki.org/wiki/API:Allimages"
+            }
         },
         "elephantsdream": {
             "title": "Elephant's Dream",
-            "desc": "Random sample of 1080p frames from Elephant's Dream by Orange Open Movie Project studio."
+            "desc": {
+                "text": "Random sample of 1080p frames from Elephant's Dream by Orange Open Movie Project studio.",
+                "url": "https://orange.blender.org/"
+            }
         },
         "bigbuckbunny": {
             "title": "bigbuckbunny",
-            "desc": "Random sample of 1080p frames from Big Buck Bunny by Blender Foundation."
+            "desc": {
+                "text": "Random sample of 1080p frames from Big Buck Bunny by Blender Foundation.",
+                "url": "https://peach.blender.org/"
+            }
         },
         "eso": {
             "title": "European Southern Observatory",
-            "desc": "Selected images from http://www.eso.org/public/images/"
+            "desc": {
+                "text": "Selected images from ESO",
+                "url": "https://www.eso.org/public/images/"
+            }
         }
     }
 }
