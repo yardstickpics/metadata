@@ -27,6 +27,7 @@
   "round",
   "shape",
   "skylight",
-  "spiral"
+  "spiral",
+  "img:png8 lossless"
  ]
 }

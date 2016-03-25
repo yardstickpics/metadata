@@ -11,7 +11,8 @@
   "html": "<p>A map highlighting the neighborhoods that are together known as \"<a href=\"//en.wikipedia.org/wiki/Nottingham_Forest,_Houston\" title=\"Nottingham Forest, Houston\" class=\"mw-redirect\">Nottingham Forest, Houston</a>.\n</p>"
  },
  "tags": [
-  "openstreetmap maps"
+  "openstreetmap maps",
+  "img:png8 better than jpeg90"
  ],
  "wiki": {
   "DateTime": "2010-05-12 03:04:12",

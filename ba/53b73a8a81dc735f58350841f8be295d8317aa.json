@@ -8,5 +8,9 @@
  "name": "Main-map",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=8357310"
- }
+ },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
+ ]
 }

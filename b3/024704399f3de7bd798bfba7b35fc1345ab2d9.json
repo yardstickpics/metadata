@@ -7,5 +7,10 @@
  ],
  "ext": "png",
  "created": 1456875729,
- "name": "ImageOptim-yosemite@2x"
+ "name": "ImageOptim-yosemite@2x",
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75",
+  "img:png8 lossless"
+ ]
 }

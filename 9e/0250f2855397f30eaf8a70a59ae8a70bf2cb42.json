@@ -8,5 +8,9 @@
  "name": "Libreoffice-impress-screenshot-de-windows-7",
  "desc": {
   "text": "LibreOffice 3.5.0 Impress (German) under Microsoft Windows 7 Home Premium.\r\nDate\t18 February 2012\r\nSource\tScreenshot: Own work\r\nSoftware: LibreOffice Website\r\nAuthor\tScreenshot: Valheidelberger (talk)\r\nSoftware: The Document Foundation/LibreOffice Team"
- }
+ },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
+ ]
 }

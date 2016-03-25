@@ -11,7 +11,9 @@
   "html": "<p>Map of <a href=\"//en.wikipedia.org/wiki/Metro_Rapid\" title=\"Metro Rapid\">Metro Rapid</a> <a href=\"//en.wikipedia.org/wiki/Bus_rapid_transit\" title=\"Bus rapid transit\">bus rapid transit</a> routes in <a href=\"//en.wikipedia.org/wiki/Los_Angeles_County\" title=\"Los Angeles County\" class=\"mw-redirect\">Los Angeles County</a>, <a href=\"//en.wikipedia.org/wiki/California\" title=\"California\">California</a>, as of January 2009. Created by Robert J. McConnell (<a href=\"//en.wikipedia.org/wiki/User:The_Port_of_Authority\" title=\"User:The Port of Authority\">\"The Port of Authority\"</a>).\n</p>"
  },
  "tags": [
-  "obsolete images"
+  "obsolete images",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
  ],
  "wiki": {
   "DateTime": "2009-01-26 07:28:27",

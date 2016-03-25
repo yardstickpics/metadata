@@ -11,6 +11,8 @@
   "html": "<p>Block diagram illustrating strain partitioning at an oblique <a href=\"//en.wikipedia.org/wiki/Convergent_boundary\" title=\"Convergent boundary\">convergent margin</a>. The obliquity of plate convergence (blue arrows) induces stress components that are normal to the margin (yellow arrow) and parallel to the margin (green arrow). Elevated magnitudes of the arc parallel component induces horizontal translation (red arrows) between the wedge and the backstop. Adapted and modified from Platt, 1993\n</p>"
  },
  "tags": [
-  "images with inappropriate jpeg compression"
+  "images with inappropriate jpeg compression",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
  ]
 }

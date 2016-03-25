@@ -28,6 +28,7 @@
   "shape",
   "smooth",
   "texture",
-  "wallpaper"
+  "wallpaper",
+  "img:png8 lossless"
  ]
 }

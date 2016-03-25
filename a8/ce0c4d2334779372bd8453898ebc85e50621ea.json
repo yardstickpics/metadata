@@ -20,6 +20,7 @@
   "light",
   "model",
   "shadow",
-  "wall"
+  "wall",
+  "img:png8 lossless"
  ]
 }

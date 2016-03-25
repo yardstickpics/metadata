@@ -10,6 +10,11 @@
   "url": "https://en.wikipedia.org/w/index.php?curid=41839187",
   "html": "<p>A svg/bitmap representation of a Samoyed dog from a photo I\ntook myself.\n</p>\n<p>I would like to use this in a creation of the future.\n</p>"
  },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75",
+  "img:png8 lossless"
+ ],
  "wiki": {
   "DateTime": "2014-02-04 15:05:19",
   "Credit": "<p>Inkscape from a picture i took myself at home.<br><b>Previously published:</b> This image has never been in a publication\n</p>",

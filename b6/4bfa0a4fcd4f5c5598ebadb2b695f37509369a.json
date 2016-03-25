@@ -9,6 +9,7 @@
   "concrete",
   "grill",
   "line",
-  "wall"
+  "wall",
+  "img:png8 lossless"
  ]
 }

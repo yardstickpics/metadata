@@ -12,6 +12,8 @@
  },
  "tags": [
   "logo images that should be in svg format",
-  "music images that should be in svg format"
+  "music images that should be in svg format",
+  "img:png8 better than jpeg90",
+  "img:png8 lossless"
  ]
 }

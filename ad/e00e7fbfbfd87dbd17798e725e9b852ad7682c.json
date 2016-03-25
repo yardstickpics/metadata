@@ -11,6 +11,8 @@
   "html": "<p>diagram made using an artist's impression of the future of Heathrow airport as the source.\n</p>"
  },
  "tags": [
-  "diagram images that should be in svg format"
+  "diagram images that should be in svg format",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
  ]
 }

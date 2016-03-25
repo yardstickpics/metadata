@@ -29,6 +29,7 @@
   "telephoto",
   "viewfinder",
   "zeiss",
-  "zoom"
+  "zoom",
+  "img:png8 lossless"
  ]
 }

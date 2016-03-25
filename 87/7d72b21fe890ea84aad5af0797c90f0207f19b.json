@@ -12,7 +12,9 @@
  },
  "tags": [
   "files from freely licensed external sources",
-  "openstreetmap maps"
+  "openstreetmap maps",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
  ],
  "wiki": {
   "DateTime": "2013-04-30 12:45:37",

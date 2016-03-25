@@ -11,7 +11,9 @@
   "html": "<ul><li>Fig. 1:* A ribbon diagram of a rhomboid crystal structure <a href=\"//en.wikipedia.org/wiki/E._coli\" title=\"E. coli\" class=\"mw-redirect\">E. coli</a> rhomboid, GlpG, side view and view from the <a href=\"//en.wikipedia.org/wiki/Periplasm\" title=\"Periplasm\">periplasm</a>. Transmembrane helices 4 and 6 harbouring the active site residues are shown in light blue. Transmembrane helices 2 and 5 that form the interface for substrate binding are in yellow. The red arrow shows the path of substrate access.</li></ul>"
  },
  "tags": [
-  "wikipedia files with unknown source"
+  "wikipedia files with unknown source",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
  ],
  "wiki": {
   "DateTime": "2015-05-19 16:21:49",

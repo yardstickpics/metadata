@@ -22,6 +22,7 @@
   "pipe",
   "tap",
   "up",
-  "wire"
+  "wire",
+  "img:png8 lossless"
  ]
 }

@@ -28,6 +28,7 @@
   "texture",
   "urban",
   "water",
-  "weapon"
+  "weapon",
+  "img:png8 lossless"
  ]
 }

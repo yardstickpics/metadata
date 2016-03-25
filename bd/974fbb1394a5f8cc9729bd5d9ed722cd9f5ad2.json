@@ -10,6 +10,11 @@
   "url": "https://en.wikipedia.org/w/index.php?curid=36573778",
   "html": "<p>A loglog plot of the relative error of the paradigmatic calculation of pi by Monte Carlo integration. Two curves, the error and the scaling are shown.\n</p>"
  },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75",
+  "img:png8 lossless"
+ ],
  "wiki": {
   "DateTime": "2012-07-29 08:12:21",
   "Credit": "<p>python and xmgrace\n</p>",

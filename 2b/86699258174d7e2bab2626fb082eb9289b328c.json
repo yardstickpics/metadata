@@ -14,6 +14,7 @@
   "ivy",
   "network",
   "plant",
-  "wall"
+  "wall",
+  "img:png8 lossless"
  ]
 }

@@ -11,6 +11,8 @@
   "html": "<p>A map showing the entirety of the <a href=\"//en.wikipedia.org/wiki/Tasmanian_Government_Railways\" title=\"Tasmanian Government Railways\">Tasmanian Government Railways</a> system, including closed lines, branch lines and major stations.\n</p>\n<p>It is not fully complete (i.e dates for line closures, etc.) however it will be completed once sources have been found for this other information.\n</p>"
  },
  "tags": [
-  "files from freely licensed external sources"
+  "files from freely licensed external sources",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
  ]
 }

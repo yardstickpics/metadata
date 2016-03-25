@@ -32,6 +32,7 @@
   "urban",
   "vehicle",
   "water",
-  "window"
+  "window",
+  "img:png8 lossless"
  ]
 }

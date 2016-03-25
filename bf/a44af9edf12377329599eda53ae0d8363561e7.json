@@ -9,5 +9,10 @@
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=15115901",
   "html": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.ebi.ac.uk/miriam/\">http://www.ebi.ac.uk/miriam/</a>\n<p>Example of an entity stored in MIRIAM Resources: enzyme nomenclature.\n</p>"
- }
+ },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75",
+  "img:png8 lossless"
+ ]
 }

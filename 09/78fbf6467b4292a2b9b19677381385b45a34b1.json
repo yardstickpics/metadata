@@ -14,6 +14,7 @@
   "indoor",
   "line",
   "slant",
-  "window"
+  "window",
+  "img:png8 lossless"
  ]
 }

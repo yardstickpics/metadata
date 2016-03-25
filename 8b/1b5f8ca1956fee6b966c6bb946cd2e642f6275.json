@@ -9,5 +9,8 @@
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=27172904",
   "html": "<p>Dot plot of the HglK protein (UniProt:P73963) showing its <a href=\"//en.wikipedia.org/wiki/Pentapeptide_repeat\" title=\"Pentapeptide repeat\">Pentapeptide repeat</a> structure. I created this image using the dotter software by Erik Sonnhammer, manipulating the image in Adobe Illustrator.\n</p>"
- }
+ },
+ "tags": [
+  "img:png8 lossless"
+ ]
 }

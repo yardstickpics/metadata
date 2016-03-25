@@ -11,7 +11,10 @@
   "html": "<p>Timetable of Oxford entrance examinations 1973\n</p>"
  },
  "tags": [
-  "files requiring attribution"
+  "files requiring attribution",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75",
+  "img:png8 lossless"
  ],
  "wiki": {
   "DateTime": "2013-07-13 00:04:25",

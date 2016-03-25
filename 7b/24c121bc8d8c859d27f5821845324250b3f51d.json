@@ -10,6 +10,10 @@
   "url": "https://en.wikipedia.org/w/index.php?curid=25449240",
   "html": "<p>a free map from www.openstreetmap.org\n</p>"
  },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
+ ],
  "wiki": {
   "DateTime": "2009-12-16 00:09:13",
   "Credit": "<p>Open Street Map\n</p>",

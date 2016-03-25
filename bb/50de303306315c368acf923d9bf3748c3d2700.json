@@ -8,5 +8,8 @@
  "name": "Screenshot of Debian (Release 7.1, \"Wheezy\") running the GNOME desktop environment, Firefox, Tor, and VLC Player",
  "desc": {
   "text": "Description\t\r\nThis is a screenshot of Debian Linux (version 7.1, \"Wheezy\") with the GNOME desktop environment, Firefox, Tor, and VLC media player running.\r\nSource\t\r\nScreenshot\r\nDate\t\r\n2013-07-26\r\nAuthor\t\r\nMesoderm\r\n\r\nhttps://en.wikipedia.org/wiki/File:Screenshot_of_Debian_(Release_7.1,_\"Wheezy\")_running_the_GNOME_desktop_environment,_Firefox,_Tor,_and_VLC_Player.jpg"
- }
+ },
+ "tags": [
+  "img:png8 better than jpeg75"
+ ]
 }

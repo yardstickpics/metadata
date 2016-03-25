@@ -11,7 +11,8 @@
   "html": "<p>Map of <a href=\"//en.wikipedia.org/wiki/Pune_Cantonment\" title=\"Pune Cantonment\" class=\"mw-redirect\">Pune Cantonment</a> and surrounding areas\n</p>"
  },
  "tags": [
-  "openstreetmap maps"
+  "openstreetmap maps",
+  "img:png8 better than jpeg90"
  ],
  "wiki": {
   "DateTime": "2010-04-10 12:05:54",

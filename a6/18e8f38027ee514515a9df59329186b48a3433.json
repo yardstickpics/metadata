@@ -11,7 +11,8 @@
   "html": "<p>This map was created from <a href=\"//en.wikipedia.org/wiki/OpenStreetMap\" title=\"OpenStreetMap\">OpenStreetMap</a> project data, collected by the community. <small>This map may be incomplete, and may contain errors. Don't rely solely on it for navigation.</small>\n</p>"
  },
  "tags": [
-  "openstreetmap maps"
+  "openstreetmap maps",
+  "img:png8 better than jpeg90"
  ],
  "wiki": {
   "DateTime": "2010-04-13 11:41:13",

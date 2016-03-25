@@ -10,7 +10,9 @@
   "url": "https://en.wikipedia.org/w/index.php?curid=25474876"
  },
  "tags": [
-  "map images that should be in svg format"
+  "map images that should be in svg format",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
  ],
  "wiki": {
   "DateTime": "2009-12-18 03:36:25",

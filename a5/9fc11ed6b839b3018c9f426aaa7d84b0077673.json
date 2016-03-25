@@ -9,5 +9,8 @@
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=3978261",
   "html": "<p>From top left: <a href=\"//en.wikipedia.org/wiki/Diamond\" title=\"Diamond\">Diamond</a>, <a href=\"//en.wikipedia.org/wiki/Buckminsterfullerene\" title=\"Buckminsterfullerene\">Buckminsterfullerene</a> (C60), <a href=\"//en.wikipedia.org/wiki/Graphite\" title=\"Graphite\">Graphite</a>, <a href=\"//en.wikipedia.org/wiki/C540\" title=\"C540\" class=\"mw-redirect\">C540</a>, <a href=\"//en.wikipedia.org/wiki/Fullerene\" title=\"Fullerene\">Fullerene</a> (C70), single walled <a href=\"//en.wikipedia.org/wiki/Carbon_nanotube\" title=\"Carbon nanotube\">carbon nanotube</a>.\n</p>\n<p><br>\nImage created by Michael Ströck (mstroeck) on February 6, 2006. Released under the GFDL.\n</p>"
- }
+ },
+ "tags": [
+  "img:png8 lossless"
+ ]
 }

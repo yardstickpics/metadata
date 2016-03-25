@@ -8,5 +8,9 @@
  "name": "Photomultiplier schema en",
  "desc": {
   "text": "English: Scheme of a Photomultiplier Tube (PMT) in English\r\nDeutsch: Englische Übersetzung von File:Photomultiplier schema de.png\r\nDate\t2007-05, Translation 2014-12\r\nSource\tFile:Photomultiplier schema de.png (German Version)\r\nAuthor\tde:Benutzer:Jkrieger, translation by Dietzel65"
- }
+ },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
+ ]
 }

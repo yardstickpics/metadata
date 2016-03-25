@@ -10,6 +10,10 @@
   "url": "https://en.wikipedia.org/w/index.php?curid=45693428",
   "html": "<p>Shows the <a href=\"//en.wikipedia.org/wiki/Tcsh\" title=\"Tcsh\">tcsh</a> and <a href=\"//en.wikipedia.org/wiki/Bourne_shell\" title=\"Bourne shell\">sh</a> Unix shells running side-by-side on a Mac OSX desktop.  This image is my own work, created by me on my personal MacBook and cropped to eliminate Apple's proprietary UI elements at the top and bottom of the screen in response to objections to the original full image discussed at <a href=\"//en.wikipedia.org/wiki/File_talk:TcshAndShScreenCapture.png\" title=\"File talk:TcshAndShScreenCapture.png\">File talk:TcshAndShScreenCapture.png</a>.\n</p>"
  },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
+ ],
  "wiki": {
   "DateTime": "2015-03-17 03:56:55",
   "Credit": "<p>Own work\n</p>",

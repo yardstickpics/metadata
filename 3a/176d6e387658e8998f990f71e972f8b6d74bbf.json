@@ -30,6 +30,7 @@
   "transportation",
   "tunnel",
   "underground",
-  "urban"
+  "urban",
+  "img:png8 lossless"
  ]
 }

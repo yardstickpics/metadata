@@ -34,6 +34,7 @@
   "vehicle",
   "wall",
   "wheel",
-  "window"
+  "window",
+  "img:png8 lossless"
  ]
 }

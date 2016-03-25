@@ -34,6 +34,7 @@
   "transport",
   "urban",
   "vehicle",
-  "winter"
+  "winter",
+  "img:png8 lossless"
  ]
 }

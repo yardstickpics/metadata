@@ -33,6 +33,7 @@
   "urban",
   "waiting",
   "walkway",
-  "window"
+  "window",
+  "img:png8 lossless"
  ]
 }

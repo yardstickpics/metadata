@@ -11,6 +11,7 @@
   "building",
   "ceiling",
   "pattern",
-  "wall"
+  "wall",
+  "img:png8 lossless"
  ]
 }

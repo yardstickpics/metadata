@@ -8,5 +8,8 @@
  "name": "weather radar",
  "desc": {
   "text": "https://xkcd.com/831/\r\nhttp://creativecommons.org/licenses/by-nc/2.5/"
- }
+ },
+ "tags": [
+  "img:png8 better than jpeg90"
+ ]
 }

@@ -11,7 +11,8 @@
   "html": "<p>The <a href=\"//en.wikipedia.org/wiki/Memorial,_Houston\" title=\"Memorial, Houston\">Memorial</a> area of Houston (shaded in dark orange).\n</p>"
  },
  "tags": [
-  "openstreetmap maps"
+  "openstreetmap maps",
+  "img:png8 better than jpeg90"
  ],
  "wiki": {
   "DateTime": "2009-03-13 22:43:52",

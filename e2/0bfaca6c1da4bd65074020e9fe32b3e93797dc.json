@@ -11,6 +11,8 @@
   "html": "<p>Logo of Two Roads Books, UK.\n</p>"
  },
  "tags": [
-  "fair use images that should be in svg format"
+  "fair use images that should be in svg format",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
  ]
 }

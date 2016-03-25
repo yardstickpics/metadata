@@ -11,7 +11,8 @@
   "html": "<p>A map of Buenos Aires, Argentina.\n</p>"
  },
  "tags": [
-  "openstreetmap maps"
+  "openstreetmap maps",
+  "img:png8 better than jpeg90"
  ],
  "wiki": {
   "DateTime": "2010-10-31 19:52:37",

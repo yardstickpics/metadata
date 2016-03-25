@@ -27,6 +27,7 @@
   "square",
   "texture",
   "wall",
-  "wallpaper"
+  "wallpaper",
+  "img:png8 lossless"
  ]
 }

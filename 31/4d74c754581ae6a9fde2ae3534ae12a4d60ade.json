@@ -10,6 +10,8 @@
   "url": "https://en.wikipedia.org/w/index.php?curid=4036238"
  },
  "tags": [
-  "diagram images that should be in svg format"
+  "diagram images that should be in svg format",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
  ]
 }

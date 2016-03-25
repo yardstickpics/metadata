@@ -9,5 +9,9 @@
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=22106746",
   "html": "<p>Secondary structure of E. coli tmRNA. Shown are the 5' and 3' ends of the 363-nucleotide RNA chain numbered in increments of ten. Short lines indicate Watson-Crick pairings (G-C and A-U); dots are G-U pairings. Prominent are the tRNA-like domain (TLD), the messenger RNA-like region (MLR), and the four pseudoknots (pk1 to pk4). The MLR encodes the tag peptide between resume and stop codons. RNA helices (numbered one to 12) and their sections (letters) are gray.\n</p>"
- }
+ },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
+ ]
 }

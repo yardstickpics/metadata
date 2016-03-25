@@ -8,5 +8,9 @@
  "name": "Julia set spiral",
  "desc": {
   "text": "part of a julia set a=-0.8 b=-0.158\r\nDate\t4 December 2006 (original upload date)\r\nSource\tNo machine-readable source provided. Own work assumed (based on copyright claims).\r\nAuthor\tNo machine-readable author provided. Yami89 assumed (based on copyright claims).\r\n\r\nhttps://commons.wikimedia.org/wiki/File:Julia_set_spiral.png"
- }
+ },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 lossless"
+ ]
 }

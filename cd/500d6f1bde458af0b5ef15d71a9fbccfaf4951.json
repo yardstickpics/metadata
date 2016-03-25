@@ -29,6 +29,7 @@
   "vehicle",
   "war",
   "water",
-  "watercraft"
+  "watercraft",
+  "img:png8 lossless"
  ]
 }

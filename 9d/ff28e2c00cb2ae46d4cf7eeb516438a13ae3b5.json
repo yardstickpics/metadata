@@ -12,6 +12,7 @@
   "grill",
   "line",
   "metal",
-  "pattern"
+  "pattern",
+  "img:png8 lossless"
  ]
 }

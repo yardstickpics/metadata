@@ -10,6 +10,9 @@
   "url": "https://en.wikipedia.org/w/index.php?curid=38630167",
   "html": "<p>Active site of enzyme GAR transformylase with folate based inhibitor 5-deaza-5,6,7,8-tetrahydrofolate (5dTHF). The α-amino group of GAR (Pink) is located in a position which would attack a N10-formate group on the folate based inhibitor (yellow). Asn 106, His 108, and Asp 144 are shown in green. PDB 1CDE\n</p>"
  },
+ "tags": [
+  "img:png8 better than jpeg90"
+ ],
  "wiki": {
   "DateTime": "2013-02-24 22:13:41",
   "Credit": "<p>Pymol\n</p>",

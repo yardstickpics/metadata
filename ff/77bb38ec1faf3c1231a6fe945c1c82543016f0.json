@@ -21,6 +21,7 @@
   "street",
   "transport",
   "urban",
-  "vehicle"
+  "vehicle",
+  "img:png8 lossless"
  ]
 }

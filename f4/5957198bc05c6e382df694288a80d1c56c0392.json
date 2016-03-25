@@ -32,6 +32,7 @@
   "vehicle",
   "water",
   "watercraft",
-  "wave"
+  "wave",
+  "img:png8 lossless"
  ]
 }

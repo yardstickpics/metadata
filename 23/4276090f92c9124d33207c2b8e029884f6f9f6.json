@@ -10,6 +10,10 @@
   "url": "https://en.wikipedia.org/w/index.php?curid=7362563",
   "html": "<p>I, <a href=\"//en.wikipedia.org/wiki/User:Dpryan\" title=\"User:Dpryan\">User:dpryan</a> (Devon Ryan), created this image from the crystal structure (1SU4.pdb). The original source publication for the crystal structure is:\nToyoshima, C., Nakasako, M., Nomura, H., Ogawa, H. Crystal structure of the calcium pump of sarcoplasmic reticulum at 2.6 A resolution. Nature v405 pp.647-655 , 2000\nThe residues in purple are FHM2 mutations (I left out the frameshifts and multiple amino acid deletions). It's actually a Calcium-ATPase, but it's still pretty close to ATP1A2.\n</p>\n<p>I used UCSF Chimera to produce this image. As of October 2006, the only mutations missing are 935K_940SdelinsI, S966LfsX998, and X1021RextX28.\n</p>"
  },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
+ ],
  "wiki": {
   "DateTime": "2006-10-09 06:28:53",
   "Credit": "<p>Own work\n</p>",

@@ -9,5 +9,10 @@
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=29378737",
   "html": "<p>Page 4, columns D-F of issue 39213 of <i>The Times</i>\n</p>"
- }
+ },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75",
+  "img:png8 lossless"
+ ]
 }

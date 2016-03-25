@@ -11,7 +11,9 @@
   "html": "<p>This image depicts the <a href=\"//en.wikipedia.org/wiki/English_Wikipedia\" title=\"English Wikipedia\">English Wikipedia</a> as displayed using Microsoft Mobile's Edge browser.\n</p>"
  },
  "tags": [
-  "screenshots of wikipedia"
+  "screenshots of wikipedia",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
  ],
  "wiki": {
   "DateTime": "2015-10-28 11:35:33",

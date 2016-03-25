@@ -8,5 +8,8 @@
  "name": "Synthetic Vision",
  "desc": {
   "text": "An image of Honeywell's synthetic view for pilots.\r\n\r\nAuthor Honeywell https://en.wikipedia.org/wiki/Honeywell"
- }
+ },
+ "tags": [
+  "img:png8 better than jpeg90"
+ ]
 }

@@ -10,6 +10,10 @@
   "url": "https://en.wikipedia.org/w/index.php?curid=43779472",
   "html": "<p>The CCDS data set screenshot showing the report for Itm2a protein (CCDS 30349).\n</p>"
  },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
+ ],
  "wiki": {
   "DateTime": "2014-09-09 10:43:11",
   "Credit": "<p>I searched the Itm2a gene on the CCDS database. And the figure is the result of Itm2a CCDS report.\n</p>",
