@@ -2,7 +2,7 @@
 
 This is a list of image metadata for the test suite.
 
-The files follow naming pattern `XX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.json` where Xs are lowercase hex digits of SHA-1 of the image file being described (the first two digits are used for subdirectory name).
+The files follow naming pattern `XX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.json` where `X`s are lowercase hex digits of SHA-1 of the image file being described. The first two digits are used for subdirectory name.
 
 ## Schema
 
@@ -19,7 +19,7 @@ The JSON contains fields:
 * `url` — URL where the image has been downloaded from.
 * `urls` — Array of alternative locations where this image may be downloaded from.
 * `from` — Identifier/name of source where this image was obtained from (see `sources.json`)
-* `tags` — Array of arbitrary tags that describe content of this image. Tags with `:` have a special purpose.
+* `tags` — Array of arbitrary tags that describe content of this image. Tags with `:` are reserved for special purposes.
 * `desc` — Object with keys for image description (including attribution) in one or more formats:
     * `text` — Plain text (with newlines)
     * `html` — HTML-formatted
@@ -28,4 +28,4 @@ The JSON contains fields:
 
 ## Downloading image files
 
-https://yardstick.pictures/ provides bulk downloads. Please use the bulk downloads instead of hitting individual image URLs.
+[Yardstick.pictures website](https://yardstick.pictures/) provides bulk downloads. Please use the bulk downloads instead of hitting individual image URLs.
