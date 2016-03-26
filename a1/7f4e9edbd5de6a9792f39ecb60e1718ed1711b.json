@@ -8,5 +8,8 @@
  "name": "Wikiedit silver",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=11509539"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

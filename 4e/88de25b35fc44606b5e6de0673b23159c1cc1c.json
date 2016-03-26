@@ -9,5 +9,8 @@
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=15396831",
   "html": "Chicago, IL\n<p>praat spectrogram with pitch track and ToBI labels\n</p>"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

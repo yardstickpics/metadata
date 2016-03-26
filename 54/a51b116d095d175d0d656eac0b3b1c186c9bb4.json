@@ -8,5 +8,8 @@
  "name": "Lamp2",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=1968820"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

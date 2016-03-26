@@ -8,5 +8,8 @@
  "name": "Mendenhall Glacier",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=13006223"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

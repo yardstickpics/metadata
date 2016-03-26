@@ -8,5 +8,8 @@
  "name": "WikiWelcomeLei",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=4471672"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

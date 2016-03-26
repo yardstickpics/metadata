@@ -8,5 +8,8 @@
  "name": "Modron-Dungeons+Dragons",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=10035486"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

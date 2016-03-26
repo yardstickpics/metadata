@@ -11,6 +11,7 @@
   "html": "<p>This is an image of the logo Nintendo used from 1970 to 1972\n</p>"
  },
  "tags": [
+  "img:alpha",
   "img:png8 lossless"
  ]
 }

@@ -8,5 +8,8 @@
  "name": "John Henry Knight Steam vehicle, circa 1868",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=25211076"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

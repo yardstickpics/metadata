@@ -8,5 +8,8 @@
  "name": "FRDF Beret Insignia",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=14798505"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

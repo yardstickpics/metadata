@@ -8,5 +8,8 @@
  "name": "Olmec Heartland 1",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=3887680"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

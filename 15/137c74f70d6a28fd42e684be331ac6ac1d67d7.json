@@ -11,6 +11,8 @@
   "html": "<p>Logo of <a href=\"//en.wikipedia.org/wiki/WHOU-FM\" title=\"WHOU-FM\">WHOU-FM</a>\n</p>"
  },
  "tags": [
+  "img:alpha",
+  "img:16-bit",
   "img:png8 better than jpeg90"
  ]
 }

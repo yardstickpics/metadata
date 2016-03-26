@@ -11,6 +11,7 @@
   "html": "<p>Two screenshots stiched together of main page errors, for <a class=\"external text\" href=\"https://bugzilla.wikimedia.org/show_bug.cgi?id=30530\">bug 30530</a>. Deletion attempt on left, move attempt on right.\n</p>"
  },
  "tags": [
+  "img:alpha",
   "screenshots of wikipedia"
  ],
  "wiki": {

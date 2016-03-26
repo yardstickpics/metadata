@@ -8,5 +8,8 @@
  "name": "HD 149026 b-v4",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=11895068"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

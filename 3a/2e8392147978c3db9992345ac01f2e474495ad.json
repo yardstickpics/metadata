@@ -11,6 +11,7 @@
   "html": "<p>The data is under corrected as the lines are not horizontal, which means the chosen NMO velocity is too large.\n</p>"
  },
  "tags": [
+  "img:alpha",
   "img:color profile"
  ],
  "wiki": {

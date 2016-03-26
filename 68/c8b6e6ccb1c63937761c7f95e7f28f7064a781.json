@@ -8,5 +8,8 @@
  "name": "Särkänniemi - fish",
  "desc": {
   "text": " A fish in Särkänniemi Aquarium, Tampere.\r\nSuomi: Kala Särkänniemen Akvaariossa Tampereella.\r\nDate\t\r\nSource\tOwn work\r\nAuthor\tTiia Monto\r\n\r\nhttps://commons.wikimedia.org/wiki/File:Särkänniemi_-_fish.png"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

@@ -8,5 +8,8 @@
  "name": "Sonic Screwdriver Toys",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=25347833"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

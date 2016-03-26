@@ -8,5 +8,8 @@
  "name": "San Lorenzo site",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=3827307"
- }
+ },
+ "tags": [
+  "img:alpha"
+ ]
 }

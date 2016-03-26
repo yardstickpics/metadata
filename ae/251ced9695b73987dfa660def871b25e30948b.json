@@ -11,6 +11,7 @@
   "html": "<p>A map depicting the locations of all <a href=\"//en.wikipedia.org/wiki/Wikipedia:GA\" title=\"Wikipedia:GA\" class=\"mw-redirect\">WP:GAs</a> related to <a href=\"//en.wikipedia.org/wiki/Wikipedia:NYSR\" title=\"Wikipedia:NYSR\" class=\"mw-redirect\">WP:NYSR</a>. Orange and Rockland Counties are deliberately omitted.\n</p>"
  },
  "tags": [
+  "img:alpha",
   "img:png8 better than jpeg90",
   "img:png8 better than jpeg75"
  ],
