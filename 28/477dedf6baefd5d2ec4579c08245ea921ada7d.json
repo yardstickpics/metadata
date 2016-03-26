@@ -11,6 +11,7 @@
   "html": "<p>Map of CASL and surrounding area taken from OSM\n</p>"
  },
  "tags": [
+  "img:color profile",
   "files from freely licensed external sources",
   "openstreetmap maps",
   "img:png8 better than jpeg90"

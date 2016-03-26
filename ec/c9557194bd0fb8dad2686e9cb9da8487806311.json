@@ -8,5 +8,8 @@
  "name": "Wiki-Pyramid",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=4010671"
- }
+ },
+ "tags": [
+  "img:color profile"
+ ]
 }
