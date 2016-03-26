@@ -11,6 +11,7 @@
   "html": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.ebi.ac.uk/miriam/\">http://www.ebi.ac.uk/miriam/</a>\n<p>Example of an entity stored in MIRIAM Resources: enzyme nomenclature.\n</p>"
  },
  "tags": [
+  "img:gray",
   "img:png24 better than jpeg75",
   "img:png24 better than jpeg90",
   "img:png8 better than jpeg90",
