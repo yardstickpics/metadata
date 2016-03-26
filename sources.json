@@ -5,7 +5,7 @@
             "desc": {
                 "text": "Snapshot of the site on 2016-03-01. Sources for FindA.Photo:\nJay Mantri / @JayMantri\nLife Of Pix\nMMT / @mmtstock\nPicography / @picography\nSkitterphoto / @Skitterphoto\nand Unsplash / @unsplash.",
                 "url": "http://finda.photo"
-            },
+            }
         },
         "wiki": {
             "title": "Wikimedia",
@@ -22,7 +22,7 @@
             }
         },
         "bigbuckbunny": {
-            "title": "bigbuckbunny",
+            "title": "Big Buck Bunny",
             "desc": {
                 "text": "Random sample of 1080p frames from Big Buck Bunny by Blender Foundation.",
                 "url": "https://peach.blender.org/"
