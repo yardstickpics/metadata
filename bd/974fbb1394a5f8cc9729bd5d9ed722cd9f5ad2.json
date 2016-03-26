@@ -11,6 +11,8 @@
   "html": "<p>A loglog plot of the relative error of the paradigmatic calculation of pi by Monte Carlo integration. Two curves, the error and the scaling are shown.\n</p>"
  },
  "tags": [
+  "img:png24 better than jpeg75",
+  "img:png24 better than jpeg90",
   "img:png8 better than jpeg90",
   "img:png8 better than jpeg75",
   "img:png8 lossless"

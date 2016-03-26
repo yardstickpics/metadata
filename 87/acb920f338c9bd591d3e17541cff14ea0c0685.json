@@ -11,6 +11,8 @@
   "html": "<p>Map of Kentucky cities and counties that have sexual orientation and/or gender identity anti–employment discrimination ordinances\n</p>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #800080; color:black; font-size:100%; text-align:center;\"> </span> Sexual orientation and gender identity with anti–employment discrimination ordinance</div>\n<div class=\"legend\">\n<span class=\"legend-color\" style=\"display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #ff00ff; color:black; font-size:100%; text-align:center;\"> </span> Sexual orientation and gender identity solely in public employment</div>"
  },
  "tags": [
+  "img:png24 better than jpeg75",
+  "img:png24 better than jpeg90",
   "img:png8 better than jpeg90",
   "img:png8 better than jpeg75",
   "img:png8 lossless"

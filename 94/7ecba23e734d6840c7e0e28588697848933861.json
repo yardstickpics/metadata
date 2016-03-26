@@ -11,6 +11,7 @@
   "html": "<p>Mexico City Metro (Sistema de Transporte Colectivo) System Map. Based on actual system routes according to STC. Locations are accurate. All twelve lines of the system have been included, and station names are accurate as of 1 March 2013. English captions version. Station names and any logos are property of Sistema de Transporte Colectivo. No copyright infringement intended.\n</p>"
  },
  "tags": [
+  "img:png24 better than jpeg90",
   "img:png8 better than jpeg90",
   "img:png8 better than jpeg75"
  ],
