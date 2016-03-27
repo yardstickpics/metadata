@@ -55,6 +55,12 @@
                 "text": "Images were made available initially in the JPEG XR (ISO/IEC 29199-2) standardization activity.\n\nThe Content is provided to you “AS IS” without warranty of any kind and Microsoft disclaims all warranties, whether express, implied or statutory including but not limited to, the implied warranties of merchantability and fitness for a particular purpose, and warranties of title and noninfringement.",
                 "url": "https://github.com/jhcloos/test_images/tree/master/hdcompare"
             }
+        },
+        "honolulu": {
+            "title": "Olivier Pfeiffer",
+            "desc": {
+                "url": "https://github.com/jhcloos/test_images/tree/master/honolulu"
+            }
         }
     }
 }
