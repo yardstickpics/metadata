@@ -48,6 +48,13 @@
                 "text": "v4 by Nicola Asuni. We only include a subset: photographic images at 300px and 1200px, and a small subset of test patterns.",
                 "url": "http://testimages.tecnick.com"
             }
+        },
+        "hdcompare": {
+            "title": "Microsoft Reference Photo Library Content",
+            "desc": {
+                "text": "Images were made available initially in the JPEG XR (ISO/IEC 29199-2) standardization activity.\n\nThe Content is provided to you “AS IS” without warranty of any kind and Microsoft disclaims all warranties, whether express, implied or statutory including but not limited to, the implied warranties of merchantability and fitness for a particular purpose, and warranties of title and noninfringement.",
+                "url": "https://github.com/jhcloos/test_images/tree/master/hdcompare"
+            }
         }
     }
 }
