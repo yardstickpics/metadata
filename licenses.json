@@ -15,6 +15,7 @@
     "cc-by-nc-4.0": {"name":"CC BY-NC: Creative Commons Attribution-NonCommercial (4.0)", "url":"https://creativecommons.org/licenses/by-nc/4.0/"},
     "cc-by-nc-sa-3.0": {"name":"CC BY-NC-SA: Creative Commons Attribution-NonCommercial-ShareAlike (3.0)", "url":"https://creativecommons.org/licenses/by-nc-sa/3.0/"},
     "cc-by-nc-sa-4.0": {"name":"CC BY-NC-SA: Creative Commons Attribution-NonCommercial-ShareAlike (4.0)", "url":"https://creativecommons.org/licenses/by-nc-sa/4.0/"},
+    "ucid": {"name":"UCID v2", "url":"http://homepages.lboro.ac.uk/~cogs/datasets/ucid/ucid.html"},
     "microsoft": {"name":"© Microsoft Corporation", "url":"https://github.com/jhcloos/test_images/blob/master/hdcompare/Microsoft_Reference_Photo_Library_README.pdf"},
     "kodak": {"name":"Kodak Photo CD attribution", "url":"http://r0k.us/graphics/kodak/PhotoCD_credits.txt"}
 }

@@ -56,6 +56,13 @@
                 "url": "https://github.com/jhcloos/test_images/tree/master/hdcompare"
             }
         },
+        "ucid": {
+            "title": "Uncompressed Colour Image Database",
+            "desc": {
+                "text": "G. Schaefer and M. Stich (2004) \"UCID - An Uncompressed Colour Image Database\", Proc. SPIE, Storage and Retrieval Methods and Applications for Multimedia 2004, pp. 472-480, San Jose, USA.",
+                "url": "http://homepages.lboro.ac.uk/~cogs/datasets/ucid/ucid.html"
+            }
+        },
         "honolulu": {
             "title": "Olivier Pfeiffer",
             "desc": {
