@@ -1,0 +1,28 @@
+{
+ "sha1": "dd73db52f072bfc7a70816d400928024b4c05875",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b20a2bf0043ecd0b4707e6484e9fe46ae3d11cb811499cf7c47e.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b20a2bf0043ecd0b4707e6484e9fe46ae3d11cb811499cf7c47e_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bcb9b2c42465e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115100,
+ "name": "laptop mockup business office",
+ "desc": {
+  "text": "uploaded by parthshah000",
+  "url": "https://pixabay.com/en/laptop-mockup-business-office-1035345/"
+ },
+ "tags": [
+  "laptop",
+  "mockup",
+  "business",
+  "customer",
+  "customers",
+  "designer",
+  "iphone",
+  "macbook",
+  "tech"
+ ]
+}

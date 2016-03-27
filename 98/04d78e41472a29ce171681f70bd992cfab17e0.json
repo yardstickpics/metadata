@@ -1,0 +1,23 @@
+{
+ "sha1": "9804d78e41472a29ce171681f70bd992cfab17e0",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ed32b50a2ff21c3e81584705e2444f91fe76e6d010b1194990f6c7.jpg",
+ "urls": [
+  "https://pixabay.com/get/ed32b50a2ff21c3e81584705e2444f91fe76e6d010b1194990f6c7_1920.jpg",
+  "https://pixabay.com/goto/bb4e3ccc9b284050/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117312,
+ "name": "ed32b50a2ff21c3e81584705e2444f91fe76e6d010b1194990f6c7",
+ "desc": {
+  "text": "uploaded by Hans",
+  "url": "https://pixabay.com/en/windr%C3%A4der-wind-energy-wind-power-474576/"
+ },
+ "tags": [
+  "windräder",
+  "wind energy",
+  "wind power",
+  "generated"
+ ]
+}

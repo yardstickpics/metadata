@@ -1,0 +1,23 @@
+{
+ "sha1": "4775af8fb4780981c5358baadf589d286d56cbc3",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e033b20f29f21c3e81584705e2444f91fe76e6d010b1184197f4c1.png",
+ "urls": [
+  "https://pixabay.com/get/e033b20f29f21c3e81584705e2444f91fe76e6d010b1184197f4c1_1920.png",
+  "https://pixabay.com/goto/bb433dcb9e2e4050/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113077,
+ "name": "graph pie chart business finance",
+ "desc": {
+  "text": "uploaded by postman85",
+  "url": "https://pixabay.com/en/graph-pie-chart-business-finance-963016/"
+ },
+ "tags": [
+  "graph",
+  "pie chart",
+  "business",
+  "marketing"
+ ]
+}

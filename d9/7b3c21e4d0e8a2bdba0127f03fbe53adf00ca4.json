@@ -1,0 +1,24 @@
+{
+ "sha1": "d97b3c21e4d0e8a2bdba0127f03fbe53adf00ca4",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e131b30720f11c3e81584705e2444f91fe76e6d010b1194891f4c5.png",
+ "urls": [
+  "https://pixabay.com/get/e131b30720f11c3e81584705e2444f91fe76e6d010b1194891f4c5_1920.png",
+  "https://pixabay.com/goto/bb423fca96274350/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113938,
+ "name": "icons symbols hamburger cola",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/icons-symbols-hamburger-cola-842885/"
+ },
+ "tags": [
+  "icons",
+  "symbols",
+  "hamburger",
+  "button",
+  "logo"
+ ]
+}

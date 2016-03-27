@@ -1,0 +1,25 @@
+{
+ "sha1": "e8cfecd2428c651d5a8d4f5e47dc7ee98245f887",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e136b20f20f11c3e81584705e2444f91fe76e6d010b1184190f4c9.jpg",
+ "urls": [
+  "https://pixabay.com/get/e136b20f20f11c3e81584705e2444f91fe76e6d010b1184190f4c9_1920.jpg",
+  "https://pixabay.com/goto/bb4238cb9e274350/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115092,
+ "name": "thermometer temperature fever flu",
+ "desc": {
+  "text": "uploaded by stevepb",
+  "url": "https://pixabay.com/en/thermometer-temperature-fever-flu-833085/"
+ },
+ "tags": [
+  "thermometer",
+  "temperature",
+  "fever",
+  "tablet",
+  "health",
+  "computer"
+ ]
+}

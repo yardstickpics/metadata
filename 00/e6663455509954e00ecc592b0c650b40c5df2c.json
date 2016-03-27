@@ -1,0 +1,30 @@
+{
+ "sha1": "00e6663455509954e00ecc592b0c650b40c5df2c",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e837b20d21f0053ecd0b4707e6484e9fe46ae3d11cb8114895f3c07e.jpg",
+ "urls": [
+  "https://pixabay.com/get/e837b20d21f0053ecd0b4707e6484e9fe46ae3d11cb8114895f3c07e_1920.jpg",
+  "https://pixabay.com/goto/bb4b39cb9c2642475e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117537,
+ "name": "e837b20d21f0053ecd0b4707e6484e9fe46ae3d11cb8114895f3c07e",
+ "desc": {
+  "text": "uploaded by stevepb",
+  "url": "https://pixabay.com/en/shopping-supermarket-merchandising-1232944/"
+ },
+ "tags": [
+  "shopping",
+  "supermarket",
+  "merchandising",
+  "advertise",
+  "business",
+  "commerce",
+  "commercial",
+  "consumer",
+  "marketing",
+  "product",
+  "food"
+ ]
+}

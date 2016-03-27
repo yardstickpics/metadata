@@ -1,0 +1,24 @@
+{
+ "sha1": "2689ecf65ebafc89f5fc40ab652d6a27f1619ae3",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b70a21fc053ecd0b4707e6484e9fe46ae3d11cb8114895f3c07e.png",
+ "urls": [
+  "https://pixabay.com/get/e834b70a21fc053ecd0b4707e6484e9fe46ae3d11cb8114895f3c07e_1920.png",
+  "https://pixabay.com/goto/bb4b3ace9b264e475e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114618,
+ "name": "advertising badge banner blank",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/advertising-badge-banner-blank-1165984/"
+ },
+ "tags": [
+  "advertising",
+  "badge",
+  "banner",
+  "advertise",
+  "blank"
+ ]
+}

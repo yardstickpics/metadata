@@ -1,0 +1,23 @@
+{
+ "sha1": "d078ba1ca5cbbc0bcd8c66073239b65ccd317b92",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b80b20f6053ecd0b4707e6484e9fe46ae3d11cb8114895f9c170.png",
+ "urls": [
+  "https://pixabay.com/get/e835b80b20f6053ecd0b4707e6484e9fe46ae3d11cb8114895f9c170_1920.png",
+  "https://pixabay.com/goto/bb4b3bc19a2744475e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114425,
+ "name": "supermarket shelf chiller",
+ "desc": {
+  "text": "uploaded by Viscious-Speed",
+  "url": "https://pixabay.com/en/supermarket-shelf-chiller-1094824/"
+ },
+ "tags": [
+  "supermarket shelf",
+  "chiller",
+  "supermarket chiller",
+  "product"
+ ]
+}

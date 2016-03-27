@@ -1,0 +1,22 @@
+{
+ "sha1": "1aeb5e793a6676cfbaed2cd28a5c059c7041e283",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e03db20f29fd1c3e81584705e2444f91fe76e6d010b1184193f7c0.png",
+ "urls": [
+  "https://pixabay.com/get/e03db20f29fd1c3e81584705e2444f91fe76e6d010b1184193f7c0_1920.png",
+  "https://pixabay.com/goto/bb4333cb9e2e4f50/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114056,
+ "name": "signal traffic traffic signal",
+ "desc": {
+  "text": "uploaded by Abdecoral",
+  "url": "https://pixabay.com/en/signal-traffic-traffic-signal-983019/"
+ },
+ "tags": [
+  "signal",
+  "traffic",
+  "traffic signal"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "sha1": "686e2a07ee5d3c26dbc2fa122881dada28b5bc5c",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b40b2df1073ecd0b4707e6484e9fe46ae3d11cb8114895f5c97e.png",
+ "urls": [
+  "https://pixabay.com/get/e834b40b2df1073ecd0b4707e6484e9fe46ae3d11cb8114895f5c97e_1920.png",
+  "https://pixabay.com/goto/bb4b3acd9a2a43455e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113868,
+ "name": "logo abstract team community",
+ "desc": {
+  "text": "uploaded by ArtsyBee",
+  "url": "https://pixabay.com/en/logo-abstract-team-community-1154556/"
+ },
+ "tags": [
+  "logo",
+  "abstract",
+  "team",
+  "icon",
+  "technology",
+  "business",
+  "computer",
+  "industry"
+ ]
+}

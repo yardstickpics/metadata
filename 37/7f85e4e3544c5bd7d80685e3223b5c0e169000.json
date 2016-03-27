@@ -1,0 +1,23 @@
+{
+ "sha1": "377f85e4e3544c5bd7d80685e3223b5c0e169000",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ee35b90e28f61c3e81584705e2444f91fe76e6d010b1194892f7c2.jpg",
+ "urls": [
+  "https://pixabay.com/get/ee35b90e28f61c3e81584705e2444f91fe76e6d010b1194892f7c2_1920.jpg",
+  "https://pixabay.com/goto/bb4d3bc09f2f4450/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117955,
+ "name": "ee35b90e28f61c3e81584705e2444f91fe76e6d010b1194892f7c2",
+ "desc": {
+  "text": "uploaded by Efraimstochter",
+  "url": "https://pixabay.com/en/medic-paramedic-doctor-on-call-708102/"
+ },
+ "tags": [
+  "medic",
+  "paramedic",
+  "doctor on call",
+  "call"
+ ]
+}

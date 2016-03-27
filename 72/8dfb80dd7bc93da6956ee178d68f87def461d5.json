@@ -1,0 +1,22 @@
+{
+ "sha1": "728dfb80dd7bc93da6956ee178d68f87def461d5",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b9082ff3083ecd0b4707e6484e9fe46ae3d11cb8114992f7c079.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b9082ff3083ecd0b4707e6484e9fe46ae3d11cb8114992f7c079_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc09928414a5e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117004,
+ "name": "e835b9082ff3083ecd0b4707e6484e9fe46ae3d11cb8114992f7c079",
+ "desc": {
+  "text": "uploaded by ArtmoGraphicDesigner",
+  "url": "https://pixabay.com/en/turntable-gramophone-music-radio-1087779/"
+ },
+ "tags": [
+  "turntable",
+  "gramophone",
+  "music"
+ ]
+}

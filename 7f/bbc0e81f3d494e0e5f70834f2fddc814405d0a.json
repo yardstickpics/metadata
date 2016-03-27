@@ -1,0 +1,24 @@
+{
+ "sha1": "7fbbc0e81f3d494e0e5f70834f2fddc814405d0a",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef36b50728f11c3e81584705e2444f91fe76e6d010b1184196f1c8.png",
+ "urls": [
+  "https://pixabay.com/get/ef36b50728f11c3e81584705e2444f91fe76e6d010b1184196f1c8_1920.png",
+  "https://pixabay.com/goto/bb4c38cc962f4350/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113743,
+ "name": "news headlines newsletter",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/news-headlines-newsletter-634805/"
+ },
+ "tags": [
+  "news",
+  "headlines",
+  "newsletter",
+  "advertise",
+  "e-mail"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "d177b5943f1a3266cb380780587dea0c2fd6b4be",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b80a21f5043ecd0b4707e6484e9fe46ae3d11cb8114895f4c170.png",
+ "urls": [
+  "https://pixabay.com/get/e834b80a21f5043ecd0b4707e6484e9fe46ae3d11cb8114895f4c170_1920.png",
+  "https://pixabay.com/goto/bb4b3ac19b2647465e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114813,
+ "name": "idea drawing light light bulb",
+ "desc": {
+  "text": "uploaded by ElisaRiva",
+  "url": "https://pixabay.com/en/idea-drawing-light-light-bulb-1195915/"
+ },
+ "tags": [
+  "idea",
+  "drawing",
+  "light",
+  "science"
+ ]
+}

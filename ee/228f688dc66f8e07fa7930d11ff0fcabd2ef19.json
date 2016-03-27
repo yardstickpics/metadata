@@ -1,0 +1,22 @@
+{
+ "sha1": "ee228f688dc66f8e07fa7930d11ff0fcabd2ef19",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b10e2dfd073ecd0b4707e6484e9fe46ae3d11cb8114895f5c879.png",
+ "urls": [
+  "https://pixabay.com/get/e835b10e2dfd073ecd0b4707e6484e9fe46ae3d11cb8114895f5c879_1920.png",
+  "https://pixabay.com/goto/bb4b3bc89f2a4f455e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114630,
+ "name": "icon shopping cart",
+ "desc": {
+  "text": "uploaded by fstraub812",
+  "url": "https://pixabay.com/en/icon-shopping-cart-1001596/"
+ },
+ "tags": [
+  "icon",
+  "shopping cart",
+  "shopping cart icon"
+ ]
+}

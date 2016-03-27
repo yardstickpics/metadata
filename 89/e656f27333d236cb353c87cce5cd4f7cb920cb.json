@@ -1,0 +1,26 @@
+{
+ "sha1": "89e656f27333d236cb353c87cce5cd4f7cb920cb",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b00c2df5043ecd0b4707e6484e9fe46ae3d11cb8114895f3c07e.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b00c2df5043ecd0b4707e6484e9fe46ae3d11cb8114895f3c07e_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc99d2a47465e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115584,
+ "name": "banner header award product sale",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/banner-header-award-product-sale-1013515/"
+ },
+ "tags": [
+  "banner",
+  "header",
+  "award",
+  "advertise",
+  "marketing",
+  "product",
+  "strategy"
+ ]
+}

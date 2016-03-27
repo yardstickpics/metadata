@@ -1,0 +1,24 @@
+{
+ "sha1": "1be44860de4bd113819e06e7db92c24a8259a517",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b00621fc003ecd0b4707e6484e9fe46ae3d11cb811499cf9c27c.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b00621fc003ecd0b4707e6484e9fe46ae3d11cb811499cf9c27c_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc997264e425e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117523,
+ "name": "e835b00621fc003ecd0b4707e6484e9fe46ae3d11cb811499cf9c27c",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/shops-partnership-cooperation-1019981/"
+ },
+ "tags": [
+  "shops",
+  "partnership",
+  "cooperation",
+  "business",
+  "strategy"
+ ]
+}

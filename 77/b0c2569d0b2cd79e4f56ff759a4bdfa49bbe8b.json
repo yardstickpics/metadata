@@ -1,0 +1,24 @@
+{
+ "sha1": "77b0c2569d0b2cd79e4f56ff759a4bdfa49bbe8b",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef30b80e20f01c3e81584705e2444f91fe76e6d010b1194893f0c5.png",
+ "urls": [
+  "https://pixabay.com/get/ef30b80e20f01c3e81584705e2444f91fe76e6d010b1194893f0c5_1920.png",
+  "https://pixabay.com/goto/bb4c3ec19f274250/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113473,
+ "name": "bear brown bear young toon teddy",
+ "desc": {
+  "text": "uploaded by sipa",
+  "url": "https://pixabay.com/en/bear-brown-bear-young-toon-teddy-659184/"
+ },
+ "tags": [
+  "bear",
+  "brown bear",
+  "young",
+  "face",
+  "fur"
+ ]
+}

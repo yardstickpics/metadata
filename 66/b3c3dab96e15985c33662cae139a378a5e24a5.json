@@ -1,0 +1,26 @@
+{
+ "sha1": "66b3c3dab96e15985c33662cae139a378a5e24a5",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b80829f2023ecd0b4707e6484e9fe46ae3d11cb811499cf6c379.png",
+ "urls": [
+  "https://pixabay.com/get/e835b80829f2023ecd0b4707e6484e9fe46ae3d11cb811499cf6c379_1920.png",
+  "https://pixabay.com/goto/bb4b3bc1992e40405e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114513,
+ "name": "stick figure road sign traffic sign",
+ "desc": {
+  "text": "uploaded by Gellinger",
+  "url": "https://pixabay.com/en/stick-figure-road-sign-traffic-sign-1097163/"
+ },
+ "tags": [
+  "stick figure",
+  "road sign",
+  "traffic sign",
+  "funny",
+  "sign",
+  "street sign",
+  "places"
+ ]
+}

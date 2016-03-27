@@ -1,0 +1,25 @@
+{
+ "sha1": "391bb0a7c6cbaacbc07bb61e5ba84372a458d952",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ec3db10d21fc1c3e81584705e2444f91fe76e6d010b1194891f4c1.png",
+ "urls": [
+  "https://pixabay.com/get/ec3db10d21fc1c3e81584705e2444f91fe76e6d010b1194891f4c1_1920.png",
+  "https://pixabay.com/goto/bb4f33c89c264e50/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113797,
+ "name": "support help hand icon smartphone",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/support-help-hand-icon-smartphone-580298/"
+ },
+ "tags": [
+  "support",
+  "help",
+  "hand",
+  "button",
+  "mobile",
+  "text"
+ ]
+}

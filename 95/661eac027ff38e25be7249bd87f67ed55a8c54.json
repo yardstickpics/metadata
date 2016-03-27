@@ -1,0 +1,25 @@
+{
+ "sha1": "95661eac027ff38e25be7249bd87f67ed55a8c54",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e134b00621f51c3e81584705e2444f91fe76e6d010b118419cf2c2.jpg",
+ "urls": [
+  "https://pixabay.com/get/e134b00621f51c3e81584705e2444f91fe76e6d010b118419cf2c2_1920.jpg",
+  "https://pixabay.com/goto/bb423ac997264750/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459118132,
+ "name": "e134b00621f51c3e81584705e2444f91fe76e6d010b118419cf2c2",
+ "desc": {
+  "text": "uploaded by fajarbudi86",
+  "url": "https://pixabay.com/en/computer-money-business-technology-811991/"
+ },
+ "tags": [
+  "computer",
+  "money",
+  "business",
+  "commerce",
+  "dollars",
+  "online"
+ ]
+}

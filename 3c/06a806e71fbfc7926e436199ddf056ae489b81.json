@@ -1,0 +1,23 @@
+{
+ "sha1": "3c06a806e71fbfc7926e436199ddf056ae489b81",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef37b60e2ef51c3e81584705e2444f91fe76e6d010b1184191f6c5.jpg",
+ "urls": [
+  "https://pixabay.com/get/ef37b60e2ef51c3e81584705e2444f91fe76e6d010b1184191f6c5_1920.jpg",
+  "https://pixabay.com/goto/bb4c39cf9f294750/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459118138,
+ "name": "ef37b60e2ef51c3e81584705e2444f91fe76e6d010b1184191f6c5",
+ "desc": {
+  "text": "uploaded by 422737",
+  "url": "https://pixabay.com/en/cards-jass-cards-card-game-strategy-627161/"
+ },
+ "tags": [
+  "cards",
+  "jass cards",
+  "card game",
+  "strategy"
+ ]
+}

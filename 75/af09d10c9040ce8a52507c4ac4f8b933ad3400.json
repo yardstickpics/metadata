@@ -1,0 +1,24 @@
+{
+ "sha1": "75af09d10c9040ce8a52507c4ac4f8b933ad3400",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ec3db30629fc1c3e81584705e2444f91fe76e6d010b1184197f6c8.jpg",
+ "urls": [
+  "https://pixabay.com/get/ec3db30629fc1c3e81584705e2444f91fe76e6d010b1184197f6c8_1920.jpg",
+  "https://pixabay.com/goto/bb4f33ca972e4e50/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117810,
+ "name": "ec3db30629fc1c3e81584705e2444f91fe76e6d010b1184197f6c8",
+ "desc": {
+  "text": "uploaded by PredragKezic",
+  "url": "https://pixabay.com/en/wall-street-financial-new-york-wall-582918/"
+ },
+ "tags": [
+  "wall street",
+  "financial",
+  "new york",
+  "stock",
+  "street sign"
+ ]
+}

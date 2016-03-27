@@ -1,0 +1,28 @@
+{
+ "sha1": "dfa0f6f71070a93f34645797bde4f94851205dd5",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b2082bf2023ecd0b4707e6484e9fe46ae3d11cb811499cf9c27c.jpg",
+ "urls": [
+  "https://pixabay.com/get/e834b2082bf2023ecd0b4707e6484e9fe46ae3d11cb811499cf9c27c_1920.jpg",
+  "https://pixabay.com/goto/bb4b3acb992c40405e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117346,
+ "name": "e834b2082bf2023ecd0b4707e6484e9fe46ae3d11cb811499cf9c27c",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/business-businessman-success-team-1137363/"
+ },
+ "tags": [
+  "business",
+  "businessman",
+  "success",
+  "customer",
+  "customers",
+  "idea",
+  "marketing",
+  "profit",
+  "strategy"
+ ]
+}

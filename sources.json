@@ -1,5 +1,12 @@
 {
     "sources": {
+        "pixabay": {
+            "title": "Pixabay",
+            "desc": {
+                "text": "Snapshot on 2016-03-27. A large sample of most popular images on the site. Includes clip arts, CGI and photos with transparency.",
+                "url": "https://pixabay.com/"
+            }
+        },
         "findaphoto": {
             "title": "FindA.Photo",
             "desc": {

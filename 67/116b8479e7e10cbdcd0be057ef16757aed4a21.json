@@ -1,0 +1,23 @@
+{
+ "sha1": "67116b8479e7e10cbdcd0be057ef16757aed4a21",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e032b1072ff11c3e81584705e2444f91fe76e6d010b1194996f8c9.png",
+ "urls": [
+  "https://pixabay.com/get/e032b1072ff11c3e81584705e2444f91fe76e6d010b1194996f8c9_1920.png",
+  "https://pixabay.com/goto/bb433cc896284350/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114663,
+ "name": "hand sign stop icon finger",
+ "desc": {
+  "text": "uploaded by ArtsyBee",
+  "url": "https://pixabay.com/en/hand-sign-stop-icon-finger-970875/"
+ },
+ "tags": [
+  "hand",
+  "sign",
+  "stop",
+  "flat"
+ ]
+}

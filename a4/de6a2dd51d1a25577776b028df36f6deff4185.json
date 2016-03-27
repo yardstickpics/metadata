@@ -1,0 +1,24 @@
+{
+ "sha1": "a4de6a2dd51d1a25577776b028df36f6deff4185",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e837b20c2ff5003ecd0b4707e6484e9fe46ae3d11cb811499df9c871.jpg",
+ "urls": [
+  "https://pixabay.com/get/e837b20c2ff5003ecd0b4707e6484e9fe46ae3d11cb811499df9c871_1920.jpg",
+  "https://pixabay.com/goto/bb4b39cb9d2847425e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115425,
+ "name": "banner header stamp background",
+ "desc": {
+  "text": "uploaded by bykst",
+  "url": "https://pixabay.com/en/banner-header-stamp-background-1233711/"
+ },
+ "tags": [
+  "banner",
+  "header",
+  "stamp",
+  "background",
+  "logo"
+ ]
+}

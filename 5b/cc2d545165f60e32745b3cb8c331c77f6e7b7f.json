@@ -1,0 +1,24 @@
+{
+ "sha1": "5bcc2d545165f60e32745b3cb8c331c77f6e7b7f",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b70d2ff7003ecd0b4707e6484e9fe46ae3d11cb8114895f1c870.png",
+ "urls": [
+  "https://pixabay.com/get/e835b70d2ff7003ecd0b4707e6484e9fe46ae3d11cb8114895f1c870_1920.png",
+  "https://pixabay.com/goto/bb4b3bce9c2845425e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113143,
+ "name": "packaging design box",
+ "desc": {
+  "text": "uploaded by xicocool",
+  "url": "https://pixabay.com/en/packaging-design-box-1062731/"
+ },
+ "tags": [
+  "packaging",
+  "design",
+  "box",
+  "designer",
+  "product"
+ ]
+}

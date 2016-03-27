@@ -1,0 +1,26 @@
+{
+ "sha1": "9980ea121ccd3cd8c9e06c1131f1be7c6e51656d",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b90d21f4033ecd0b4707e6484e9fe46ae3d11cb8114895f9c378.png",
+ "urls": [
+  "https://pixabay.com/get/e834b90d21f4033ecd0b4707e6484e9fe46ae3d11cb8114895f9c378_1920.png",
+  "https://pixabay.com/goto/bb4b3ac09c2646415e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114676,
+ "name": "shopping buying buy store shop",
+ "desc": {
+  "text": "uploaded by PeteLinforth",
+  "url": "https://pixabay.com/en/shopping-buying-buy-store-shop-1182902/"
+ },
+ "tags": [
+  "shopping",
+  "buying",
+  "buy",
+  "commerce",
+  "customer",
+  "customers",
+  "online"
+ ]
+}

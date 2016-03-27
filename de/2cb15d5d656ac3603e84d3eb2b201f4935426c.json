@@ -1,0 +1,27 @@
+{
+ "sha1": "de2cb15d5d656ac3603e84d3eb2b201f4935426c",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b40f2bf0013ecd0b4707e6484e9fe46ae3d11cb8114895f4c078.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b40f2bf0013ecd0b4707e6484e9fe46ae3d11cb8114895f4c078_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bcd9e2c42435e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115731,
+ "name": "businessmen motivation silhouettes",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/businessmen-motivation-silhouettes-1050340/"
+ },
+ "tags": [
+  "businessmen",
+  "motivation",
+  "silhouettes",
+  "idea",
+  "method",
+  "product",
+  "strategy",
+  "business"
+ ]
+}

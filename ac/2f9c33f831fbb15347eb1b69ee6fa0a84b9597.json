@@ -1,0 +1,24 @@
+{
+ "sha1": "ac2f9c33f831fbb15347eb1b69ee6fa0a84b9597",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b60b2ef5063ecd0b4707e6484e9fe46ae3d11cb8114895f9c57b.png",
+ "urls": [
+  "https://pixabay.com/get/e835b60b2ef5063ecd0b4707e6484e9fe46ae3d11cb8114895f9c57b_1920.png",
+  "https://pixabay.com/goto/bb4b3bcf9a2947445e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113533,
+ "name": "news newspaper read paper inform",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/news-newspaper-read-paper-inform-1074617/"
+ },
+ "tags": [
+  "news",
+  "newspaper",
+  "read",
+  "new",
+  "text"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "f34ce4403e135ca8cbbd005b264fa4a268753efa",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e037b5072afc1c3e81584705e2444f91fe76e6d010b1184196f7c9.jpg",
+ "urls": [
+  "https://pixabay.com/get/e037b5072afc1c3e81584705e2444f91fe76e6d010b1184196f7c9_1920.jpg",
+  "https://pixabay.com/goto/bb4339cc962d4e50/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117544,
+ "name": "e037b5072afc1c3e81584705e2444f91fe76e6d010b1184196f7c9",
+ "desc": {
+  "text": "uploaded by StockSnap",
+  "url": "https://pixabay.com/en/money-coins-currency-business-924828/"
+ },
+ "tags": [
+  "money",
+  "coins",
+  "currency"
+ ]
+}

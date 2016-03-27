@@ -1,0 +1,28 @@
+{
+ "sha1": "cdda91140d6b287efd413d10de9d20fe3c3d2a1f",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b2082bf2033ecd0b4707e6484e9fe46ae3d11cb811499cf9c27f.jpg",
+ "urls": [
+  "https://pixabay.com/get/e834b2082bf2033ecd0b4707e6484e9fe46ae3d11cb811499cf9c27f_1920.jpg",
+  "https://pixabay.com/goto/bb4b3acb992c40415e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117814,
+ "name": "e834b2082bf2033ecd0b4707e6484e9fe46ae3d11cb811499cf9c27f",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/business-businesswoman-success-team-1137362/"
+ },
+ "tags": [
+  "business",
+  "businesswoman",
+  "success",
+  "customer",
+  "customers",
+  "idea",
+  "marketing",
+  "profit",
+  "strategy"
+ ]
+}

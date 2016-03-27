@@ -1,0 +1,23 @@
+{
+ "sha1": "7eba301e2d6918553ca2c06c588d2d15a02a66b6",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b50b29f5013ecd0b4707e6484e9fe46ae3d11cb811499df8c37f.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b50b29f5013ecd0b4707e6484e9fe46ae3d11cb811499df8c37f_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bcc9a2e47435e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117109,
+ "name": "e835b50b29f5013ecd0b4707e6484e9fe46ae3d11cb811499df8c37f",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/banner-header-mathematics-1044110/"
+ },
+ "tags": [
+  "banner",
+  "header",
+  "mathematics",
+  "education"
+ ]
+}

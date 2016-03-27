@@ -1,0 +1,23 @@
+{
+ "sha1": "b635826fae86eba889a5cc0753eddd22fef6ca59",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b0062ff2083ecd0b4707e6484e9fe46ae3d11cb8114895f4c470.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b0062ff2083ecd0b4707e6484e9fe46ae3d11cb8114895f4c470_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc99728404a5e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117585,
+ "name": "e835b0062ff2083ecd0b4707e6484e9fe46ae3d11cb8114895f4c470",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/puzzle-cooperation-partnership-1019769/"
+ },
+ "tags": [
+  "puzzle",
+  "cooperation",
+  "partnership",
+  "strategy"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "a99d4395cd529f4a26a09b806ca89df879f71b78",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b10a2df0033ecd0b4707e6484e9fe46ae3d11cb8114992f7c270.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b10a2df0033ecd0b4707e6484e9fe46ae3d11cb8114992f7c270_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc89b2a42415e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115521,
+ "name": "dementia alzheimer s clouds sky",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/dementia-alzheimer-s-clouds-sky-1005542/"
+ },
+ "tags": [
+  "dementia",
+  "alzheimer's",
+  "clouds",
+  "health"
+ ]
+}

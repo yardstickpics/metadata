@@ -1,0 +1,29 @@
+{
+ "sha1": "3479c378b728a59b578de404b8cb14d6ceceb87f",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef33b00621f31c3e81584705e2444f91fe76e6d010b119489cf0c4.jpg",
+ "urls": [
+  "https://pixabay.com/get/ef33b00621f31c3e81584705e2444f91fe76e6d010b119489cf0c4_1920.jpg",
+  "https://pixabay.com/goto/bb4c3dc997264150/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115072,
+ "name": "portrait model studio lighting",
+ "desc": {
+  "text": "uploaded by 821764",
+  "url": "https://pixabay.com/en/portrait-model-studio-lighting-661997/"
+ },
+ "tags": [
+  "portrait",
+  "model",
+  "studio",
+  "eyes",
+  "face",
+  "lighting",
+  "people",
+  "photoshop",
+  "photoshopped",
+  "style"
+ ]
+}

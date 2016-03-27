@@ -1,0 +1,22 @@
+{
+ "sha1": "77da7690c6391fa5c0e80f1d6946a5aad8a7424c",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ec34b50b2ffc1c3e81584705e2444f91fe76e6d010b1194894f4c8.jpg",
+ "urls": [
+  "https://pixabay.com/get/ec34b50b2ffc1c3e81584705e2444f91fe76e6d010b1194894f4c8_1920.jpg",
+  "https://pixabay.com/goto/bb4f3acc9a284e50/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117125,
+ "name": "ec34b50b2ffc1c3e81584705e2444f91fe76e6d010b1194894f4c8",
+ "desc": {
+  "text": "uploaded by appraisal2day",
+  "url": "https://pixabay.com/en/manikin-mannequin-android-robot-514478/"
+ },
+ "tags": [
+  "manikin",
+  "mannequin",
+  "android"
+ ]
+}

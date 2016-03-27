@@ -1,0 +1,24 @@
+{
+ "sha1": "f1509c7f432dd595dd40f33e40f9f03c7db82612",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b90728f7073ecd0b4707e6484e9fe46ae3d11cb811499df5c77c.png",
+ "urls": [
+  "https://pixabay.com/get/e834b90728f7073ecd0b4707e6484e9fe46ae3d11cb811499df5c77c_1920.png",
+  "https://pixabay.com/goto/bb4b3ac0962f45455e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113277,
+ "name": "isolated doctor dentist dental care",
+ "desc": {
+  "text": "uploaded by TheHilaryClark",
+  "url": "https://pixabay.com/en/isolated-doctor-dentist-dental-care-1188036/"
+ },
+ "tags": [
+  "isolated",
+  "doctor",
+  "dentist",
+  "generated",
+  "health"
+ ]
+}

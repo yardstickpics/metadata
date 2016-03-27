@@ -1,0 +1,23 @@
+{
+ "sha1": "c045455017abab48afac8d2671fc66bffd63e59c",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b30d28f3053ecd0b4707e6484e9fe46ae3d11cb811499cf2c878.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b30d28f3053ecd0b4707e6484e9fe46ae3d11cb811499cf2c878_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bca9c2f41475e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117231,
+ "name": "e835b30d28f3053ecd0b4707e6484e9fe46ae3d11cb811499cf2c878",
+ "desc": {
+  "text": "uploaded by wittkielgruppe",
+  "url": "https://pixabay.com/en/oak-leaves-autumn-bokeh-green-1022074/"
+ },
+ "tags": [
+  "oak",
+  "leaves",
+  "autumn",
+  "bokeh"
+ ]
+}

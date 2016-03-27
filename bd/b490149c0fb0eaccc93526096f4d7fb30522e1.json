@@ -1,0 +1,25 @@
+{
+ "sha1": "bdb490149c0fb0eaccc93526096f4d7fb30522e1",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b90e2df3033ecd0b4707e6484e9fe46ae3d11cb811499cf9c27c.png",
+ "urls": [
+  "https://pixabay.com/get/e834b90e2df3033ecd0b4707e6484e9fe46ae3d11cb811499cf9c27c_1920.png",
+  "https://pixabay.com/goto/bb4b3ac09f2a41415e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113631,
+ "name": "conflict management training",
+ "desc": {
+  "text": "uploaded by ArtsyBee",
+  "url": "https://pixabay.com/en/conflict-management-training-1181572/"
+ },
+ "tags": [
+  "conflict",
+  "management",
+  "training",
+  "business",
+  "company",
+  "staff"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "d6007f53b20cd18562a3fa71dda067cd20f7b17f",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e030b20c20fd1c3e81584705e2444f91fe76e6d010b1184191f0c4.png",
+ "urls": [
+  "https://pixabay.com/get/e030b20c20fd1c3e81584705e2444f91fe76e6d010b1184191f0c4_1920.png",
+  "https://pixabay.com/goto/bb433ecb9d274f50/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114628,
+ "name": "hand drawing point finger",
+ "desc": {
+  "text": "uploaded by ArtsyBee",
+  "url": "https://pixabay.com/en/hand-drawing-point-finger-953389/"
+ },
+ "tags": [
+  "hand",
+  "drawing",
+  "point"
+ ]
+}

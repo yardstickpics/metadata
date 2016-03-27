@@ -1,0 +1,24 @@
+{
+ "sha1": "68f9c0cc6a5c76ff9a7b4f135ba0c3d4e3e535d7",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e13cb00f28f11c3e81584705e2444f91fe76e6d010b1184197f3c8.jpg",
+ "urls": [
+  "https://pixabay.com/get/e13cb00f28f11c3e81584705e2444f91fe76e6d010b1184197f3c8_1920.jpg",
+  "https://pixabay.com/goto/bb4232c99e2f4350/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117467,
+ "name": "e13cb00f28f11c3e81584705e2444f91fe76e6d010b1184197f3c8",
+ "desc": {
+  "text": "uploaded by stevepb",
+  "url": "https://pixabay.com/en/magazine-coffee-break-cup-media-891005/"
+ },
+ "tags": [
+  "magazine",
+  "coffee break",
+  "cup",
+  "marketing",
+  "education"
+ ]
+}

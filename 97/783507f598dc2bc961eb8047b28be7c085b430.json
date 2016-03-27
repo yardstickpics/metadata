@@ -1,0 +1,23 @@
+{
+ "sha1": "97783507f598dc2bc961eb8047b28be7c085b430",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e136b40b2cfd1c3e81584705e2444f91fe76e6d010b1194994f8c8.png",
+ "urls": [
+  "https://pixabay.com/get/e136b40b2cfd1c3e81584705e2444f91fe76e6d010b1194994f8c8_1920.png",
+  "https://pixabay.com/goto/bb4238cd9a2b4f50/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114426,
+ "name": "transport truck silhouette contour",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/transport-truck-silhouette-contour-835449/"
+ },
+ "tags": [
+  "transport",
+  "truck",
+  "silhouette",
+  "logo"
+ ]
+}

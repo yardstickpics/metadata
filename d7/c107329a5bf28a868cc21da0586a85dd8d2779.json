@@ -1,0 +1,26 @@
+{
+ "sha1": "d7c107329a5bf28a868cc21da0586a85dd8d2779",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b00d2dfd083ecd0b4707e6484e9fe46ae3d11cb8114895f9c37c.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b00d2dfd083ecd0b4707e6484e9fe46ae3d11cb8114895f9c37c_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc99c2a4f4a5e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117649,
+ "name": "e835b00d2dfd083ecd0b4707e6484e9fe46ae3d11cb8114895f9c37c",
+ "desc": {
+  "text": "uploaded by PeteLinforth",
+  "url": "https://pixabay.com/en/money-finance-business-wealth-1012599/"
+ },
+ "tags": [
+  "money",
+  "finance",
+  "business",
+  "commerce",
+  "dollars",
+  "profit",
+  "stock"
+ ]
+}

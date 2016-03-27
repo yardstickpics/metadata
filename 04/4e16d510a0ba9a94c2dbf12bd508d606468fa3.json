@@ -1,0 +1,24 @@
+{
+ "sha1": "044e16d510a0ba9a94c2dbf12bd508d606468fa3",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b20b29f3033ecd0b4707e6484e9fe46ae3d11cb811499cf7c37c.png",
+ "urls": [
+  "https://pixabay.com/get/e834b20b29f3033ecd0b4707e6484e9fe46ae3d11cb811499cf7c37c_1920.png",
+  "https://pixabay.com/goto/bb4b3acb9a2e41415e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114413,
+ "name": "freedmen s bureau black history",
+ "desc": {
+  "text": "uploaded by tlreed97",
+  "url": "https://pixabay.com/en/freedmen-s-bureau-black-history-1134172/"
+ },
+ "tags": [
+  "freedmen's bureau",
+  "black history",
+  "genealogy",
+  "black",
+  "places"
+ ]
+}

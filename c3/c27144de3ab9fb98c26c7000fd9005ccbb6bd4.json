@@ -1,0 +1,23 @@
+{
+ "sha1": "c3c27144de3ab9fb98c26c7000fd9005ccbb6bd4",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e031b50d2ff41c3e81584705e2444f91fe76e6d010b1194693f9c8.png",
+ "urls": [
+  "https://pixabay.com/get/e031b50d2ff41c3e81584705e2444f91fe76e6d010b1194693f9c8_1920.png",
+  "https://pixabay.com/goto/bb433fcc9c284650/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114044,
+ "name": "geographical clock geography",
+ "desc": {
+  "text": "uploaded by ArtsyBee",
+  "url": "https://pixabay.com/en/geographical-clock-geography-944270/"
+ },
+ "tags": [
+  "geographical",
+  "clock",
+  "geography",
+  "education"
+ ]
+}

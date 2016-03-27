@@ -1,0 +1,23 @@
+{
+ "sha1": "bc0eb162007b6a5b978e81e863ecf42abe50c1fb",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e833b6062efd1c3e81584705e2444f91fe76e6d010b1184196f7c1.jpg",
+ "urls": [
+  "https://pixabay.com/get/e833b6062efd1c3e81584705e2444f91fe76e6d010b1184196f7c1_1920.jpg",
+  "https://pixabay.com/goto/bb4b3dcf97294f50/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117755,
+ "name": "e833b6062efd1c3e81584705e2444f91fe76e6d010b1184196f7c1",
+ "desc": {
+  "text": "uploaded by AlexanderStein",
+  "url": "https://pixabay.com/en/energy-energy-meter-current-meter-167969/"
+ },
+ "tags": [
+  "energy",
+  "energy meter",
+  "current meter",
+  "dollars"
+ ]
+}

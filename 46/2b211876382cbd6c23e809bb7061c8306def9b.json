@@ -1,0 +1,23 @@
+{
+ "sha1": "462b211876382cbd6c23e809bb7061c8306def9b",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b70d2cf6003ecd0b4707e6484e9fe46ae3d11cb8114992f4c07a.png",
+ "urls": [
+  "https://pixabay.com/get/e834b70d2cf6003ecd0b4707e6484e9fe46ae3d11cb8114992f4c07a_1920.png",
+  "https://pixabay.com/goto/bb4b3ace9c2b44425e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113313,
+ "name": "label shield trailers with hole",
+ "desc": {
+  "text": "uploaded by susannp4",
+  "url": "https://pixabay.com/en/label-shield-trailers-with-hole-1162421/"
+ },
+ "tags": [
+  "label",
+  "shield",
+  "trailers",
+  "isolated"
+ ]
+}

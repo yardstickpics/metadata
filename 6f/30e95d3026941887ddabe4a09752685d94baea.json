@@ -1,0 +1,24 @@
+{
+ "sha1": "6f30e95d3026941887ddabe4a09752685d94baea",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e13cb40c20f41c3e81584705e2444f91fe76e6d010b119499df2c5.png",
+ "urls": [
+  "https://pixabay.com/get/e13cb40c20f41c3e81584705e2444f91fe76e6d010b119499df2c5_1920.png",
+  "https://pixabay.com/goto/bb4232cd9d274650/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113125,
+ "name": "stamp banner business button label",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/stamp-banner-business-button-label-895380/"
+ },
+ "tags": [
+  "stamp",
+  "banner",
+  "business",
+  "button",
+  "specification"
+ ]
+}

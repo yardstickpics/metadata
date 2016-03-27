@@ -1,0 +1,23 @@
+{
+ "sha1": "2acd570686ce3fc9fe3ebd8fceb83bc607e2dba2",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/eb30b50f21f61c3e81584705e2444f91fe76e6d010b1184197f9c3.png",
+ "urls": [
+  "https://pixabay.com/get/eb30b50f21f61c3e81584705e2444f91fe76e6d010b1184197f9c3_1920.png",
+  "https://pixabay.com/goto/bb483ecc9e264450/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113880,
+ "name": "left arrow yellow pointing",
+ "desc": {
+  "text": "uploaded by tremara1",
+  "url": "https://pixabay.com/en/left-arrow-yellow-pointing-254092/"
+ },
+ "tags": [
+  "left",
+  "arrow",
+  "yellow",
+  "navigation"
+ ]
+}

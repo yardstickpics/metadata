@@ -1,0 +1,23 @@
+{
+ "sha1": "fcc03ec05ec9b0348efa7ef86b02ed3e2d3dd69c",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef37b10c28f41c3e81584705e2444f91fe76e6d010b1184191f1c6.jpg",
+ "urls": [
+  "https://pixabay.com/get/ef37b10c28f41c3e81584705e2444f91fe76e6d010b1184191f1c6_1920.jpg",
+  "https://pixabay.com/goto/bb4c39c89d2f4650/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117338,
+ "name": "ef37b10c28f41c3e81584705e2444f91fe76e6d010b1184191f1c6",
+ "desc": {
+  "text": "uploaded by 742680",
+  "url": "https://pixabay.com/en/success-planning-strategy-draw-pen-620300/"
+ },
+ "tags": [
+  "success",
+  "planning",
+  "strategy",
+  "idea"
+ ]
+}

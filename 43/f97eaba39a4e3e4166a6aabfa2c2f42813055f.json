@@ -1,0 +1,23 @@
+{
+ "sha1": "43f97eaba39a4e3e4166a6aabfa2c2f42813055f",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef3db50e28f31c3e81584705e2444f91fe76e6d010b1194897f7c1.jpg",
+ "urls": [
+  "https://pixabay.com/get/ef3db50e28f31c3e81584705e2444f91fe76e6d010b1194897f7c1_1920.jpg",
+  "https://pixabay.com/goto/bb4c33cc9f2f4150/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117781,
+ "name": "ef3db50e28f31c3e81584705e2444f91fe76e6d010b1194897f7c1",
+ "desc": {
+  "text": "uploaded by DominikSchraudolf",
+  "url": "https://pixabay.com/en/detox-water-carafe-drink-lemon-684107/"
+ },
+ "tags": [
+  "detox",
+  "water",
+  "carafe",
+  "lime"
+ ]
+}

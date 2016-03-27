@@ -1,0 +1,27 @@
+{
+ "sha1": "927e730344f084a737186dcb25d1a710f69d56dd",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e837b00e2cf4093ecd0b4707e6484e9fe46ae3d11cb811499cf9c27a.png",
+ "urls": [
+  "https://pixabay.com/get/e837b00e2cf4093ecd0b4707e6484e9fe46ae3d11cb811499cf9c27a_1920.png",
+  "https://pixabay.com/goto/bb4b39c99f2b464b5e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114355,
+ "name": "credit card signature credit card",
+ "desc": {
+  "text": "uploaded by kpgolfpro",
+  "url": "https://pixabay.com/en/credit-card-signature-credit-card-1211408/"
+ },
+ "tags": [
+  "credit card",
+  "signature",
+  "credit",
+  "business",
+  "card",
+  "consumer",
+  "money",
+  "sign"
+ ]
+}

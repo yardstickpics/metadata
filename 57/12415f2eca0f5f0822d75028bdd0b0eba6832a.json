@@ -1,0 +1,23 @@
+{
+ "sha1": "5712415f2eca0f5f0822d75028bdd0b0eba6832a",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef37b60e20f71c3e81584705e2444f91fe76e6d010b1184191f6c5.jpg",
+ "urls": [
+  "https://pixabay.com/get/ef37b60e20f71c3e81584705e2444f91fe76e6d010b1184191f6c5_1920.jpg",
+  "https://pixabay.com/goto/bb4c39cf9f274550/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117945,
+ "name": "ef37b60e20f71c3e81584705e2444f91fe76e6d010b1184191f6c5",
+ "desc": {
+  "text": "uploaded by 422737",
+  "url": "https://pixabay.com/en/ace-clamps-cards-jass-cards-627183/"
+ },
+ "tags": [
+  "ace",
+  "clamps",
+  "cards",
+  "strategy"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "19215dbba1775bb6ae4dac704996071b80ba1004",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ec32b50d2bf61c3e81584705e2444f91fe76e6d010b1194991f7c6.jpg",
+ "urls": [
+  "https://pixabay.com/get/ec32b50d2bf61c3e81584705e2444f91fe76e6d010b1194991f7c6_1920.jpg",
+  "https://pixabay.com/goto/bb4f3ccc9c2c4450/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117247,
+ "name": "ec32b50d2bf61c3e81584705e2444f91fe76e6d010b1194991f7c6",
+ "desc": {
+  "text": "uploaded by Patrice_Audet",
+  "url": "https://pixabay.com/en/mannequin-woman-mode-hairstyle-574232/"
+ },
+ "tags": [
+  "mannequin",
+  "woman",
+  "mode",
+  "red"
+ ]
+}

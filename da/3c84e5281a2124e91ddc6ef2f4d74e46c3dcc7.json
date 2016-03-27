@@ -1,0 +1,24 @@
+{
+ "sha1": "da3c84e5281a2124e91ddc6ef2f4d74e46c3dcc7",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b00f2ef3093ecd0b4707e6484e9fe46ae3d11cb8114895f4c07a.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b00f2ef3093ecd0b4707e6484e9fe46ae3d11cb8114895f4c07a_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc99e29414b5e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117499,
+ "name": "e835b00f2ef3093ecd0b4707e6484e9fe46ae3d11cb8114895f4c07a",
+ "desc": {
+  "text": "uploaded by InspiredImages",
+  "url": "https://pixabay.com/en/figures-games-piece-play-leisure-1010678/"
+ },
+ "tags": [
+  "figures",
+  "games",
+  "piece",
+  "idea",
+  "strategy"
+ ]
+}

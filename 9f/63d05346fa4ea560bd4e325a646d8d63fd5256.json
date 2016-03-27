@@ -1,0 +1,23 @@
+{
+ "sha1": "9f63d05346fa4ea560bd4e325a646d8d63fd5256",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b9072bfd053ecd0b4707e6484e9fe46ae3d11cb8114992f7c27a.png",
+ "urls": [
+  "https://pixabay.com/get/e834b9072bfd053ecd0b4707e6484e9fe46ae3d11cb8114992f7c27a_1920.png",
+  "https://pixabay.com/goto/bb4b3ac0962c4f475e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114604,
+ "name": "razor shave shaving hair beard",
+ "desc": {
+  "text": "uploaded by barber_teacher",
+  "url": "https://pixabay.com/en/razor-shave-shaving-hair-beard-1188394/"
+ },
+ "tags": [
+  "razor",
+  "shave",
+  "shaving",
+  "health"
+ ]
+}

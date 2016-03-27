@@ -1,0 +1,25 @@
+{
+ "sha1": "0f654f9ff7676aee6d68251193ba334291d1ad11",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b2062bfc053ecd0b4707e6484e9fe46ae3d11cb8114895f1c679.png",
+ "urls": [
+  "https://pixabay.com/get/e834b2062bfc053ecd0b4707e6484e9fe46ae3d11cb8114895f1c679_1920.png",
+  "https://pixabay.com/goto/bb4b3acb972c4e475e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113556,
+ "name": "badge silver metallic framed icon",
+ "desc": {
+  "text": "uploaded by ArtsyBee",
+  "url": "https://pixabay.com/en/badge-silver-metallic-framed-icon-1139384/"
+ },
+ "tags": [
+  "badge",
+  "silver",
+  "metallic",
+  "blank",
+  "logo",
+  "shield"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "sha1": "80a9a86d64be06a8f1909ca064dc1d28b37e49e9",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e837b40c2cfc023ecd0b4707e6484e9fe46ae3d11cb8114895f5c070.jpg",
+ "urls": [
+  "https://pixabay.com/get/e837b40c2cfc023ecd0b4707e6484e9fe46ae3d11cb8114895f5c070_1920.jpg",
+  "https://pixabay.com/goto/bb4b39cd9d2b4e405e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459118204,
+ "name": "e837b40c2cfc023ecd0b4707e6484e9fe46ae3d11cb8114895f5c070",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/customer-expectation-service-1253483/"
+ },
+ "tags": [
+  "customer",
+  "expectation",
+  "service",
+  "consumer",
+  "customers"
+ ]
+}

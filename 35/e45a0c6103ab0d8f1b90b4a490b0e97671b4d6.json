@@ -1,0 +1,25 @@
+{
+ "sha1": "35e45a0c6103ab0d8f1b90b4a490b0e97671b4d6",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b00a2afc053ecd0b4707e6484e9fe46ae3d11cb811499cf9c571.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b00a2afc053ecd0b4707e6484e9fe46ae3d11cb811499cf9c571_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc99b2d4e475e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117654,
+ "name": "e835b00a2afc053ecd0b4707e6484e9fe46ae3d11cb811499cf9c571",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/business-card-presentation-1015284/"
+ },
+ "tags": [
+  "business card",
+  "presentation",
+  "get to know",
+  "company",
+  "customer",
+  "customers"
+ ]
+}

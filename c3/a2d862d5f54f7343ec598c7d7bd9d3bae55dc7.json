@@ -1,0 +1,23 @@
+{
+ "sha1": "c3a2d862d5f54f7343ec598c7d7bd9d3bae55dc7",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e03db40c2ef11c3e81584705e2444f91fe76e6d010b1194890f9c3.png",
+ "urls": [
+  "https://pixabay.com/get/e03db40c2ef11c3e81584705e2444f91fe76e6d010b1194890f9c3_1920.png",
+  "https://pixabay.com/goto/bb4333cd9d294350/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113126,
+ "name": "card trading card collectible card",
+ "desc": {
+  "text": "uploaded by scott_r_78",
+  "url": "https://pixabay.com/en/card-trading-card-collectible-card-985365/"
+ },
+ "tags": [
+  "card",
+  "trading card",
+  "collectible card",
+  "template"
+ ]
+}

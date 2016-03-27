@@ -1,0 +1,23 @@
+{
+ "sha1": "c3b554a558f7742c8070677b079a08a1204e4578",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b70629f0013ecd0b4707e6484e9fe46ae3d11cb8114895f9c47d.png",
+ "urls": [
+  "https://pixabay.com/get/e835b70629f0013ecd0b4707e6484e9fe46ae3d11cb8114895f9c47d_1920.png",
+  "https://pixabay.com/goto/bb4b3bce972e42435e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113842,
+ "name": "head mannequin fashion female",
+ "desc": {
+  "text": "uploaded by GregMcMahan",
+  "url": "https://pixabay.com/en/head-mannequin-fashion-female-1069140/"
+ },
+ "tags": [
+  "head",
+  "mannequin",
+  "fashion",
+  "style"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "sha1": "c66ed966bd46779e17c0996af9f4f918dc97706c",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ea33b30e20f71c3e81584705e2444f91fe76e6d010b1194892f2c2.jpg",
+ "urls": [
+  "https://pixabay.com/get/ea33b30e20f71c3e81584705e2444f91fe76e6d010b1194892f2c2_1920.jpg",
+  "https://pixabay.com/goto/bb493dca9f274550/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115099,
+ "name": "cigar smoking cigar cigarette",
+ "desc": {
+  "text": "uploaded by RyanMcGuire",
+  "url": "https://pixabay.com/en/cigar-smoking-cigar-cigarette-362183/"
+ },
+ "tags": [
+  "cigar",
+  "smoking cigar",
+  "cigarette",
+  "black",
+  "eyes",
+  "face",
+  "funny",
+  "hand",
+  "people"
+ ]
+}

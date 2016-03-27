@@ -1,0 +1,24 @@
+{
+ "sha1": "14643ab805d9540dfbc0aaddcef58183e767439c",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/eb30b60b21f51c3e81584705e2444f91fe76e6d010b1194993f0c2.png",
+ "urls": [
+  "https://pixabay.com/get/eb30b60b21f51c3e81584705e2444f91fe76e6d010b1194993f0c2_1920.png",
+  "https://pixabay.com/goto/bb483ecf9a264750/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113738,
+ "name": "bilardkugeln 3d raytracing ball",
+ "desc": {
+  "text": "uploaded by wsyperek",
+  "url": "https://pixabay.com/en/bilardkugeln-3d-raytracing-ball-257491/"
+ },
+ "tags": [
+  "bilardkugeln",
+  "3d",
+  "raytracing",
+  "3d-trq",
+  "black"
+ ]
+}

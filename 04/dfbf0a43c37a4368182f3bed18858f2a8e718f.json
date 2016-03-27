@@ -1,0 +1,23 @@
+{
+ "sha1": "04dfbf0a43c37a4368182f3bed18858f2a8e718f",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b30821f1083ecd0b4707e6484e9fe46ae3d11cb8114895f2c27e.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b30821f1083ecd0b4707e6484e9fe46ae3d11cb8114895f2c27e_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bca9926434a5e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459118124,
+ "name": "e835b30821f1083ecd0b4707e6484e9fe46ae3d11cb8114895f2c27e",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/spice-cinnamon-cinnamon-stick-1027959/"
+ },
+ "tags": [
+  "spice",
+  "cinnamon",
+  "cinnamon stick",
+  "marketing"
+ ]
+}

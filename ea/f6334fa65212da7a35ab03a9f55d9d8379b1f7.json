@@ -1,0 +1,23 @@
+{
+ "sha1": "eaf6334fa65212da7a35ab03a9f55d9d8379b1f7",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ed3cb10a2ef31c3e81584705e2444f91fe76e6d010b1184191f6c2.png",
+ "urls": [
+  "https://pixabay.com/get/ed3cb10a2ef31c3e81584705e2444f91fe76e6d010b1184191f6c2_1920.png",
+  "https://pixabay.com/goto/bb4e32c89b294150/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113818,
+ "name": "google internet search",
+ "desc": {
+  "text": "uploaded by Tumisu",
+  "url": "https://pixabay.com/en/google-internet-search-490567/"
+ },
+ "tags": [
+  "google",
+  "internet",
+  "search",
+  "strategy"
+ ]
+}

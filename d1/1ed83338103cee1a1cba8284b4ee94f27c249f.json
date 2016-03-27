@@ -1,0 +1,24 @@
+{
+ "sha1": "d11ed83338103cee1a1cba8284b4ee94f27c249f",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e130b10b2bf61c3e81584705e2444f91fe76e6d010b119489cf2c1.jpg",
+ "urls": [
+  "https://pixabay.com/get/e130b10b2bf61c3e81584705e2444f91fe76e6d010b119489cf2c1_1920.jpg",
+  "https://pixabay.com/goto/bb423ec89a2c4450/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115235,
+ "name": "tangerine mandarin citrus fruit",
+ "desc": {
+  "text": "uploaded by stevepb",
+  "url": "https://pixabay.com/en/tangerine-mandarin-citrus-fruit-850432/"
+ },
+ "tags": [
+  "tangerine",
+  "mandarin",
+  "citrus fruit",
+  "natural",
+  "raw"
+ ]
+}

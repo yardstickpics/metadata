@@ -1,0 +1,23 @@
+{
+ "sha1": "411d1a92adae82ba4c5f42e30bbfd362110708e8",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b90f2ff1013ecd0b4707e6484e9fe46ae3d11cb8114895f5c97d.png",
+ "urls": [
+  "https://pixabay.com/get/e835b90f2ff1013ecd0b4707e6484e9fe46ae3d11cb8114895f5c97d_1920.png",
+  "https://pixabay.com/goto/bb4b3bc09e2843435e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113135,
+ "name": "icon toto hc logo visual id",
+ "desc": {
+  "text": "uploaded by henriquecostadesigner",
+  "url": "https://pixabay.com/en/icon-toto-hc-logo-visual-id-1080750/"
+ },
+ "tags": [
+  "icon",
+  "toto",
+  "hc",
+  "logo"
+ ]
+}

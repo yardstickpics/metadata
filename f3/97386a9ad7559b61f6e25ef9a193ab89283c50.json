@@ -1,0 +1,25 @@
+{
+ "sha1": "f397386a9ad7559b61f6e25ef9a193ab89283c50",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b00a2af3023ecd0b4707e6484e9fe46ae3d11cb811499cf7c770.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b00a2af3023ecd0b4707e6484e9fe46ae3d11cb811499cf7c770_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc99b2d41405e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459118049,
+ "name": "e835b00a2af3023ecd0b4707e6484e9fe46ae3d11cb811499cf7c770",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/call-center-phone-service-help-1015273/"
+ },
+ "tags": [
+  "call center",
+  "phone",
+  "service",
+  "call",
+  "company",
+  "pc"
+ ]
+}

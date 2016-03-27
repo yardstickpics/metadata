@@ -1,0 +1,23 @@
+{
+ "sha1": "04d9aea6b654680223f20795a920cd2b2c8a4abc",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e032b4062ff51c3e81584705e2444f91fe76e6d010b1184196f9c0.png",
+ "urls": [
+  "https://pixabay.com/get/e032b4062ff51c3e81584705e2444f91fe76e6d010b1184196f9c0_1920.png",
+  "https://pixabay.com/goto/bb433ccd97284750/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113272,
+ "name": "company personal silhouettes",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/company-personal-silhouettes-975971/"
+ },
+ "tags": [
+  "company",
+  "personal",
+  "silhouettes",
+  "arrow"
+ ]
+}

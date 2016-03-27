@@ -1,0 +1,24 @@
+{
+ "sha1": "8dd39a177d7793a532c0d9b94803a3403b728358",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b90c2bf7003ecd0b4707e6484e9fe46ae3d11cb811499cf7c779.png",
+ "urls": [
+  "https://pixabay.com/get/e834b90c2bf7003ecd0b4707e6484e9fe46ae3d11cb811499cf7c779_1920.png",
+  "https://pixabay.com/goto/bb4b3ac09d2c45425e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114610,
+ "name": "information help communication",
+ "desc": {
+  "text": "uploaded by PeteLinforth",
+  "url": "https://pixabay.com/en/information-help-communication-1183331/"
+ },
+ "tags": [
+  "information",
+  "help",
+  "communication",
+  "customer",
+  "customers"
+ ]
+}

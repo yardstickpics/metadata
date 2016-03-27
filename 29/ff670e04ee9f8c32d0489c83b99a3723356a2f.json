@@ -1,0 +1,25 @@
+{
+ "sha1": "29ff670e04ee9f8c32d0489c83b99a3723356a2f",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e033b80b2dfd1c3e81584705e2444f91fe76e6d010b1194892f7c0.png",
+ "urls": [
+  "https://pixabay.com/get/e033b80b2dfd1c3e81584705e2444f91fe76e6d010b1194892f7c0_1920.png",
+  "https://pixabay.com/goto/bb433dc19a2a4f50/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114540,
+ "name": "first aid chest compressions",
+ "desc": {
+  "text": "uploaded by succo",
+  "url": "https://pixabay.com/en/first-aid-chest-compressions-969459/"
+ },
+ "tags": [
+  "first aid",
+  "chest compressions",
+  "artificial respiration",
+  "call",
+  "health",
+  "4"
+ ]
+}

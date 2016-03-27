@@ -1,0 +1,23 @@
+{
+ "sha1": "b80dfc28242f1a79f3cf27a07e3ff98948739a6b",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b90b2ff1053ecd0b4707e6484e9fe46ae3d11cb8114895f1c87c.png",
+ "urls": [
+  "https://pixabay.com/get/e834b90b2ff1053ecd0b4707e6484e9fe46ae3d11cb8114895f1c87c_1920.png",
+  "https://pixabay.com/goto/bb4b3ac09a2843475e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113052,
+ "name": "material design pattern",
+ "desc": {
+  "text": "uploaded by myndscapeinc",
+  "url": "https://pixabay.com/en/material-design-pattern-1184754/"
+ },
+ "tags": [
+  "material",
+  "design",
+  "pattern",
+  "designer"
+ ]
+}

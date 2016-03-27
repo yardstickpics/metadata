@@ -1,0 +1,24 @@
+{
+ "sha1": "16c5c39ad65563ba64e6ff3d3342442c8cb2be2f",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b20c2ef0063ecd0b4707e6484e9fe46ae3d11cb8114895f3c77b.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b20c2ef0063ecd0b4707e6484e9fe46ae3d11cb8114895f3c77b_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bcb9d2942445e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117520,
+ "name": "e835b20c2ef0063ecd0b4707e6484e9fe46ae3d11cb8114895f3c77b",
+ "desc": {
+  "text": "uploaded by moerschy",
+  "url": "https://pixabay.com/en/money-euro-bank-note-currency-bill-1033647/"
+ },
+ "tags": [
+  "money",
+  "euro",
+  "bank note",
+  "dollars",
+  "business"
+ ]
+}

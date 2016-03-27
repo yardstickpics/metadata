@@ -1,0 +1,24 @@
+{
+ "sha1": "2a205c109badc1022455e554d5e6eadd460e7af0",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b30f28f2073ecd0b4707e6484e9fe46ae3d11cb811499cf9c27f.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b30f28f2073ecd0b4707e6484e9fe46ae3d11cb811499cf9c27f_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bca9e2f40455e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117655,
+ "name": "e835b30f28f2073ecd0b4707e6484e9fe46ae3d11cb811499cf9c27f",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/business-card-contract-presentation-1020066/"
+ },
+ "tags": [
+  "business card",
+  "contract",
+  "presentation",
+  "business",
+  "card"
+ ]
+}

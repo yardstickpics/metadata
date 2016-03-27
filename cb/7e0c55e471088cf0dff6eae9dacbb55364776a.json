@@ -1,0 +1,24 @@
+{
+ "sha1": "cb7e0c55e471088cf0dff6eae9dacbb55364776a",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b00621fd073ecd0b4707e6484e9fe46ae3d11cb8114895f8c97e.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b00621fd073ecd0b4707e6484e9fe46ae3d11cb8114895f8c97e_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc997264f455e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117858,
+ "name": "e835b00621fd073ecd0b4707e6484e9fe46ae3d11cb8114895f8c97e",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/currency-market-stock-exchange-1019996/"
+ },
+ "tags": [
+  "currency",
+  "market",
+  "stock exchange",
+  "profit",
+  "stock"
+ ]
+}

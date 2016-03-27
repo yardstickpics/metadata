@@ -1,0 +1,25 @@
+{
+ "sha1": "3ae02a6ab2e363c679c5069a8c68cf146a29a003",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef35b80d2ff71c3e81584705e2444f91fe76e6d010b1194890f1c2.jpg",
+ "urls": [
+  "https://pixabay.com/get/ef35b80d2ff71c3e81584705e2444f91fe76e6d010b1194890f1c2_1920.jpg",
+  "https://pixabay.com/goto/bb4c3bc19c284550/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115234,
+ "name": "lemon squeezer lemon juice citrus",
+ "desc": {
+  "text": "uploaded by stevepb",
+  "url": "https://pixabay.com/en/lemon-squeezer-lemon-juice-citrus-609273/"
+ },
+ "tags": [
+  "lemon squeezer",
+  "lemon juice",
+  "citrus",
+  "raw",
+  "health",
+  "yellow"
+ ]
+}

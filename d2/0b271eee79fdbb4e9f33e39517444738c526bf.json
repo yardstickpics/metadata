@@ -1,0 +1,24 @@
+{
+ "sha1": "d20b271eee79fdbb4e9f33e39517444738c526bf",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ed37b60a28f01c3e81584705e2444f91fe76e6d010b119499cf8c8.png",
+ "urls": [
+  "https://pixabay.com/get/ed37b60a28f01c3e81584705e2444f91fe76e6d010b119499cf8c8_1920.png",
+  "https://pixabay.com/goto/bb4e39cf9b2f4250/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113053,
+ "name": "hand the hand welcome gesture",
+ "desc": {
+  "text": "uploaded by jarmoluk",
+  "url": "https://pixabay.com/en/hand-the-hand-welcome-gesture-427504/"
+ },
+ "tags": [
+  "hand",
+  "the hand",
+  "welcome",
+  "background",
+  "business"
+ ]
+}

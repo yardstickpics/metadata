@@ -1,0 +1,24 @@
+{
+ "sha1": "e7028ac8a26c2fe9344e2c19977532238703e716",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ee3cb10628f01c3e81584705e2444f91fe76e6d010b1184196f6c6.jpg",
+ "urls": [
+  "https://pixabay.com/get/ee3cb10628f01c3e81584705e2444f91fe76e6d010b1184196f6c6_1920.jpg",
+  "https://pixabay.com/goto/bb4d32c8972f4250/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117622,
+ "name": "ee3cb10628f01c3e81584705e2444f91fe76e6d010b1184196f6c6",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/finance-buy-sell-stock-exchange-790904/"
+ },
+ "tags": [
+  "finance",
+  "buy",
+  "sell",
+  "dollars",
+  "stock"
+ ]
+}

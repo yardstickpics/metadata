@@ -1,0 +1,23 @@
+{
+ "sha1": "66dc4d7ae001b593dc097428fd4370dbefd34175",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ee31b00d2df21c3e81584705e2444f91fe76e6d010b1194991f8c8.png",
+ "urls": [
+  "https://pixabay.com/get/ee31b00d2df21c3e81584705e2444f91fe76e6d010b1194991f8c8_1920.png",
+  "https://pixabay.com/goto/bb4d3fc99c2a4050/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114249,
+ "name": "text set template punctuation",
+ "desc": {
+  "text": "uploaded by ZIPNON",
+  "url": "https://pixabay.com/en/text-set-template-punctuation-741256/"
+ },
+ "tags": [
+  "text",
+  "set",
+  "template",
+  "magenta"
+ ]
+}

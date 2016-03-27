@@ -1,0 +1,24 @@
+{
+ "sha1": "4f1c4118f0967efabc9b2f237cc98a6816336218",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b30f29f6033ecd0b4707e6484e9fe46ae3d11cb811499df6c170.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b30f29f6033ecd0b4707e6484e9fe46ae3d11cb811499df6c170_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bca9e2e44415e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117511,
+ "name": "e835b30f29f6033ecd0b4707e6484e9fe46ae3d11cb811499df6c170",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/euro-characters-3d-symbol-europe-1020122/"
+ },
+ "tags": [
+  "euro",
+  "characters",
+  "3d",
+  "money",
+  "sign"
+ ]
+}

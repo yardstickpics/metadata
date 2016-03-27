@@ -1,0 +1,24 @@
+{
+ "sha1": "8921bac483e1f9485ad85e11c034f4db6c3511e0",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e032b80c2af61c3e81584705e2444f91fe76e6d010b1194990f6c7.png",
+ "urls": [
+  "https://pixabay.com/get/e032b80c2af61c3e81584705e2444f91fe76e6d010b1194990f6c7_1920.png",
+  "https://pixabay.com/goto/bb433cc19d2d4450/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114752,
+ "name": "mandelbrot set fractal mathematics",
+ "desc": {
+  "text": "uploaded by skeeze",
+  "url": "https://pixabay.com/en/mandelbrot-set-fractal-mathematics-979322/"
+ },
+ "tags": [
+  "mandelbrot set",
+  "fractal",
+  "mathematics",
+  "generated",
+  "render"
+ ]
+}

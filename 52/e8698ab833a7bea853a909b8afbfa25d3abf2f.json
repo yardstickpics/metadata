@@ -1,0 +1,23 @@
+{
+ "sha1": "52e8698ab833a7bea853a909b8afbfa25d3abf2f",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b80b20fd083ecd0b4707e6484e9fe46ae3d11cb811499cf1c47c.png",
+ "urls": [
+  "https://pixabay.com/get/e834b80b20fd083ecd0b4707e6484e9fe46ae3d11cb811499cf1c47c_1920.png",
+  "https://pixabay.com/goto/bb4b3ac19a274f4a5e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114749,
+ "name": "isolated soldier vote man military",
+ "desc": {
+  "text": "uploaded by TheHilaryClark",
+  "url": "https://pixabay.com/en/isolated-soldier-vote-man-military-1194899/"
+ },
+ "tags": [
+  "isolated",
+  "soldier",
+  "vote",
+  "hero"
+ ]
+}

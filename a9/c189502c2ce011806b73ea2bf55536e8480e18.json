@@ -1,0 +1,24 @@
+{
+ "sha1": "a9c189502c2ce011806b73ea2bf55536e8480e18",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e030b60b29f61c3e81584705e2444f91fe76e6d010b1194994f7c1.jpg",
+ "urls": [
+  "https://pixabay.com/get/e030b60b29f61c3e81584705e2444f91fe76e6d010b1194994f7c1_1920.jpg",
+  "https://pixabay.com/goto/bb433ecf9a2e4450/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115517,
+ "name": "swiss franc chf switzerland",
+ "desc": {
+  "text": "uploaded by BITLAKE",
+  "url": "https://pixabay.com/en/swiss-franc-chf-switzerland-957412/"
+ },
+ "tags": [
+  "swiss franc",
+  "chf",
+  "switzerland",
+  "asset",
+  "money"
+ ]
+}

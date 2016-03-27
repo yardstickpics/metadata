@@ -1,0 +1,26 @@
+{
+ "sha1": "c222e992c45d94bb37a0f8916cb99d14716cf01e",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b90b20fc083ecd0b4707e6484e9fe46ae3d11cb811499cf9c27f.png",
+ "urls": [
+  "https://pixabay.com/get/e834b90b20fc083ecd0b4707e6484e9fe46ae3d11cb811499cf9c27f_1920.png",
+  "https://pixabay.com/goto/bb4b3ac09a274e4a5e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114408,
+ "name": "surprised salaried worker computer",
+ "desc": {
+  "text": "uploaded by ijmaki",
+  "url": "https://pixabay.com/en/surprised-salaried-worker-computer-1184889/"
+ },
+ "tags": [
+  "surprised",
+  "salaried worker",
+  "computer",
+  "business",
+  "new",
+  "notebook",
+  "industry"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "sha1": "8e746e316724532f83244b6b139d85b25c2b52f9",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ed34b9082ef41c3e81584705e2444f91fe76e6d010b1194892f6c4.jpg",
+ "urls": [
+  "https://pixabay.com/get/ed34b9082ef41c3e81584705e2444f91fe76e6d010b1194892f6c4_1920.jpg",
+  "https://pixabay.com/goto/bb4e3ac099294650/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117988,
+ "name": "ed34b9082ef41c3e81584705e2444f91fe76e6d010b1194892f6c4",
+ "desc": {
+  "text": "uploaded by Kapa65",
+  "url": "https://pixabay.com/en/weather-station-east-frisia-418760/"
+ },
+ "tags": [
+  "weather station",
+  "east frisia",
+  "weather forecast",
+  "customer",
+  "customers"
+ ]
+}

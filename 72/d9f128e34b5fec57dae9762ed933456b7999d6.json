@@ -1,0 +1,24 @@
+{
+ "sha1": "72d9f128e34b5fec57dae9762ed933456b7999d6",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ec33b80a2af51c3e81584705e2444f91fe76e6d010b1194891f4c5.png",
+ "urls": [
+  "https://pixabay.com/get/ec33b80a2af51c3e81584705e2444f91fe76e6d010b1194891f4c5_1920.png",
+  "https://pixabay.com/goto/bb4f3dc19b2d4750/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113472,
+ "name": "button help computer support",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/button-help-computer-support-569521/"
+ },
+ "tags": [
+  "button",
+  "help",
+  "computer",
+  "shield",
+  "text"
+ ]
+}

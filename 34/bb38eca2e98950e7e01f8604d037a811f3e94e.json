@@ -1,0 +1,27 @@
+{
+ "sha1": "34bb38eca2e98950e7e01f8604d037a811f3e94e",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b00a2af2073ecd0b4707e6484e9fe46ae3d11cb8114895f9c37a.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b00a2af2073ecd0b4707e6484e9fe46ae3d11cb8114895f9c37a_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc99b2d40455e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117273,
+ "name": "e835b00a2af2073ecd0b4707e6484e9fe46ae3d11cb8114895f9c37a",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/financial-equalization-help-1015266/"
+ },
+ "tags": [
+  "financial equalization",
+  "help",
+  "stock exchange",
+  "commerce",
+  "dollars",
+  "profit",
+  "stock",
+  "business"
+ ]
+}

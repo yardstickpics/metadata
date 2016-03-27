@@ -1,0 +1,26 @@
+{
+ "sha1": "c32b59646a7051b3e6dacc60a41048a860fd7cc3",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e837b30929f3053ecd0b4707e6484e9fe46ae3d11cb811499cf9c27a.png",
+ "urls": [
+  "https://pixabay.com/get/e837b30929f3053ecd0b4707e6484e9fe46ae3d11cb811499cf9c27a_1920.png",
+  "https://pixabay.com/goto/bb4b39ca982e41475e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113251,
+ "name": "business woman silhouette suit",
+ "desc": {
+  "text": "uploaded by ArtsyBee",
+  "url": "https://pixabay.com/en/business-woman-silhouette-suit-1226174/"
+ },
+ "tags": [
+  "business",
+  "woman",
+  "silhouette",
+  "company",
+  "people",
+  "fashion",
+  "industry"
+ ]
+}

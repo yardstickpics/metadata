@@ -1,0 +1,27 @@
+{
+ "sha1": "b66913fbe7f92298a312c54e64e66fb610c47061",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b20621f4023ecd0b4707e6484e9fe46ae3d11cb8114895f4c078.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b20621f4023ecd0b4707e6484e9fe46ae3d11cb8114895f4c078_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bcb972646405e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115103,
+ "name": "businessmen silhouettes man woman",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/businessmen-silhouettes-man-woman-1039903/"
+ },
+ "tags": [
+  "businessmen",
+  "silhouettes",
+  "man",
+  "idea",
+  "method",
+  "product",
+  "strategy",
+  "business"
+ ]
+}

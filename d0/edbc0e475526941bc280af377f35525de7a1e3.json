@@ -1,0 +1,23 @@
+{
+ "sha1": "d0edbc0e475526941bc280af377f35525de7a1e3",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e837b10e2af1063ecd0b4707e6484e9fe46ae3d11cb811499cf5c87b.jpg",
+ "urls": [
+  "https://pixabay.com/get/e837b10e2af1063ecd0b4707e6484e9fe46ae3d11cb811499cf5c87b_1920.jpg",
+  "https://pixabay.com/goto/bb4b39c89f2d43445e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115615,
+ "name": "playing cards poker bridge game",
+ "desc": {
+  "text": "uploaded by arcaion",
+  "url": "https://pixabay.com/en/playing-cards-poker-bridge-game-1201257/"
+ },
+ "tags": [
+  "playing cards",
+  "poker",
+  "bridge",
+  "card"
+ ]
+}

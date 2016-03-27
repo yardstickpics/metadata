@@ -1,0 +1,25 @@
+{
+ "sha1": "7ac4cc0c3f3987430bcb595ae272d349248b33b9",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/eb34b20d2bf61c3e81584705e2444f91fe76e6d010b1194894f4c7.png",
+ "urls": [
+  "https://pixabay.com/get/eb34b20d2bf61c3e81584705e2444f91fe76e6d010b1194894f4c7_1920.png",
+  "https://pixabay.com/goto/bb483acb9c2c4450/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113808,
+ "name": "speakers announcement",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/speakers-announcement-213232/"
+ },
+ "tags": [
+  "speakers",
+  "announcement",
+  "obligation to buy",
+  "android",
+  "commerce",
+  "consumer"
+ ]
+}

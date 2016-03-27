@@ -1,0 +1,25 @@
+{
+ "sha1": "72d470ed1481ad506a6860bdf9c20f8a30c67946",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b70d2df0083ecd0b4707e6484e9fe46ae3d11cb8114895f0c07a.png",
+ "urls": [
+  "https://pixabay.com/get/e834b70d2df0083ecd0b4707e6484e9fe46ae3d11cb8114895f0c07a_1920.png",
+  "https://pixabay.com/goto/bb4b3ace9c2a424a5e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114334,
+ "name": "street lamp lighting",
+ "desc": {
+  "text": "uploaded by susannp4",
+  "url": "https://pixabay.com/en/street-lamp-lighting-1162549/"
+ },
+ "tags": [
+  "street lamp",
+  "lighting",
+  "iron street lamp",
+  "bright",
+  "isolated",
+  "transportation"
+ ]
+}

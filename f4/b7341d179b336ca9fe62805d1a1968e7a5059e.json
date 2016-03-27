@@ -1,0 +1,23 @@
+{
+ "sha1": "f4b7341d179b336ca9fe62805d1a1968e7a5059e",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef32b30d21f11c3e81584705e2444f91fe76e6d010b1194696f2c3.jpg",
+ "urls": [
+  "https://pixabay.com/get/ef32b30d21f11c3e81584705e2444f91fe76e6d010b1194696f2c3_1920.jpg",
+  "https://pixabay.com/goto/bb4c3cca9c264350/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115654,
+ "name": "coca cola vintage project",
+ "desc": {
+  "text": "uploaded by johnsatwork",
+  "url": "https://pixabay.com/en/coca-cola-vintage-project-672295/"
+ },
+ "tags": [
+  "coca-cola",
+  "vintage",
+  "project",
+  "png"
+ ]
+}

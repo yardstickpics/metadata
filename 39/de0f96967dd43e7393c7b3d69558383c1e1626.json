@@ -1,0 +1,26 @@
+{
+ "sha1": "39de0f96967dd43e7393c7b3d69558383c1e1626",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e130b00d29f31c3e81584705e2444f91fe76e6d010b1184190f1c8.png",
+ "urls": [
+  "https://pixabay.com/get/e130b00d29f31c3e81584705e2444f91fe76e6d010b1184190f1c8_1920.png",
+  "https://pixabay.com/goto/bb423ec99c2e4150/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114619,
+ "name": "person man woman child umbrella",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/person-man-woman-child-umbrella-851217/"
+ },
+ "tags": [
+  "person",
+  "man",
+  "woman",
+  "consumer",
+  "customer",
+  "customers",
+  "dollars"
+ ]
+}

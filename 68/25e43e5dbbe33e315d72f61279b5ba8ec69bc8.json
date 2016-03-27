@@ -1,0 +1,28 @@
+{
+ "sha1": "6825e43e5dbbe33e315d72f61279b5ba8ec69bc8",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b60c2af0073ecd0b4707e6484e9fe46ae3d11cb811499cf4c271.jpg",
+ "urls": [
+  "https://pixabay.com/get/e834b60c2af0073ecd0b4707e6484e9fe46ae3d11cb811499cf4c271_1920.jpg",
+  "https://pixabay.com/goto/bb4b3acf9d2d42455e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117684,
+ "name": "e834b60c2af0073ecd0b4707e6484e9fe46ae3d11cb811499cf4c271",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/twenty-percent-statistics-money-1173246/"
+ },
+ "tags": [
+  "twenty",
+  "percent",
+  "statistics",
+  "button",
+  "icon",
+  "marketing",
+  "money",
+  "sign",
+  "business"
+ ]
+}

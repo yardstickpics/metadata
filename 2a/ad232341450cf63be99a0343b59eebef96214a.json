@@ -1,0 +1,26 @@
+{
+ "sha1": "2aad232341450cf63be99a0343b59eebef96214a",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b40f2bf7083ecd0b4707e6484e9fe46ae3d11cb8114895f4c078.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b40f2bf7083ecd0b4707e6484e9fe46ae3d11cb8114895f4c078_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bcd9e2c454a5e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115874,
+ "name": "businessmen silhouettes ability",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/businessmen-silhouettes-ability-1050339/"
+ },
+ "tags": [
+  "businessmen",
+  "silhouettes",
+  "ability",
+  "idea",
+  "method",
+  "product",
+  "strategy"
+ ]
+}

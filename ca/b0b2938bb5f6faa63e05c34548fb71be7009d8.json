@@ -1,0 +1,27 @@
+{
+ "sha1": "cab0b2938bb5f6faa63e05c34548fb71be7009d8",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b20621f4043ecd0b4707e6484e9fe46ae3d11cb8114895f4c078.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b20621f4043ecd0b4707e6484e9fe46ae3d11cb8114895f4c078_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bcb972646465e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115140,
+ "name": "businessmen silhouettes meeting",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/businessmen-silhouettes-meeting-1039905/"
+ },
+ "tags": [
+  "businessmen",
+  "silhouettes",
+  "meeting",
+  "idea",
+  "method",
+  "product",
+  "strategy",
+  "business"
+ ]
+}

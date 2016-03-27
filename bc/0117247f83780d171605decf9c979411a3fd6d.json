@@ -1,0 +1,24 @@
+{
+ "sha1": "bc0117247f83780d171605decf9c979411a3fd6d",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b30f29fd073ecd0b4707e6484e9fe46ae3d11cb811499cf3c678.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b30f29fd073ecd0b4707e6484e9fe46ae3d11cb811499cf3c678_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bca9e2e4f455e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117897,
+ "name": "e835b30f29fd073ecd0b4707e6484e9fe46ae3d11cb811499cf3c678",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/solar-power-alternative-energy-1020196/"
+ },
+ "tags": [
+  "solar power",
+  "alternative energy",
+  "solar panel",
+  "alternative",
+  "generated"
+ ]
+}

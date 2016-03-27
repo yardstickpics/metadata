@@ -1,0 +1,23 @@
+{
+ "sha1": "bdfb474f73cfa57f9461b905f78ca3af77bdb44f",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ee3db20920f11c3e81584705e2444f91fe76e6d010b1194996f7c6.jpg",
+ "urls": [
+  "https://pixabay.com/get/ee3db20920f11c3e81584705e2444f91fe76e6d010b1194996f7c6_1920.jpg",
+  "https://pixabay.com/goto/bb4d33cb98274350/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115546,
+ "name": "umbrella rain silhouette shadow",
+ "desc": {
+  "text": "uploaded by IvicaM90",
+  "url": "https://pixabay.com/en/umbrella-rain-silhouette-shadow-783685/"
+ },
+ "tags": [
+  "umbrella",
+  "rain",
+  "silhouette",
+  "shadow"
+ ]
+}

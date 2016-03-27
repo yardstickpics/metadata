@@ -1,0 +1,23 @@
+{
+ "sha1": "4441836ca23f68bb350caf1ffd3ac6d19419bc37",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e13cb30e2cf71c3e81584705e2444f91fe76e6d010b1194891f4c5.png",
+ "urls": [
+  "https://pixabay.com/get/e13cb30e2cf71c3e81584705e2444f91fe76e6d010b1194891f4c5_1920.png",
+  "https://pixabay.com/goto/bb4232ca9f2b4550/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113705,
+ "name": "button symbol statistics curve",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/button-symbol-statistics-curve-892143/"
+ },
+ "tags": [
+  "button",
+  "symbol",
+  "statistics",
+  "stock"
+ ]
+}

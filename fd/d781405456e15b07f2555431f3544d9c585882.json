@@ -1,0 +1,24 @@
+{
+ "sha1": "fdd781405456e15b07f2555431f3544d9c585882",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b30f28f7083ecd0b4707e6484e9fe46ae3d11cb811499cf3c678.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b30f28f7083ecd0b4707e6484e9fe46ae3d11cb811499cf3c678_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bca9e2f454a5e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117882,
+ "name": "e835b30f28f7083ecd0b4707e6484e9fe46ae3d11cb811499cf3c678",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/wind-power-alternative-energy-1020039/"
+ },
+ "tags": [
+  "wind power",
+  "alternative energy",
+  "pinwheel",
+  "alternative",
+  "generated"
+ ]
+}

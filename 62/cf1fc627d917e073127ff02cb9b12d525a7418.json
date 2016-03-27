@@ -1,0 +1,24 @@
+{
+ "sha1": "62cf1fc627d917e073127ff02cb9b12d525a7418",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef35b60820fc1c3e81584705e2444f91fe76e6d010b119489cf3c0.png",
+ "urls": [
+  "https://pixabay.com/get/ef35b60820fc1c3e81584705e2444f91fe76e6d010b119489cf3c0_1920.png",
+  "https://pixabay.com/goto/bb4c3bcf99274e50/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113263,
+ "name": "businessman cartoons training",
+ "desc": {
+  "text": "uploaded by PanJoyCZ",
+  "url": "https://pixabay.com/en/businessman-cartoons-training-607788/"
+ },
+ "tags": [
+  "businessman",
+  "cartoons",
+  "training",
+  "business",
+  "people"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "sha1": "eceee63be590a48d76076da0a3bc82a4aa2a7d43",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e032b80b2afd1c3e81584705e2444f91fe76e6d010b1194990f6c7.png",
+ "urls": [
+  "https://pixabay.com/get/e032b80b2afd1c3e81584705e2444f91fe76e6d010b1194990f6c7_1920.png",
+  "https://pixabay.com/goto/bb433cc19a2d4f50/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114817,
+ "name": "julia set fractal art mathematics",
+ "desc": {
+  "text": "uploaded by skeeze",
+  "url": "https://pixabay.com/en/julia-set-fractal-art-mathematics-979429/"
+ },
+ "tags": [
+  "julia set",
+  "fractal art",
+  "mathematics",
+  "generated",
+  "render"
+ ]
+}

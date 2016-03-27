@@ -1,0 +1,25 @@
+{
+ "sha1": "08c0685709cb117bf21a2b23f4303a6e3a3fc2f8",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b90d2bfd063ecd0b4707e6484e9fe46ae3d11cb811499cf6c379.png",
+ "urls": [
+  "https://pixabay.com/get/e834b90d2bfd063ecd0b4707e6484e9fe46ae3d11cb811499cf6c379_1920.png",
+  "https://pixabay.com/goto/bb4b3ac09c2c4f445e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114567,
+ "name": "press journalist news headlines",
+ "desc": {
+  "text": "uploaded by Alexas_Fotos",
+  "url": "https://pixabay.com/en/press-journalist-news-headlines-1182397/"
+ },
+ "tags": [
+  "press",
+  "journalist",
+  "news",
+  "funny",
+  "new",
+  "computer"
+ ]
+}

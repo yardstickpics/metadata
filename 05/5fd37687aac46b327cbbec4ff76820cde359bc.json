@@ -1,0 +1,23 @@
+{
+ "sha1": "055fd37687aac46b327cbbec4ff76820cde359bc",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b80b20f5053ecd0b4707e6484e9fe46ae3d11cb8114895f9c17e.png",
+ "urls": [
+  "https://pixabay.com/get/e835b80b20f5053ecd0b4707e6484e9fe46ae3d11cb8114895f9c17e_1920.png",
+  "https://pixabay.com/goto/bb4b3bc19a2747475e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114541,
+ "name": "supermarket shelf products grocery",
+ "desc": {
+  "text": "uploaded by Viscious-Speed",
+  "url": "https://pixabay.com/en/supermarket-shelf-products-grocery-1094814/"
+ },
+ "tags": [
+  "supermarket shelf",
+  "products",
+  "grocery",
+  "product"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "a9888a7e697ccfc27fe3cbf426a2051c374cdc02",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b20921f5073ecd0b4707e6484e9fe46ae3d11cb8114992f3c379.png",
+ "urls": [
+  "https://pixabay.com/get/e834b20921f5073ecd0b4707e6484e9fe46ae3d11cb8114992f3c379_1920.png",
+  "https://pixabay.com/goto/bb4b3acb982647455e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114409,
+ "name": "paramedic medical emergencies",
+ "desc": {
+  "text": "uploaded by rosanegra_1",
+  "url": "https://pixabay.com/en/paramedic-medical-emergencies-1136916/"
+ },
+ "tags": [
+  "paramedic",
+  "medical emergencies",
+  "medicine",
+  "png"
+ ]
+}

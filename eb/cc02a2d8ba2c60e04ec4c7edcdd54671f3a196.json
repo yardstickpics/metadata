@@ -1,0 +1,24 @@
+{
+ "sha1": "ebcc02a2d8ba2c60e04ec4c7edcdd54671f3a196",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ea3db00d20fc1c3e81584705e2444f91fe76e6d010b1194892f7c0.png",
+ "urls": [
+  "https://pixabay.com/get/ea3db00d20fc1c3e81584705e2444f91fe76e6d010b1194892f7c0_1920.png",
+  "https://pixabay.com/goto/bb4933c99c274e50/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113506,
+ "name": "phone telephone handset signal",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/phone-telephone-handset-signal-381288/"
+ },
+ "tags": [
+  "phone",
+  "telephone handset",
+  "signal",
+  "call",
+  "connection"
+ ]
+}

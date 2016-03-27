@@ -1,0 +1,23 @@
+{
+ "sha1": "e02b08a04fbe10268421ce5a6475029aba81a1eb",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e134b3082ef71c3e81584705e2444f91fe76e6d010b1194994f8c9.png",
+ "urls": [
+  "https://pixabay.com/get/e134b3082ef71c3e81584705e2444f91fe76e6d010b1194994f8c9_1920.png",
+  "https://pixabay.com/goto/bb423aca99294550/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113066,
+ "name": "logo wifi icon signal",
+ "desc": {
+  "text": "uploaded by SOCIFI",
+  "url": "https://pixabay.com/en/logo-wifi-icon-signal-812763/"
+ },
+ "tags": [
+  "logo",
+  "wifi",
+  "icon",
+  "signal"
+ ]
+}

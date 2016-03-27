@@ -1,0 +1,23 @@
+{
+ "sha1": "0d2a852763d2cca5af486cf6a49f7d1acc58718a",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b10928f7083ecd0b4707e6484e9fe46ae3d11cb811499cf1c57b.png",
+ "urls": [
+  "https://pixabay.com/get/e835b10928f7083ecd0b4707e6484e9fe46ae3d11cb811499cf1c57b_1920.png",
+  "https://pixabay.com/goto/bb4b3bc8982f454a5e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113377,
+ "name": "walker crutches handicap",
+ "desc": {
+  "text": "uploaded by WerbeFabrik",
+  "url": "https://pixabay.com/en/walker-crutches-handicap-1006039/"
+ },
+ "tags": [
+  "walker",
+  "crutches",
+  "handicap",
+  "mobile"
+ ]
+}

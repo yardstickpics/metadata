@@ -1,0 +1,23 @@
+{
+ "sha1": "2892ffaa58e66a6fd81a86ee2d2775c796896abc",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef36b50628f51c3e81584705e2444f91fe76e6d010b1184196f6c3.png",
+ "urls": [
+  "https://pixabay.com/get/ef36b50628f51c3e81584705e2444f91fe76e6d010b1184196f6c3_1920.png",
+  "https://pixabay.com/goto/bb4c38cc972f4750/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113158,
+ "name": "finance dollar financial world",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/finance-dollar-financial-world-634901/"
+ },
+ "tags": [
+  "finance",
+  "dollar",
+  "financial world",
+  "dollars"
+ ]
+}

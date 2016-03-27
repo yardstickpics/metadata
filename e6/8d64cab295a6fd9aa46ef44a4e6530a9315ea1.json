@@ -1,0 +1,26 @@
+{
+ "sha1": "e68d64cab295a6fd9aa46ef44a4e6530a9315ea1",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e132b80b21fc1c3e81584705e2444f91fe76e6d010b118419cf2c2.jpg",
+ "urls": [
+  "https://pixabay.com/get/e132b80b21fc1c3e81584705e2444f91fe76e6d010b118419cf2c2_1920.jpg",
+  "https://pixabay.com/goto/bb423cc19a264e50/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117123,
+ "name": "e132b80b21fc1c3e81584705e2444f91fe76e6d010b118419cf2c2",
+ "desc": {
+  "text": "uploaded by stevepb",
+  "url": "https://pixabay.com/en/shopping-spending-till-slip-879498/"
+ },
+ "tags": [
+  "shopping",
+  "spending",
+  "till slip",
+  "commerce",
+  "consumer",
+  "customer",
+  "customers"
+ ]
+}

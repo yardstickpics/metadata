@@ -1,0 +1,24 @@
+{
+ "sha1": "48062de4f43f295debb2ce879f803d013cc13e9b",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b3072af7063ecd0b4707e6484e9fe46ae3d11cb811499cf4c07c.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b3072af7063ecd0b4707e6484e9fe46ae3d11cb811499cf4c07c_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bca962d45445e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459118110,
+ "name": "e835b3072af7063ecd0b4707e6484e9fe46ae3d11cb811499cf4c07c",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/stopping-traffic-rules-street-sign-1028237/"
+ },
+ "tags": [
+  "stopping",
+  "traffic",
+  "rules",
+  "sign",
+  "street sign"
+ ]
+}

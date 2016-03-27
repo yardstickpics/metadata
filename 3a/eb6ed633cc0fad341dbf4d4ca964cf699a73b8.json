@@ -1,0 +1,22 @@
+{
+ "sha1": "3aeb6ed633cc0fad341dbf4d4ca964cf699a73b8",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ea31b00b29f31c3e81584705e2444f91fe76e6d010b118419df4c1.png",
+ "urls": [
+  "https://pixabay.com/get/ea31b00b29f31c3e81584705e2444f91fe76e6d010b118419df4c1_1920.png",
+  "https://pixabay.com/goto/bb493fc99a2e4150/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114691,
+ "name": "human laptop calculator",
+ "desc": {
+  "text": "uploaded by sandra_schoen",
+  "url": "https://pixabay.com/en/human-laptop-calculator-341417/"
+ },
+ "tags": [
+  "human",
+  "laptop",
+  "calculator"
+ ]
+}

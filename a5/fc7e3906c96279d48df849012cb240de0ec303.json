@@ -1,0 +1,25 @@
+{
+ "sha1": "a5fc7e3906c96279d48df849012cb240de0ec303",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e136b00f2df71c3e81584705e2444f91fe76e6d010b119489cf3c9.jpg",
+ "urls": [
+  "https://pixabay.com/get/e136b00f2df71c3e81584705e2444f91fe76e6d010b119489cf3c9_1920.jpg",
+  "https://pixabay.com/goto/bb4238c99e2a4550/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117146,
+ "name": "e136b00f2df71c3e81584705e2444f91fe76e6d010b119489cf3c9",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/business-idea-planning-business-plan-831053/"
+ },
+ "tags": [
+  "business idea",
+  "planning",
+  "business plan",
+  "business",
+  "idea",
+  "strategy"
+ ]
+}

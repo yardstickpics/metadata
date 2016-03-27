@@ -1,0 +1,23 @@
+{
+ "sha1": "bc66f8d2e25c0bd5bb8ca58a0a2e46dcdbe73d68",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ed30b70f28f11c3e81584705e2444f91fe76e6d010b1184191f3c2.png",
+ "urls": [
+  "https://pixabay.com/get/ed30b70f28f11c3e81584705e2444f91fe76e6d010b1184191f3c2_1920.png",
+  "https://pixabay.com/goto/bb4e3ece9e2f4350/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113749,
+ "name": "sticker banner business button",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/sticker-banner-business-button-456005/"
+ },
+ "tags": [
+  "sticker",
+  "banner",
+  "business",
+  "online"
+ ]
+}

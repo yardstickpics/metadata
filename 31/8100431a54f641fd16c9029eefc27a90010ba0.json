@@ -1,0 +1,23 @@
+{
+ "sha1": "318100431a54f641fd16c9029eefc27a90010ba0",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ec32b6082ff21c3e81584705e2444f91fe76e6d010b119489cf5c0.png",
+ "urls": [
+  "https://pixabay.com/get/ec32b6082ff21c3e81584705e2444f91fe76e6d010b119489cf5c0_1920.png",
+  "https://pixabay.com/goto/bb4f3ccf99284050/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113385,
+ "name": "hand finger show touch success",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/hand-finger-show-touch-success-577776/"
+ },
+ "tags": [
+  "hand",
+  "finger",
+  "show",
+  "company"
+ ]
+}

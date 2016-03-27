@@ -1,0 +1,26 @@
+{
+ "sha1": "fd7e95a0cd73307fc3fd00b88bbd6b29b135f24c",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b9092ef7043ecd0b4707e6484e9fe46ae3d11cb811499df8c37a.jpg",
+ "urls": [
+  "https://pixabay.com/get/e834b9092ef7043ecd0b4707e6484e9fe46ae3d11cb811499df8c37a_1920.jpg",
+  "https://pixabay.com/goto/bb4b3ac0982945465e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115288,
+ "name": "customer service banner customer",
+ "desc": {
+  "text": "uploaded by PeteLinforth",
+  "url": "https://pixabay.com/en/customer-service-banner-customer-1186635/"
+ },
+ "tags": [
+  "customer service",
+  "banner",
+  "customer",
+  "customers",
+  "business",
+  "computer",
+  "health"
+ ]
+}

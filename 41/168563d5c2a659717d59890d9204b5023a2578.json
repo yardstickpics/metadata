@@ -1,0 +1,23 @@
+{
+ "sha1": "41168563d5c2a659717d59890d9204b5023a2578",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b80c21f2043ecd0b4707e6484e9fe46ae3d11cb8114895f5c97d.png",
+ "urls": [
+  "https://pixabay.com/get/e835b80c21f2043ecd0b4707e6484e9fe46ae3d11cb8114895f5c97d_1920.png",
+  "https://pixabay.com/goto/bb4b3bc19d2640465e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113519,
+ "name": "badge flair switzerland flag",
+ "desc": {
+  "text": "uploaded by raphink",
+  "url": "https://pixabay.com/en/badge-flair-switzerland-flag-1093965/"
+ },
+ "tags": [
+  "badge",
+  "flair",
+  "switzerland",
+  "icon"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "51f1e6afb490e6ee2f8dd3b8473df579ec2a115d",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e037b70b2efd1c3e81584705e2444f91fe76e6d010b1184191f0c4.jpg",
+ "urls": [
+  "https://pixabay.com/get/e037b70b2efd1c3e81584705e2444f91fe76e6d010b1184191f0c4_1920.jpg",
+  "https://pixabay.com/goto/bb4339ce9a294f50/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117395,
+ "name": "e037b70b2efd1c3e81584705e2444f91fe76e6d010b1184191f0c4",
+ "desc": {
+  "text": "uploaded by StockSnap",
+  "url": "https://pixabay.com/en/map-finger-pointing-hand-926469/"
+ },
+ "tags": [
+  "map",
+  "finger",
+  "pointing",
+  "hand"
+ ]
+}

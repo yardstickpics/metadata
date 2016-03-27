@@ -1,0 +1,25 @@
+{
+ "sha1": "1909cce2cd6e86d8d5f65f687a6903b728de9694",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e131b3072ef11c3e81584705e2444f91fe76e6d010b1194891f4c5.png",
+ "urls": [
+  "https://pixabay.com/get/e131b3072ef11c3e81584705e2444f91fe76e6d010b1194891f4c5_1920.png",
+  "https://pixabay.com/goto/bb423fca96294350/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113269,
+ "name": "icons symbols magnifying glass",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/icons-symbols-magnifying-glass-842865/"
+ },
+ "tags": [
+  "icons",
+  "symbols",
+  "magnifying glass",
+  "button",
+  "logo",
+  "website"
+ ]
+}

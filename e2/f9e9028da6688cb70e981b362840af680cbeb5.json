@@ -1,0 +1,28 @@
+{
+ "sha1": "e2f9e9028da6688cb70e981b362840af680cbeb5",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b60c2af1033ecd0b4707e6484e9fe46ae3d11cb811499cf9c271.jpg",
+ "urls": [
+  "https://pixabay.com/get/e834b60c2af1033ecd0b4707e6484e9fe46ae3d11cb811499cf9c271_1920.jpg",
+  "https://pixabay.com/goto/bb4b3acf9d2d43415e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117521,
+ "name": "e834b60c2af1033ecd0b4707e6484e9fe46ae3d11cb811499cf9c271",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/fifty-percent-statistics-money-1173252/"
+ },
+ "tags": [
+  "fifty",
+  "percent",
+  "statistics",
+  "business",
+  "button",
+  "icon",
+  "marketing",
+  "money",
+  "sign"
+ ]
+}

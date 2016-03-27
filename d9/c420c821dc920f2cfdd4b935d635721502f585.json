@@ -1,0 +1,24 @@
+{
+ "sha1": "d9c420c821dc920f2cfdd4b935d635721502f585",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b90e2df3063ecd0b4707e6484e9fe46ae3d11cb811499cf9c27f.png",
+ "urls": [
+  "https://pixabay.com/get/e834b90e2df3063ecd0b4707e6484e9fe46ae3d11cb811499cf9c27f_1920.png",
+  "https://pixabay.com/goto/bb4b3ac09f2a41445e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114400,
+ "name": "human resources hr management",
+ "desc": {
+  "text": "uploaded by ArtsyBee",
+  "url": "https://pixabay.com/en/human-resources-hr-management-1181577/"
+ },
+ "tags": [
+  "human",
+  "resources",
+  "hr",
+  "business",
+  "staff"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "d0966e1e67304dc8b2057f6ad1dc2eb59b19aa73",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b90d20fd063ecd0b4707e6484e9fe46ae3d11cb811499cf9c57a.png",
+ "urls": [
+  "https://pixabay.com/get/e834b90d20fd063ecd0b4707e6484e9fe46ae3d11cb811499cf9c57a_1920.png",
+  "https://pixabay.com/goto/bb4b3ac09c274f445e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114834,
+ "name": "employee person business team",
+ "desc": {
+  "text": "uploaded by PeteLinforth",
+  "url": "https://pixabay.com/en/employee-person-business-team-1182897/"
+ },
+ "tags": [
+  "employee",
+  "person",
+  "business",
+  "staff"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "sha1": "981eb0e08b3c298d752fbfb931ad33a56f71bcd2",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ec3cb50e2bf41c3e81584705e2444f91fe76e6d010b118419cf2c4.jpg",
+ "urls": [
+  "https://pixabay.com/get/ec3cb50e2bf41c3e81584705e2444f91fe76e6d010b118419cf2c4_1920.jpg",
+  "https://pixabay.com/goto/bb4f32cc9f2c4650/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117057,
+ "name": "ec3cb50e2bf41c3e81584705e2444f91fe76e6d010b118419cf2c4",
+ "desc": {
+  "text": "uploaded by StartupStockPhotos",
+  "url": "https://pixabay.com/en/office-startup-business-home-office-594130/"
+ },
+ "tags": [
+  "office",
+  "startup",
+  "business",
+  "commerce",
+  "company",
+  "laptop",
+  "notebook",
+  "strategy"
+ ]
+}

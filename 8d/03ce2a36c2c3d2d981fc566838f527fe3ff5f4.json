@@ -1,0 +1,23 @@
+{
+ "sha1": "8d03ce2a36c2c3d2d981fc566838f527fe3ff5f4",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b1092cf6033ecd0b4707e6484e9fe46ae3d11cb8114895f4c17f.png",
+ "urls": [
+  "https://pixabay.com/get/e835b1092cf6033ecd0b4707e6484e9fe46ae3d11cb8114895f4c17f_1920.png",
+  "https://pixabay.com/goto/bb4b3bc8982b44415e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113875,
+ "name": "hand stop containing sign language",
+ "desc": {
+  "text": "uploaded by WerbeFabrik",
+  "url": "https://pixabay.com/en/hand-stop-containing-sign-language-1006422/"
+ },
+ "tags": [
+  "hand",
+  "stop",
+  "containing",
+  "sign"
+ ]
+}

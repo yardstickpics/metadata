@@ -1,0 +1,23 @@
+{
+ "sha1": "044d059132cb0fbe0efb3e60023b3a9e51dfd220",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b00a2bf4033ecd0b4707e6484e9fe46ae3d11cb811499df6c078.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b00a2bf4033ecd0b4707e6484e9fe46ae3d11cb811499df6c078_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc99b2c46415e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459118191,
+ "name": "e835b00a2bf4033ecd0b4707e6484e9fe46ae3d11cb811499df6c078",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/ball-physics-swing-1015302/"
+ },
+ "tags": [
+  "ball",
+  "physics",
+  "swing",
+  "3d"
+ ]
+}

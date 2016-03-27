@@ -1,0 +1,28 @@
+{
+ "sha1": "61eadb6246c398016bf07c18a8b7c38ce590d153",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e036b9062bf11c3e81584705e2444f91fe76e6d010b1184196f1c8.jpg",
+ "urls": [
+  "https://pixabay.com/get/e036b9062bf11c3e81584705e2444f91fe76e6d010b1184196f1c8_1920.jpg",
+  "https://pixabay.com/goto/bb4338c0972c4350/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117849,
+ "name": "e036b9062bf11c3e81584705e2444f91fe76e6d010b1184196f1c8",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/marketing-letters-font-lettering-938935/"
+ },
+ "tags": [
+  "marketing",
+  "letters",
+  "font",
+  "advertise",
+  "advertisement",
+  "company",
+  "movement",
+  "product",
+  "strategy"
+ ]
+}

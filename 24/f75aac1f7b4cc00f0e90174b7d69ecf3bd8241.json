@@ -1,0 +1,23 @@
+{
+ "sha1": "24f75aac1f7b4cc00f0e90174b7d69ecf3bd8241",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b20b29f7003ecd0b4707e6484e9fe46ae3d11cb811499df5c77f.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b20b29f7003ecd0b4707e6484e9fe46ae3d11cb811499df5c77f_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bcb9a2e45425e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115740,
+ "name": "pinwheel current wind power",
+ "desc": {
+  "text": "uploaded by Powie",
+  "url": "https://pixabay.com/en/pinwheel-current-wind-power-1034131/"
+ },
+ "tags": [
+  "pinwheel",
+  "current",
+  "wind power",
+  "generated"
+ ]
+}

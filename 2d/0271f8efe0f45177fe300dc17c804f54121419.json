@@ -1,0 +1,25 @@
+{
+ "sha1": "2d0271f8efe0f45177fe300dc17c804f54121419",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e03db30f21fd1c3e81584705e2444f91fe76e6d010b119499df2c5.png",
+ "urls": [
+  "https://pixabay.com/get/e03db30f21fd1c3e81584705e2444f91fe76e6d010b119499df2c5_1920.png",
+  "https://pixabay.com/goto/bb4333ca9e264f50/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113721,
+ "name": "banner header business dollar",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/banner-header-business-dollar-982099/"
+ },
+ "tags": [
+  "banner",
+  "header",
+  "business",
+  "dollars",
+  "money",
+  "sign"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "1883e265d5664d23b738416a990d1421998bf3b8",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/eb30b60b20fd1c3e81584705e2444f91fe76e6d010b1194993f0c2.png",
+ "urls": [
+  "https://pixabay.com/get/eb30b60b20fd1c3e81584705e2444f91fe76e6d010b1194993f0c2_1920.png",
+  "https://pixabay.com/goto/bb483ecf9a274f50/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113240,
+ "name": "football ball 3d raytracing",
+ "desc": {
+  "text": "uploaded by wsyperek",
+  "url": "https://pixabay.com/en/football-ball-3d-raytracing-257489/"
+ },
+ "tags": [
+  "football",
+  "ball",
+  "3d",
+  "3d-trq"
+ ]
+}

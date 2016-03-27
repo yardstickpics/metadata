@@ -1,0 +1,23 @@
+{
+ "sha1": "404491e51b6b66cce343087751ebf36195b637c0",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ee34b5062cf31c3e81584705e2444f91fe76e6d010b1184197f6c8.jpg",
+ "urls": [
+  "https://pixabay.com/get/ee34b5062cf31c3e81584705e2444f91fe76e6d010b1184197f6c8_1920.jpg",
+  "https://pixabay.com/goto/bb4d3acc972b4150/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117868,
+ "name": "ee34b5062cf31c3e81584705e2444f91fe76e6d010b1184197f6c8",
+ "desc": {
+  "text": "uploaded by Dieter_G",
+  "url": "https://pixabay.com/en/euro-euro-sign-currency-money-melt-714947/"
+ },
+ "tags": [
+  "euro",
+  "euro sign",
+  "currency",
+  "stock"
+ ]
+}

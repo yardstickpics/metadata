@@ -1,0 +1,24 @@
+{
+ "sha1": "f7785965e6ed07f47da8583f3fac50c06be1faac",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e037b40a2ff61c3e81584705e2444f91fe76e6d010b118419df3c4.jpg",
+ "urls": [
+  "https://pixabay.com/get/e037b40a2ff61c3e81584705e2444f91fe76e6d010b118419df3c4_1920.jpg",
+  "https://pixabay.com/goto/bb4339cd9b284450/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459118071,
+ "name": "e037b40a2ff61c3e81584705e2444f91fe76e6d010b118419df3c4",
+ "desc": {
+  "text": "uploaded by StockSnap",
+  "url": "https://pixabay.com/en/graphs-charts-finance-business-925572/"
+ },
+ "tags": [
+  "graphs",
+  "charts",
+  "finance",
+  "laptop",
+  "macbook"
+ ]
+}

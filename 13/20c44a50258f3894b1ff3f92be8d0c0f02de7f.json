@@ -1,0 +1,23 @@
+{
+ "sha1": "1320c44a50258f3894b1ff3f92be8d0c0f02de7f",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ed30b80d2af31c3e81584705e2444f91fe76e6d010b1194891f4c6.png",
+ "urls": [
+  "https://pixabay.com/get/ed30b80d2af31c3e81584705e2444f91fe76e6d010b1194891f4c6_1920.png",
+  "https://pixabay.com/goto/bb4e3ec19c2d4150/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113173,
+ "name": "one hundred percent complete stamp",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/one-hundred-percent-complete-stamp-459227/"
+ },
+ "tags": [
+  "one hundred percent",
+  "complete",
+  "stamp",
+  "button"
+ ]
+}

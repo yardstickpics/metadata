@@ -1,0 +1,24 @@
+{
+ "sha1": "5861f844b6f6d1f31bb1d4a5675540214fb90481",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b10c2ff4023ecd0b4707e6484e9fe46ae3d11cb811499df8c37d.jpg",
+ "urls": [
+  "https://pixabay.com/get/e834b10c2ff4023ecd0b4707e6484e9fe46ae3d11cb811499df8c37d_1920.jpg",
+  "https://pixabay.com/goto/bb4b3ac89d2846405e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115248,
+ "name": "banner header economy dollar",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/banner-header-economy-dollar-1103703/"
+ },
+ "tags": [
+  "banner",
+  "header",
+  "economy",
+  "dollars",
+  "money"
+ ]
+}

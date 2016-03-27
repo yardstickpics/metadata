@@ -1,0 +1,24 @@
+{
+ "sha1": "d9ba302b6365db69a2499439cc95881ff20487aa",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef32b90928f11c3e81584705e2444f91fe76e6d010b1194892f8c9.png",
+ "urls": [
+  "https://pixabay.com/get/ef32b90928f11c3e81584705e2444f91fe76e6d010b1194892f8c9_1920.png",
+  "https://pixabay.com/goto/bb4c3cc0982f4350/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114780,
+ "name": "spotlight light design stage",
+ "desc": {
+  "text": "uploaded by DWilliams",
+  "url": "https://pixabay.com/en/spotlight-light-design-stage-678605/"
+ },
+ "tags": [
+  "spotlight",
+  "light",
+  "design",
+  "illuminated",
+  "vibrant"
+ ]
+}

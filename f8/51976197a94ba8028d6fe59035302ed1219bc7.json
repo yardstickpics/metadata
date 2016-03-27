@@ -1,0 +1,28 @@
+{
+ "sha1": "f851976197a94ba8028d6fe59035302ed1219bc7",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e837b2082ff0033ecd0b4707e6484e9fe46ae3d11cb8114895f1c871.png",
+ "urls": [
+  "https://pixabay.com/get/e837b2082ff0033ecd0b4707e6484e9fe46ae3d11cb8114895f1c871_1920.png",
+  "https://pixabay.com/goto/bb4b39cb992842415e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114509,
+ "name": "brush paint art paint brush",
+ "desc": {
+  "text": "uploaded by Devanath",
+  "url": "https://pixabay.com/en/brush-paint-art-paint-brush-1237742/"
+ },
+ "tags": [
+  "brush",
+  "paint",
+  "art",
+  "design",
+  "designer",
+  "style",
+  "texture",
+  "backgrounds",
+  "industry"
+ ]
+}

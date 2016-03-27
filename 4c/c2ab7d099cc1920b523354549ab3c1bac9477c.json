@@ -1,0 +1,23 @@
+{
+ "sha1": "4cc2ab7d099cc1920b523354549ab3c1bac9477c",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ee3cb30f20fc1c3e81584705e2444f91fe76e6d010b118419cf6c6.jpg",
+ "urls": [
+  "https://pixabay.com/get/ee3cb30f20fc1c3e81584705e2444f91fe76e6d010b118419cf6c6_1920.jpg",
+  "https://pixabay.com/goto/bb4d32ca9e274e50/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117983,
+ "name": "ee3cb30f20fc1c3e81584705e2444f91fe76e6d010b118419cf6c6",
+ "desc": {
+  "text": "uploaded by kaboompics",
+  "url": "https://pixabay.com/en/gold-tone-wide-cuff-gold-jewellery-792088/"
+ },
+ "tags": [
+  "gold-tone",
+  "wide",
+  "cuff",
+  "leather"
+ ]
+}

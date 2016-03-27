@@ -1,0 +1,24 @@
+{
+ "sha1": "18d28ed6836df2f487f827425a3fee207395c6c2",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b40b20f1093ecd0b4707e6484e9fe46ae3d11cb8114992f7c07e.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b40b20f1093ecd0b4707e6484e9fe46ae3d11cb8114992f7c07e_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bcd9a27434b5e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117072,
+ "name": "e835b40b20f1093ecd0b4707e6484e9fe46ae3d11cb8114992f7c07e",
+ "desc": {
+  "text": "uploaded by umbertobattista",
+  "url": "https://pixabay.com/en/children-school-africa-color-1054858/"
+ },
+ "tags": [
+  "children",
+  "school",
+  "africa",
+  "education",
+  "windows"
+ ]
+}

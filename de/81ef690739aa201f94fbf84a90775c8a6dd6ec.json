@@ -1,0 +1,23 @@
+{
+ "sha1": "de81ef690739aa201f94fbf84a90775c8a6dd6ec",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ec34b80620f71c3e81584705e2444f91fe76e6d010b1194990f7c3.jpg",
+ "urls": [
+  "https://pixabay.com/get/ec34b80620f71c3e81584705e2444f91fe76e6d010b1194990f7c3_1920.jpg",
+  "https://pixabay.com/goto/bb4f3ac197274550/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459118200,
+ "name": "ec34b80620f71c3e81584705e2444f91fe76e6d010b1194990f7c3",
+ "desc": {
+  "text": "uploaded by Didgeman",
+  "url": "https://pixabay.com/en/strommast-sun-current-high-voltage-519983/"
+ },
+ "tags": [
+  "strommast",
+  "sun",
+  "current",
+  "generated"
+ ]
+}

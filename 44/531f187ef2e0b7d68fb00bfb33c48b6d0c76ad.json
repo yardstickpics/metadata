@@ -1,0 +1,23 @@
+{
+ "sha1": "44531f187ef2e0b7d68fb00bfb33c48b6d0c76ad",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ed3cb00828f51c3e81584705e2444f91fe76e6d010b1194990f7c5.jpg",
+ "urls": [
+  "https://pixabay.com/get/ed3cb00828f51c3e81584705e2444f91fe76e6d010b1194990f7c5_1920.jpg",
+  "https://pixabay.com/goto/bb4e32c9992f4750/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117570,
+ "name": "ed3cb00828f51c3e81584705e2444f91fe76e6d010b1194990f7c5",
+ "desc": {
+  "text": "uploaded by blickpixel",
+  "url": "https://pixabay.com/en/solar-cells-photovoltaic-current-491701/"
+ },
+ "tags": [
+  "solar cells",
+  "photovoltaic",
+  "current",
+  "generated"
+ ]
+}

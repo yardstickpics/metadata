@@ -1,0 +1,23 @@
+{
+ "sha1": "2d59452beb315cc4a99e259cd181f2a25177a4a3",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ee32b9092bfd1c3e81584705e2444f91fe76e6d010b119489cf4c2.jpg",
+ "urls": [
+  "https://pixabay.com/get/ee32b9092bfd1c3e81584705e2444f91fe76e6d010b119489cf4c2_1920.jpg",
+  "https://pixabay.com/goto/bb4d3cc0982c4f50/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115309,
+ "name": "control cabinet power plant",
+ "desc": {
+  "text": "uploaded by AndGra",
+  "url": "https://pixabay.com/en/control-cabinet-power-plant-778639/"
+ },
+ "tags": [
+  "control cabinet",
+  "power plant",
+  "automation",
+  "staff"
+ ]
+}

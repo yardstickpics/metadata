@@ -1,0 +1,23 @@
+{
+ "sha1": "45920c3fab845162d7bd84c2a05907f4835cbfdf",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e837b70f29f7083ecd0b4707e6484e9fe46ae3d11cb8114895f4c97b.jpg",
+ "urls": [
+  "https://pixabay.com/get/e837b70f29f7083ecd0b4707e6484e9fe46ae3d11cb8114895f4c97b_1920.jpg",
+  "https://pixabay.com/goto/bb4b39ce9e2e454a5e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459118061,
+ "name": "e837b70f29f7083ecd0b4707e6484e9fe46ae3d11cb8114895f4c97b",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/objectives-definition-target-1260139/"
+ },
+ "tags": [
+  "objectives",
+  "definition",
+  "target",
+  "specification"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "sha1": "83254e117e675b79ba04c9cc2063461d5e087035",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b5092ef7063ecd0b4707e6484e9fe46ae3d11cb8114895f0c17b.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b5092ef7063ecd0b4707e6484e9fe46ae3d11cb8114895f0c17b_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bcc982945445e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117739,
+ "name": "e835b5092ef7063ecd0b4707e6484e9fe46ae3d11cb8114895f0c17b",
+ "desc": {
+  "text": "uploaded by Peggy_Marco",
+  "url": "https://pixabay.com/en/ferris-wheel-fair-folk-festival-1046637/"
+ },
+ "tags": [
+  "ferris wheel",
+  "fair",
+  "folk festival",
+  "festive",
+  "marketing"
+ ]
+}

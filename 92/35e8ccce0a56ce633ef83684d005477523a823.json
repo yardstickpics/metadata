@@ -1,0 +1,32 @@
+{
+ "sha1": "9235e8ccce0a56ce633ef83684d005477523a823",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e13cb40a20f71c3e81584705e2444f91fe76e6d010b1184196f2c5.png",
+ "urls": [
+  "https://pixabay.com/get/e13cb40a20f71c3e81584705e2444f91fe76e6d010b1184196f2c5_1920.png",
+  "https://pixabay.com/goto/bb4232cd9b274550/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114315,
+ "name": "button icon business business world",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/button-icon-business-business-world-895583/"
+ },
+ "tags": [
+  "button",
+  "icon",
+  "business",
+  "advertise",
+  "advertisement",
+  "analyze",
+  "company",
+  "customer",
+  "customers",
+  "idea",
+  "product",
+  "startup",
+  "strategy"
+ ]
+}

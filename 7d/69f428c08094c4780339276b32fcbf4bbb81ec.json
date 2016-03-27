@@ -1,0 +1,23 @@
+{
+ "sha1": "7d69f428c08094c4780339276b32fcbf4bbb81ec",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ef36b10e2cfd1c3e81584705e2444f91fe76e6d010b1194892f1c8.jpg",
+ "urls": [
+  "https://pixabay.com/get/ef36b10e2cfd1c3e81584705e2444f91fe76e6d010b1194892f1c8_1920.jpg",
+  "https://pixabay.com/goto/bb4c38c89f2b4f50/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459114984,
+ "name": "zebra stripes black and white zoo",
+ "desc": {
+  "text": "uploaded by igorowitsch",
+  "url": "https://pixabay.com/en/zebra-stripes-black-and-white-zoo-630149/"
+ },
+ "tags": [
+  "zebra",
+  "stripes",
+  "black and white",
+  "black"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "sha1": "ef14ee4e9240840f285d6f2f3fab027f6b591073",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b00c2df5073ecd0b4707e6484e9fe46ae3d11cb8114895f3c07e.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b00c2df5073ecd0b4707e6484e9fe46ae3d11cb8114895f3c07e_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc99d2a47455e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115403,
+ "name": "businessmen banner header award",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/businessmen-banner-header-award-1013516/"
+ },
+ "tags": [
+  "businessmen",
+  "banner",
+  "header",
+  "advertise",
+  "marketing",
+  "product",
+  "strategy"
+ ]
+}

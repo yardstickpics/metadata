@@ -1,0 +1,23 @@
+{
+ "sha1": "04b8dea4c4b5ebb3479ee403729d3bf0eae110c1",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e032b7072cf21c3e81584705e2444f91fe76e6d010b1184193f7c0.jpg",
+ "urls": [
+  "https://pixabay.com/get/e032b7072cf21c3e81584705e2444f91fe76e6d010b1184193f7c0_1920.jpg",
+  "https://pixabay.com/goto/bb433cce962b4050/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459118229,
+ "name": "e032b7072cf21c3e81584705e2444f91fe76e6d010b1184193f7c0",
+ "desc": {
+  "text": "uploaded by SCAPIN",
+  "url": "https://pixabay.com/en/signalling-panels-indication-paths-976846/"
+ },
+ "tags": [
+  "signalling",
+  "panels",
+  "indication",
+  "signal"
+ ]
+}

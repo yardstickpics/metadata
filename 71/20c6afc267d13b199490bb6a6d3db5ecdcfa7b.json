@@ -1,0 +1,23 @@
+{
+ "sha1": "7120c6afc267d13b199490bb6a6d3db5ecdcfa7b",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ec31b50e20f41c3e81584705e2444f91fe76e6d010b1194892f7c0.jpg",
+ "urls": [
+  "https://pixabay.com/get/ec31b50e20f41c3e81584705e2444f91fe76e6d010b1194892f7c0_1920.jpg",
+  "https://pixabay.com/goto/bb4f3fcc9f274650/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117321,
+ "name": "ec31b50e20f41c3e81584705e2444f91fe76e6d010b1194892f7c0",
+ "desc": {
+  "text": "uploaded by Patrice_Audet",
+  "url": "https://pixabay.com/en/secretary-office-sales-telephony-544180/"
+ },
+ "tags": [
+  "secretary",
+  "office",
+  "sales",
+  "call"
+ ]
+}

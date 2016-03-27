@@ -1,0 +1,27 @@
+{
+ "sha1": "1ae4755a49cebf2aa77980e441194f00b4821a5d",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ec3db80b2ff11c3e81584705e2444f91fe76e6d010b1194891f4c5.png",
+ "urls": [
+  "https://pixabay.com/get/ec3db80b2ff11c3e81584705e2444f91fe76e6d010b1194891f4c5_1920.png",
+  "https://pixabay.com/goto/bb4f33c19a284350/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113356,
+ "name": "hands businesswoman presentation",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/hands-businesswoman-presentation-589475/"
+ },
+ "tags": [
+  "hands",
+  "businesswoman",
+  "presentation",
+  "button",
+  "company",
+  "connection",
+  "logo",
+  "portable"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "sha1": "50ec22cfdb5966aaa5685b549760b83d4b134387",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b90f20fc023ecd0b4707e6484e9fe46ae3d11cb811499cf9c27a.png",
+ "urls": [
+  "https://pixabay.com/get/e834b90f20fc023ecd0b4707e6484e9fe46ae3d11cb811499cf9c27a_1920.png",
+  "https://pixabay.com/goto/bb4b3ac09e274e405e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114370,
+ "name": "business people team group",
+ "desc": {
+  "text": "uploaded by ArtsyBee",
+  "url": "https://pixabay.com/en/business-people-team-group-1180883/"
+ },
+ "tags": [
+  "business",
+  "people",
+  "team",
+  "company",
+  "staff"
+ ]
+}

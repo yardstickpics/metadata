@@ -1,0 +1,25 @@
+{
+ "sha1": "f18dd2bb64f3743f74a4b0a391e4b0f2155abba6",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ec3cb20c2af71c3e81584705e2444f91fe76e6d010b119489cf5c0.jpg",
+ "urls": [
+  "https://pixabay.com/get/ec3cb20c2af71c3e81584705e2444f91fe76e6d010b119489cf5c0_1920.jpg",
+  "https://pixabay.com/goto/bb4f32cb9d2d4550/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117124,
+ "name": "ec3cb20c2af71c3e81584705e2444f91fe76e6d010b119489cf5c0",
+ "desc": {
+  "text": "uploaded by StartupStockPhotos",
+  "url": "https://pixabay.com/en/students-startup-start-up-notebooks-593323/"
+ },
+ "tags": [
+  "students",
+  "startup",
+  "start-up",
+  "company",
+  "laptop",
+  "notebook"
+ ]
+}

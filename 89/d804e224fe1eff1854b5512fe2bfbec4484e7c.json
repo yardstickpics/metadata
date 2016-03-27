@@ -1,0 +1,24 @@
+{
+ "sha1": "89d804e224fe1eff1854b5512fe2bfbec4484e7c",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b8072af7093ecd0b4707e6484e9fe46ae3d11cb811499df1c471.png",
+ "urls": [
+  "https://pixabay.com/get/e834b8072af7093ecd0b4707e6484e9fe46ae3d11cb811499df1c471_1920.png",
+  "https://pixabay.com/goto/bb4b3ac1962d454b5e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459114769,
+ "name": "thumbs up thumbs down right wrong",
+ "desc": {
+  "text": "uploaded by johnhain",
+  "url": "https://pixabay.com/en/thumbs-up-thumbs-down-right-wrong-1198238/"
+ },
+ "tags": [
+  "thumbs up",
+  "thumbs down",
+  "right",
+  "contrast",
+  "strategy"
+ ]
+}

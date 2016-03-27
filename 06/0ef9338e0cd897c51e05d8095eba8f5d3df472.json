@@ -1,0 +1,23 @@
+{
+ "sha1": "060ef9338e0cd897c51e05d8095eba8f5d3df472",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e032b50b28fd1c3e81584705e2444f91fe76e6d010b1194892f7c5.jpg",
+ "urls": [
+  "https://pixabay.com/get/e032b50b28fd1c3e81584705e2444f91fe76e6d010b1194892f7c5_1920.jpg",
+  "https://pixabay.com/goto/bb433ccc9a2f4f50/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459117096,
+ "name": "e032b50b28fd1c3e81584705e2444f91fe76e6d010b1194892f7c5",
+ "desc": {
+  "text": "uploaded by TechLine",
+  "url": "https://pixabay.com/en/ambulance-doctor-on-call-first-aid-974409/"
+ },
+ "tags": [
+  "ambulance",
+  "doctor on call",
+  "first aid",
+  "call"
+ ]
+}

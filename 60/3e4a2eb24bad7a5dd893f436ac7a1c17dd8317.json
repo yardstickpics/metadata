@@ -1,0 +1,25 @@
+{
+ "sha1": "603e4a2eb24bad7a5dd893f436ac7a1c17dd8317",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e837b20d2df5063ecd0b4707e6484e9fe46ae3d11cb8114992f0c47d.jpg",
+ "urls": [
+  "https://pixabay.com/get/e837b20d2df5063ecd0b4707e6484e9fe46ae3d11cb8114992f0c47d_1920.jpg",
+  "https://pixabay.com/goto/bb4b39cb9c2a47445e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115734,
+ "name": "vintage typewrite retro",
+ "desc": {
+  "text": "uploaded by Zaccaria",
+  "url": "https://pixabay.com/en/vintage-typewrite-retro-1232517/"
+ },
+ "tags": [
+  "vintage",
+  "typewrite",
+  "retro",
+  "all",
+  "photo",
+  "10"
+ ]
+}

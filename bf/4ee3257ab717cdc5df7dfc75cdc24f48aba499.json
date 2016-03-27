@@ -1,0 +1,25 @@
+{
+ "sha1": "bf4ee3257ab717cdc5df7dfc75cdc24f48aba499",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/ed3db50c2ff61c3e81584705e2444f91fe76e6d010b1184196f2c0.png",
+ "urls": [
+  "https://pixabay.com/get/ed3db50c2ff61c3e81584705e2444f91fe76e6d010b1184196f2c0_1920.png",
+  "https://pixabay.com/goto/bb4e33cc9d284450/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113415,
+ "name": "bargain product promotion action",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/bargain-product-promotion-action-484372/"
+ },
+ "tags": [
+  "bargain",
+  "product",
+  "promotion",
+  "advertise",
+  "button",
+  "online"
+ ]
+}

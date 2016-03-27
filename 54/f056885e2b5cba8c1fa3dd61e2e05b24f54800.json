@@ -1,0 +1,26 @@
+{
+ "sha1": "54f056885e2b5cba8c1fa3dd61e2e05b24f54800",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/eb3cb4092cfc1c3e81584705e2444f91fe76e6d010b1184196f9c2.png",
+ "urls": [
+  "https://pixabay.com/get/eb3cb4092cfc1c3e81584705e2444f91fe76e6d010b1184196f9c2_1920.png",
+  "https://pixabay.com/goto/bb4832cd982b4e50/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113299,
+ "name": "stock exchange trading floor",
+ "desc": {
+  "text": "uploaded by geralt",
+  "url": "https://pixabay.com/en/stock-exchange-trading-floor-295648/"
+ },
+ "tags": [
+  "stock exchange",
+  "trading floor",
+  "business",
+  "arrow",
+  "boom",
+  "company",
+  "stock"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "sha1": "c7283f4b2b3627ad5ab69c7600d17d4a608117e3",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e834b90e2df3073ecd0b4707e6484e9fe46ae3d11cb811499cf9c57a.png",
+ "urls": [
+  "https://pixabay.com/get/e834b90e2df3073ecd0b4707e6484e9fe46ae3d11cb811499cf9c57a_1920.png",
+  "https://pixabay.com/goto/bb4b3ac09f2a41455e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113519,
+ "name": "industrial relations management",
+ "desc": {
+  "text": "uploaded by ArtsyBee",
+  "url": "https://pixabay.com/en/industrial-relations-management-1181576/"
+ },
+ "tags": [
+  "industrial",
+  "relations",
+  "management",
+  "staff"
+ ]
+}

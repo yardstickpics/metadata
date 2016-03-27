@@ -1,0 +1,24 @@
+{
+ "sha1": "a099f641e9439dcf962d44fb5811e32565b69c43",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e837b00821fc043ecd0b4707e6484e9fe46ae3d11cb8114895f4c27c.png",
+ "urls": [
+  "https://pixabay.com/get/e837b00821fc043ecd0b4707e6484e9fe46ae3d11cb8114895f4c27c_1920.png",
+  "https://pixabay.com/goto/bb4b39c999264e465e/"
+ ],
+ "ext": "png",
+ "from": "pixabay",
+ "created": 1459113636,
+ "name": "blue red symbol logo button",
+ "desc": {
+  "text": "uploaded by RainbowArt",
+  "url": "https://pixabay.com/en/blue-red-symbol-logo-button-1217985/"
+ },
+ "tags": [
+  "blue",
+  "red",
+  "symbol",
+  "online",
+  "select"
+ ]
+}

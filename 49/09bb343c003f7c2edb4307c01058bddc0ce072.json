@@ -1,0 +1,24 @@
+{
+ "sha1": "4909bb343c003f7c2edb4307c01058bddc0ce072",
+ "lic": "cc0",
+ "url": "https://pixabay.com/get/e835b90f2df6063ecd0b4707e6484e9fe46ae3d11cb811499cf7c37a.jpg",
+ "urls": [
+  "https://pixabay.com/get/e835b90f2df6063ecd0b4707e6484e9fe46ae3d11cb811499cf7c37a_1920.jpg",
+  "https://pixabay.com/goto/bb4b3bc09e2a44445e/"
+ ],
+ "ext": "jpeg",
+ "from": "pixabay",
+ "created": 1459115775,
+ "name": "the strategy win champion",
+ "desc": {
+  "text": "uploaded by jarmoluk",
+  "url": "https://pixabay.com/en/the-strategy-win-champion-1080527/"
+ },
+ "tags": [
+  "the strategy",
+  "win",
+  "champion",
+  "black",
+  "strategy"
+ ]
+}
