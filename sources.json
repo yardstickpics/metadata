@@ -41,6 +41,13 @@
                 "text": "KODAK Photo CD containing 24 photographic quality images of a variety of subjects in many locations, and under a variety of lighting conditions.  Thumbnail size replicas of these images are printed on the cover of the Photo CD case.  Some of the images were created by Kodak's professional photographers; others were selected from the winners of the Kodak International Newspaper Snapshot Awards (KINSA), an annual amateur photo competition sponsored by Kodak and participating newspapers in several countries.",
                 "url": "http://r0k.us/graphics/kodak/"
             }
+        },
+        "tecnick": {
+            "title": "TESTIMAGES.tecnick.com",
+            "desc": {
+                "text": "v4 by Nicola Asuni. We only include a subset: photographic images at 300px and 1200px, and a small subset of test patterns.",
+                "url": "http://testimages.tecnick.com"
+            }
         }
     }
 }
