@@ -1,0 +1,16 @@
+{
+    "pd": {"name":"Public Domain", "url":"https://wiki.creativecommons.org/wiki/Public_domain"},
+    "cc0": {"name":"CC0: Creative Commons Zero", "url":"https://creativecommons.org/publicdomain/zero/1.0/"},
+    "cc-by-1.0": {"name":"CC BY: Creative Commons Attribution (1.0)", "url":"https://creativecommons.org/licenses/by/1.0/"},
+    "cc-by-2.0": {"name":"CC BY: Creative Commons Attribution (2.0)", "url":"https://creativecommons.org/licenses/by/2.0/"},
+    "cc-by-2.5": {"name":"CC BY: Creative Commons Attribution (2.5)", "url":"https://creativecommons.org/licenses/by/2.5/"},
+    "cc-by-3.0": {"name":"CC BY: Creative Commons Attribution (3.0)", "url":"https://creativecommons.org/licenses/by/3.0/"},
+    "cc-by-4.0": {"name":"CC BY: Creative Commons Attribution (4.0)", "url":"https://creativecommons.org/licenses/by/4.0/"},
+    "cc-by-sa-1.0": {"name":"CC BY-SA: Creative Commons Attribution-ShareAlike (1.0)", "url":"https://creativecommons.org/licenses/by-sa/1.0/"},
+    "cc-by-sa-2.0": {"name":"CC BY-SA: Creative Commons Attribution-ShareAlike (2.0)", "url":"https://creativecommons.org/licenses/by-sa/2.0/"},
+    "cc-by-sa-2.5": {"name":"CC BY-SA: Creative Commons Attribution-ShareAlike (2.5)", "url":"https://creativecommons.org/licenses/by-sa/2.5/"},
+    "cc-by-sa-3.0": {"name":"CC BY-SA: Creative Commons Attribution-ShareAlike (3.0)", "url":"https://creativecommons.org/licenses/by-sa/3.0/"},
+    "cc-by-sa-4.0": {"name":"CC BY-SA: Creative Commons Attribution-ShareAlike (4.0)", "url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+    "cc-by-nc-sa-4.0": {"name":"CC BY-NC-SA: Creative Commons Attribution-NonCommercial-ShareAlike (4.0)", "url":"https://creativecommons.org/licenses/by-nc-sa/4.0/"},
+    "kodak": {"name":"Kodak Photo CD attribution", "url":"http://r0k.us/graphics/kodak/PhotoCD_credits.txt"}
+}
