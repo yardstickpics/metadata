@@ -61,6 +61,13 @@
             "desc": {
                 "url": "https://github.com/jhcloos/test_images/tree/master/honolulu"
             }
+        },
+        "richard": {
+            "title": "Richard Clark",
+            "desc": {
+                "text": "Images were made available for the purpose of image quality evaluation by SC29/WG1 (JPEG).",
+                "url": "https://github.com/jhcloos/test_images/tree/master/richard"
+            }
         }
     }
 }

@@ -12,6 +12,7 @@
     "cc-by-sa-3.0": {"name":"CC BY-SA: Creative Commons Attribution-ShareAlike (3.0)", "url":"https://creativecommons.org/licenses/by-sa/3.0/"},
     "cc-by-sa-4.0": {"name":"CC BY-SA: Creative Commons Attribution-ShareAlike (4.0)", "url":"https://creativecommons.org/licenses/by-sa/4.0/"},
     "cc-by-nc-3.0": {"name":"CC BY-NC: Creative Commons Attribution-NonCommercial (3.0)", "url":"https://creativecommons.org/licenses/by-nc/3.0/"},
+    "cc-by-nc-4.0": {"name":"CC BY-NC: Creative Commons Attribution-NonCommercial (4.0)", "url":"https://creativecommons.org/licenses/by-nc/4.0/"},
     "cc-by-nc-sa-3.0": {"name":"CC BY-NC-SA: Creative Commons Attribution-NonCommercial-ShareAlike (3.0)", "url":"https://creativecommons.org/licenses/by-nc-sa/3.0/"},
     "cc-by-nc-sa-4.0": {"name":"CC BY-NC-SA: Creative Commons Attribution-NonCommercial-ShareAlike (4.0)", "url":"https://creativecommons.org/licenses/by-nc-sa/4.0/"},
     "microsoft": {"name":"© Microsoft Corporation", "url":"https://github.com/jhcloos/test_images/blob/master/hdcompare/Microsoft_Reference_Photo_Library_README.pdf"},
