@@ -6,6 +6,8 @@
  "created": 1459080358,
  "name": "img 1680x1050 3x16bit RGB color SMPTE RP 219 2002",
  "tags": [
+  "img:png24 better than jpeg90",
+  "img:compressed",
   "synthetic",
   "pattern"
  ]
