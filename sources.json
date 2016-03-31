@@ -21,6 +21,13 @@
                 "url": "https://www.mediawiki.org/wiki/API:Allimages"
             }
         },
+        "sintel": {
+            "title": "Sintel",
+            "desc": {
+                "text": "Random sample of 16-bit 4K frames from Sintel by Blender Foundation.",
+                "url": "https://durian.blender.org/"
+            }
+        },
         "elephantsdream": {
             "title": "Elephant's Dream",
             "desc": {
