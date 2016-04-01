@@ -9,8 +9,6 @@ The files follow naming pattern `XX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.json`
 The JSON contains fields:
 
 * `sha1` — SHA-1 hash of the file being described (lowercase hex, required).
-* `created` — Unix timestamp when the image was added to the test suite.
-* `updated` — Unix timestamp when the metadata was last updated.
 * `lic` — License (required). See `licenses.json`. One of:
     * `pd` — Public Domain
     * `cc0` — Creative Commons Zero
