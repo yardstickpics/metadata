@@ -89,6 +89,13 @@
                 "text": "Images were made available for the purpose of image quality evaluation by SC29/WG1 (JPEG).",
                 "url": "https://github.com/jhcloos/test_images/tree/master/richard"
             }
+        },
+        "icinfo": {
+            "title": "The New Image Compression Test Set - Jan 2008",
+            "desc": {
+                "text": "These high-resolution high-precision images have been carefully selected to aid in image compression research and algorithm evaluation. These are photographic images chosen to come from a wide variety of sources and each one picked to stress different aspects of algorithms.",
+                "url": "http://imagecompression.info/test_images/"
+            }
         }
     }
 }
