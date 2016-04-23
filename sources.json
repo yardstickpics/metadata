@@ -103,6 +103,13 @@
                 "text": "Artwork for games",
                 "url": "http://opengameart.org/"
             }
+        },
+        "astramael": {
+            "title": "Astramael",
+            "desc": {
+                "text": "Wide-gamut (DCI-P3 with a gamma of 2.6) test images by Astramael",
+                "url": "http://astramael.com"
+            }
         }
     }
 }
