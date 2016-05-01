@@ -1,0 +1,25 @@
+{
+ "sha1": "ecef35bd1e422e5c08a4655fdd61c4753193deeb",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/Watersmeet_panoramic.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Watersmeet panoramic",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35284604"
+ },
+ "tags": [
+  "img:alpha"
+ ],
+ "wiki": {
+  "DateTime": "2012-03-31 18:07:28",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ },
+ "converted": {
+  "from": "772e06827b079d40cd561bf44ffd547bd9ac6bb6",
+  "op": "tiff to png"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "sha1": "d991c3bd48ea8d1611049861d0c3c04c3c65faef",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/35/JSFulton1979.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "JSFulton1979",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42694342",
+  "html": "<p>Coach Stokeley Fulton during the 1979 season.\n</p>"
+ },
+ "tags": [
+  "img:png8 lossless"
+ ],
+ "converted": {
+  "from": "089f9000e02403db142108c0cc3148d7fb39cb0b",
+  "op": "tiff to png"
+ }
+}

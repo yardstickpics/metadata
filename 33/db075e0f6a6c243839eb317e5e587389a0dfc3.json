@@ -1,0 +1,21 @@
+{
+ "sha1": "33db075e0f6a6c243839eb317e5e587389a0dfc3",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Map_of_Boherbue_circa_1655.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Map of Boherbue circa 1655",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43519505",
+  "html": "<p>Map of Boherbue circa 1656 from Downs Survey of Ireland\n</p>"
+ },
+ "tags": [
+  "img:color profile",
+  "files from freely licensed external sources"
+ ],
+ "converted": {
+  "from": "b0717999861a8789354289c88ba8add7c1d3ef08",
+  "op": "tiff to png"
+ }
+}

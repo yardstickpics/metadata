@@ -1,0 +1,16 @@
+{
+ "sha1": "f7feda701a52d32e19c6200f1c4b9632d9da5c38",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/2c/Woolley-John-G-1898.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Woolley-John-G-1898",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37716625"
+ },
+ "converted": {
+  "from": "16f6ae2ae0bc5b0ace7d767424a02699f0aff072",
+  "op": "tiff to png"
+ }
+}

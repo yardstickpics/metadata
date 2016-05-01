@@ -1,0 +1,26 @@
+{
+ "sha1": "0d9dbac16f629026ed459f96b69d8af906fcc26f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Ear_Otic_Polyp_H%26E_LDRT.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Ear Otic Polyp H&E LDRT",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35510610",
+  "html": "<p>Intermediate magnificantion of an H&amp;E stained biopsy of an otic polyp (ear polyp).\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-04-15 21:40:38",
+  "Credit": "<p>Olympus digital camera<br><b>Previously published:</b> none\n</p>",
+  "DateTimeOriginal": "<p>2005-03-22\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Soca1zim&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Soca1zim (page does not exist)\">Soca1zim</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "dd635afa47a36e7b72c976a1f742ff4edf1785cf",
+  "op": "tiff to png"
+ }
+}

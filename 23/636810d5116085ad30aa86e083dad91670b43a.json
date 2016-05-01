@@ -1,0 +1,21 @@
+{
+ "sha1": "23636810d5116085ad30aa86e083dad91670b43a",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/82/Profile_picture_for_Trip_Lee.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Profile picture for Trip Lee",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43759746"
+ },
+ "tags": [
+  "img:color profile",
+  "rappers from the united states",
+  "img:png8 lossless"
+ ],
+ "converted": {
+  "from": "694d15bd4897d284a11d9d209138e89143a95f4c",
+  "op": "tiff to png"
+ }
+}

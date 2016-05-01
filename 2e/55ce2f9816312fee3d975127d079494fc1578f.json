@@ -1,0 +1,21 @@
+{
+ "sha1": "2e55ce2f9816312fee3d975127d079494fc1578f",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/85/Columbus_Delano_Brady_Handy.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Columbus Delano Brady Handy",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36466584",
+  "html": "<p>Columbus Delano retouched photo.\n</p>"
+ },
+ "tags": [
+  "img:alpha",
+  "img:color profile"
+ ],
+ "converted": {
+  "from": "51866609c2c192894428fca925671f14ffdb9c01",
+  "op": "tiff to png"
+ }
+}

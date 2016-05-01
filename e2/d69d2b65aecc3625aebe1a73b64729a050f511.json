@@ -1,0 +1,21 @@
+{
+ "sha1": "e2d69d2b65aecc3625aebe1a73b64729a050f511",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/32/Sammelt_die_Obstkerne_LCCN2004665875_-_from_Commons.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Sammelt die Obstkerne LCCN2004665875 - from Commons",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43103872",
+  "html": "<p><b>English:</b>  <i>Title:</i> Sammelt die Obstkerne\n<i>Abstract:</i> Poster shows a little girl with a backpack holding a fruit pit. Text instructs people to save fruit pits and send them to school with their children or to bring them to the next collection site. Poster was issued by the Kriegsausschuss für Öle und Fette (War Commission for Oils and Fats.)\n<i>Physical description:</i> 1 print (poster) : lithograph, color ; 44 x 58 cm.\n<i>Notes:</i> Forms part of: Rehse-Archiv für Zeitgeschichte und Publizistik.; Gipkens.; Title from item.\n</p>"
+ },
+ "tags": [
+  "images from the library of congress",
+  "world war i posters in the library of congress"
+ ],
+ "converted": {
+  "from": "f44412c3e914e2758d76ba2b80cfa6d36ea6eeb9",
+  "op": "tiff to png"
+ }
+}

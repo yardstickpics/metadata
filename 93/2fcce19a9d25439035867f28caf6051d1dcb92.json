@@ -1,0 +1,20 @@
+{
+ "sha1": "932fcce19a9d25439035867f28caf6051d1dcb92",
+ "lic": "cc-by-4.0",
+ "url": "https://www.eso.org/public/archives/images/original/vlt-laser-potw.tif",
+ "ext": "png",
+ "from": "eso",
+ "created": 1458419441,
+ "name": "vlt-laser-potw",
+ "desc": {
+  "text": "This amazing panorama shows the observing platform of ESO’s Very Large Telescope (VLT) on Cerro Paranal, in Chile. Taken in the early morning, with the Moon still high in the sky, the air of peace and tranquility is in stark contrast to the frantic activity at the observatory. The four giant 8.2-metre Unit Telescopes of the VLT are all targeting specific celestial objects, helping astronomers in their daily quest to understand the mysteries of the Universe. A laser is fired from Unit Telescope 4, Yepun, to help the adaptive optics system of the telescope, and counteract the blurring effect of the atmosphere, allowing very sharp images to be obtained. Meanwhile, three of the four smaller 1.8-metre Auxiliary Telescopes are working together in interferometric mode to obtain an even more detailed view of a different cosmic object. \r\n\r\n\r\nCredit:\r\nESO/H.H. Heyer"
+ },
+ "tags": [
+  "img:color profile",
+  "space"
+ ],
+ "converted": {
+  "from": "09f357c01aafdb13c36a6e45eae08043e495b255",
+  "op": "tiff to png"
+ }
+}

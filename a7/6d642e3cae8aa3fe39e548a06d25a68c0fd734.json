@@ -1,0 +1,21 @@
+{
+ "sha1": "a76d642e3cae8aa3fe39e548a06d25a68c0fd734",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Auch_du_sollst_beitreten_zur_Reichswehr_LCCN2004665873_-_from_Commons.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Auch du sollst beitreten zur Reichswehr LCCN2004665873 - from Commons",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43103958",
+  "html": "<p><b>English:</b>  <i>Title:</i> Auch du sollst beitreten zur Reichswehr\n<i>Abstract:</i> Poster shows German soldier pointing at viewer. Text: You, too, should join the Reichswehr. Therefore, sign up at the next enlistment post, Reichswehr-Gruppen-Kommando no. 4 (Bavarian), Möhl, Major General.\n<i>Physical description:</i> 1 print (poster) : lithograph, color ; 115 x 90 cm.\n<i>Notes:</i> Forms part of: Rehse-Archiv für Zeitgeschichte und Publizistik.; J.U. Engelhard, '19.; Title from item.\n</p>"
+ },
+ "tags": [
+  "images from the library of congress",
+  "world war i posters in the library of congress"
+ ],
+ "converted": {
+  "from": "8a5fe22914d1590c21c30025c97927ff249d9565",
+  "op": "tiff to png"
+ }
+}

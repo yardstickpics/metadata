@@ -1,0 +1,21 @@
+{
+ "sha1": "3186722511a5bf1d44c9bf7cbfe447f37a880d9f",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f1/Deutschlands_ideale_Zukunft_unter_der_Herrschaft_des_Bolschewisten_LCCN2004665972_-_from_Commons.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Deutschlands ideale Zukunft unter der Herrschaft des Bolschewisten LCCN2004665972 - from Commons",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43104321",
+  "html": "<p><b>English:</b>  <i>Title:</i> Deutschlands ideale Zukunft unter der Herrschaft des Bolschewisten\n<i>Abstract:</i> Poster shows a gigantic Russian man standing on the burning ruins of a city. Text: Germany's ideal future under the leadership of the Bolsheviks. Poster issued by the Association to Combat Bolshevism.\n<i>Physical description:</i> 1 print (poster) : lithograph, color ; 124 x 93 cm.\n<i>Notes:</i> Forms part of: Rehse-Archiv für Zeitgeschichte und Publizistik.; M. Kassin.; Title from item.\n</p>"
+ },
+ "tags": [
+  "images from the library of congress",
+  "world war i posters in the library of congress"
+ ],
+ "converted": {
+  "from": "24ada1b742dbc0bbf0e702cf5e1069eeca8f2b0a",
+  "op": "tiff to png"
+ }
+}

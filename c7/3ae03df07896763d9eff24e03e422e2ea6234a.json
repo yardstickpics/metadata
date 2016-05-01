@@ -1,0 +1,17 @@
+{
+ "sha1": "c73ae03df07896763d9eff24e03e422e2ea6234a",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_levator_and_coccygeus_muscles_seen_from_above._After_Toldt%2C_1919.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "The levator and coccygeus muscles seen from above. After Toldt, 1919",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=48010709",
+  "html": "<p>This is cleaned version of figure 919 from Toldt's <i>An atlas of human anatomy for students and physicians</i>[<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://archive.org/stream/atlasofhumananat34told#page/n5/mode/2up\">[1]</a>]. It shows a downwards view of the pelvic region and associated musculature. The hip bones have been pulled apart.\n</p>"
+ },
+ "converted": {
+  "from": "7fc11d6b35332e8079b68eb785cadadea45801f7",
+  "op": "tiff to png"
+ }
+}

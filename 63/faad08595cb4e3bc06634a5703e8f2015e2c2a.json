@@ -1,0 +1,25 @@
+{
+ "sha1": "63faad08595cb4e3bc06634a5703e8f2015e2c2a",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/dc/Lanny_picture.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Lanny picture",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33994369"
+ },
+ "tags": [
+  "img:color profile"
+ ],
+ "wiki": {
+  "DateTime": "2011-12-08 14:45:30",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ },
+ "converted": {
+  "from": "4a02832c7d0dc47f1f7e6eaaa6dcfa13249f8513",
+  "op": "tiff to png"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "sha1": "07391241194b5964659c37c4392c22158c4e8e13",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Logo_cos_sop.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Logo cos sop",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=29871797",
+  "html": "<p>Georgia Tech School of Physics logo\n</p>"
+ },
+ "tags": [
+  "img:png8 better than jpeg75",
+  "academic institution logos",
+  "georgia institute of technology",
+  "images with trademarks",
+  "img:png8 better than jpeg90"
+ ],
+ "converted": {
+  "from": "c2d31ce49f0df05df6d1bac1b9749c8524fc9373",
+  "op": "tiff to png"
+ }
+}

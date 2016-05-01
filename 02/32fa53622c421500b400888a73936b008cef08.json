@@ -1,0 +1,20 @@
+{
+ "sha1": "0232fa53622c421500b400888a73936b008cef08",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/93/Cummins-Albert-Baird-1911.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Cummins-Albert-Baird-1911",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42978028"
+ },
+ "tags": [
+  "img:16-bit",
+  "images from the library of congress"
+ ],
+ "converted": {
+  "from": "a1777c61ee9d9b9908f01c297fb9a43a57b0a5fd",
+  "op": "tiff to png"
+ }
+}

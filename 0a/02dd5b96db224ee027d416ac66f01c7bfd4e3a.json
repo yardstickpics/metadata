@@ -1,0 +1,21 @@
+{
+ "sha1": "0a02dd5b96db224ee027d416ac66f01c7bfd4e3a",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8b/Das_Gold_den_Vaterland%21_LCCN2004665849_-_from_Commons.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Das Gold den Vaterland! LCCN2004665849 - from Commons",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43104137",
+  "html": "<p><b>English:</b>  <i>Title:</i> Das  Gold den Vaterland!\n<i>Abstract:</i> Poster shows a medallion designed by Hermann Hosaeus with the motto: Gold gab ich zur Wehr, Eisen nahm ich zur Ehr. The medallion depicts a woman in profile holding a medal on a chain in her outstretched hand. Text urges people to increase German gold reserves by bringing jewelry to gold dealers.\n<i>Physical description:</i> 1 print (poster) : lithograph, color ; 93 x 142 cm.\n<i>Notes:</i> Forms part of: Rehse-Archiv für Zeitgeschichte und Publizistik.; Bernhard.; Stamped in ink on poster: Goldankaufsstelle Zweibrücken, Geschättsraum, Rheinische Creditsbank...iale.; Title from item.\n</p>"
+ },
+ "tags": [
+  "images from the library of congress",
+  "world war i posters in the library of congress"
+ ],
+ "converted": {
+  "from": "6f3143cd2d074f5d9597182127384d6db4798c65",
+  "op": "tiff to png"
+ }
+}

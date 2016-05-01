@@ -1,0 +1,29 @@
+{
+ "sha1": "a5616089d06e159db92567900db5f3a60fb2b53e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/82/Carousel_Riders.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Carousel Riders",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=29828219",
+  "html": "<p>A mother and child share a ride on the pony Paint.\n</p>"
+ },
+ "tags": [
+  "img:color profile"
+ ],
+ "wiki": {
+  "DateTime": "2010-12-01 04:29:57",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/w/index.php?title=User:Natemford&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Natemford (page does not exist)\">Natemford</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Natemford\" title=\"User talk:Natemford\">talk</a>)) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>2010-04-25\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Natemford&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Natemford (page does not exist)\">Natemford</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Natemford\" title=\"User talk:Natemford\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "e6966d9438717d2f7a29b1b4f22228a2105e5984",
+  "op": "tiff to png"
+ }
+}

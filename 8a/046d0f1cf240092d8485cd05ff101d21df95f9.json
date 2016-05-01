@@ -1,0 +1,31 @@
+{
+ "sha1": "8a046d0f1cf240092d8485cd05ff101d21df95f9",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/26/Knowledge_Integration_Map_%28KIM%29.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Knowledge Integration Map (KIM)",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37648442",
+  "html": "<p>Knowledge Integration Maps (KIM) are a discipline-specific form of concept map. KIM drawing areas are divided into areas to facilitate clustering of related concepts. The example KIM divides biological concepts into the areas \"genotype\" and \"phenotype\".\n</p>"
+ },
+ "tags": [
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75",
+  "img:png8 lossless"
+ ],
+ "wiki": {
+  "DateTime": "2012-11-15 08:03:58",
+  "Credit": "<p>This KIM has been created using the concept mapping tool Cmap.\n</p>",
+  "DateTimeOriginal": "<p>2011-11-5\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Bschwendimann\" title=\"User:Bschwendimann\">Bschwendimann</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "5efc78e9eeeb3ade05423a71e99420436bce4422",
+  "op": "tiff to png"
+ }
+}

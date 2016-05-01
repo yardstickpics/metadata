@@ -1,0 +1,22 @@
+{
+ "sha1": "bb7828805ff7a75388670e593b0a9bb7dfee776d",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/74/Zeichnet_8._Kriegsanleihe_LCCN2004666157_-_from_Commons.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Zeichnet 8. Kriegsanleihe LCCN2004666157 - from Commons",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43104263",
+  "html": "<p><b>English:</b>  <i>Title:</i> Zeichnet 8. Kriegsanleihe\n<i>Abstract:</i> Poster shows head of a goddess(?) wearing a crown in the shape of a castle or fort. Text: Subscribe to the 8th War Loan. K.K. Priv. Wiener Bank Verein.\n<i>Physical description:</i> 1 print (poster) : lithograph, color ; 95 x 63 cm.\n<i>Notes:</i> Forms part of: Rehse-Archiv für Zeitgeschichte und Publizistik.; K. Sterrer.; Title from item.\n</p>"
+ },
+ "tags": [
+  "img:color profile",
+  "images from the library of congress",
+  "world war i posters in the library of congress"
+ ],
+ "converted": {
+  "from": "07346ad644012a3da155307ae3ca49893ee8acf7",
+  "op": "tiff to png"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "sha1": "7ddbc74fa1477408112438cb396eb9a0af7d777d",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Resilience_Basis_Metrics.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Resilience Basis Metrics",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42163688",
+  "html": "<p>This graphics provides a tie between the areas of resilience and terminology in a simple to understand graphic.\n</p>"
+ },
+ "tags": [
+  "img:png24 better than jpeg90",
+  "img:png24 better than jpeg75",
+  "united states government images",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75",
+  "img:png8 lossless"
+ ],
+ "converted": {
+  "from": "e47c0f49c98f1e93f1e4f5f04902e32d139eb67d",
+  "op": "tiff to png"
+ }
+}

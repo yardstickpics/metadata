@@ -1,0 +1,17 @@
+{
+ "sha1": "ad8a7f0fe98f8f8643e95e0733fd8f6a35ad3bb7",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Seal_of_California%2C_1860s%2C_Envelope_printed_by_Magee_of_316_Chestnut_St_Philadelphia.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Seal of California, 1860s, Envelope printed by Magee of 316 Chestnut St Philadelphia",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40980988",
+  "html": "<p>Seal of California, 1860s, Envelope printed by Magee of 316 Chestnut St Philadelphia\n</p>"
+ },
+ "converted": {
+  "from": "fb07bfc1a788f1f27f125eebcf93d4727172bb26",
+  "op": "tiff to png"
+ }
+}

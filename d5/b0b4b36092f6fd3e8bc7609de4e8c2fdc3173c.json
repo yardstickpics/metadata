@@ -1,0 +1,20 @@
+{
+ "sha1": "d5b0b4b36092f6fd3e8bc7609de4e8c2fdc3173c",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/34/Upagainstit1912.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Upagainstit1912",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47007417",
+  "html": "<p>Scene from the IMP film 'Up Against It' (1912).; King Baggot and William Robert Daly in a scene from the film.\n</p>"
+ },
+ "tags": [
+  "img:color profile"
+ ],
+ "converted": {
+  "from": "1a7afda6f2fbc7d94fc961a827beb7a412b9220f",
+  "op": "tiff to png"
+ }
+}

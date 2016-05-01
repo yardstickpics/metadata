@@ -1,0 +1,20 @@
+{
+ "sha1": "fe1ac11e2452344932864f424b4206c21178f897",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/05/Ulysses_S._Grant_Third_Term_Attempt_Trapeze_Cartoon_1880.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Ulysses S. Grant Third Term Attempt Trapeze Cartoon 1880",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36293217",
+  "html": "<p>Ulysses S. Grant cartoon from Democratic Puck magazine.\n</p>"
+ },
+ "tags": [
+  "img:alpha"
+ ],
+ "converted": {
+  "from": "461c5bcf4d38373677c9ccb80c7b7fe369ede20e",
+  "op": "tiff to png"
+ }
+}

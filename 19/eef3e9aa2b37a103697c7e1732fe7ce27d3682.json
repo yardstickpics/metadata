@@ -1,0 +1,26 @@
+{
+ "sha1": "19eef3e9aa2b37a103697c7e1732fe7ce27d3682",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/bf/Elastofibroma_stained_with_elastic_stain_LDRT.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Elastofibroma stained with elastic stain LDRT",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35954559",
+  "html": "<p>A high power photomicrograph of an elastic stained elastofibroma.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-05-27 19:48:34",
+  "Credit": "<p>Spot digital camera\n</p>",
+  "DateTimeOriginal": "<p>2005-03-22\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Soca1zim&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Soca1zim (page does not exist)\">Soca1zim</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "2629237c7c802708a001405706a7febbda538ca6",
+  "op": "tiff to png"
+ }
+}

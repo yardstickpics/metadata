@@ -1,0 +1,25 @@
+{
+ "sha1": "abe8a897bd4832437804d5363c2b4cf0689a58b6",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5f/Kohl.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Kohl",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=32558296"
+ },
+ "tags": [
+  "img:color profile"
+ ],
+ "wiki": {
+  "DateTime": "2011-07-28 05:58:59",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "afe5ef5ba74754330026dd2c7833381386aee212",
+  "op": "tiff to png"
+ }
+}

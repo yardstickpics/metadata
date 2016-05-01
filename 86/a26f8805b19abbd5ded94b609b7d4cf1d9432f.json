@@ -1,0 +1,29 @@
+{
+ "sha1": "86a26f8805b19abbd5ded94b609b7d4cf1d9432f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Ashwagandha.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Ashwagandha",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36241169",
+  "html": "<p>Flowering ashwagandha plant.\n</p>"
+ },
+ "tags": [
+  "img:color profile"
+ ],
+ "wiki": {
+  "DateTime": "2012-06-25 03:23:49",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2011-06-24\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Wowbobwow12\" title=\"User:Wowbobwow12\">Wowbobwow12</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "8cf92333c68aafa92533b647a737234330d6b543",
+  "op": "tiff to png"
+ }
+}

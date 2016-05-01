@@ -1,0 +1,23 @@
+{
+ "sha1": "26362905bf8c9103aafa7bee88c43cb624cf05d6",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5b/UNITED_logo.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "UNITED logo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31808424"
+ },
+ "tags": [
+  "img:png24 better than jpeg75",
+  "img:png24 better than jpeg90",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75",
+  "img:png8 lossless"
+ ],
+ "converted": {
+  "from": "aadfec2e8643185cc6622d3ac6a20fcc2986ab1b",
+  "op": "tiff to png"
+ }
+}

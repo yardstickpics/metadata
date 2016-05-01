@@ -1,0 +1,26 @@
+{
+ "sha1": "1eac20001110c209e43f1dcd40a3060eacba2ad8",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/View_of_Sanaka_from_River_Bridge.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "View of Sanaka from River Bridge",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46601225",
+  "html": "<p>Panoramic view of city\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-05-04 00:58:37",
+  "Credit": "<p>I made it on comp\n</p>",
+  "DateTimeOriginal": "<p>2015-04-03\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Aidansi384&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Aidansi384 (page does not exist)\">Aidansi384</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "230f055d91c31dfdbc6bbf318eafaab1fcacd900",
+  "op": "tiff to png"
+ }
+}

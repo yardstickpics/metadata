@@ -1,0 +1,28 @@
+{
+ "sha1": "9d75d150135d15f2b6b140770d370db58b35eb8c",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/ACT_2_CAM_young_people_screen_acting_.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507656,
+ "name": "ACT 2 CAM young people screen acting ",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46981063",
+  "html": "<p>ACT 2 CAM ; Young people screen acting\n</p>"
+ },
+ "tags": [
+  "img:16-bit"
+ ],
+ "wiki": {
+  "DateTime": "2015-06-15 00:11:44",
+  "Credit": "<p>Own work\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Obsteve&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Obsteve (page does not exist)\">Obsteve</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Obsteve\" title=\"User talk:Obsteve\">talk</a>) (<a href=\"//en.wikipedia.org/wiki/Special:ListFiles/Obsteve\" title=\"Special:ListFiles/Obsteve\">Uploads</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "d1ea6d2f91d65ce849ea593c08dc8d065e051873",
+  "op": "tiff to png"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "sha1": "fe693d30472e10aba48bb287a73c8e9b8533a1cb",
+ "lic": "cc-by-4.0",
+ "url": "https://www.eso.org/public/archives/images/original/eso0826a.tif",
+ "ext": "png",
+ "from": "eso",
+ "created": 1458419675,
+ "name": "eso0826a",
+ "desc": {
+  "text": "Artist's impression of the laser comb developed for astronomy. Such a laser comb is necessary to act as a 'ruler' for calibrating the new, extremely precise spectrographs that will be needed in the future to search for Earth-like planets or measure the expansion of the Universe. To test this laser comb, a team of scientists went to the telescope and analysed the light coming from the Sun. The light from the Sun was coupled to an optical fibre that guides it to a spectrograph (prism) in order to resolve its spectral lines. The spectral lines from the Sun appear as dark bands because they represent the wavelengths of light that has been absorbed by the Sun's photosphere as it emerges from deeper within it. Superimposed are many short, bright (white) spectral lines of the laser frequency comb that serve for calibration. The spectrum shown is the real observed one.\r\n\r\nCredit:\r\nESO"
+ },
+ "tags": [
+  "img:color profile",
+  "space"
+ ],
+ "converted": {
+  "from": "c959727ea47bd3076ef1af24f251c2cffaf93143",
+  "op": "tiff to png"
+ }
+}

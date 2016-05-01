@@ -1,0 +1,20 @@
+{
+ "sha1": "199d91e93d31e76c7bdc40043dbbcfac26c5c8c1",
+ "lic": "cc-by-4.0",
+ "url": "https://www.eso.org/public/archives/images/original/potw1050a.tif",
+ "ext": "png",
+ "from": "eso",
+ "created": 1458419742,
+ "name": "potw1050a",
+ "desc": {
+  "text": "As soon as the Sun sets over the Chilean Atacama Desert, ESO’s Very Large Telescope (VLT) begins catching light from the far reaches of the Universe. The VLT has four 8.2-metre Unit Telescopes such as the one shown in the photograph. Many of the photons — particles of light — that are collected have travelled through space for billions of years before reaching the telescope’s primary mirror. The giant mirror acts like a high-tech “light bucket”, gathering as many photons as possible and sending them to sensitive detectors. Careful analysis of the data from these instruments allows astronomers to unravel the mysteries of the cosmos.\r\n\r\nThe telescopes have a variety of instruments, which allow them to observe in a range of wavelengths from near-ultraviolet to mid-infrared. The VLT also boasts advanced adaptive optics systems, which counteract the blurring effects of the Earth's atmosphere, producing images so sharp that they could almost have been taken in space.\r\n\r\n\r\nCredit:\r\nESO/José Francisco Salgado (josefrancisco.org)"
+ },
+ "tags": [
+  "img:color profile",
+  "space"
+ ],
+ "converted": {
+  "from": "c220039bd5794cf4c5453004e2569f0375857f30",
+  "op": "tiff to png"
+ }
+}

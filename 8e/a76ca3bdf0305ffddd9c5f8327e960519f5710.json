@@ -1,0 +1,25 @@
+{
+ "sha1": "8ea76ca3bdf0305ffddd9c5f8327e960519f5710",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Figure_6.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Figure 6",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=31815766"
+ },
+ "tags": [
+  "watches"
+ ],
+ "wiki": {
+  "DateTime": "2011-05-18 15:41:41",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ },
+ "converted": {
+  "from": "0d12701cb6f6121698a0f743e4ae58af4ca58e9b",
+  "op": "tiff to png"
+ }
+}

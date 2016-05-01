@@ -1,0 +1,21 @@
+{
+ "sha1": "8333a68c9381cedd3eab8ce36d8dde719144e01d",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/03/The_Merchants_Fund%2C_Original_Board_of_Managers%2C_1853.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "The Merchants Fund, Original Board of Managers, 1853",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=40866825",
+  "html": "<p>These board meeting minutes from 1853 list the original board of managers for The Merchants Fund, a Philadelphia charity established to provide aid to struggling merchants.\n</p>"
+ },
+ "tags": [
+  "img:color profile",
+  "possibly free images"
+ ],
+ "converted": {
+  "from": "ed45c5a6b8ea68feaeb01bb217210c85fae54a5a",
+  "op": "tiff to png"
+ }
+}

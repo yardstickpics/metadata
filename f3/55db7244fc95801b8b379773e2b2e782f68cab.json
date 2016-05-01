@@ -1,0 +1,20 @@
+{
+ "sha1": "f355db7244fc95801b8b379773e2b2e782f68cab",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/27/BBBSNN_2010_Match_Photo.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "BBBSNN 2010 Match Photo",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=29928903",
+  "html": "<p>Macy Burnham &amp; his Little Brother Mickael\n</p>"
+ },
+ "tags": [
+  "img:color profile"
+ ],
+ "converted": {
+  "from": "5bf80d5a5db22cd41f46b46477932fcf8ad3b006",
+  "op": "tiff to png"
+ }
+}

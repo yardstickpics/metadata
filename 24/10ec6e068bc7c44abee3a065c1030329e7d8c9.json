@@ -1,0 +1,17 @@
+{
+ "sha1": "2410ec6e068bc7c44abee3a065c1030329e7d8c9",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/12/IdaMoreyRiley_portrait18901901.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "IdaMoreyRiley portrait18901901",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45242204",
+  "html": "<p>Portrait of the Co-Founder and First Co-President of Columbia College Chicago of Chicago, Illinois (founded as the Columbia School of Oratory in 1890, Ida Morey Riley (b. 1856, d. 1901).\n</p>"
+ },
+ "converted": {
+  "from": "5dfa11794965d3e8e9ba030ea6f6de0b88ad0e3b",
+  "op": "tiff to png"
+ }
+}

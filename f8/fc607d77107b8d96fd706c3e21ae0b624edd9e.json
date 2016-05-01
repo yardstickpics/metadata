@@ -1,0 +1,20 @@
+{
+ "sha1": "f8fc607d77107b8d96fd706c3e21ae0b624edd9e",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Plan_of_Ballihisar%2C_Charles_Texier_1834.jpg.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Plan of Ballihisar, Charles Texier 1834.jpg",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=38357327",
+  "html": "<p>Hypothetic map of Ballihisar (Pessinus) by Charles Texier (1834).\n</p>"
+ },
+ "tags": [
+  "pre-1996 pd in home country us public domain images"
+ ],
+ "converted": {
+  "from": "0974945d3cca0ef3a18416e5c5bab26efc789d69",
+  "op": "tiff to png"
+ }
+}

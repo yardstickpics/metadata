@@ -1,0 +1,22 @@
+{
+ "sha1": "5a6de5de1698e3359f9c9f63a543b879b5f9ad1a",
+ "lic": "cc0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/COL_RAJIV_CHAUDHARY.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "COL RAJIV CHAUDHARY",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37604562"
+ },
+ "wiki": {
+  "DateTime": "2012-11-11 07:27:24",
+  "UsageTerms": "Creative Commons Zero, Public Domain Dedication",
+  "AttributionRequired": "false",
+  "LicenseUrl": "creativecommons.org/publicdomain/zero/1.0/deed.en"
+ },
+ "converted": {
+  "from": "279968a2a4eb61118ba3680bf49e86b8f341576d",
+  "op": "tiff to png"
+ }
+}

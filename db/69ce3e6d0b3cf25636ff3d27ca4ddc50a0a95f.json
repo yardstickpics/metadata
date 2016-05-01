@@ -1,0 +1,21 @@
+{
+ "sha1": "db69ce3e6d0b3cf25636ff3d27ca4ddc50a0a95f",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/76/John_A_J_Creswell_Brady-Handy_Photograph_Collection.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "John A J Creswell Brady-Handy Photograph Collection",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=38854892",
+  "html": "<p>U.S. Postmaster John A. J. Creswell\n</p>"
+ },
+ "tags": [
+  "img:color profile",
+  "img:png8 lossless"
+ ],
+ "converted": {
+  "from": "8838384eee3b54f3c56eceb19c44fe303525a351",
+  "op": "tiff to png"
+ }
+}

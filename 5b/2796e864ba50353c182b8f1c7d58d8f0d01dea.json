@@ -1,0 +1,26 @@
+{
+ "sha1": "5b2796e864ba50353c182b8f1c7d58d8f0d01dea",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/36/Maksat_B._Idenov.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Maksat B. Idenov",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36717352",
+  "html": "<p>Maksat B. Idenov\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-08-14 05:06:40",
+  "Credit": "<p>Photograph from Conference\n</p>",
+  "DateTimeOriginal": "<p>2004-01\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Atrofimov&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Atrofimov (page does not exist)\">Atrofimov</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "44c2c21301157f514bb9c63341111ec6d75d3469",
+  "op": "tiff to png"
+ }
+}

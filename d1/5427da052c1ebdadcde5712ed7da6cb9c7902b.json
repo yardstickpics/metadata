@@ -1,0 +1,20 @@
+{
+ "sha1": "d15427da052c1ebdadcde5712ed7da6cb9c7902b",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/Greaterthanfame1920.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Greaterthanfame1920",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47249767",
+  "html": "<p>Still from <i>Greater Than Fame</i> (1920 film)\n</p>"
+ },
+ "tags": [
+  "img:color profile"
+ ],
+ "converted": {
+  "from": "0b0792d72d734db7f54455d3f06cef245d06eff4",
+  "op": "tiff to png"
+ }
+}

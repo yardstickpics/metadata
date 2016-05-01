@@ -1,0 +1,20 @@
+{
+ "sha1": "23e7de202567ccaa3e948c0b777110fe1cad8232",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Vasily_Pavlovich_Kravkov.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Vasily Pavlovich Kravkov",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44931000",
+  "html": "<p>Vasily Pavlovich Kravkov was the Imperial Russian Army medical officer, Privy Councilor (1917), author of diaries of the Russo-Japanese War and World War I.\n</p>"
+ },
+ "tags": [
+  "pre-1996 pd in home country us public domain images"
+ ],
+ "converted": {
+  "from": "09748861efc30d266cb060d59786fab21027f308",
+  "op": "tiff to png"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "sha1": "5893d0e4e0e9401ed993085a2e07d94452f13c60",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/7d/Hobbs_signing_autographs.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Hobbs signing autographs",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37479436",
+  "html": "<p>A group of children asking Jack Hobbs for his autograph in 1920\n</p>"
+ },
+ "tags": [
+  "img:color profile",
+  "img:png8 lossless"
+ ],
+ "converted": {
+  "from": "adea46265ba5a539c54a0702289c50321aa892d2",
+  "op": "tiff to png"
+ }
+}

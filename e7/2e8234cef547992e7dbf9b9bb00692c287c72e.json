@@ -1,0 +1,26 @@
+{
+ "sha1": "e72e8234cef547992e7dbf9b9bb00692c287c72e",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e3/Gunnar_Taucher%2C_Aleksis_Kivi_School%2C_Helsinki.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Gunnar Taucher, Aleksis Kivi School, Helsinki",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42473495",
+  "html": "<p>Gunnar Taucher, Aleksis Kivi School, Helsinki (1934)\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2014-04-12 13:35:23",
+  "Credit": "<p>Brahen kenttä, Helsinki\n</p>",
+  "DateTimeOriginal": "<p>2014-4-11\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:TTKK\" title=\"User:TTKK\">TTKK</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "0d1531134335184a66f4b7dd180a45fd3715ac73",
+  "op": "tiff to png"
+ }
+}

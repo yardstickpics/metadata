@@ -1,0 +1,22 @@
+{
+ "sha1": "c3078db53a1cb1085104d16cbfd9e9c171b8ae3b",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Fetal_Rhabdomyoma_Ear_HE_LDRT.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Fetal Rhabdomyoma Ear HE LDRT",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=34749514"
+ },
+ "wiki": {
+  "DateTime": "2012-02-15 17:20:48",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ },
+ "converted": {
+  "from": "67ad74b6fd83ccba1ee16de62a638e8f0017a6f7",
+  "op": "tiff to png"
+ }
+}

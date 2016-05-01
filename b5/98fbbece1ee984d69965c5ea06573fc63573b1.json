@@ -1,0 +1,21 @@
+{
+ "sha1": "b598fbbece1ee984d69965c5ea06573fc63573b1",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/89/StokeleyFulton1972.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "StokeleyFulton1972",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42676043",
+  "html": "<p><b>English:</b>  Coach Stokeley Fulton at Hampden-Sydney\n</p>"
+ },
+ "tags": [
+  "files from freely licensed external sources",
+  "img:png8 lossless"
+ ],
+ "converted": {
+  "from": "7b8e8b545a365d3fd6a58fd4b53310dab56fed9d",
+  "op": "tiff to png"
+ }
+}

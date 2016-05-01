@@ -1,0 +1,30 @@
+{
+ "sha1": "fafdd604beb3fccfd11db1f16d9d07111eed7ca2",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/96/ChobaniLaColombe_224.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "ChobaniLaColombe 224",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=49531544",
+  "html": "<p>Hamdi Ulukaya in SoHo Cafe\n</p>"
+ },
+ "tags": [
+  "img:color profile"
+ ],
+ "wiki": {
+  "DateTime": "2016-02-24 12:36:08",
+  "Credit": "<p>Chobani\n</p>",
+  "DateTimeOriginal": "<p>12:36, 24 February 2016 (UTC)\n</p>",
+  "Artist": "<p>Chobani\n</p>",
+  "Permission": "<table class=\"plainlinks imbox imbox-style\" role=\"presentation\"><tr>\n<td class=\"mbox-image\"><a href=\"//en.wikipedia.org/wiki/File:Crystal_file_temporary.png\" class=\"image\"><img alt=\"Crystal file temporary.png\" src=\"//upload.wikimedia.org/wikipedia/commons/c/cd/Crystal_file_temporary.png\" width=\"64\" height=\"64\" data-file-width=\"64\" data-file-height=\"64\"></a></td>\n<td class=\"mbox-text\">\n<b>An email containing details of the permission for this file has been sent in accordance with  <a href=\"//en.wikipedia.org/wiki/Wikipedia:Volunteer_Response_Team\" title=\"Wikipedia:Volunteer Response Team\">WP:OTRS</a>.</b>\n<p><i>Note to uploaders:</i>\nPlease copy the URL of this image or article in the email to assist OTRS volunteers to find it. If an email cannot be found in the OTRS system, the content may be deleted for lack of valid licensing information.<br><i>Note to OTRS volunteers:</i> If the email contains sufficient confirmation of the validity of the license, please replace this template with <span class=\"nowrap\">{{<a href=\"//en.wikipedia.org/wiki/Template:OTRS_permission\" title=\"Template:OTRS permission\">OTRS permission</a>|id=Ticket number}}</span> and consider moving to <a href=\"//commons.wikimedia.org/wiki/Main_page\" class=\"extiw\" title=\"commons:Main page\">Commons</a>. Otherwise, nominate the file for deletion or delete it.\n</p>\n<small>Please be aware that there is currently a 130-day backlog processing messages sent to the permissions-en queue.</small>\n</td>\n</tr></table>\n<p><br></p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "265b410fdca442e2aa4833dc87adf58fefed4115",
+  "op": "tiff to png"
+ }
+}

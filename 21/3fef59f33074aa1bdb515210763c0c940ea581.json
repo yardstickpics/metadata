@@ -1,0 +1,19 @@
+{
+ "sha1": "213fef59f33074aa1bdb515210763c0c940ea581",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b7/FirstConnLake.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "FirstConnLake",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=34875131"
+ },
+ "tags": [
+  "united states government images"
+ ],
+ "converted": {
+  "from": "509cce8948720c019d4e33ff8db3bbd8ff19c54b",
+  "op": "tiff to png"
+ }
+}

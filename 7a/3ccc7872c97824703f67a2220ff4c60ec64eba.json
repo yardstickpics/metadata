@@ -1,0 +1,32 @@
+{
+ "sha1": "7a3ccc7872c97824703f67a2220ff4c60ec64eba",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/9c/Molecular_components_of_chaperone-mediated_autophagy.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Molecular components of chaperone-mediated autophagy",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=37860291",
+  "html": "<p>Molecular components of chaperone-mediated autophagy\n</p>"
+ },
+ "tags": [
+  "img:png24 better than jpeg90",
+  "img:color profile",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
+ ],
+ "wiki": {
+  "DateTime": "2012-12-07 16:03:25",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2012-04-27\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Cuervolab&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cuervolab (page does not exist)\">Cuervolab</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "d2547e4ce372b1153f27934f7acfa6fed99cc675",
+  "op": "tiff to png"
+ }
+}

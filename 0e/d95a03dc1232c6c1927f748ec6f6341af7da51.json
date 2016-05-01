@@ -1,0 +1,33 @@
+{
+ "sha1": "0ed95a03dc1232c6c1927f748ec6f6341af7da51",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/d/d9/Error_of_a_Monte_Carlo_integration_to_calculate_pi.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Error of a Monte Carlo integration to calculate pi",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36573778",
+  "html": "<p>A loglog plot of the relative error of the paradigmatic calculation of pi by Monte Carlo integration. Two curves, the error and the scaling are shown.\n</p>"
+ },
+ "tags": [
+  "img:png24 better than jpeg75",
+  "img:png24 better than jpeg90",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75",
+  "img:png8 lossless"
+ ],
+ "wiki": {
+  "DateTime": "2012-07-29 08:12:21",
+  "Credit": "<p>python and xmgrace\n</p>",
+  "DateTimeOriginal": "<p>29-07-2012\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Jorgecarleitao\" title=\"User:Jorgecarleitao\">Jorgecarleitao</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "bd974fbb1394a5f8cc9729bd5d9ed722cd9f5ad2",
+  "op": "tiff to png"
+ }
+}

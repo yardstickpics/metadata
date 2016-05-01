@@ -1,0 +1,20 @@
+{
+ "sha1": "f4ada51de92ac1a432431217cbd3eebc4abcf7d6",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/48/Seal_of_California%2C_Cambridge_American_Cemetery%2C_England.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Seal of California, Cambridge American Cemetery, England",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46935623",
+  "html": "<p>Along the north wall of the Memorial Building at the World War II Cambridge American Cemetery and Memorial, near Cambridge, England, are stained glass renditions of the state seals, including California's.\n</p>"
+ },
+ "tags": [
+  "united states government images"
+ ],
+ "converted": {
+  "from": "feb7f55c52a67b77c4ae49801d65876ee26566b0",
+  "op": "tiff to png"
+ }
+}

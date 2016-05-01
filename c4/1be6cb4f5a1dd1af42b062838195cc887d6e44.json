@@ -1,0 +1,21 @@
+{
+ "sha1": "c41be6cb4f5a1dd1af42b062838195cc887d6e44",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Der_grosse_Krieg%2C_%28von%29_Hanns_von_Zobeltitz%2C_mit_zahlreichen_Abbildungen_und_Karten_LCCN2004665952_-_from_Commons.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Der grosse Krieg, (von) Hanns von Zobeltitz, mit zahlreichen Abbildungen und Karten LCCN2004665952 - from Commons",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43101957",
+  "html": "<p><b>English:</b>  <i>Title:</i> Der  grosse Krieg, [von] Hanns von Zobeltitz, mit zahlreichen Abbildungen und Karten\n<i>Abstract:</i> Poster shows a view of Earth with flames in the eastern hemisphere. Poster is an advertisement for The Great War by Hanns von Zobeltitz, a book with maps and pictures.\n<i>Physical description:</i> 1 print (poster) : lithograph, color ; 48 x 33 cm.\n<i>Notes:</i> Forms part of: Rehse-Archiv für Zeitgeschichte und Publizistik.; Ludwig Hohlwein, München.; Title from item.\n</p>"
+ },
+ "tags": [
+  "images from the library of congress",
+  "world war i posters in the library of congress"
+ ],
+ "converted": {
+  "from": "88405fb691bdd3d31e897aa95a2d31c410d559b8",
+  "op": "tiff to png"
+ }
+}

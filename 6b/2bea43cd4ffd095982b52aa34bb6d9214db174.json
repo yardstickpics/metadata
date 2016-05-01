@@ -1,0 +1,26 @@
+{
+ "sha1": "6b2bea43cd4ffd095982b52aa34bb6d9214db174",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/1/1a/Hummanaya%2C_when_sea_is_calm_and_quiet....tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Hummanaya, when sea is calm and quiet...",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=35382590",
+  "html": "<p>This photo shows a short shot of water at the blowhole called \"Hummanaya\" in Southern Province of Sri Lanka.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2012-04-08 06:57:44",
+  "Credit": "<p>While visiting the site\n</p>",
+  "DateTimeOriginal": "<p>2010\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Chananand&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Chananand (page does not exist)\">Chananand</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "45711b783199f5256af00cc32f7be2a23dbaafc5",
+  "op": "tiff to png"
+ }
+}

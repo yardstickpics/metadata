@@ -1,0 +1,26 @@
+{
+ "sha1": "0875f5338ed4b0601a74f23af89f9e421d354dc7",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/75/Classic_Cinema_Gerrards_Cross.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Classic Cinema Gerrards Cross",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46936924",
+  "html": "<p>A photograph of the exterior of the Classic Gerrards Cross in 1983.\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-06-10 00:31:23",
+  "Credit": "<p>I took the photo\n</p>",
+  "DateTimeOriginal": "<p>1983-05-30\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:The_seeker123&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:The seeker123 (page does not exist)\">The seeker123</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "0f5b9c89d4b01762ccd68fe3d7793f6596f94ca7",
+  "op": "tiff to png"
+ }
+}

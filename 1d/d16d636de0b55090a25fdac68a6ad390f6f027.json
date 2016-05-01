@@ -1,0 +1,22 @@
+{
+ "sha1": "1dd16d636de0b55090a25fdac68a6ad390f6f027",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/90/Donnellstadium6.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Donnellstadium6",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42152264"
+ },
+ "wiki": {
+  "DateTime": "2014-03-09 04:43:58",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "7adaccba8eecd929f87a168b99cef28af461be6a",
+  "op": "tiff to png"
+ }
+}

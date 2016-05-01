@@ -1,0 +1,17 @@
+{
+ "sha1": "51a2f77b3f78e066818b5a47f82c0cd31d45866a",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/71/Historic_Picture_of_Helmer_House.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Historic Picture of Helmer House",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=36615820",
+  "html": "<p>Helmer House as viewed in the early 1900s\n</p>"
+ },
+ "converted": {
+  "from": "e21f5da9d9e56871c8eaa84580b15fd0f2ff8ff0",
+  "op": "tiff to png"
+ }
+}

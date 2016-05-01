@@ -1,0 +1,22 @@
+{
+ "sha1": "d315ba829f2532c65965202a869a0bed783555e6",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Generalfoods1.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Generalfoods1",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=34848170"
+ },
+ "wiki": {
+  "DateTime": "2012-02-22 22:01:22",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "f6b3113daf1dcc2c6975767888ddda51fc0b0f9c",
+  "op": "tiff to png"
+ }
+}

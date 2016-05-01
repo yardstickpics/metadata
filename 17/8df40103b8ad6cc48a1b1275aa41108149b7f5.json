@@ -1,0 +1,20 @@
+{
+ "sha1": "178df40103b8ad6cc48a1b1275aa41108149b7f5",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/8a/William_Russell_Flint_-_W._S._Gilbert_-_Savoy_Operas_-_Princess_Ida_7_-_Original_scan.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "William Russell Flint - W. S. Gilbert - Savoy Operas - Princess Ida 7 - Original scan",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41680063",
+  "html": "<p>Seventh of <a href=\"//en.wikipedia.org/wiki/William_Russell_Flint\" title=\"William Russell Flint\">William Russell Flint</a>'s <i><a href=\"//en.wikipedia.org/wiki/Princess_Ida\" title=\"Princess Ida\">Princess Ida</a></i> illustrations in the book <i>Savoy Operas</i>: \n</p>\n<dl>\n<dd>\"Though I am but a girl,</dd>\n<dd>Defiance thus I hurl.\"</dd>\n</dl>"
+ },
+ "tags": [
+  "william russell flint - savoy operas"
+ ],
+ "converted": {
+  "from": "9ed0bbcd5f10e56eac8fc8fd87619232e238a203",
+  "op": "tiff to png"
+ }
+}

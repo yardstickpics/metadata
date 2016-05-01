@@ -1,0 +1,17 @@
+{
+ "sha1": "c54adb1a546d5879952f576acc5d58d02f33e768",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/37/Autumnal_Scenery%2C_lithograph_after_Orra_White_Hitchcock.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Autumnal Scenery, lithograph after Orra White Hitchcock",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=34882145",
+  "html": "<p>Autumnal Scenery, lithograph after Orra White Hitchcock\n</p>"
+ },
+ "converted": {
+  "from": "5648cd0e2afc09a59875bc76f5406f2b8b1baf2f",
+  "op": "tiff to png"
+ }
+}

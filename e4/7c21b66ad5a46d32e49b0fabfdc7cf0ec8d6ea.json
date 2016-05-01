@@ -1,0 +1,26 @@
+{
+ "sha1": "e47c21b66ad5a46d32e49b0fabfdc7cf0ec8d6ea",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Topographic_map_of_Silver_Lake_Basin.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507660,
+ "name": "Topographic map of Silver Lake Basin",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47358031",
+  "html": "<p>Topographic map of Silver Lake Basin, southwest of Silverton, Colorado\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2015-07-27 22:08:07",
+  "Credit": "<p>Created via the computer program TOPO! <br><b>Previously published:</b> (none)\n</p>",
+  "DateTimeOriginal": "<p>March 29, 2015\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Luckybrian&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Luckybrian (page does not exist)\">Luckybrian</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "9b7f198e3ed1ee72cf05ecbe6f2f5047ba1f92d7",
+  "op": "tiff to png"
+ }
+}

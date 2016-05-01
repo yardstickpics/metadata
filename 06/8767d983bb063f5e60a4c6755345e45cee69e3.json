@@ -1,0 +1,19 @@
+{
+ "sha1": "068767d983bb063f5e60a4c6755345e45cee69e3",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/cd/Healy-Timothy-1916.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Healy-Timothy-1916",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47893778"
+ },
+ "tags": [
+  "george grantham bain collection images"
+ ],
+ "converted": {
+  "from": "ec6b3dfa40474a7d47b26e0d322ea1d5dc323b5b",
+  "op": "tiff to png"
+ }
+}

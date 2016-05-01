@@ -1,0 +1,22 @@
+{
+ "sha1": "8434163f3e52ab4b31080026af231983b6174bfa",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/6/68/Donnellstadiumribbon2.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Donnellstadiumribbon2",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42152162"
+ },
+ "wiki": {
+  "DateTime": "2014-03-09 04:24:15",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "8dafa399d5a9a23142eb7bdcefb7a1c3083cf76b",
+  "op": "tiff to png"
+ }
+}

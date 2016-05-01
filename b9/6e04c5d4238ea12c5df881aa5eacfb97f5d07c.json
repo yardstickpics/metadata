@@ -1,0 +1,17 @@
+{
+ "sha1": "b96e04c5d4238ea12c5df881aa5eacfb97f5d07c",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/8/88/Ruddigore_0006.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Ruddigore 0006",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=39148036",
+  "html": "<p><a href=\"//en.wikipedia.org/wiki/H._M._Brock\" title=\"H. M. Brock\">H. M. Brock</a>'s illustration for the first revival of <i><a href=\"//en.wikipedia.org/wiki/Ruddigore\" title=\"Ruddigore\">Ruddigore</a></i>.\n</p>"
+ },
+ "converted": {
+  "from": "0712fd9cc8f2f65456dcb039cf354df81e8e9fe7",
+  "op": "tiff to png"
+ }
+}

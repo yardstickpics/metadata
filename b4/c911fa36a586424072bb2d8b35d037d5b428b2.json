@@ -1,0 +1,17 @@
+{
+ "sha1": "b4c911fa36a586424072bb2d8b35d037d5b428b2",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/0/04/City_of_Columbia_Heights_Public_Library_1928.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "City of Columbia Heights Public Library 1928",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=33678818",
+  "html": "<p>Obtained from the public archives of the Columbia Heights Historical Society.\n</p>"
+ },
+ "converted": {
+  "from": "15d0f8d524bf8b260b05c1fb40164bd8dbb9e865",
+  "op": "tiff to png"
+ }
+}

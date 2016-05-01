@@ -1,0 +1,21 @@
+{
+ "sha1": "dfbdb68c775ab7de8fea2bd30b28328f0ebaa8b2",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e3/Kriegsbilder_-_Ausstellung_LCCN2004666200_-_from_Commons.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Kriegsbilder - Ausstellung LCCN2004666200 - from Commons",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43102136",
+  "html": "<p><b>English:</b>  <i>Title:</i> Kriegsbilder - Ausstellung\n<i>Abstract:</i> Poster announces an exhibit of images of the war at the Künstlerhaus, Vienna, Austria.\n<i>Physical description:</i> 1 print (poster) : lithograph, color ; 96 x 62 cm.\n<i>Notes:</i> Forms part of: Rehse-Archiv für Zeitgeschichte und Publizistik.; W. Dachauer.; Title from item.\n</p>"
+ },
+ "tags": [
+  "images from the library of congress",
+  "world war i posters in the library of congress"
+ ],
+ "converted": {
+  "from": "70e7a12c13aae282fa456f35dd251cf74d01dd97",
+  "op": "tiff to png"
+ }
+}

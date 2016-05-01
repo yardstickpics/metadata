@@ -1,0 +1,21 @@
+{
+ "sha1": "144139399c2fdf5bde7f2c15a645ec63e21ae55e",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/7/71/Kriegsausstellung_Wien_1916_LCCN2004666190_-_from_Commons.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Kriegsausstellung Wien 1916 LCCN2004666190 - from Commons",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43102124",
+  "html": "<p><b>English:</b>  <i>Title:</i> Kriegsausstellung Wien 1916\n<i>Abstract:</i> Poster shows a building. Text announces a war exhibition at the K.K. Prater Kaisergarten.\n<i>Physical description:</i> 1 print (poster) : lithograph, color ; 95 x 63 cm.\n<i>Notes:</i> Forms part of: Rehse-Archiv für Zeitgeschichte und Publizistik.; Title from item.\n</p>"
+ },
+ "tags": [
+  "images from the library of congress",
+  "world war i posters in the library of congress"
+ ],
+ "converted": {
+  "from": "3d96e4a5afedff7cab73bafb95e6205cdedc3b04",
+  "op": "tiff to png"
+ }
+}

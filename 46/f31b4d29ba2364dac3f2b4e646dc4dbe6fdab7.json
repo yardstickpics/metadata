@@ -1,0 +1,20 @@
+{
+ "sha1": "46f31b4d29ba2364dac3f2b4e646dc4dbe6fdab7",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/26/Battle_of_Tel-El-Kibir_by_Alphonse_de_Neuville.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Battle of Tel-El-Kibir by Alphonse de Neuville",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=46428176",
+  "html": "<p>It's a battle between the British and Egyptians. Printed date 1882 and is a very old lithograph\n</p>"
+ },
+ "tags": [
+  "pre-1996 pd in home country us public domain images"
+ ],
+ "converted": {
+  "from": "15abf042f45ece5815cde462a774f550bf7c1466",
+  "op": "tiff to png"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "sha1": "d55d514ad086ee9c52b471bb8f7ac748c8922c4f",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Romanceofanoldmaid1912.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Romanceofanoldmaid1912",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=47007286",
+  "html": "<p>Scene from the IMP film 'The Romance of An Old Maid' (1912). ; Ruth Dayton (Rolinda Bainbridge) holds Lucille (Gladys Egan) in her lap\n</p>"
+ },
+ "tags": [
+  "img:color profile"
+ ],
+ "converted": {
+  "from": "4ff7abf986ca9c551896fb16e6fab8c99fae023f",
+  "op": "tiff to png"
+ }
+}

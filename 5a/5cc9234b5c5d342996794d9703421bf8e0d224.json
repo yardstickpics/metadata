@@ -1,0 +1,32 @@
+{
+ "sha1": "5a5cc9234b5c5d342996794d9703421bf8e0d224",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/2/20/Phylogeny_genome.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Phylogeny genome",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=41873206",
+  "html": "<p>Phylogentic tree\n</p>"
+ },
+ "tags": [
+  "img:png24 better than jpeg75",
+  "img:png24 better than jpeg90",
+  "img:png8 better than jpeg90",
+  "img:png8 better than jpeg75"
+ ],
+ "wiki": {
+  "DateTime": "2014-02-07 17:19:43",
+  "Credit": "<p>Own work\n</p>",
+  "DateTimeOriginal": "<p>2014\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/w/index.php?title=User:Rgazis&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Rgazis (page does not exist)\">Rgazis</a>\n</p>",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "23789de91fdcd7fecb1c79b771ff4963aebc0d50",
+  "op": "tiff to png"
+ }
+}

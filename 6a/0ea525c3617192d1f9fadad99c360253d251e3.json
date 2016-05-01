@@ -1,0 +1,20 @@
+{
+ "sha1": "6a0ea525c3617192d1f9fadad99c360253d251e3",
+ "lic": "cc-by-4.0",
+ "url": "https://www.eso.org/public/archives/images/original/vlt-mw-potw.tif",
+ "ext": "png",
+ "from": "eso",
+ "created": 1458419470,
+ "name": "vlt-mw-potw",
+ "desc": {
+  "text": "The Milky Way arches across this rare 360-degree panorama of the night sky above the Paranal platform, home of ESO’s Very Large Telescope. The image was made from 37 individual frames with a total exposure time of about 30 minutes, taken in the early morning hours. The Moon is just rising and the zodiacal light shines above it, while the Milky Way stretches across the sky opposite the observatory. \r\n\r\nThe open telescope domes of the world’s most advanced ground-based astronomical observatory are all visible in the image: the four smaller 1.8-metre Auxiliary Telescopes that can be used together in the interferometric mode, and the four giant 8.2-metre Unit Telescopes. To the right in the image and below the arc of the Milky Way, two of our galactic neighbours, the Small and Large Magellanic Clouds, can be seen. \r\n\r\n\r\nCredit:\r\nESO/H.H. Heyer"
+ },
+ "tags": [
+  "img:color profile",
+  "space"
+ ],
+ "converted": {
+  "from": "50e1cc720a4737010181d2364664ab2d2774dd9e",
+  "op": "tiff to png"
+ }
+}

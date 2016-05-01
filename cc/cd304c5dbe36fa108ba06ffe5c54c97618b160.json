@@ -1,0 +1,20 @@
+{
+ "sha1": "cccd304c5dbe36fa108ba06ffe5c54c97618b160",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/9/92/Maximilian_Alexeyevich_Kravkov.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Maximilian Alexeyevich Kravkov",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=44930696",
+  "html": "<p>Maximilian Alexeyevich Kravkov, Russian writer, geologist and explorer of Siberia.\n</p>"
+ },
+ "tags": [
+  "pre-1996 pd in home country us public domain images"
+ ],
+ "converted": {
+  "from": "84f84a16824f1d37b1e630a15c00443491a3be33",
+  "op": "tiff to png"
+ }
+}

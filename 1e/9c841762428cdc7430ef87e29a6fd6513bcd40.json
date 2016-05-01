@@ -1,0 +1,17 @@
+{
+ "sha1": "1e9c841762428cdc7430ef87e29a6fd6513bcd40",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/3/36/Nicholas_Stoner.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "Nicholas Stoner",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=49208882",
+  "html": "<p>Nicholas Stoner was a Revolutionary War and War of 1812 veteran, a pioneer settler in Fulton County, New York, and a noted hunter and trapper in the Adirondacks\n</p>"
+ },
+ "converted": {
+  "from": "9fed08f0b340759607bca82d127f64daaf68ace1",
+  "op": "tiff to png"
+ }
+}

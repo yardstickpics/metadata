@@ -1,0 +1,22 @@
+{
+ "sha1": "cd6ed8cdf3607284af3e16f24c85e51c1e653081",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/New_board_3.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507659,
+ "name": "New board 3",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42152255"
+ },
+ "wiki": {
+  "DateTime": "2014-03-09 04:41:34",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "1b97abe0b73293fee59547d8fe224098cbfefe0b",
+  "op": "tiff to png"
+ }
+}

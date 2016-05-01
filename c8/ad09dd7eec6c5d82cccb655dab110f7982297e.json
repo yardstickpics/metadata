@@ -1,0 +1,17 @@
+{
+ "sha1": "c8ad09dd7eec6c5d82cccb655dab110f7982297e",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/BerthaHoferHegner_portrait1930-1936.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "BerthaHoferHegner portrait1930-1936",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=45242493",
+  "html": "<p>Portrait of Bertha Hofer Hegner (1862-1937), President of joint institutions in Chicago, Illinois: Pestalozzi Froebel Teachers College and Columbia College of Expression (Columbia College Chicago)\n</p>"
+ },
+ "converted": {
+  "from": "2d1dd9cb9c0ade9a9e34a254b9a5f400d6543cba",
+  "op": "tiff to png"
+ }
+}

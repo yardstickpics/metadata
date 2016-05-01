@@ -1,0 +1,26 @@
+{
+ "sha1": "268e417984793082582fbcb4a20446cd731f4ae4",
+ "lic": "cc-by-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Ctrl_crossover.TIF",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Ctrl crossover",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=28996723",
+  "html": "<p>CTRL Crossover Overhead 3rd rail\n</p>"
+ },
+ "wiki": {
+  "DateTime": "2010-09-29 22:49:30",
+  "Credit": "<p>I (<a href=\"//en.wikipedia.org/wiki/User:Screen42\" title=\"User:Screen42\">Screen42</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Screen42\" title=\"User talk:Screen42\">talk</a>)) created this work entirely by myself.\n</p>",
+  "DateTimeOriginal": "<p>13th September 2006\n</p>",
+  "Artist": "<p><a href=\"//en.wikipedia.org/wiki/User:Screen42\" title=\"User:Screen42\">Screen42</a> (<a href=\"//en.wikipedia.org/wiki/User_talk:Screen42\" title=\"User talk:Screen42\">talk</a>)\n</p>",
+  "UsageTerms": "Creative Commons Attribution 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ },
+ "converted": {
+  "from": "2699bf60e5ca7bde1bfa4e70de85ac953e278311",
+  "op": "tiff to png"
+ }
+}

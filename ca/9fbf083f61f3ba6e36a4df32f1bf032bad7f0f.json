@@ -1,0 +1,22 @@
+{
+ "sha1": "ca9fbf083f61f3ba6e36a4df32f1bf032bad7f0f",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Donnellstadiumplaque.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Donnellstadiumplaque",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42152182"
+ },
+ "wiki": {
+  "DateTime": "2014-03-09 04:28:32",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "6dc15a4d0dfcd475b64ddf33cfcfd4cef9dc7a21",
+  "op": "tiff to png"
+ }
+}

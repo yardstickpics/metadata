@@ -1,0 +1,22 @@
+{
+ "sha1": "3f960be7b8d91e6583b880fd736d70ff47ca0bc8",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/5/57/Kunst-_u._Figurinenausstellung_LCCN2004666202_-_from_Commons.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Kunst- u. Figurinenausstellung LCCN2004666202 - from Commons",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43104117",
+  "html": "<p><b>English:</b>  <i>Title:</i> Kunst- u. Figurinenausstellung\n<i>Abstract:</i> Poster shows a cherub pulling a cart with theatrical (drama and comedy) masks. Poster announces an art exhibit to benefit the Red Cross of Niederösterreich. Details of the exhibition are given.\n<i>Physical description:</i> 1 print (poster) : lithograph, color ; 60 x 48 cm.\n<i>Notes:</i> Forms part of: Rehse-Archiv für Zeitgeschichte und Publizistik.; V. Th. Slama.; Title from item.\n</p>"
+ },
+ "tags": [
+  "img:color profile",
+  "images from the library of congress",
+  "world war i posters in the library of congress"
+ ],
+ "converted": {
+  "from": "6c79c32752ee7704902e77f710e178eae5d58b29",
+  "op": "tiff to png"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "sha1": "d1a1c2fc803aa26234267af8422d45f320b29664",
+ "lic": "cc-by-sa-3.0",
+ "url": "https://upload.wikimedia.org/wikipedia/en/a/ad/Donnellstadium11.tiff",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507657,
+ "name": "Donnellstadium11",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=42152274"
+ },
+ "wiki": {
+  "DateTime": "2014-03-09 04:46:02",
+  "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
+  "AttributionRequired": "true",
+  "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "e71cfa033ee233941e749d605165c7b075c8ed20",
+  "op": "tiff to png"
+ }
+}

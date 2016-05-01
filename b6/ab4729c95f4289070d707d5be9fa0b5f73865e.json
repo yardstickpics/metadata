@@ -1,0 +1,21 @@
+{
+ "sha1": "b6ab4729c95f4289070d707d5be9fa0b5f73865e",
+ "lic": "pd",
+ "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Leset_die_Asuw%21_LCCN2004665853_-_from_Commons.tif",
+ "ext": "png",
+ "from": "wiki",
+ "created": 1458507658,
+ "name": "Leset die Asuw! LCCN2004665853 - from Commons",
+ "desc": {
+  "url": "https://en.wikipedia.org/w/index.php?curid=43104204",
+  "html": "<p><b>English:</b>  <i>Title:</i> Leset die Asuw!\n<i>Abstract:</i> Poster shows a smiling soldier reading a newspaper while sitting on top of a cannon. Fireworks(?) and trees are in the background. Text urges people to read the \"Aus Sundgau und Wasgenwald\" (Asuw), an army newspaper, and gives ordering information.\n<i>Physical description:</i> 1 print (poster) : lithograph, color ; 54 x 43 cm.\n<i>Notes:</i> Forms part of: Rehse-Archiv für Zeitgeschichte und Publizistik.; Rudolf Eberle.; Title from item.\n</p>"
+ },
+ "tags": [
+  "images from the library of congress",
+  "world war i posters in the library of congress"
+ ],
+ "converted": {
+  "from": "9bf3a44a2215d203891e12044d4083a408c968a9",
+  "op": "tiff to png"
+ }
+}
