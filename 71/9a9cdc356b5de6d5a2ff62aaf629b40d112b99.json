@@ -1,0 +1,12 @@
+{
+ "sha1": "719a9cdc356b5de6d5a2ff62aaf629b40d112b99",
+ "lic": "ucid",
+ "ext": "png",
+ "from": "ucid",
+ "created": 1459083674,
+ "name": "ucid01001",
+ "converted": {
+  "from": "5282ac22bccfaf9fa0460636eb543a43ddf1f55f",
+  "op": "tif to png"
+ }
+}
