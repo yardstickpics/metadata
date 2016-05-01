@@ -1,0 +1,14 @@
+{
+ "sha1": "60e7ef71cccdcd36baf5135258a94d65955f03cb",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "opengameart",
+ "name": "LP-Plants d-outline",
+ "tags": [
+  "game"
+ ],
+ "converted": {
+  "from": "cf71b28617abe0695033863e6416e584e366098f",
+  "op": "tga to png"
+ }
+}
