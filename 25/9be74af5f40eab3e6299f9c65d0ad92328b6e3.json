@@ -1,8 +1,8 @@
 {
- "sha1": "e4983adec4ad635b2c72573e4dacc2b3ad11d43e",
+ "sha1": "259be74af5f40eab3e6299f9c65d0ad92328b6e3",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/8/84/Charles_H._Stewart.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507657,
  "name": "Charles H. Stewart",
@@ -12,5 +12,9 @@
  },
  "tags": [
   "mayors of melbourne, florida"
- ]
+ ],
+ "converted": {
+  "from": "e4983adec4ad635b2c72573e4dacc2b3ad11d43e",
+  "op": "xcf to png"
+ }
 }

@@ -1,8 +1,8 @@
 {
- "sha1": "989546d6887680bb6f07b6d06d13e9e311619861",
+ "sha1": "9c258bf6928270f8d93aee56760f680d2ad87682",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Mosquito_County.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507659,
  "name": "Mosquito County",
@@ -13,5 +13,9 @@
  "tags": [
   "florida maps",
   "images of florida"
- ]
+ ],
+ "converted": {
+  "from": "989546d6887680bb6f07b6d06d13e9e311619861",
+  "op": "xcf to png"
+ }
 }

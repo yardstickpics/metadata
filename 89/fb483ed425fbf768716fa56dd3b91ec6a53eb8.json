@@ -1,8 +1,8 @@
 {
- "sha1": "d5c4e2cf78bdaa6289d55ec55ff9d68a01a97f6d",
+ "sha1": "89fb483ed425fbf768716fa56dd3b91ec6a53eb8",
  "lic": "cc-by-sa-1.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/e/e4/Tough_Mudder_obstacle_Electroshock_Therapy_2.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507660,
  "name": "Tough Mudder obstacle Electroshock Therapy 2",
@@ -21,5 +21,9 @@
   "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ },
+ "converted": {
+  "from": "d5c4e2cf78bdaa6289d55ec55ff9d68a01a97f6d",
+  "op": "xcf to png"
  }
 }

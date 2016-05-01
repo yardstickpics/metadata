@@ -1,8 +1,8 @@
 {
- "sha1": "d6e768d5e6e931f28e0610580c9060144182573f",
+ "sha1": "bef6a0cd05b87680b6c175e9391f7cd483974940",
  "lic": "cc-by-sa-3.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/6/61/Bethel_AME_Church_Manhattan_Kansas.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507657,
  "name": "Bethel AME Church Manhattan Kansas",
@@ -18,5 +18,9 @@
   "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "d6e768d5e6e931f28e0610580c9060144182573f",
+  "op": "xcf to png"
  }
 }

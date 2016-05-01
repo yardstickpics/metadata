@@ -1,13 +1,17 @@
 {
- "sha1": "05c5a3d4df8412fe545a694f9968cc4db0277d35",
+ "sha1": "fa05be38dcedac303f656a858d1c3eaa9f916195",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/e/ef/Douglas_Dummett.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507657,
  "name": "Douglas Dummett",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=42000029",
   "html": "<p><b><a href=\"//en.wikipedia.org/wiki/Douglas_Dummett\" title=\"Douglas Dummett\">Douglas Dummett</a></b> (1806–1873) was a Florida settler, member of the Florida House of Representatives and instrumental in developing the Indian River Citrus industry.\n</p>"
+ },
+ "converted": {
+  "from": "05c5a3d4df8412fe545a694f9968cc4db0277d35",
+  "op": "xcf to png"
  }
 }

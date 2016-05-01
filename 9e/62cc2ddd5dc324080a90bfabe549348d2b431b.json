@@ -1,13 +1,17 @@
 {
- "sha1": "1171f68c15e14382d8a691783d16dc633c5fe3f8",
+ "sha1": "9e62cc2ddd5dc324080a90bfabe549348d2b431b",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/Portrait_of_Max_Joseph_Becker.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507659,
  "name": "Portrait of Max Joseph Becker",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=44804228",
   "html": "<p>Portrait of Max Joseph Becker (June 20, 1828 – August 23, 1896)\n</p>"
+ },
+ "converted": {
+  "from": "1171f68c15e14382d8a691783d16dc633c5fe3f8",
+  "op": "xcf to png"
  }
 }

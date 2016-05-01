@@ -1,8 +1,8 @@
 {
- "sha1": "b227ec977263ba444a1d6df91f7b661384d93a50",
+ "sha1": "5d6d846c2a9900fdc6af3a626d9fe1c609fddfb7",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/4/45/Richard_W._Goode.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507659,
  "name": "Richard W. Goode",
@@ -12,5 +12,9 @@
  },
  "tags": [
   "mayors of melbourne, florida"
- ]
+ ],
+ "converted": {
+  "from": "b227ec977263ba444a1d6df91f7b661384d93a50",
+  "op": "xcf to png"
+ }
 }

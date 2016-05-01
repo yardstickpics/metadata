@@ -1,8 +1,8 @@
 {
- "sha1": "24f18126122563d759d3a5fcb2aa44773670e8e9",
+ "sha1": "28dde26f9a29c7ec191d3e4d27379b90c8c0db9f",
  "lic": "cc-by-3.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/2/2c/Msb_Signature.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507659,
  "name": "Msb Signature",
@@ -18,5 +18,9 @@
   "UsageTerms": "Creative Commons Attribution 3.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ },
+ "converted": {
+  "from": "24f18126122563d759d3a5fcb2aa44773670e8e9",
+  "op": "xcf to png"
  }
 }

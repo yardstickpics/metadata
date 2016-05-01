@@ -1,8 +1,8 @@
 {
- "sha1": "ff2dfea228ce771085a85a5b1984db58d39f7d83",
+ "sha1": "45e24bc3bef14ce8578ca2395fe18dd60fd0f1a9",
  "lic": "cc-by-sa-3.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/West_Annapolis_-_MD_435-438_-_1956.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507660,
  "name": "West Annapolis - MD 435-438 - 1956",
@@ -19,5 +19,9 @@
   "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "ff2dfea228ce771085a85a5b1984db58d39f7d83",
+  "op": "xcf to png"
  }
 }

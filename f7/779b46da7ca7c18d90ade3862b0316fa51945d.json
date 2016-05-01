@@ -1,8 +1,8 @@
 {
- "sha1": "04d9d8adbc68cc74b52191c8df0cf4112e987182",
+ "sha1": "f7779b46da7ca7c18d90ade3862b0316fa51945d",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/5/52/Peter_L._Cunningham.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507659,
  "name": "Peter L. Cunningham",
@@ -12,5 +12,9 @@
  },
  "tags": [
   "mayors of norwalk, connecticut"
- ]
+ ],
+ "converted": {
+  "from": "04d9d8adbc68cc74b52191c8df0cf4112e987182",
+  "op": "xcf to png"
+ }
 }

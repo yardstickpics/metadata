@@ -1,8 +1,8 @@
 {
- "sha1": "7967e5c1b0f7e60e216968915f613c3cd972b082",
+ "sha1": "3558fab77c064c90a501c932c49d4a6323dd9b9b",
  "lic": "cc-by-sa-1.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Junyong_Pak_WTM_2012.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507658,
  "name": "Junyong Pak WTM 2012",
@@ -21,5 +21,9 @@
   "UsageTerms": "Creative Commons Attribution-ShareAlike 1.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by-sa/1.0/"
+ },
+ "converted": {
+  "from": "7967e5c1b0f7e60e216968915f613c3cd972b082",
+  "op": "xcf to png"
  }
 }

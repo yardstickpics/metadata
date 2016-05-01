@@ -1,8 +1,8 @@
 {
- "sha1": "97076b0d759533e4bbfa7df0f9437e40fbb4b897",
+ "sha1": "5f66961afbd49408fbca1da9d15570d2405d377c",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/9/94/Wallace_Dann.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507660,
  "name": "Wallace Dann",
@@ -12,5 +12,9 @@
  },
  "tags": [
   "mayors of norwalk, connecticut"
- ]
+ ],
+ "converted": {
+  "from": "97076b0d759533e4bbfa7df0f9437e40fbb4b897",
+  "op": "xcf to png"
+ }
 }

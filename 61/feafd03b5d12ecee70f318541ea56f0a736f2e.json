@@ -1,13 +1,17 @@
 {
- "sha1": "a0bfe218b2e79a847b4f5d94fbaaa3af1ab738d9",
+ "sha1": "61feafd03b5d12ecee70f318541ea56f0a736f2e",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/8/89/The_Tent_Tour_Logo.xcf",
- "ext": "xcf",
+ "ext": "png",
  "from": "wiki",
  "created": 1458507660,
  "name": "The Tent Tour Logo",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=35593077",
   "html": "<p>An excerpt from the front of the DK 50/80 Tent Tour programme. It is the logo of the tour\n</p>"
+ },
+ "converted": {
+  "from": "a0bfe218b2e79a847b4f5d94fbaaa3af1ab738d9",
+  "op": "xcf to png"
  }
 }
