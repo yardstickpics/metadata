@@ -1,8 +1,8 @@
 {
- "sha1": "21bbde62c060b315b04cca250c72ad62afbcf7e8",
+ "sha1": "4af3e68d8e4d16f1baaab7dad96fbc792ca068ee",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/5/51/Unitedchineseparty.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518348,
  "name": "Unitedchineseparty",
@@ -15,5 +15,9 @@
   "img:png8 better than jpeg90",
   "img:png8 better than jpeg75",
   "img:png8 lossless"
- ]
+ ],
+ "converted": {
+  "from": "21bbde62c060b315b04cca250c72ad62afbcf7e8",
+  "op": "bmp to png"
+ }
 }

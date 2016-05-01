@@ -1,8 +1,8 @@
 {
- "sha1": "776c37a1ddd4a759a318d166b53babe825b13ff1",
+ "sha1": "d6fa7683318b8d9a0e730b684c630bdb743dd054",
  "lic": "cc-by-sa-3.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Arturo2.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518345,
  "name": "Arturo2",
@@ -19,5 +19,9 @@
   "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "776c37a1ddd4a759a318d166b53babe825b13ff1",
+  "op": "bmp to png"
  }
 }

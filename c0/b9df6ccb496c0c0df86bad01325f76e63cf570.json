@@ -1,8 +1,8 @@
 {
- "sha1": "5a56f3907a6af7d83a39153f3904eeccb7e0b638",
+ "sha1": "c0b9df6ccb496c0c0df86bad01325f76e63cf570",
  "lic": "cc-by-sa-3.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/TestbildFussweg4.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518348,
  "name": "TestbildFussweg4",
@@ -18,5 +18,9 @@
   "UsageTerms": "Creative Commons Attribution-ShareAlike 3.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+ },
+ "converted": {
+  "from": "5a56f3907a6af7d83a39153f3904eeccb7e0b638",
+  "op": "bmp to png"
  }
 }

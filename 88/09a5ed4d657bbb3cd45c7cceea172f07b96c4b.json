@@ -1,8 +1,8 @@
 {
- "sha1": "c8f41fa1cb801896c9105eef392a0b7292cb925a",
+ "sha1": "8809a5ed4d657bbb3cd45c7cceea172f07b96c4b",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/1/17/PaulBrowntree.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518347,
  "name": "PaulBrowntree",
@@ -16,5 +16,9 @@
   "img:png8 better than jpeg90",
   "img:png8 better than jpeg75",
   "img:png8 lossless"
- ]
+ ],
+ "converted": {
+  "from": "c8f41fa1cb801896c9105eef392a0b7292cb925a",
+  "op": "bmp to png"
+ }
 }

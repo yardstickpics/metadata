@@ -1,8 +1,8 @@
 {
- "sha1": "199b7cc160bc31f3e1c26dc41a22db370227306c",
+ "sha1": "5bfc65b15301402f3526da1e273390e52a5569aa",
  "lic": "cc-by-3.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/c/c4/Lutherelysmithsquaremap.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518347,
  "name": "Lutherelysmithsquaremap",
@@ -19,5 +19,9 @@
   "UsageTerms": "Creative Commons Attribution 3.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ },
+ "converted": {
+  "from": "199b7cc160bc31f3e1c26dc41a22db370227306c",
+  "op": "bmp to png"
  }
 }

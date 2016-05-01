@@ -1,8 +1,8 @@
 {
- "sha1": "a1f0c62099d5277bd253294d1d2029edacc8bfef",
+ "sha1": "23c12874e4845dab48235f2d978095d1ebf1d89d",
  "lic": "cc-by-3.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/9/9f/NeighborhoodRoomMap.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518347,
  "name": "NeighborhoodRoomMap",
@@ -19,5 +19,9 @@
   "UsageTerms": "Creative Commons Attribution 3.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ },
+ "converted": {
+  "from": "a1f0c62099d5277bd253294d1d2029edacc8bfef",
+  "op": "bmp to png"
  }
 }

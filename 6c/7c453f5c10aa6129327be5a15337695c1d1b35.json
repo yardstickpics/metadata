@@ -1,8 +1,8 @@
 {
- "sha1": "7b24c121bc8d8c859d27f5821845324250b3f51d",
+ "sha1": "6c7c453f5c10aa6129327be5a15337695c1d1b35",
  "lic": "cc-by-3.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/8/8a/MarketStreetSTL.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518347,
  "name": "MarketStreetSTL",
@@ -20,5 +20,9 @@
   "UsageTerms": "Creative Commons Attribution 3.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ },
+ "converted": {
+  "from": "7b24c121bc8d8c859d27f5821845324250b3f51d",
+  "op": "bmp to png"
  }
 }

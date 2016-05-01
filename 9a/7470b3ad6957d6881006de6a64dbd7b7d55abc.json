@@ -1,8 +1,8 @@
 {
- "sha1": "d75246ad508e6142c1bb1a48b301e4d71802183a",
+ "sha1": "9a7470b3ad6957d6881006de6a64dbd7b7d55abc",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/3/31/Timeline-191_map2-4.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518348,
  "name": "Timeline-191 map2-4",
@@ -15,5 +15,9 @@
   "img:png8 better than jpeg90",
   "img:png8 better than jpeg75",
   "img:png8 lossless"
- ]
+ ],
+ "converted": {
+  "from": "d75246ad508e6142c1bb1a48b301e4d71802183a",
+  "op": "bmp to png"
+ }
 }

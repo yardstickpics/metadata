@@ -1,8 +1,8 @@
 {
- "sha1": "05df8857bff209001e1d076836175d5f7a7fdffc",
+ "sha1": "272249ed767b46730d0c9671bb4fd754c02f1488",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/NavalReserveBadge.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518347,
  "name": "NavalReserveBadge",
@@ -12,5 +12,9 @@
  },
  "tags": [
   "images of united states military badges"
- ]
+ ],
+ "converted": {
+  "from": "05df8857bff209001e1d076836175d5f7a7fdffc",
+  "op": "bmp to png"
+ }
 }

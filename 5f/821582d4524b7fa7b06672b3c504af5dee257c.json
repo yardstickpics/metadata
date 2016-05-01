@@ -1,8 +1,8 @@
 {
- "sha1": "5d19320bb2df7035536c360f0fdd1e05ed7f2d3b",
+ "sha1": "5f821582d4524b7fa7b06672b3c504af5dee257c",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/c/c8/SOVIET_DEEP_BATTLE_ISSERSON_PLAN.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518347,
  "name": "SOVIET DEEP BATTLE ISSERSON PLAN",
@@ -16,5 +16,9 @@
   "img:png8 better than jpeg90",
   "img:png8 better than jpeg75",
   "img:png8 lossless"
- ]
+ ],
+ "converted": {
+  "from": "5d19320bb2df7035536c360f0fdd1e05ed7f2d3b",
+  "op": "bmp to png"
+ }
 }

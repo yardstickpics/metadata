@@ -1,8 +1,8 @@
 {
- "sha1": "c2c27d30d49f9d84a6f635020dea2bba4f9a4452",
+ "sha1": "b605d03b7052b3e0975161a91345d3e7d9de9e34",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/STLward2.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518347,
  "name": "STLward2",
@@ -11,5 +11,9 @@
  },
  "tags": [
   "img:png8 better than jpeg90"
- ]
+ ],
+ "converted": {
+  "from": "c2c27d30d49f9d84a6f635020dea2bba4f9a4452",
+  "op": "bmp to png"
+ }
 }

@@ -1,8 +1,8 @@
 {
- "sha1": "bab982880858d301eab552d0564bf1b2aa98f77e",
+ "sha1": "95075f9d89b47b5b4e7d1e3974b9ded96fbea66b",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/7/72/STLward7.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518347,
  "name": "STLward7",
@@ -11,5 +11,9 @@
  },
  "tags": [
   "img:png8 better than jpeg90"
- ]
+ ],
+ "converted": {
+  "from": "bab982880858d301eab552d0564bf1b2aa98f77e",
+  "op": "bmp to png"
+ }
 }

@@ -1,8 +1,8 @@
 {
- "sha1": "fc77c5dac5b0d43684aab120820707ca95eef14b",
+ "sha1": "c87b6af9c5bb8996a64651e9576fd98cbcf9cc0f",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/c/cd/Magneprop.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518347,
  "name": "Magneprop",
@@ -15,5 +15,9 @@
   "img:png8 better than jpeg90",
   "img:png8 better than jpeg75",
   "img:png8 lossless"
- ]
+ ],
+ "converted": {
+  "from": "fc77c5dac5b0d43684aab120820707ca95eef14b",
+  "op": "bmp to png"
+ }
 }

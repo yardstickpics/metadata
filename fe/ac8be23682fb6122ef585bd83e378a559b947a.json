@@ -1,8 +1,8 @@
 {
- "sha1": "15c76e8c0b9498184d67f5213d2bb208646728e0",
+ "sha1": "feac8be23682fb6122ef585bd83e378a559b947a",
  "lic": "cc-by-3.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/NorthSideSTL.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518347,
  "name": "NorthSideSTL",
@@ -17,5 +17,9 @@
   "UsageTerms": "Creative Commons Attribution 3.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ },
+ "converted": {
+  "from": "15c76e8c0b9498184d67f5213d2bb208646728e0",
+  "op": "bmp to png"
  }
 }

@@ -1,13 +1,17 @@
 {
- "sha1": "dcccfdc02912176d9c7a54c4cf65d49c38050afa",
+ "sha1": "6e2086f545806c307681ab52c0c420762cc454f1",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Begowala_cricket_club.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518345,
  "name": "Begowala cricket club",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=26371330",
   "html": "<p>Begowala Cricket Club from <a href=\"//en.wikipedia.org/wiki/Begowala\" title=\"Begowala\">Begowala</a>, <a href=\"//en.wikipedia.org/wiki/Sialkot_District\" title=\"Sialkot District\">Sialkot District</a>, <a href=\"//en.wikipedia.org/wiki/Punjab,_Pakistan\" title=\"Punjab, Pakistan\">Punjab province</a>, <a href=\"//en.wikipedia.org/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a>\n</p>"
+ },
+ "converted": {
+  "from": "dcccfdc02912176d9c7a54c4cf65d49c38050afa",
+  "op": "bmp to png"
  }
 }

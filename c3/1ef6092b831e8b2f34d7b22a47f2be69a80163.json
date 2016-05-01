@@ -1,12 +1,16 @@
 {
- "sha1": "5ed10e4cb0c5be2933ea7ac7873cae08808c7f53",
+ "sha1": "c31ef6092b831e8b2f34d7b22a47f2be69a80163",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/f/fc/Escudokolnsburgrad.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518346,
  "name": "Escudokolnsburgrad",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=14132310"
+ },
+ "converted": {
+  "from": "5ed10e4cb0c5be2933ea7ac7873cae08808c7f53",
+  "op": "bmp to png"
  }
 }

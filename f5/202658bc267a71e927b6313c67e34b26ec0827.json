@@ -1,8 +1,8 @@
 {
- "sha1": "559306eb82d15b99f5b6a47ba639e6593ac1d51f",
+ "sha1": "f5202658bc267a71e927b6313c67e34b26ec0827",
  "lic": "cc-by-3.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/c/c1/STLward3.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518347,
  "name": "STLward3",
@@ -17,5 +17,9 @@
   "UsageTerms": "Creative Commons Attribution 3.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ },
+ "converted": {
+  "from": "559306eb82d15b99f5b6a47ba639e6593ac1d51f",
+  "op": "bmp to png"
  }
 }

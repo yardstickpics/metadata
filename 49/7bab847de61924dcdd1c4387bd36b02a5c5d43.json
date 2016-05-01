@@ -1,8 +1,8 @@
 {
- "sha1": "93f8d4098be18da7adbd61295d1144a850ae3a48",
+ "sha1": "497bab847de61924dcdd1c4387bd36b02a5c5d43",
  "lic": "pd",
  "url": "https://upload.wikimedia.org/wikipedia/en/1/1a/STLward21.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518347,
  "name": "STLward21",
@@ -11,5 +11,9 @@
  },
  "tags": [
   "img:png8 better than jpeg90"
- ]
+ ],
+ "converted": {
+  "from": "93f8d4098be18da7adbd61295d1144a850ae3a48",
+  "op": "bmp to png"
+ }
 }

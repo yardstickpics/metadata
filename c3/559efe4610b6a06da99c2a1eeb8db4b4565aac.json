@@ -1,8 +1,8 @@
 {
- "sha1": "df3ecedc85dea725fae48f52ad4453e5df2ffb92",
+ "sha1": "c3559efe4610b6a06da99c2a1eeb8db4b4565aac",
  "lic": "cc-by-3.0",
  "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/GMTerminusMap.bmp",
- "ext": "bmp",
+ "ext": "png",
  "from": "wiki",
  "created": 1458518346,
  "name": "GMTerminusMap",
@@ -19,5 +19,9 @@
   "UsageTerms": "Creative Commons Attribution 3.0",
   "AttributionRequired": "true",
   "LicenseUrl": "http://creativecommons.org/licenses/by/3.0/"
+ },
+ "converted": {
+  "from": "df3ecedc85dea725fae48f52ad4453e5df2ffb92",
+  "op": "bmp to png"
  }
 }
