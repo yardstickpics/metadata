@@ -1,0 +1,13 @@
+{
+ "sha1": "9c2ae4c4d8401444f1c68f4b0e69e75c6d289773",
+ "lic": "microsoft",
+ "url": "https://github.com/bdaehlie/web_image_formats/tree/master/images/tecnick/p06.ppm",
+ "ext": "png",
+ "from": "hdcompare",
+ "created": 1459081591,
+ "name": "p06",
+ "converted": {
+  "from": "39d31dc1cde467454e6b583445a5ed40a34da1d0",
+  "op": "ppm to png"
+ }
+}

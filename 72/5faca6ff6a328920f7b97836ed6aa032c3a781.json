@@ -1,0 +1,13 @@
+{
+ "sha1": "725faca6ff6a328920f7b97836ed6aa032c3a781",
+ "lic": "microsoft",
+ "url": "https://github.com/bdaehlie/web_image_formats/tree/master/images/tecnick/p20.ppm",
+ "ext": "png",
+ "from": "hdcompare",
+ "created": 1459081599,
+ "name": "p20",
+ "converted": {
+  "from": "2bcbdd16f7cc874dc2d04832887f29b76cadb610",
+  "op": "ppm to png"
+ }
+}

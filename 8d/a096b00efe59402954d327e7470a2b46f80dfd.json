@@ -1,0 +1,13 @@
+{
+ "sha1": "8da096b00efe59402954d327e7470a2b46f80dfd",
+ "lic": "microsoft",
+ "url": "https://github.com/bdaehlie/web_image_formats/tree/master/images/tecnick/p09.ppm",
+ "ext": "png",
+ "from": "hdcompare",
+ "created": 1459081592,
+ "name": "p08",
+ "converted": {
+  "from": "7f928c13110fc84b48659495a709569678461d65",
+  "op": "ppm to png"
+ }
+}

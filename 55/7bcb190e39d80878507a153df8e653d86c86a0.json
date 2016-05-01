@@ -1,0 +1,13 @@
+{
+ "sha1": "557bcb190e39d80878507a153df8e653d86c86a0",
+ "lic": "microsoft",
+ "url": "https://github.com/bdaehlie/web_image_formats/tree/master/images/tecnick/p24.ppm",
+ "ext": "png",
+ "from": "hdcompare",
+ "created": 1459081601,
+ "name": "p24",
+ "converted": {
+  "from": "f8a044a673f9351fb081390272f4b410849a59a1",
+  "op": "ppm to png"
+ }
+}

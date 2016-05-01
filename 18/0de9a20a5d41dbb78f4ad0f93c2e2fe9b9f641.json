@@ -1,0 +1,13 @@
+{
+ "sha1": "180de9a20a5d41dbb78f4ad0f93c2e2fe9b9f641",
+ "lic": "cc-by-nc-4.0",
+ "url": "https://github.com/bdaehlie/web_image_formats/tree/master/images/richard/ppm/P9030485.ppm",
+ "ext": "png",
+ "from": "richard",
+ "created": 1459083120,
+ "name": "P9030485",
+ "converted": {
+  "from": "8ba86b1bc6b48f304b5d5a65955c6f6d87c49852",
+  "op": "ppm to png"
+ }
+}

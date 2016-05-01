@@ -1,0 +1,14 @@
+{
+ "sha1": "807ece408b6e46a21f337d93ecd7c581b91e0cec",
+ "lic": "icinfo",
+ "ext": "png",
+ "from": "icinfo",
+ "name": "bridge",
+ "desc": {
+  "text": "These images are (c) there respective owners. You are granted full redistribution and publication rights on these images provided:\n\n1. The origin of the pictures must not be misrepresented; you must not claim that you took the original pictures. If you use, publish or redistribute them, an acknowledgment would be appreciated but is not required.\n2. Altered versions must be plainly marked as such, and must not be misinterpreted as being the originals.\n3. No payment is required for distribution of this material, it must be available freely under the conditions stated here. That is, it is prohibited to sell the material.\n4. This notice may not be removed or altered from any distribution."
+ },
+ "converted": {
+  "from": "9d550a90829b3aa4378b29df330c41ad865734fd",
+  "op": "ppm to png"
+ }
+}
