@@ -110,6 +110,13 @@
                 "text": "Wide-gamut (DCI-P3 with a gamma of 2.6) test images by Astramael",
                 "url": "http://astramael.com"
             }
+        },
+        "crystalclear": {
+            "title": "Crystal Clear icon set",
+            "desc": {
+                "text": "Icons from the Crystal Clear icon set by Everaldo Coelho",
+                "url": "https://commons.wikimedia.org/wiki/Crystal_Clear"
+            }
         }
     }
 }

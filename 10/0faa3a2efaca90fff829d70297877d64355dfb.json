@@ -1,0 +1,11 @@
+{
+ "sha1": "100faa3a2efaca90fff829d70297877d64355dfb",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "db remove",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

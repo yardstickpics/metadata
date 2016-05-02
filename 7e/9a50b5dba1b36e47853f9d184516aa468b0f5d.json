@@ -1,0 +1,11 @@
+{
+ "sha1": "7e9a50b5dba1b36e47853f9d184516aa468b0f5d",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "printer2",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

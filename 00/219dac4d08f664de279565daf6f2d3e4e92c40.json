@@ -1,0 +1,11 @@
+{
+ "sha1": "00219dac4d08f664de279565daf6f2d3e4e92c40",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kded",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

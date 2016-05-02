@@ -1,0 +1,11 @@
+{
+ "sha1": "258b6df98bcd2bc3d476b18dddbbbc5b52930717",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "agt add-to-autorun",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "289d309fa55f1d18d4bd47924625b1ea0c714173",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "jabber protocol",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

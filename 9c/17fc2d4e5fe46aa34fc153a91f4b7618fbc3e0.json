@@ -1,0 +1,11 @@
+{
+ "sha1": "9c17fc2d4e5fe46aa34fc153a91f4b7618fbc3e0",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kreversi",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

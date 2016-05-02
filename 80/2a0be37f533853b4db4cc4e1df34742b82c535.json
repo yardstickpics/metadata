@@ -1,0 +1,11 @@
+{
+ "sha1": "802a0be37f533853b4db4cc4e1df34742b82c535",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "mail forward",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

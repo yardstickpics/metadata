@@ -1,0 +1,11 @@
+{
+ "sha1": "a5ec8b120afecbc9d1942aa20920526b866f3d7f",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "wine",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

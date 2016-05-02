@@ -1,0 +1,11 @@
+{
+ "sha1": "abaa238fdd04f9ad23c3fc7b80c3156bad2bbf7c",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "hwinfo",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

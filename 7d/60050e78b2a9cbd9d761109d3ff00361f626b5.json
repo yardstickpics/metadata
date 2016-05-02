@@ -1,0 +1,11 @@
+{
+ "sha1": "7d60050e78b2a9cbd9d761109d3ff00361f626b5",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "antivirus",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

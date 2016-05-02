@@ -1,0 +1,11 @@
+{
+ "sha1": "264e2c3c5cecd9204597968ff0d5c984b3a020d6",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "mount overlay",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

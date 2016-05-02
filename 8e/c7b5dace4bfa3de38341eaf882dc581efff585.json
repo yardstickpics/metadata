@@ -1,0 +1,11 @@
+{
+ "sha1": "8ec7b5dace4bfa3de38341eaf882dc581efff585",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "network local",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

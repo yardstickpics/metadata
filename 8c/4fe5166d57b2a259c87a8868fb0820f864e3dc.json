@@ -1,0 +1,11 @@
+{
+ "sha1": "8c4fe5166d57b2a259c87a8868fb0820f864e3dc",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "remote",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

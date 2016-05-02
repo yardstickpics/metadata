@@ -1,0 +1,11 @@
+{
+ "sha1": "649857e174a76237759f8170e0feabe3c7cf8647",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "folder sound",
+ "tags": [
+  "icon",
+  "filesystem"
+ ]
+}

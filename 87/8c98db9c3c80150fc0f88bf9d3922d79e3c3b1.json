@@ -1,0 +1,11 @@
+{
+ "sha1": "878c98db9c3c80150fc0f88bf9d3922d79e3c3b1",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "gvim",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

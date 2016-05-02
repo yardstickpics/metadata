@@ -1,0 +1,11 @@
+{
+ "sha1": "5ed0d7c2be2e77d34a5ce53f92a9c36aac0d1cf4",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "gnome apps",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

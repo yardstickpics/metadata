@@ -1,0 +1,11 @@
+{
+ "sha1": "c63215411609d7113956dbca52cb1ec1a65729c6",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kdebluetooth",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

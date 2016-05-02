@@ -1,0 +1,11 @@
+{
+ "sha1": "6d412ae2be84aa5657a409495fb7043bfe2419f3",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "agt add-to-desktop",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

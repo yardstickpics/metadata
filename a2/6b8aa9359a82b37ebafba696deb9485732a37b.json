@@ -1,0 +1,11 @@
+{
+ "sha1": "a26b8aa9359a82b37ebafba696deb9485732a37b",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "mime colorset",
+ "tags": [
+  "icon",
+  "mimetype"
+ ]
+}

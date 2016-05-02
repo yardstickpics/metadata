@@ -1,0 +1,11 @@
+{
+ "sha1": "7891a683734fa2bbf0e07af9017214275181343d",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "smartmedia mount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

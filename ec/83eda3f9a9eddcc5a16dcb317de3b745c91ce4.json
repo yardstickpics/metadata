@@ -1,0 +1,11 @@
+{
+ "sha1": "ec83eda3f9a9eddcc5a16dcb317de3b745c91ce4",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kcmsystem",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

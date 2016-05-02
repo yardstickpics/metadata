@@ -1,0 +1,11 @@
+{
+ "sha1": "6efd6a36a9d57e30e25e5c336f37d5084206bc55",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kdmconfig",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

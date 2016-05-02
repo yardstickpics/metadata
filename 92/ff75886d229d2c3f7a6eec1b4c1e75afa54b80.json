@@ -1,0 +1,11 @@
+{
+ "sha1": "92ff75886d229d2c3f7a6eec1b4c1e75afa54b80",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "cdaudio mount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

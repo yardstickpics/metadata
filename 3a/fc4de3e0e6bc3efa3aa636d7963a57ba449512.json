@@ -1,0 +1,11 @@
+{
+ "sha1": "3afc4de3e0e6bc3efa3aa636d7963a57ba449512",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "shutdown",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

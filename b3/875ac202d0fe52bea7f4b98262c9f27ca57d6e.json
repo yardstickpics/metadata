@@ -1,0 +1,11 @@
+{
+ "sha1": "b3875ac202d0fe52bea7f4b98262c9f27ca57d6e",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "xconsole",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "f248b739fe8bf933309f0fd18170ff2acadf0a35",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "irc protocol",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

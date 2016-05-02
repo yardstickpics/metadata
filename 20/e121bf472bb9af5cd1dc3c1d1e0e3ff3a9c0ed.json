@@ -1,0 +1,11 @@
+{
+ "sha1": "20e121bf472bb9af5cd1dc3c1d1e0e3ff3a9c0ed",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "restart",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

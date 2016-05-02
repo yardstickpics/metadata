@@ -1,0 +1,11 @@
+{
+ "sha1": "80feae07201f0847ac85e86029f1dbf8cb2bae79",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "xclock",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

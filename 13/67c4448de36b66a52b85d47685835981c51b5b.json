@@ -1,0 +1,11 @@
+{
+ "sha1": "1367c4448de36b66a52b85d47685835981c51b5b",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "knotify",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

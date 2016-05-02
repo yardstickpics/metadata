@@ -1,0 +1,11 @@
+{
+ "sha1": "5603eb645d904572e1aa8b050b7b0b3a21ec0609",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "agt uninstall product",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

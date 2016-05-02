@@ -1,0 +1,11 @@
+{
+ "sha1": "960c4c06f62ecf4b298fd870f20c03962fda443d",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kblackbox",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "bff4379bca64e3bfc8f4f8068154e145bbcb312d",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kcmmidi",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

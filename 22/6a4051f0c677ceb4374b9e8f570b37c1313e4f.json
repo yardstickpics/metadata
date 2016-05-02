@@ -1,0 +1,11 @@
+{
+ "sha1": "226a4051f0c677ceb4374b9e8f570b37c1313e4f",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "services",
+ "tags": [
+  "icon",
+  "filesystem"
+ ]
+}

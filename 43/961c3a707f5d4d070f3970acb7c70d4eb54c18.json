@@ -1,0 +1,11 @@
+{
+ "sha1": "43961c3a707f5d4d070f3970acb7c70d4eb54c18",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "scanner",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "c23f617848d436f83fa7d20fd7aaf6e7e43df16d",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "agt update-product",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "67ae6399c74035959b1042104bc0f6b9f1f8c7ad",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "voice support",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

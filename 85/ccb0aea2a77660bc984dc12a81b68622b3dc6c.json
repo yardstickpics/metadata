@@ -1,0 +1,11 @@
+{
+ "sha1": "85ccb0aea2a77660bc984dc12a81b68622b3dc6c",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "about kde",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

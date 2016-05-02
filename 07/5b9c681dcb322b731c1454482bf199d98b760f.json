@@ -1,0 +1,11 @@
+{
+ "sha1": "075b9c681dcb322b731c1454482bf199d98b760f",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "toggle log",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

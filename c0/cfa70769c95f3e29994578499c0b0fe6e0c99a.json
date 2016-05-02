@@ -1,0 +1,11 @@
+{
+ "sha1": "c0cfa70769c95f3e29994578499c0b0fe6e0c99a",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "displayconfig",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

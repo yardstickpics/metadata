@@ -1,0 +1,11 @@
+{
+ "sha1": "731b4d95a63b2950ef4de3988face55be187bf80",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kcalc",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

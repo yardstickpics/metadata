@@ -1,0 +1,11 @@
+{
+ "sha1": "42a493a6116070dbd8d68e0269f56fa6cc461d97",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "ksnapshot",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

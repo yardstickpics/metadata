@@ -1,0 +1,11 @@
+{
+ "sha1": "c19e5ee68f8b085ad7c171548e031441be0254b9",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "zip mount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

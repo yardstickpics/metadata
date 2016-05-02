@@ -1,0 +1,11 @@
+{
+ "sha1": "c80eba63bee072a20f67b89ee588667ac614d33f",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "hdd unmount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

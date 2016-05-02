@@ -1,0 +1,11 @@
+{
+ "sha1": "600c5769874df7dc3026f1654def103488a0847c",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "modem",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

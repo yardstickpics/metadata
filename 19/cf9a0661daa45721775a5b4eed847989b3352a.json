@@ -1,0 +1,11 @@
+{
+ "sha1": "19cf9a0661daa45721775a5b4eed847989b3352a",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "agt update drivers",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

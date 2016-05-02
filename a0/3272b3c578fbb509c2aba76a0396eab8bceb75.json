@@ -1,0 +1,11 @@
+{
+ "sha1": "a03272b3c578fbb509c2aba76a0396eab8bceb75",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "Login Manager",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "634c0da73f42e377760bc76bbf079a48e8428acf",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kfilereplace",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

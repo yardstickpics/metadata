@@ -1,0 +1,11 @@
+{
+ "sha1": "615ca8def8cb1a28e0c2fe5df4cf3ac4f942adcd",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "fileimport",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

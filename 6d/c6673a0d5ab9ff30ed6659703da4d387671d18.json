@@ -1,0 +1,11 @@
+{
+ "sha1": "6dc6673a0d5ab9ff30ed6659703da4d387671d18",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kstars",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

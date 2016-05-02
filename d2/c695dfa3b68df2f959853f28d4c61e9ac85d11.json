@@ -1,0 +1,11 @@
+{
+ "sha1": "d2c695dfa3b68df2f959853f28d4c61e9ac85d11",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "ftp",
+ "tags": [
+  "icon",
+  "filesystem"
+ ]
+}

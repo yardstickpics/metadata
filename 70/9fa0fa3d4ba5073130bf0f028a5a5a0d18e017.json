@@ -1,0 +1,11 @@
+{
+ "sha1": "709fa0fa3d4ba5073130bf0f028a5a5a0d18e017",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "cdwriter unmount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

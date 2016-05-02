@@ -1,0 +1,11 @@
+{
+ "sha1": "dadf73da2d314cc648cb09e81336c31e1b06f756",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "blockdevice",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

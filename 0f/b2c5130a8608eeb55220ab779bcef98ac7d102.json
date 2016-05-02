@@ -1,0 +1,11 @@
+{
+ "sha1": "0fb2c5130a8608eeb55220ab779bcef98ac7d102",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "exec wine",
+ "tags": [
+  "icon",
+  "mimetype"
+ ]
+}

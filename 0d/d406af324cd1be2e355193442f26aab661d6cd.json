@@ -1,0 +1,11 @@
+{
+ "sha1": "0dd406af324cd1be2e355193442f26aab661d6cd",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "wifi",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

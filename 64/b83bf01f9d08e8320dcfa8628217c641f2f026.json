@@ -1,0 +1,11 @@
+{
+ "sha1": "64b83bf01f9d08e8320dcfa8628217c641f2f026",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "firewall",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

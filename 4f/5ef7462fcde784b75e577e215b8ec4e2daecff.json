@@ -1,0 +1,11 @@
+{
+ "sha1": "4f5ef7462fcde784b75e577e215b8ec4e2daecff",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "knetconfig",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

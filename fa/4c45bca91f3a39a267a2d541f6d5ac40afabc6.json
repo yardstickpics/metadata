@@ -1,0 +1,11 @@
+{
+ "sha1": "fa4c45bca91f3a39a267a2d541f6d5ac40afabc6",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "cdrom unmount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

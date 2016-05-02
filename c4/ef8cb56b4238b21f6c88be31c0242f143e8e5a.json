@@ -1,0 +1,11 @@
+{
+ "sha1": "c4ef8cb56b4238b21f6c88be31c0242f143e8e5a",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "agent",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "0487e6408e14c256bd9df814804dfab7a7e63a8c",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "joystick",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

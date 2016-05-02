@@ -1,0 +1,11 @@
+{
+ "sha1": "75aef0d17ba2a1da721586fd1940311bf60f3deb",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "sharemanager",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

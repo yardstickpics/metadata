@@ -1,0 +1,11 @@
+{
+ "sha1": "7ed6c211d3594174bacd13e5849dbfd25f91c628",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "cdaudio unmount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

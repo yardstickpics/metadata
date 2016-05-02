@@ -1,0 +1,11 @@
+{
+ "sha1": "e004a12c4bfc089493216e96370faa7ca5e1913d",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "package games",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

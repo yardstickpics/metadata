@@ -1,0 +1,11 @@
+{
+ "sha1": "9428920fa4fd95e39a7003a120b06384d3bd28e6",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "outbox",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

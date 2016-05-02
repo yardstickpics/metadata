@@ -1,0 +1,11 @@
+{
+ "sha1": "70d063abadef87661f6ae51e41621f0f2a492afd",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "chardevice",
+ "tags": [
+  "icon",
+  "filesystem"
+ ]
+}

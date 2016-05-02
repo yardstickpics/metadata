@@ -1,0 +1,11 @@
+{
+ "sha1": "2bc46c29a6de1d46193717d5a88eabdaa57e65d6",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "camera",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

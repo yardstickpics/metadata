@@ -1,0 +1,11 @@
+{
+ "sha1": "27b2dd8e7857031627747e675105f0e8d00d8d4b",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "3floppy mount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

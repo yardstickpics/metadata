@@ -1,0 +1,11 @@
+{
+ "sha1": "e6626316560a46af302d16a9a17b291a7b9c8d9c",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "systemtray",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

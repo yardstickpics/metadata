@@ -1,0 +1,11 @@
+{
+ "sha1": "e9e4761bc6ff47dcb5c36e3b4b017fe29bddb6c4",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "package games arcade",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

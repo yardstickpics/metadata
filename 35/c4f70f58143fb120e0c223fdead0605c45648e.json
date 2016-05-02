@@ -1,0 +1,11 @@
+{
+ "sha1": "35c4f70f58143fb120e0c223fdead0605c45648e",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "ksysguard",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

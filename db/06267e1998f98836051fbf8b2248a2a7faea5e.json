@@ -1,0 +1,11 @@
+{
+ "sha1": "db06267e1998f98836051fbf8b2248a2a7faea5e",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "autostart",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

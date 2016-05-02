@@ -1,0 +1,11 @@
+{
+ "sha1": "e92f2c0bebc487716aaa2f4a4fec7c4a7227e406",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "player pause",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

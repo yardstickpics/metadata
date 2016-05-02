@@ -1,0 +1,11 @@
+{
+ "sha1": "1e06e5e35add5654f09a08329a7c1f0884df9e92",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "folder tar",
+ "tags": [
+  "icon",
+  "filesystem"
+ ]
+}

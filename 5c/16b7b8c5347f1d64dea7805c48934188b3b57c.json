@@ -1,0 +1,11 @@
+{
+ "sha1": "5c16b7b8c5347f1d64dea7805c48934188b3b57c",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "hdd mount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

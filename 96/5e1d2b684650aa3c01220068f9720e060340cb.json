@@ -1,0 +1,11 @@
+{
+ "sha1": "965e1d2b684650aa3c01220068f9720e060340cb",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "messagebox info",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

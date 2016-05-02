@@ -1,0 +1,11 @@
+{
+ "sha1": "2921c617056a67520e7b4011f11b8e0167e4b838",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kbackgammon engine",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

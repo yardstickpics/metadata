@@ -1,0 +1,11 @@
+{
+ "sha1": "704aebe1e5b51c4a447fe4c9126ac14913cadd22",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "cdrom mount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

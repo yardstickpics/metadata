@@ -1,0 +1,11 @@
+{
+ "sha1": "8f7a814237c0a2285ea33b2103744813eab6ce71",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "db update",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

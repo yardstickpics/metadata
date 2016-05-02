@@ -1,0 +1,11 @@
+{
+ "sha1": "5092b6e695c404f21b3ad407beada54bb7d37db7",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "smartmedia unmount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

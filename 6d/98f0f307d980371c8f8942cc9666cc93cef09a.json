@@ -1,0 +1,11 @@
+{
+ "sha1": "6d98f0f307d980371c8f8942cc9666cc93cef09a",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kwallet",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

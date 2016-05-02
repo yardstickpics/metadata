@@ -1,0 +1,11 @@
+{
+ "sha1": "8af068bc7069da306f2012b4e8090cab80119136",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kcmsound",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "71a16c919ea5e0340ef17490217088ab635b7fbe",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "help",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

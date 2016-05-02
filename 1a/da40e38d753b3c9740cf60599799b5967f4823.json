@@ -1,0 +1,11 @@
+{
+ "sha1": "1ada40e38d753b3c9740cf60599799b5967f4823",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "window fullscreen",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

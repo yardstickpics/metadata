@@ -1,0 +1,11 @@
+{
+ "sha1": "dd4729ba96fbdc11fceee3a26cbb54136f3c6aa3",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "playsound",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "c4fba3e19ebbdff495723f17b8a2508b07e1dccd",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "Service Manager",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

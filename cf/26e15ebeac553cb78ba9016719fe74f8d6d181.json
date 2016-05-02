@@ -1,0 +1,11 @@
+{
+ "sha1": "cf26e15ebeac553cb78ba9016719fe74f8d6d181",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "dvd unmount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

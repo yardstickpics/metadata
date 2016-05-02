@@ -1,0 +1,11 @@
+{
+ "sha1": "7311d9120a1ecb57aa345d37af2f7528ab72a315",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "player stop",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

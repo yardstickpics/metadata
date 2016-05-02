@@ -1,0 +1,11 @@
+{
+ "sha1": "4428e15d304aef1927fa7698d58f18160ed83416",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "camera unmount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

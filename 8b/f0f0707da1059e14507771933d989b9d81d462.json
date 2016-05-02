@@ -1,0 +1,11 @@
+{
+ "sha1": "8bf0f0707da1059e14507771933d989b9d81d462",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "package favorite",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

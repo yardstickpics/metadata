@@ -1,0 +1,11 @@
+{
+ "sha1": "228dc19d9f41d4e935e16b92771d692fc5d36c52",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "firefox",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

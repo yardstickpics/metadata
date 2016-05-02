@@ -1,0 +1,11 @@
+{
+ "sha1": "c75941d0406cdff94b209c7222ed73ade9db1410",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "printmgr",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

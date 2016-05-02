@@ -1,0 +1,11 @@
+{
+ "sha1": "481bf40f506c15e12c72b9cdb72c2354ad831064",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "cnruninstall",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

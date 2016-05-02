@@ -1,0 +1,11 @@
+{
+ "sha1": "e611cd06c05831b6c5c3cf64de894be8ba227a9f",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "nfs mount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

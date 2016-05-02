@@ -1,0 +1,11 @@
+{
+ "sha1": "658062b73a1d79d43ae92d529298239a03240f14",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "klipper dock",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

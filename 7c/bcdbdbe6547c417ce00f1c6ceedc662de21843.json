@@ -1,0 +1,11 @@
+{
+ "sha1": "7cbcdbdbe6547c417ce00f1c6ceedc662de21843",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kcmdevices",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

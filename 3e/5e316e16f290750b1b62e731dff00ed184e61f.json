@@ -1,0 +1,11 @@
+{
+ "sha1": "3e5e316e16f290750b1b62e731dff00ed184e61f",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "smserver",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

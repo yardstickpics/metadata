@@ -1,0 +1,11 @@
+{
+ "sha1": "0df4afabd6c9c1fee1032578c6bfee3636b295bd",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "alert",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

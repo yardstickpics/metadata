@@ -1,0 +1,11 @@
+{
+ "sha1": "2e42627db0ed6f1d59d650ed4bf09407d7ec34a7",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "download manager",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

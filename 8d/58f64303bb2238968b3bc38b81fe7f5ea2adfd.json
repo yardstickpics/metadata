@@ -1,0 +1,11 @@
+{
+ "sha1": "8d58f64303bb2238968b3bc38b81fe7f5ea2adfd",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "package multimedia",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

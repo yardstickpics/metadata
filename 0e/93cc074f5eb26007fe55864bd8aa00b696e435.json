@@ -1,0 +1,11 @@
+{
+ "sha1": "0e93cc074f5eb26007fe55864bd8aa00b696e435",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "bookmark add",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

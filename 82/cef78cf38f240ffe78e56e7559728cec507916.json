@@ -1,0 +1,11 @@
+{
+ "sha1": "82cef78cf38f240ffe78e56e7559728cec507916",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "krfb",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

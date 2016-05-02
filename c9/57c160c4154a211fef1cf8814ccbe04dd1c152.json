@@ -1,0 +1,11 @@
+{
+ "sha1": "c957c160c4154a211fef1cf8814ccbe04dd1c152",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "lockoverlay",
+ "tags": [
+  "icon",
+  "filesystem"
+ ]
+}

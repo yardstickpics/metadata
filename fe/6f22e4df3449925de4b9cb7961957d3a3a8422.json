@@ -1,0 +1,11 @@
+{
+ "sha1": "fe6f22e4df3449925de4b9cb7961957d3a3a8422",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "pda",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

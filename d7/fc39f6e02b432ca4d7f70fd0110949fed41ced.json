@@ -1,0 +1,11 @@
+{
+ "sha1": "d7fc39f6e02b432ca4d7f70fd0110949fed41ced",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kwalletmanager",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

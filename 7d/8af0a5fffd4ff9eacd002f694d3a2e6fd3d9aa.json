@@ -1,0 +1,11 @@
+{
+ "sha1": "7d8af0a5fffd4ff9eacd002f694d3a2e6fd3d9aa",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "cdwriter mount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "e1fc0a1a489be069851349ee823e619a4cf2654f",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "chardevice",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

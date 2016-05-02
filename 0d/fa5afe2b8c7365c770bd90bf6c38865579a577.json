@@ -1,0 +1,11 @@
+{
+ "sha1": "0dfa5afe2b8c7365c770bd90bf6c38865579a577",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "messagebox critical",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

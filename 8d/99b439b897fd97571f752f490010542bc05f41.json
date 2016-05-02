@@ -1,0 +1,11 @@
+{
+ "sha1": "8d99b439b897fd97571f752f490010542bc05f41",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "pppoeconfig",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

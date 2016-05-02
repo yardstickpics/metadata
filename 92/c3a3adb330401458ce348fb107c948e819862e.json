@@ -1,0 +1,11 @@
+{
+ "sha1": "92c3a3adb330401458ce348fb107c948e819862e",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "editcopy",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

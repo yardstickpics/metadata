@@ -1,0 +1,11 @@
+{
+ "sha1": "b94534503e2a5ed601e9036e3320cdd44a901263",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "unmount overlay",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

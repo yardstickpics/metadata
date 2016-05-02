@@ -1,0 +1,11 @@
+{
+ "sha1": "813300d47b7038f8bac41063ff95e04ffdf5aa0e",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "calc",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "43599c2e435b6c1cd6f5256f115495ba0fbe5d3c",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "usbpendrive unmount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

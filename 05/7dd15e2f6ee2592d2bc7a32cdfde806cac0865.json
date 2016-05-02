@@ -1,0 +1,11 @@
+{
+ "sha1": "057dd15e2f6ee2592d2bc7a32cdfde806cac0865",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "dvd mount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

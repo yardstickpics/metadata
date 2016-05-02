@@ -1,0 +1,11 @@
+{
+ "sha1": "4b3df799333e1311a94620c7f8948af0ddc0d41a",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "usbpendrive mount",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

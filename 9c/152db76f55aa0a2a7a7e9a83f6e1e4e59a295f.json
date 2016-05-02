@@ -1,0 +1,11 @@
+{
+ "sha1": "9c152db76f55aa0a2a7a7e9a83f6e1e4e59a295f",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kcontrol",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "352bf068ea18567df3cc3a4ed6d90fcb0256a1c0",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "sms protocol",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

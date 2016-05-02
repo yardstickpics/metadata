@@ -1,0 +1,11 @@
+{
+ "sha1": "2dcdc06f86e634687fc0118c06ed76a3316ead9d",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "setup assistant",
+ "tags": [
+  "icon",
+  "device"
+ ]
+}

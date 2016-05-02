@@ -1,0 +1,11 @@
+{
+ "sha1": "9fb8c155c7ca17d55ce98a4c2bba32e72cad70ce",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "gpgsm",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "e93980e709b1df1df63f45797f89a4b0a68f192f",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "agt pause-queue",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

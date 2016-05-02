@@ -1,0 +1,11 @@
+{
+ "sha1": "8b672781624d9165e529ca3d87d6c7f030aa7046",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "cnrclient",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

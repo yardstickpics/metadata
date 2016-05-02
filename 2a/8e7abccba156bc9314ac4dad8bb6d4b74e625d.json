@@ -1,0 +1,11 @@
+{
+ "sha1": "2a8e7abccba156bc9314ac4dad8bb6d4b74e625d",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "folder music",
+ "tags": [
+  "icon",
+  "filesystem"
+ ]
+}

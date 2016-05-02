@@ -1,0 +1,11 @@
+{
+ "sha1": "a351a42749b417b210709e5a754d56b77aa7ff0e",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "folder print",
+ "tags": [
+  "icon",
+  "filesystem"
+ ]
+}

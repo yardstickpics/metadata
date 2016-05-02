@@ -1,0 +1,11 @@
+{
+ "sha1": "fef03af0719d3b4b8857f9ccc6336ca1d36fdd88",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "mime koffice",
+ "tags": [
+  "icon",
+  "mimetype"
+ ]
+}

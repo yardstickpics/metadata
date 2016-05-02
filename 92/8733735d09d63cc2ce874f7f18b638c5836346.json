@@ -1,0 +1,11 @@
+{
+ "sha1": "928733735d09d63cc2ce874f7f18b638c5836346",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "socket",
+ "tags": [
+  "icon",
+  "filesystem"
+ ]
+}

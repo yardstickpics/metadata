@@ -1,0 +1,11 @@
+{
+ "sha1": "2dce6684c9642402daf9ee055893f4dc0f5ad072",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "player volume",
+ "tags": [
+  "icon",
+  "action"
+ ]
+}

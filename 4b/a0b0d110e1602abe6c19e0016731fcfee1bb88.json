@@ -1,0 +1,11 @@
+{
+ "sha1": "4ba0b0d110e1602abe6c19e0016731fcfee1bb88",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "package games board",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "sha1": "f7d2f8f772745383cd6deceb78a8aa1aeb18f98f",
+ "lic": "lgpl",
+ "ext": "png",
+ "from": "crystalclear",
+ "name": "kcmpartitions",
+ "tags": [
+  "icon",
+  "app"
+ ]
+}
