@@ -1,0 +1,13 @@
+{
+ "sha1": "5a4d593b40c835ba040de66729b427f393e31a35",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "floppy",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

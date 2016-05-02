@@ -1,0 +1,13 @@
+{
+ "sha1": "f5210ce27a6e8d442dc20310b1d93d96e867e817",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "webcam",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

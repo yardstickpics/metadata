@@ -1,0 +1,13 @@
+{
+ "sha1": "940e9903370632d56509822d2b4b9efa3b53f735",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "keyring",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

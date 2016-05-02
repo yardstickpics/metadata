@@ -1,0 +1,13 @@
+{
+ "sha1": "39cb6e4bc699fd6e036998a3ff9c684c14a79eab",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "headphone",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "90276b3dd5f40de148d8b8f3a032cfcf0359c6fa",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "calendar",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

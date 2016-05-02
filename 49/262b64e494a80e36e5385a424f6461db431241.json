@@ -1,0 +1,13 @@
+{
+ "sha1": "49262b64e494a80e36e5385a424f6461db431241",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "compass",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

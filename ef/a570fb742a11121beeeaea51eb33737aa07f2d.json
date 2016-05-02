@@ -1,0 +1,13 @@
+{
+ "sha1": "efa570fb742a11121beeeaea51eb33737aa07f2d",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "notepad",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

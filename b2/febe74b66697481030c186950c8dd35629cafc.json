@@ -1,0 +1,13 @@
+{
+ "sha1": "b2febe74b66697481030c186950c8dd35629cafc",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "wine",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

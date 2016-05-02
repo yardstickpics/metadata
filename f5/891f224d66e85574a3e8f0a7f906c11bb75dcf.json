@@ -1,0 +1,13 @@
+{
+ "sha1": "f5891f224d66e85574a3e8f0a7f906c11bb75dcf",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "microphone",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "3d86aef024b15c4b89ce03a673f71f915ab3d73e",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "wrench",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "6eadc7345e17afc9ea5e925da8991b7a5e15e131",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "bitcoin",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

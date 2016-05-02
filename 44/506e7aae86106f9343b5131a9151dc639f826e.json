@@ -1,0 +1,13 @@
+{
+ "sha1": "44506e7aae86106f9343b5131a9151dc639f826e",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "handshake",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "6aa34a066a24740980b4bef2c935260ebbd5854c",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "device drive",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

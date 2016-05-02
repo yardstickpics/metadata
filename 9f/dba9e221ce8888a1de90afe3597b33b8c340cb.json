@@ -1,0 +1,13 @@
+{
+ "sha1": "9fdba9e221ce8888a1de90afe3597b33b8c340cb",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "monitor",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

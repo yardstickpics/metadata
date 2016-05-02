@@ -1,0 +1,13 @@
+{
+ "sha1": "eacd2eb23e81c74b8d1590fe702b1ac06c4bc524",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "device laptop",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

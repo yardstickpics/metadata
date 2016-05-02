@@ -1,0 +1,13 @@
+{
+ "sha1": "935c8b46edf84c34b45a101aaf05a246dfdd3e7e",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "funnel",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

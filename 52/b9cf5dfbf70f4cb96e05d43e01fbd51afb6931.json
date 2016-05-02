@@ -1,0 +1,13 @@
+{
+ "sha1": "52b9cf5dfbf70f4cb96e05d43e01fbd51afb6931",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "building",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

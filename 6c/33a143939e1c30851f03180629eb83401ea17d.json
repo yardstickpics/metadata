@@ -1,0 +1,13 @@
+{
+ "sha1": "6c33a143939e1c30851f03180629eb83401ea17d",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "stamp",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

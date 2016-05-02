@@ -1,0 +1,13 @@
+{
+ "sha1": "7e5ecb1d21cb6e847fc98e26b20da17e28b31d01",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "paperclip",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "159ef99f3e050f5c91950a4ceed1fac805fc12fd",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "radio",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "fedea4ddc244e603ee77f498e7093ca88810c016",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "money",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

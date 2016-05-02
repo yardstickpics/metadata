@@ -1,0 +1,13 @@
+{
+ "sha1": "577d4228a21b2c211f10349816358dc19ee7c889",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "envelope",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "82bb8829c8ecdf6f4f5471850b30341ad8a9ab79",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "lightning",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

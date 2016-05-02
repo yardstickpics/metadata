@@ -1,0 +1,13 @@
+{
+ "sha1": "b9e16a09ce23ca303fa1c658fc83869f83561702",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "bubbles",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "9cc246eb8a58763b19f91e83ff34009422b6b97a",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "dashboard",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

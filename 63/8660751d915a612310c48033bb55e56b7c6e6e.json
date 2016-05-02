@@ -1,0 +1,13 @@
+{
+ "sha1": "638660751d915a612310c48033bb55e56b7c6e6e",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "device tv",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

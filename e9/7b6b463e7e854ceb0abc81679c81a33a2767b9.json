@@ -1,0 +1,13 @@
+{
+ "sha1": "e97b6b463e7e854ceb0abc81679c81a33a2767b9",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "disc vinyl",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

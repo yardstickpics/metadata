@@ -1,0 +1,13 @@
+{
+ "sha1": "a30c7d5e89471ffe06a3e39f8663368a1f681249",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "carton",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "8eee5793f3ed852205222fa22510d5f3176b6d8e",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "shield warning",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

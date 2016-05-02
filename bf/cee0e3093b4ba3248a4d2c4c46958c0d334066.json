@@ -1,0 +1,13 @@
+{
+ "sha1": "bfcee0e3093b4ba3248a4d2c4c46958c0d334066",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "file illustrator",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "4bdf7a6898eb8ee9709b22924d8cfad2474fd6c9",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "beer",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

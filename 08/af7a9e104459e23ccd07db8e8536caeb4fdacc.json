@@ -1,0 +1,13 @@
+{
+ "sha1": "08af7a9e104459e23ccd07db8e8536caeb4fdacc",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "calculator",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "sha1": "cf12d1841bd61dc0bb7604c3cebc87fccfa01d1d",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "light bulb",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

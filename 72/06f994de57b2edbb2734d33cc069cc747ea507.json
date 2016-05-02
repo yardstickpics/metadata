@@ -1,0 +1,13 @@
+{
+ "sha1": "7206f994de57b2edbb2734d33cc069cc747ea507",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "device camera",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

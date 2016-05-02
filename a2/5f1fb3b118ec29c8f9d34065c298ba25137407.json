@@ -1,0 +1,13 @@
+{
+ "sha1": "a25f1fb3b118ec29c8f9d34065c298ba25137407",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "news",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

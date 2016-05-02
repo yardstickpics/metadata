@@ -1,0 +1,13 @@
+{
+ "sha1": "d48526250fed33358c2de057cdf570ad533d90a8",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "cloud sync",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

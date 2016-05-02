@@ -1,0 +1,13 @@
+{
+ "sha1": "55c34aad289fb0974f5bec15cf9c3a675f84e4a3",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "file sound",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

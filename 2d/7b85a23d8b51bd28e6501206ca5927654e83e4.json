@@ -1,0 +1,13 @@
+{
+ "sha1": "2d7b85a23d8b51bd28e6501206ca5927654e83e4",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "file video",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

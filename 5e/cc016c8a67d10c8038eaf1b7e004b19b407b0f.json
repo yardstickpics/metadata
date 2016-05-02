@@ -1,0 +1,13 @@
+{
+ "sha1": "5ecc016c8a67d10c8038eaf1b7e004b19b407b0f",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "globe",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

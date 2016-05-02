@@ -1,0 +1,13 @@
+{
+ "sha1": "704057a4684b4ced5e3346ce5a8a4ed6c431abe6",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "clock",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

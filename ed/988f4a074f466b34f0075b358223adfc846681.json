@@ -1,0 +1,13 @@
+{
+ "sha1": "ed988f4a074f466b34f0075b358223adfc846681",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "magnify",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}

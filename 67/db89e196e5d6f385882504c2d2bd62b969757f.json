@@ -1,0 +1,13 @@
+{
+ "sha1": "67db89e196e5d6f385882504c2d2bd62b969757f",
+ "lic": "cc0",
+ "ext": "png",
+ "from": "paomedia",
+ "name": "address book",
+ "desc": {
+  "url": "https://github.com/paomedia/small-n-flat"
+ },
+ "tags": [
+  "icon"
+ ]
+}
