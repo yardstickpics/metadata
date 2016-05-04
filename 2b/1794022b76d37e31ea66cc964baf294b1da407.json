@@ -1,0 +1,14 @@
+{
+ "sha1": "2b1794022b76d37e31ea66cc964baf294b1da407",
+ "lic": "cc-by-4.0",
+ "ext": "svg",
+ "from": "iconarchive",
+ "name": "gnome sound recorder",
+ "desc": {
+  "text": "FlatWoken project is developed by Alessandro Roncone (aka alecive)",
+  "url": "https://github.com/alecive/FlatWoken"
+ },
+ "tags": [
+  "icon"
+ ]
+}

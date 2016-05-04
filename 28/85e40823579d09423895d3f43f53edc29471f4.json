@@ -1,0 +1,14 @@
+{
+ "sha1": "2885e40823579d09423895d3f43f53edc29471f4",
+ "lic": "cc-by-4.0",
+ "ext": "svg",
+ "from": "iconarchive",
+ "name": "gnome stock mic",
+ "desc": {
+  "text": "FlatWoken project is developed by Alessandro Roncone (aka alecive)",
+  "url": "https://github.com/alecive/FlatWoken"
+ },
+ "tags": [
+  "icon"
+ ]
+}

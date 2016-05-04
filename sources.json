@@ -111,6 +111,13 @@
                 "url": "http://astramael.com"
             }
         },
+        "iconarchive": {
+            "title": "IconArchive",
+            "desc": {
+                "text": "Selection of large-ish icons with transparency",
+                "url": "http://www.iconarchive.com"
+            }
+        },
         "crystalclear": {
             "title": "Crystal Clear icon set",
             "desc": {

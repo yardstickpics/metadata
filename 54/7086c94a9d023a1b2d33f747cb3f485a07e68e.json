@@ -1,0 +1,14 @@
+{
+ "sha1": "547086c94a9d023a1b2d33f747cb3f485a07e68e",
+ "lic": "cc-by-4.0",
+ "ext": "svg",
+ "from": "iconarchive",
+ "name": "applications viewers",
+ "desc": {
+  "text": "FlatWoken project is developed by Alessandro Roncone (aka alecive)",
+  "url": "https://github.com/alecive/FlatWoken"
+ },
+ "tags": [
+  "icon"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "sha1": "907f98c4ea6b81ba3f9806b7f05ce015dd643929",
+ "lic": "cc-by-4.0",
+ "ext": "svg",
+ "from": "iconarchive",
+ "name": "gnome subtitles",
+ "desc": {
+  "text": "FlatWoken project is developed by Alessandro Roncone (aka alecive)",
+  "url": "https://github.com/alecive/FlatWoken"
+ },
+ "tags": [
+  "icon"
+ ]
+}

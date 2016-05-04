@@ -1,0 +1,14 @@
+{
+ "sha1": "c7ac1fa90aa8556d2ab01d8bf3fb6685c60401f9",
+ "lic": "cc-by-4.0",
+ "ext": "svg",
+ "from": "iconarchive",
+ "name": "wine uninstaller",
+ "desc": {
+  "text": "FlatWoken project is developed by Alessandro Roncone (aka alecive)",
+  "url": "https://github.com/alecive/FlatWoken"
+ },
+ "tags": [
+  "icon"
+ ]
+}
