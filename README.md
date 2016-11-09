@@ -26,4 +26,9 @@ The JSON contains fields:
 
 ## Downloading image files
 
-[Yardstick.pictures website](https://yardstick.pictures/) provides bulk downloads. Please use the bulk downloads instead of hitting individual image URLs.
+There is [`download.js` script](https://github.com/yardstickpics/tools/blob/master/download.js) included in the [`yr` package](https://www.npmjs.com/package/yr) that will download all the images in an optimal way.
+
+```sh
+npm i yr
+node ./node_modules/yr/download.js
+```
