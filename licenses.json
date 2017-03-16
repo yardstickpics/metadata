@@ -21,5 +21,6 @@
     "icinfo": {"name":"imagecompression.info", "url":"http://imagecompression.info/test_images/"},
     "ucid": {"name":"UCID v2", "url":"http://homepages.lboro.ac.uk/~cogs/datasets/ucid/ucid.html"},
     "microsoft": {"name":"© Microsoft Corporation", "url":"https://github.com/jhcloos/test_images/blob/master/hdcompare/Microsoft_Reference_Photo_Library_README.pdf"},
-    "kodak": {"name":"Kodak Photo CD attribution", "url":"http://r0k.us/graphics/kodak/PhotoCD_credits.txt"}
+    "kodak": {"name":"Kodak Photo CD attribution", "url":"http://r0k.us/graphics/kodak/PhotoCD_credits.txt"},
+    "mcm": {"name":"McMaster", "url":"http://www4.comp.polyu.edu.hk/~cslzhang/CDM_Dataset.htm"}
 }
