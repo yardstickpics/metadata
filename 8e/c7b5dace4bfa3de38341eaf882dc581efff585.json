@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "network local",
  "tags": [
+  "img:alpha",
   "icon",
   "device"
  ]

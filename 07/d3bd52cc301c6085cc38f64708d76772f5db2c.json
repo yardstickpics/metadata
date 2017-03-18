@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "exit",
  "tags": [
+  "img:alpha",
   "icon",
   "action"
  ]

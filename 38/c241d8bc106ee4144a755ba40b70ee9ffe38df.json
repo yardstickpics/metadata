@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "playerGrey hit",
  "tags": [
+  "img:alpha",
   "game",
   "platformer",
   "flat"

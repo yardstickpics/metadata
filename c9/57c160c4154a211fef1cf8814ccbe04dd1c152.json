@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "lockoverlay",
  "tags": [
+  "img:alpha",
   "icon",
   "filesystem"
  ]

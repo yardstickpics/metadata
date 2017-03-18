@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "shutdown",
  "tags": [
+  "img:alpha",
   "icon",
   "action"
  ]

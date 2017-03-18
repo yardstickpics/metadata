@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "enemyWalking 2",
  "tags": [
+  "img:alpha",
   "game",
   "platformer",
   "flat"

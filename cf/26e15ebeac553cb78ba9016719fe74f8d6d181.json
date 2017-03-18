@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "dvd unmount",
  "tags": [
+  "img:alpha",
   "icon",
   "device"
  ]

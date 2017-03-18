@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "connect to network",
  "tags": [
+  "img:alpha",
   "icon",
   "filesystem"
  ]

@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "playerGreen switch2",
  "tags": [
+  "img:alpha",
   "game",
   "platformer",
   "flat"

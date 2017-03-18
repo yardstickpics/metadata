@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "logout",
  "tags": [
+  "img:alpha",
   "icon",
   "action"
  ]

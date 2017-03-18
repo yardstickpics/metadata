@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "tileBlue 01",
  "tags": [
+  "img:alpha",
   "game",
   "platformer",
   "flat"

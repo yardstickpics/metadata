@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "nfs mount",
  "tags": [
+  "img:alpha",
   "icon",
   "device"
  ]

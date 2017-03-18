@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "joystick",
  "tags": [
+  "img:alpha",
   "icon",
   "device"
  ]

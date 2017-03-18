@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "tileGreen 25",
  "tags": [
+  "img:alpha",
   "game",
   "platformer",
   "flat"

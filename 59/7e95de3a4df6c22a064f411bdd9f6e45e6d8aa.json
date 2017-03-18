@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "tile 127",
  "tags": [
+  "img:alpha",
   "game",
   "sprite"
  ]

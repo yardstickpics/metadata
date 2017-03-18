@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "window nofullscreen",
  "tags": [
+  "img:alpha",
   "icon",
   "action"
  ]

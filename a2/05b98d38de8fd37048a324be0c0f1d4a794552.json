@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "deb",
  "tags": [
+  "img:alpha",
   "icon",
   "mimetype"
  ]

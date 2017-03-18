@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "db status",
  "tags": [
+  "img:alpha",
   "icon",
   "action"
  ]

@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "messagebox critical",
  "tags": [
+  "img:alpha",
   "icon",
   "action"
  ]

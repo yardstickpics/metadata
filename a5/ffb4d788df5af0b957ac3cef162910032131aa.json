@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "playerRed walk3",
  "tags": [
+  "img:alpha",
   "game",
   "platformer",
   "flat"

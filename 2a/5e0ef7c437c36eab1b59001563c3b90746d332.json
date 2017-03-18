@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "set1 tiles",
  "tags": [
+  "img:alpha",
   "game",
   "platformer",
   "flat"

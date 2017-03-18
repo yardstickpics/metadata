@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "window fullscreen",
  "tags": [
+  "img:alpha",
   "icon",
   "action"
  ]

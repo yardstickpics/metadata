@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "playerGrey walk3",
  "tags": [
+  "img:alpha",
   "game",
   "platformer",
   "flat"

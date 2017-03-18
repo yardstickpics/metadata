@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "playerBlue duck",
  "tags": [
+  "img:alpha",
   "game",
   "platformer",
   "flat"

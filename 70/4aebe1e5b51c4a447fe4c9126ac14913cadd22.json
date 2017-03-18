@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "cdrom mount",
  "tags": [
+  "img:alpha",
   "icon",
   "device"
  ]

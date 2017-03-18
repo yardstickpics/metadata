@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "thumbnail",
  "tags": [
+  "img:alpha",
   "icon",
   "action"
  ]

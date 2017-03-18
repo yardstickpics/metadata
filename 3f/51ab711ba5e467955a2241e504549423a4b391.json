@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "www",
  "tags": [
+  "img:alpha",
   "icon",
   "filesystem"
  ]

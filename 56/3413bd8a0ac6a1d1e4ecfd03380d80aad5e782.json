@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "playerGreen roll",
  "tags": [
+  "img:alpha",
   "game",
   "platformer",
   "flat"

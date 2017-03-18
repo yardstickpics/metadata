@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "agt pause-queue",
  "tags": [
+  "img:alpha",
   "icon",
   "action"
  ]

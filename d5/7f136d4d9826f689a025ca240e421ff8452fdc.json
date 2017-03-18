@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "playerGrey up1",
  "tags": [
+  "img:alpha",
   "game",
   "platformer",
   "flat"

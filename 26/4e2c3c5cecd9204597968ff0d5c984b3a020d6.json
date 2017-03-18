@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "mount overlay",
  "tags": [
+  "img:alpha",
   "icon",
   "device"
  ]

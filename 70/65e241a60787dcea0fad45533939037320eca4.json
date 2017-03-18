@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "package graphics",
  "tags": [
+  "img:alpha",
   "icon",
   "app"
  ]

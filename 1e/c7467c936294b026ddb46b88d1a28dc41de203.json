@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "build",
  "tags": [
+  "img:alpha",
   "icon",
   "action"
  ]

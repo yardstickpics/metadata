@@ -5,6 +5,7 @@
  "from": "crystalclear",
  "name": "playsound",
  "tags": [
+  "img:alpha",
   "icon",
   "action"
  ]
