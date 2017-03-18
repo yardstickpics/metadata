@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "PixelsphereTiles",
  "tags": [
+  "img:alpha",
   "game"
  ]
 }

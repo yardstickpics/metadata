@@ -5,6 +5,7 @@
  "from": "opengameart",
  "name": "Button",
  "tags": [
+  "img:alpha",
   "game",
   "ui"
  ]
