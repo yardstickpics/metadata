@@ -131,6 +131,13 @@
                 "text": "The new color demosaicking (CDM) and color image processing dataset. L. Zhang, X. Wu, A. Buades, and X. Li, \"Color Demosaicking by Local Directional Interpolation and Non-local Adaptive Thresholding,\" Journal of Electronic Imaging 20(2), 023016 (Apr-Jun 2011), DOI:10.1117/1.3600632",
                 "url": "http://www4.comp.polyu.edu.hk/~cslzhang/CDM_Dataset.htm"
             }
+        },
+        "guetzli": {
+            "title": "Image corpus for evaluating Guetzli",
+            "desc": {
+                "text": "Jyrki Alakuijala, 2017.",
+                "url": "https://goo.gl/cmHIkl"
+            }
         }
     }
 }
