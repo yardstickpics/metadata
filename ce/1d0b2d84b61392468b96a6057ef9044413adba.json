@@ -9,5 +9,8 @@
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=12948103",
   "html": "<p>New and, IMHO, better version at <a href=\"//upload.wikimedia.org/wikipedia/en/0/0b/Cimiez-new.jpg\" class=\"internal\" title=\"Cimiez-new.jpg\">Media:Cimiez-new.jpg</a>.\n</p>\n<p><br>\nCimiez monastery in Nice, France.\n</p>\n<p>I <a href=\"//en.wikipedia.org/wiki/User:Ericd\" title=\"User:Ericd\">User:Ericd</a> took this picture myself with a Zenit 11 and an Industar-50 50mm f/3.5 lens on Fuji Superia Reala 100. \n</p>\n<p>Perspective was digitally corrected and the picture was tilted and cropped.\n</p>\n<p>The picture was scanned from film.\n</p>"
- }
+ },
+ "tags": [
+  "img:exif"
+ ]
 }

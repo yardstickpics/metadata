@@ -9,5 +9,8 @@
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=32753387",
   "html": "<p><i>A scanned copy of a punched card given to me by a hydrologist around fifteen years ago</i>.\n</p>"
- }
+ },
+ "tags": [
+  "img:exif"
+ ]
 }

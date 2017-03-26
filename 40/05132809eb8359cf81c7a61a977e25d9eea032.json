@@ -8,5 +8,8 @@
  "name": "X-plane artistic render",
  "desc": {
   "text": "https://commons.wikimedia.org/wiki/File:X-plane_artistic_render.jpg\r\n\r\nComposited Render image created by Iskánder Vigoa Pérez\r\nDate\t12 July 2012\r\nSource\tOwn work\r\nAuthor\tIskander HFC https://commons.wikimedia.org/wiki/User:Iskander_HFC"
- }
+ },
+ "tags": [
+  "img:exif"
+ ]
 }

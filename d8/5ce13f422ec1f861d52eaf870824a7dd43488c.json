@@ -7,5 +7,8 @@
  "name": "Singapore2",
  "desc": {
   "text": "Singapore Harbour"
- }
+ },
+ "tags": [
+  "img:exif"
+ ]
 }

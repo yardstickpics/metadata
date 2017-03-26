@@ -8,5 +8,8 @@
  "name": "Victrola VE9-40E Serial Number Plate",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=35416623"
- }
+ },
+ "tags": [
+  "img:exif"
+ ]
 }

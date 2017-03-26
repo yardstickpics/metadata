@@ -4,5 +4,8 @@
  "ext": "jpeg",
  "from": "uploads/submissions/1458572375546-377ef0e5ac75d7d01aa5a48b4548c4e1889ead9b.json",
  "created": 1458572376,
- "name": "singapore at night"
+ "name": "singapore at night",
+ "tags": [
+  "img:exif"
+ ]
 }

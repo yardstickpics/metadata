@@ -8,5 +8,8 @@
  "name": "Long meg signal box",
  "desc": {
   "url": "https://en.wikipedia.org/w/index.php?curid=8745127"
- }
+ },
+ "tags": [
+  "img:exif"
+ ]
 }
